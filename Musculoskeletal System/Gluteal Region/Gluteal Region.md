@@ -17,24 +17,21 @@
 - Proximal end of [[Femur]]
 
 ## Gluteal Muscles
-?
-![[Pasted image 20210826050043.png]]
-
 ### Superficial
-
-Adduct and extends hips
 ?
 - **[[Gluteus maximus]]**
 - **[[Gluteus medius]]**
 - **[[Gluteus minimus]]**
 - **[[Tensor fasciae latae]]**
+![[Pasted image 20210826050043.png]]
 
-Clinical correlation : **[[Tendelenburg sign]]**
+Common action :: Adduct and extends hips
+<!--SR:!2021-08-29,3,250-->
+Clinical correlation :: **[[Tendelenburg sign]]**
 
 ### Deep
-
-Laterally rotates the thigh
 ?
+Laterally rotates the thigh
 - **[[Piriformis]]**
 - **[[Gemellus superior]]**
 - **[[Gemellus inferior]]**
