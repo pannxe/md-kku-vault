@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "8d9a3a83fd32aa98",
+    "type": "split",
+    "children": [
+      {
+        "id": "89fb6ecaef7636a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31b1d6875ff7f02c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3244c816b98a463e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb5ec9a03aa9b12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f3084893a12e4ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "d4edf4cbf942e00a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9f9f7f17e02c190",
+        "type": "tabs",
+        "dimension": 36.62674650698603,
+        "children": [
+          {
+            "id": "7f1048bd4a0a73e3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "761d046a4216fff4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c8129ce66e8f2c0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c502908abd6881e4",
+        "type": "tabs",
+        "dimension": 63.37325349301397,
+        "children": [
+          {
+            "id": "1a7e3c83ff0cbdfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c0965a74e5a3422e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "active": "89fb6ecaef7636a5",
+  "lastOpenFiles": [
+    "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
+    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ilium.md",
+    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Pubis.md",
+    "Iliac crest.md",
+    "Musculoskeletal System/Gluteal Region/Clinical correlation/Tendelenburg sign.md",
+    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Acetabulum.md",
+    "Musculoskeletal System/Gluteal Region/Nerve/Superior gluteal nerve.md",
+    "Musculoskeletal System/Gluteal Region/Nerve/Inferior gluteal nerve.md",
+    "Musculoskeletal System/Gluteal Region/Muscle/Tensor fasciae latae.md",
+    "Musculoskeletal System/Gluteal Region/Muscle/Quadratus femoris.md"
+  ]
+}

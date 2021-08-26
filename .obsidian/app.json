@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "vimMode": false,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "./__media__",
+  "newFileLocation": "current",
+  "foldHeading": true,
+  "foldIndent": true,
+  "useTab": true,
+  "showFrontmatter": false
+}

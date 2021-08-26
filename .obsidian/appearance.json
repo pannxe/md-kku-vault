@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Reverie",
+  "translucency": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "font"
+  ],
+  "baseFontSizeAction": false
+}
