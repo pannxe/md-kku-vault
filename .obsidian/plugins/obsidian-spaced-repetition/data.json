@@ -27,7 +27,7 @@
     "baseEase": 250,
     "lapsesIntervalChange": 99,
     "easyBonus": 1.4,
-    "maximumInterval": 36525,
+    "maximumInterval": 180,
     "maxLinkFactor": 1,
     "logLevel": 1
   },
@@ -35,10 +35,10 @@
   "buryList": [],
   "cache": {
     "Musculoskeletal System/Gluteal Region/Gluteal Region.md": {
-      "totalCards": 1,
+      "totalCards": 8,
       "hasNewCards": true,
       "nextDueDate": "",
-      "lastUpdated": 1629987153970,
+      "lastUpdated": 1629988122124,
       "dueDatesFlashcards": {}
     },
     "README.md": {
