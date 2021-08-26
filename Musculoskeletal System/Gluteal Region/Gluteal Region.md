@@ -1,9 +1,9 @@
-# Gluteal Region
+# Gluteal Region 
+#flashcards 
 
 ## Boundaries
-
+?
 ![[Pasted image 20210826022914.png]]
-
 - Superior : [[Iliac crest]] (L4)
 - Medial : [[Intergluteal cleft]]
 - Lateral : [[Greater trochanter]]

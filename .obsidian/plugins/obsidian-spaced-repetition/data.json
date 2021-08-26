@@ -33,5 +33,13 @@
   },
   "buryDate": "2021-08-26",
   "buryList": [],
-  "cache": {}
+  "cache": {
+    "Musculoskeletal System/Gluteal Region/Gluteal Region.md": {
+      "totalCards": 1,
+      "hasNewCards": true,
+      "nextDueDate": "",
+      "lastUpdated": 1629987153970,
+      "dueDatesFlashcards": {}
+    }
+  }
 }
