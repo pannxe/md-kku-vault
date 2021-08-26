@@ -25,7 +25,7 @@
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "baseEase": 250,
-    "lapsesIntervalChange": 20,
+    "lapsesIntervalChange": 99,
     "easyBonus": 1.4,
     "maximumInterval": 36525,
     "maxLinkFactor": 1,
