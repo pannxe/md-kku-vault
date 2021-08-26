@@ -2,9 +2,10 @@
 
 ![[Pasted image 20210826005618.png]]
 
-Ilium is a **fan shaped** (wing; ala) on the upper part, and is associated on the abdomen; the lower part is associated with the **[[Thigh]]**
+Ilium is **fan shaped** (wing; ala) on the upper part, and is associated on the **abdomen**; the lower part is associated with the **[[Thigh]]**
 
-Ilium is articulated with [[Sacrum]] 
+Ilium is articulated with ==[[Sacrum]]==
+
 It is located superior to [[Ischium]] and [[Pubis]]
 
 Consists of these :

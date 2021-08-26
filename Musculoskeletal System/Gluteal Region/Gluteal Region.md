@@ -15,6 +15,7 @@
 - [[Sacrum]]
 - [[Coccyx]]
 - Proximal end of [[Femur]]
+<!--SR:!2021-08-29,3,250-->
 
 ## Gluteal Muscles
 ### Superficial
@@ -25,9 +26,9 @@
 - **[[Tensor fasciae latae]]**
 ![[Pasted image 20210826050043.png]]
 
-Common action :: Adduct and extends hips
-<!--SR:!2021-08-29,3,250-->
-Clinical correlation :: **[[Tendelenburg sign]]**
+Common action :: ==Adduct and extends hips==
+
+Clinical correlation :: ==**[[Tendelenburg sign]]**==
 
 ### Deep
 ?
