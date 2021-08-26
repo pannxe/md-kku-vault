@@ -31,16 +31,16 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-08-26",
+  "buryDate": "2021-08-27",
   "buryList": [],
   "cache": {
     "Musculoskeletal System/Gluteal Region/Gluteal Region.md": {
       "totalCards": 9,
       "hasNewCards": true,
       "nextDueDate": "2021-08-29",
-      "lastUpdated": 1629996911809,
+      "lastUpdated": 1629996963683,
       "dueDatesFlashcards": {
-        "3": 1
+        "2": 1
       }
     },
     "README.md": {
