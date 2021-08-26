@@ -24,11 +24,12 @@
 - **[[Gluteus medius]]**
 - **[[Gluteus minimus]]**
 - **[[Tensor fasciae latae]]**
+
 ![[Pasted image 20210826050043.png]]
 
-Common action :: ==Adduct and extends hips==
+Common action : ==**Adduct and extends hips**==
 
-Clinical correlation :: ==**[[Tendelenburg sign]]**==
+Clinical correlation : ==**[[Tendelenburg sign]]**==
 
 ### Deep
 ?
@@ -51,6 +52,7 @@ Laterally rotates the thigh
 2. \[S1 S2 S3\] **[[Middle cluneal nerve]]**
 3. **[[Inferior cluneal nerve]]**
 4. \[T12 L1\] **[[Iliohypogastric nerve]]**
+
 ![[Pasted image 20210826042710.png]]
 ![[Pasted image 20210826042732.png]]
 

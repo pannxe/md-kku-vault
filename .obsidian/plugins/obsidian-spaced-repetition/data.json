@@ -37,9 +37,11 @@
     "Musculoskeletal System/Gluteal Region/Gluteal Region.md": {
       "totalCards": 9,
       "hasNewCards": true,
-      "nextDueDate": "",
-      "lastUpdated": 1629996602505,
-      "dueDatesFlashcards": {}
+      "nextDueDate": "2021-08-29",
+      "lastUpdated": 1629996911809,
+      "dueDatesFlashcards": {
+        "3": 1
+      }
     },
     "README.md": {
       "totalCards": 0,
