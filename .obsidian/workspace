@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Musculoskeletal System/Lower limb/Thigh/Bone/Patella.md",
+            "file": "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md",
             "mode": "source"
           }
         }
@@ -87,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c502908abd6881e4",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Musculoskeletal System/Lower limb/Thigh/Bone/Patella.md",
+                "file": "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +130,7 @@
   },
   "active": "89fb6ecaef7636a5",
   "lastOpenFiles": [
+    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md",
     "Musculoskeletal System/Lower limb/Thigh/Bone/Patella.md",
     "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
     "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ilium.md",
@@ -139,7 +139,6 @@
     "README.md",
     "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Pubis.md",
     "Iliac crest.md",
-    "Musculoskeletal System/Gluteal Region/Clinical correlation/Tendelenburg sign.md",
-    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Acetabulum.md"
+    "Musculoskeletal System/Gluteal Region/Clinical correlation/Tendelenburg sign.md"
   ]
 }

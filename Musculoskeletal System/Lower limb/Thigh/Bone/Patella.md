@@ -1,4 +1,3 @@
-# Patella
 - Patella (knee cap) is the largest [[Sesmoid bone]] 
 - Formed with the tendon of **[[Quardraceps femoris]]**
 
