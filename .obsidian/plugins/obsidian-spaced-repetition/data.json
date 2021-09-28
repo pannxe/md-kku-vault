@@ -42,10 +42,10 @@
       "dueDatesFlashcards": {}
     },
     "Haematology/Erythropoiesis.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
+      "totalCards": 1,
+      "hasNewCards": true,
       "nextDueDate": "",
-      "lastUpdated": 1632801596947,
+      "lastUpdated": 1632804054074,
       "dueDatesFlashcards": {}
     }
   }
