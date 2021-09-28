@@ -34,174 +34,18 @@
   "buryDate": "2021-09-28",
   "buryList": [],
   "cache": {
-    "Musculoskeletal System/Gluteal Region/Gluteal Region.md": {
-      "totalCards": 9,
-      "hasNewCards": true,
-      "nextDueDate": "2021-08-29",
-      "lastUpdated": 1629996963683,
-      "dueDatesFlashcards": {
-        "-30": 1
-      }
-    },
     "README.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629986574800,
+      "lastUpdated": 1632801569066,
       "dueDatesFlashcards": {}
     },
-    "Musculoskeletal System/Lower limb/Thigh/Thigh.md": {
+    "Haematology/Erythropoiesis.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1629925837723,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Lower limb/Thigh/Muscle/Anterior/Quardraceps femoris.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629926137265,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Lower limb/Thigh/Bone/Patella.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1630048078689,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Lower limb/Thigh/Bone/Femur.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629928411932,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Lower limb/Lower limb.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629925754844,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Muscle/Tensor fasciae latae.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629929106566,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Muscle/Quadratus femoris.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629982422139,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Muscle/Piriformis.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629980500020,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Muscle/Obturator internus.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629981615587,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Muscle/Obturator externus.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629981976626,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Muscle/Gluteus minimus.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629930299028,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Muscle/Gluteus medius.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629930189511,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Muscle/Gluteus maximus.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629928204956,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Muscle/Gemellus superior.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629982263684,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Muscle/Gemellus inferior.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629982254407,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Clinical correlation/Tendelenburg sign.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629930813497,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Bone/Sacrum.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629930433005,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Bone/Hip bone.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629928435856,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Pubis.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629923347024,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629982232913,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ilium.md": {
-      "totalCards": 1,
-      "hasNewCards": true,
-      "nextDueDate": "",
-      "lastUpdated": 1629996296227,
-      "dueDatesFlashcards": {}
-    },
-    "Musculoskeletal System/Gluteal Region/Bone/Coccyx.md": {
-      "totalCards": 0,
-      "hasNewCards": false,
-      "nextDueDate": "",
-      "lastUpdated": 1629930437892,
+      "lastUpdated": 1632801596947,
       "dueDatesFlashcards": {}
     }
   }
