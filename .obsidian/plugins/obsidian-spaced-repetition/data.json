@@ -31,7 +31,7 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-08-27",
+  "buryDate": "2021-09-08",
   "buryList": [],
   "cache": {
     "Musculoskeletal System/Gluteal Region/Gluteal Region.md": {
@@ -40,7 +40,7 @@
       "nextDueDate": "2021-08-29",
       "lastUpdated": 1629996963683,
       "dueDatesFlashcards": {
-        "2": 1
+        "-10": 1
       }
     },
     "README.md": {
@@ -68,7 +68,7 @@
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1630000496752,
+      "lastUpdated": 1630048078689,
       "dueDatesFlashcards": {}
     },
     "Musculoskeletal System/Lower limb/Thigh/Bone/Femur.md": {
