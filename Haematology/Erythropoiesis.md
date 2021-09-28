@@ -28,12 +28,27 @@
 #### 5-9 mo.
 
 ?
-- **Bone marrow**
+**Bone marrow**
 
 
 > The bone marrow is the most important site from 6–7 months of fetal life.
 
 ### Post-natal
 
+![[Pasted image 20210928115402.png]]
+
+#### Infancy
+
 ?
-Practically **marrows of all bones** in infant --> progressive 
+Practically **marrows of all bones**
+
+#### Adulthood
+
+?
+Limited to **axial skeleton** and **proximal ends of femurs and humeri**
+
+
+> ...during childhood there is progressive fatty replacement of marrow throughout the long bones...
+
+
+
