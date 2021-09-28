@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md",
+            "file": "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "ee9a0a6dfd9476ef"
+      },
+      {
+        "id": "c35e5584a0cefd86",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ee9a0a6dfd9476ef"
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md",
+                "file": "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,13 +143,13 @@
   },
   "active": "89fb6ecaef7636a5",
   "lastOpenFiles": [
-    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md",
-    "Musculoskeletal System/Lower limb/Thigh/Bone/Patella.md",
     "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
-    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ilium.md",
-    "Musculoskeletal System/Lower limb/Thigh/Bone/Femur.md",
     "Musculoskeletal System/Lower limb/Lower limb.md",
     "README.md",
+    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md",
+    "Musculoskeletal System/Lower limb/Thigh/Bone/Patella.md",
+    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ilium.md",
+    "Musculoskeletal System/Lower limb/Thigh/Bone/Femur.md",
     "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Pubis.md",
     "Iliac crest.md",
     "Musculoskeletal System/Gluteal Region/Clinical correlation/Tendelenburg sign.md"
