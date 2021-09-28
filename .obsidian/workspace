@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "848b41309e7e7dac",
+        "id": "233ea4327dbb74d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -46,6 +46,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "450752ab3a8139f0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -130,7 +138,7 @@
     "width": 308.5,
     "collapsed": true
   },
-  "active": "848b41309e7e7dac",
+  "active": "233ea4327dbb74d5",
   "lastOpenFiles": [
     "Haematology/Erythropoiesis.md",
     "README.md",
