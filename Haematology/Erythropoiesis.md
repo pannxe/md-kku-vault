@@ -20,7 +20,7 @@
 
 ?
 - **Liver**
-- Spleen
+- [[Spleen]]
 
 
 > From 6 weeks until 6–7 months of fetal life, the liver and spleen are the major haemopoietic organs and continue to produce blood cells until about 2 weeks after birth. The placenta also contributes to fetal haemopoiesis. 
