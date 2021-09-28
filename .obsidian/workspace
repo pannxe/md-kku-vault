@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "d4edf4cbf942e00a",
@@ -126,13 +127,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "active": "848b41309e7e7dac",
   "lastOpenFiles": [
     "Haematology/Erythropoiesis.md",
-    "Untitled.md",
     "README.md",
+    "Untitled.md",
     "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
     "Musculoskeletal System/Lower limb/Lower limb.md",
     "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md",
