@@ -31,28 +31,21 @@
     "maxLinkFactor": 1,
     "logLevel": 1
   },
-  "buryDate": "2021-09-28",
+  "buryDate": "2022-01-17",
   "buryList": [],
   "cache": {
     "README.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632801569066,
+      "lastUpdated": 1642363941681,
       "dueDatesFlashcards": {}
     },
-    "Haematology/Erythropoiesis.md": {
-      "totalCards": 5,
-      "hasNewCards": true,
-      "nextDueDate": "",
-      "lastUpdated": 1632822748768,
-      "dueDatesFlashcards": {}
-    },
-    "Haematology/Spleen.md": {
+    "Gastrointestinal System/Gastrointestinal System.md": {
       "totalCards": 0,
       "hasNewCards": false,
       "nextDueDate": "",
-      "lastUpdated": 1632823910229,
+      "lastUpdated": 1642364345200,
       "dueDatesFlashcards": {}
     }
   }

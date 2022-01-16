@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Haematology/Erythropoiesis.md",
-            "mode": "source"
+            "file": "Gastrointestinal System/Gastrointestinal System.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -60,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "d4edf4cbf942e00a",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haematology/Erythropoiesis.md",
+                "file": "Gastrointestinal System/Gastrointestinal System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,12 +139,12 @@
   },
   "active": "233ea4327dbb74d5",
   "lastOpenFiles": [
+    "Gastrointestinal System/Gastrointestinal System.md",
     "Haematology/Erythropoiesis.md",
     "Haematology/Spleen.md",
     "Haematology/__media__/Pasted image 20210928114156.png",
     "Haematology/__media__/Pasted image 20210928115402.png",
     "README.md",
-    "Untitled.md",
     "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
     "Musculoskeletal System/Lower limb/Lower limb.md",
     "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md",

@@ -5,10 +5,11 @@
   "showLineNumber": false,
   "vimMode": false,
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "./__media__",
+  "attachmentFolderPath": "./__assets__",
   "newFileLocation": "current",
   "foldHeading": true,
   "foldIndent": true,
   "useTab": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "legacyEditor": false
 }
