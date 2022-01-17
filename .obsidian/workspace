@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gastrointestinal System/Protozoan Infection in Gastrointestinal Tract.md",
+            "file": "Gastrointestinal System/Entamoeba histolytica.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gastrointestinal System/Protozoan Infection in Gastrointestinal Tract.md",
+                "file": "Gastrointestinal System/Entamoeba histolytica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +136,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 221.50750732421875
   },
   "active": "233ea4327dbb74d5",
   "lastOpenFiles": [
+    "Gastrointestinal System/Entamoeba histolytica.md",
     "Gastrointestinal System/Protozoan Infection in Gastrointestinal Tract.md",
     "Gastrointestinal System/Gastrointestinal System.md",
     "Haematology/Erythropoiesis.md",
@@ -149,7 +149,6 @@
     "Haematology/__media__/Pasted image 20210928115402.png",
     "README.md",
     "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
-    "Musculoskeletal System/Lower limb/Lower limb.md",
-    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md"
+    "Musculoskeletal System/Lower limb/Lower limb.md"
   ]
 }
