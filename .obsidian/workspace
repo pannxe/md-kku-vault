@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gastrointestinal System/Gastrointestinal System.md",
+            "file": "Gastrointestinal System/Protozoan Infection in GI.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gastrointestinal System/Gastrointestinal System.md",
+                "file": "Gastrointestinal System/Protozoan Infection in GI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +139,7 @@
   },
   "active": "233ea4327dbb74d5",
   "lastOpenFiles": [
+    "Gastrointestinal System/Protozoan Infection in GI.md",
     "Gastrointestinal System/Gastrointestinal System.md",
     "Haematology/Erythropoiesis.md",
     "Haematology/Spleen.md",
@@ -147,7 +148,6 @@
     "README.md",
     "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
     "Musculoskeletal System/Lower limb/Lower limb.md",
-    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md",
-    "Musculoskeletal System/Lower limb/Thigh/Bone/Patella.md"
+    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md"
   ]
 }
