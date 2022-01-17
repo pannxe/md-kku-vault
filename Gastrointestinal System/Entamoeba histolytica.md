@@ -21,3 +21,12 @@
 
 # Pathogenesis
 Trophozoite colonization -> invation of colonic mucosa -> acute inflammation -> [[Diarrhoea]] and [[Amoebic Dysentery]] -> **Flask-shaped ulcer**
+
+Triphozoite enter portal circulation -> enter [[Liver]] -> Granulomas -> [[Amoebic Liver Abscess]]
+
+Generally host can establish tolerance by
+- Anti-[[Gal-lectin]]-[[IgA]] -> No colonization
+- [[Innert Response]] and [[Adaptive Response]]
+
+## Virulence Factors
+- [[E. histolyical Molecule]]
