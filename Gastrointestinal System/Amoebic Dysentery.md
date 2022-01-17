@@ -1,2 +1,2 @@
 # Manifestation
-Differs from [[]]
+Differs from [[Bacillary dysentery in that]]
