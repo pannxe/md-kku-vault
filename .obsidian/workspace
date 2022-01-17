@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gastrointestinal System/Entamoeba histolytica.md",
+            "file": "Gastrointestinal System/Fulminant Amoebiasis.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gastrointestinal System/Entamoeba histolytica.md",
+                "file": "Gastrointestinal System/Fulminant Amoebiasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +140,15 @@
   },
   "active": "233ea4327dbb74d5",
   "lastOpenFiles": [
+    "Gastrointestinal System/Fulminant Amoebiasis.md",
     "Gastrointestinal System/Entamoeba histolytica.md",
     "Gastrointestinal System/Amoebic Colitis.md",
+    "Gastrointestinal System/Amoeboma.md",
     "Gastrointestinal System/Protozoan Infection in Gastrointestinal Tract.md",
     "Gastrointestinal System/Gastrointestinal System.md",
     "Haematology/Erythropoiesis.md",
     "Haematology/Spleen.md",
     "Haematology/__media__/Pasted image 20210928114156.png",
-    "Haematology/__media__/Pasted image 20210928115402.png",
-    "README.md",
-    "Musculoskeletal System/Gluteal Region/Gluteal Region.md"
+    "Haematology/__media__/Pasted image 20210928115402.png"
   ]
 }

@@ -1,8 +1,7 @@
 # Clinical Manifestation
 - **Usually commensal** (90%)
 - Invasion of *E. histolytica* causes :
-	- [[Amoebic Dysentery]]
-	- [[Amoebic Colitis]]
+	- [[Amoebic Colitis]] -> [[Amoebic Dysentery]]
 	- [[Amoeboma]]
 	- [[Toxic Megacolon]]
 	- [[Peritonitis]]
@@ -17,6 +16,11 @@
 - Residents of institutions for mentally retarded
 - Men who have sex with men
 - Immunocompromised persons
+	- Use of [[Corticosteroid]]
+- [[Pregnancy]]
+- [[Malnutrition]]
+- Young age
+- [[Alcoholism]]
 
 # Life cycle
 1. Cyst is ingested 
