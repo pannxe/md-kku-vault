@@ -4,7 +4,6 @@
 	- [[Amoebic Colitis]] -> [[Amoebic Dysentery]]
 	- [[Amoeboma]]
 	- Severe -> [[Fulminant Amoebiasis]]
-- Faecal-oral transmission -- contaminated water and food 
 
 # Risk Factors
 - Poor sanitary
@@ -12,7 +11,7 @@
 - Travelers to topics
 - Residents of institutions for mentally retarded
 - Men who have sex with men
-- Immunocompromised persons
+- [[Immunocompromised]] persons
 	- Use of [[Corticosteroid]]
 - [[Pregnancy]]
 - [[Malnutrition]]
@@ -20,6 +19,7 @@
 - [[Alcoholism]]
 
 # Life cycle
+**Faecal-oral transmission** -- contaminated water and food 
 1. Cyst is ingested 
 2. Excystation in small intestine -> trophozoite
 3. Replication
@@ -40,3 +40,39 @@ Generally host can establish tolerance by
 - Capping & shadding of Ab-Ag complex
 - [[Amoebapore-A]] -> forms pore in the target cell
 - Induces apoptosis of host cells -> **no WBC in faeces**
+
+# Diagnosis
+- **[[Stool Examination]]** - **Simple smear & concentration**
+	- Cyst and trophozote in stool
+- **[[Bloody Diarrhoea]]** with **mucous** and **offensive smell**
+- Cultivation, serological, and molecuilar techniques are also possible
+
+## False Positive
+- Leukocyte misread
+- Other non-pathogenic amoeba-like organism
+	- [[Entamoeba coli]] -- opeque cytoplasm, more nucleus in cyst form
+	- [[Endolimax nana]] -- different nucleus morphology
+	- [[Iodamoeba buetschlii]] -- large glycogen mass
+
+## False Negative
+- [[Antimicrobial]] drug before Dx
+- Soap amd tap water lyse trophozoite
+- [[Barium Contrast]]
+- Single stool examination or improper maintainance of sample
+
+# Treatment
+Specific drug + supportive treatment + aspirate removal
+
+## Specific drug
+Colitis and liver abscess :
+- **[[Metronidazole]]**
+- [[Tinidazole]]
+
+Lumenal infection
+- [[Iodoquinol]]
+- [[Paramomycin]]
+
+# Prevention
+- Environmental sanitation
+- Boiling or filtration of water
+- Avoid risks

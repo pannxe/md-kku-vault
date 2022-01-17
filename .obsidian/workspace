@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gastrointestinal System/Amoebic Dysentery.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#mainPage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "d4edf4cbf942e00a",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gastrointestinal System/Amoebic Dysentery.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,15 +140,15 @@
   },
   "active": "233ea4327dbb74d5",
   "lastOpenFiles": [
-    "Gastrointestinal System/Amoebic Dysentery.md",
-    "Gastrointestinal System/Amoebic Colitis.md",
-    "Gastrointestinal System/Entamoeba histolytica.md",
-    "Gastrointestinal System/Extraintestinal Amoebiasis.md",
-    "Gastrointestinal System/Amoebic Cutis.md",
+    "README.md",
+    "Parasite/Giardia lamblia.md",
     "Gastrointestinal System/Protozoan Infection in Gastrointestinal Tract.md",
-    "Gastrointestinal System/Fulminant Amoebiasis.md",
-    "Gastrointestinal System/Amoeboma.md",
-    "Gastrointestinal System/Gastrointestinal System.md",
-    "Haematology/Erythropoiesis.md"
+    "Table of Content.md",
+    "Gastrointestinal System/Untitled.md",
+    "Gastrointestinal System/Untitled 1.md",
+    "Parasite/Blastocystis hominis.md",
+    "Parasite/Entamoeba histolytica.md",
+    "Parasite/Dientamoeba fragilis.md",
+    "Gastrointestinal System/Fulminant Amoebiasis.md"
   ]
 }
