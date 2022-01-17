@@ -3,9 +3,6 @@
 - Invasion of *E. histolytica* causes :
 	- [[Amoebic Colitis]] -> [[Amoebic Dysentery]]
 	- [[Amoeboma]]
-	- [[Toxic Megacolon]]
-	- [[Peritonitis]]
-	- [[Cutaneous Amoebiasis]]
 	- Severe -> [[Fulminant Amoebiasis]]
 - Faecal-oral transmission -- contaminated water and food 
 
@@ -31,7 +28,7 @@
 # Pathogenesis
 Trophozoite adhesion using [[Gal/GalNAc Lectin]] -> invation of [[Mucosa layer]] -> colonization -> acute inflammation -> [[Diarrhoea]] and [[Amoebic Dysentery]]
 
-Triphozoites invade [[Lamina Propria]] using [[Amoeba Product]] -> **Flask-shaped ulcer** -> enter portal circulation -> [[Amoebic Liver Abscess]] and others [[Extraintestinal Amoebiasis]] 
+Triphozoites invade [[Lamina Propria]] using [[Amoeba Product]] -> **Flask-shaped ulcer** -> enter portal circulation -> [[Liver Abscess]] and others [[Extraintestinal Amoebiasis]] 
 
 Generally host can establish tolerance by
 - Anti-[[Gal/GalNAc Lectin]]-[[IgA]] -> No colonization

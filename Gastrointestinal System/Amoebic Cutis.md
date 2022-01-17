@@ -1,0 +1,1 @@
+Perianal inflammation from [[Entamoeba histolytica]] infection
