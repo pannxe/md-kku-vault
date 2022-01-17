@@ -11,5 +11,6 @@
   "foldIndent": true,
   "useTab": true,
   "showFrontmatter": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "readableLineLength": true
 }
