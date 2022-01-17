@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gastrointestinal System/Protozoan Infection in GI.md",
+            "file": "Gastrointestinal System/Protozoan Infection in Gastrointestinal Tract.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "d4edf4cbf942e00a",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gastrointestinal System/Protozoan Infection in GI.md",
+                "file": "Gastrointestinal System/Protozoan Infection in Gastrointestinal Tract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,11 +136,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "active": "233ea4327dbb74d5",
   "lastOpenFiles": [
-    "Gastrointestinal System/Protozoan Infection in GI.md",
+    "Gastrointestinal System/Protozoan Infection in Gastrointestinal Tract.md",
     "Gastrointestinal System/Gastrointestinal System.md",
     "Haematology/Erythropoiesis.md",
     "Haematology/Spleen.md",
