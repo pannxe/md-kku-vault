@@ -3,8 +3,6 @@
   "cssTheme": "Minimal",
   "translucency": false,
   "theme": "moonstone",
-  "enabledCssSnippets": [
-    "font"
-  ],
+  "enabledCssSnippets": [],
   "baseFontSizeAction": true
 }

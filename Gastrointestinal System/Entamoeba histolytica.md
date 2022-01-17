@@ -20,13 +20,16 @@
 4. Encystation in large intestine -> excreted in faeces
 
 # Pathogenesis
-Trophozoite colonization -> invation of colonic mucosa -> acute inflammation -> [[Diarrhoea]] and [[Amoebic Dysentery]] -> **Flask-shaped ulcer**
+Trophozoite colonization using [[Gal/GalNAc Lectin]] -> invation of [[Mucosa layer]] -> acute inflammation -> [[Diarrhoea]] and [[Amoebic Dysentery]] -> **Flask-shaped ulcer**
 
 Triphozoite enter portal circulation -> enter [[Liver]] -> Granulomas -> [[Amoebic Liver Abscess]]
 
 Generally host can establish tolerance by
-- Anti-[[Gal-lectin]]-[[IgA]] -> No colonization
+- Anti-[[Gal/GalNAc Lectin]]-[[IgA]] -> No colonization
 - [[Innert Response]] and [[Adaptive Response]]
 
 ## Virulence Factors
-- [[E. histolyical Molecule]]
+- [[E. histolyical Molecule]] -> specific binding to epithelial cell
+- Anti-superoxide acitvity <- various enzymes, Peroxiredoxin, Superoxide dismutase, etc.
+- Capping & shadding of Ab-Ag complex
+- [[Amoebapore-A]] -> forms pore in the target cell
