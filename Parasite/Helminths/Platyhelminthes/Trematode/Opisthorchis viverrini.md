@@ -22,5 +22,10 @@ Embryonated egg passed c faeces -> water -> ingested via [[Fresh Water Snail]] (
 > Koipla, plasom, plara that had not been fermented long enough
 
 # Pathology
-- [[Bile Duct]] dilatation
-- [[Inflammation]] -> [[Periductal Fibrosis]]
+- Protein secreted by the parasite -> **DNA damage**
+- Sucker -> Mechanical damage -> Inflammation -> [[Periductal Fibrosis]] -> Chronic -> [[Cholangiocarcinoma]] -> Metastasis
+- Immune reponds -> Free radical + [[Nitrosamine]] -> **DAN damage**
+- [[Biliary Obstruction]] -> [[Gallbladder Hydrops]]
+
+## Carcinogenicity
+Based on [[IARC Monogram]], *O. viverini* is **Group I Carcinogen** -> [[Bladder]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inflammation.md",
+            "file": "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "d4edf4cbf942e00a",
@@ -96,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c502908abd6881e4",
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inflammation.md",
+                "file": "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +141,15 @@
   },
   "active": "47db7805511d9adb",
   "lastOpenFiles": [
-    "Inflammation.md",
-    "Cyprinid.md",
-    "Parasite/Capillaria hepatica.md",
-    "README.md",
     "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
-    "Gastrointestinal System/Disease/Periductal Fibrosis.md",
-    "Gastrointestinal System/Anatomy/Von Ebner Gland.md",
-    "Parasite/Helminths/Platyhelminthes/Trematode/Clonorchis sinensis.md",
-    "Gastrointestinal System/Test/Enterotest.md",
-    "Gastrointestinal System/Anatomy/Liver/Μφ.md"
+    "IARC Monogram.md",
+    "Nitrosamine.md",
+    "Gastrointestinal System/Disease/Gallbladder Hydrops.md",
+    "Gastrointestinal System/Disease/Biliary Obstruction.md",
+    "Gastrointestinal System/Disease/Cholangiocarcinoma.md",
+    "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis fellineus.md",
+    "Parasite/Helminths/Platyhelminthes/Trematode/Schistosoma spp..md",
+    "Inflammation.md",
+    "Cyprinid.md"
   ]
 }
