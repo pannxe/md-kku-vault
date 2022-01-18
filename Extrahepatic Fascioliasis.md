@@ -1,0 +1,1 @@
+From the migration of immature [[Fasciola gigantic]] (or [[Fasciola hepatica]])

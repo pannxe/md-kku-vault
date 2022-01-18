@@ -9,9 +9,13 @@
 
 # Parasite
 | Organism                    | Group |
-| --------------------------- | ----- |
-| [[Schistosoma haematobium]]  | 1     |
-| [[Opisthorchis viverrini]]  | 1     |
-| [[Clonorchis sinensis]]     | 1     |
-|                             |       |
+| --------------------------- | ----- | 
+| [[Schistosoma haematobium]]     | 1     | 
+| [[Opisthorchis viverrini]]      | 1     |
+| [[Clonorchis sinensis]]         | 1     |
+| [[Schistosoma japonicum]]       | 2B    |
+| [[Schistosoma mansoni]]         | 3     |
+| [[Opisthorchis fellineus]]      | 3     |
+
+
 

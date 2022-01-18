@@ -9,13 +9,13 @@ May include :
 
 # Causative Organism
 ## Small Liver Fluke
-- *[[Opisthorchis viverrini]]*
+- ***[[Opisthorchis viverrini]]***
 - *[[Opisthorchis fellineus]]*
 - *[[Clonorchis sinensis]]*
 
 ## Large Liver Fluke
+- ***[[Fasciola gigantic]]***
 - *[[Fasciola hepatica]]*
-- *[[Fasciola gigantic]]*
 
 ## Others
 Mainly accidental from animal
