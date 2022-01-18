@@ -1,0 +1,3 @@
+- Smallest
+- Mostly produce [[Mucous Saliva]] <- prominant [[Mucous Acinus]] ([[Serous Acinus]] still exist)
+- Longer [[Striated Duct]] than other [[Salivary Gland]]

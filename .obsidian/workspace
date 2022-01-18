@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
+            "file": "Gastrointestinal System/Disease/Amoebic Colitis.md",
             "mode": "source",
-            "backlinks": true,
+            "backlinks": false,
             "source": false
           }
         }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
+                "file": "Gastrointestinal System/Disease/Amoebic Colitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,12 +136,11 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,15 +148,15 @@
   },
   "active": "233ea4327dbb74d5",
   "lastOpenFiles": [
-    "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
-    "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis fellineus.md",
-    "Parasite/Helminths/Platyhelminthes/Trematode/Clonorchis sinensis.md",
-    "Gastrointestinal System/Hepatobiliary Parasite.md",
-    "Parasite/Helminths/Nematode/Toxocara spp..md",
-    "Parasite/Helminths/Nematode/Ascaris lumbricoides.md",
-    "Parasite/Helminths/Platyhelminthes/Cestode/Echinococcus spp..md",
-    "Parasite/Helminths/Platyhelminthes/Trematode/Schistosoma spp..md",
-    "Parasite/Apicomplexa/Malaria.md",
-    "Parasite/Helminths/Platyhelminthes/Trematode/Dicrocoelium dendriticum.md"
+    "Gastrointestinal System/Disease/Amoebic Colitis.md",
+    "Gastrointestinal System/Extraintestinal Amoebiasis.md",
+    "Gastrointestinal System/Abdominal Distention.md",
+    "Parasite/Capillaria hepatica.md",
+    "Gastrointestinal System/Anatomy/Adipose Cell.md",
+    "Gastrointestinal System/Anatomy/Basal Membrane.md",
+    "Gastrointestinal System/Anatomy/Cementum.md",
+    "Gastrointestinal System/Protozoan Infection in Gastrointestinal Tract.md",
+    "Gastrointestinal System/Nausea and Vomitting.md",
+    "Gastrointestinal System/Hepatobiliary Parasite.md"
   ]
 }

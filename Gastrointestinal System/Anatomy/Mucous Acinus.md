@@ -1,0 +1,4 @@
+- Nucleus on the [[Basal Membrane]] side
+	- Flatter than that of [[Serous Acinus]]
+- Lumen on the center -> [[Intercalated Duct]]
+- Mucous -> Pale staining

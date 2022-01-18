@@ -1,5 +1,5 @@
 # Symptom
-- [[NV]]
+- [[Nausea and Vomitting]]
 - Rt-upper quadrant [[Abdominal Pain]]
 - [[Jaundice]]
 May include :

@@ -1,0 +1,4 @@
+- [[Pancreatic Ancinus]] with [[Zymogen Granule]] -> [[Exocrine]] portion
+	- Dark stain
+- [[Islet of Langerhans]] -> [[Endocrine]] portion
+	- Pale stain than [[Pancreatic Ancinus]] [[Pancreatic Enzymes]]

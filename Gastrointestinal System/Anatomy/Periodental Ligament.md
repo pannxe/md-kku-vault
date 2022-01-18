@@ -1,0 +1,1 @@
+Adhere [[Root]] of [[Tooth]] to the [[Gingiva]]

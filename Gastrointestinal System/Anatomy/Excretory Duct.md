@@ -1,0 +1,1 @@
+[[Intercalated Duct]] -> [[Striated Duct]]

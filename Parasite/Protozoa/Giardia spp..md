@@ -9,7 +9,7 @@
 # Clinical Manifestation
 ## Acute giadiasis (< 4 wks.)
 - **[[Steatorrhoea]]** and [[Diarrhoea]]
-- UGI disconfort -> [[NV]], [[Bloating]], [[Abdominal Pain]]
+- UGI disconfort -> [[Nausea and Vomitting]], [[Bloating]], [[Abdominal Pain]]
 - [[Anorexia]]
 - **Usually self-limited within 3-4 days**
 
@@ -34,8 +34,8 @@ Typical of faecal-oral route
 Pathogenicity depends on strain of the parasite
 
 Trophozoite attaches to the epitherial surface / microvilli using **adhesive disc** -> release of enzymes to degrade musoal layer ->
-- **Inhibition of [[Panceatic enzymes]]** -> **[[Steatorrhoea]]**
-- Irritation -> [[Abdominal Pain]] and [[NV]] -> [[Irritable Bowel Syndrome]]
+- **Inhibition of [[Pancreatic Enzymes]]** -> **[[Steatorrhoea]]**
+- Irritation -> [[Abdominal Pain]] and [[Nausea and Vomitting]] -> [[Irritable Bowel Syndrome]]
 - Parasite induces **chloride hypersecretion**
 - -> Apoptosis of epithelial cell and lyphocyte-mediated destruction -> **shortening of villi** -> blunt -> atrophy -> **inflammation of lamina propia** 
 -> [[Malabsorption]] (esp. fat soluable vitamin) -> [[Weight Loss]] -> **[[Diarrhoea]]**
