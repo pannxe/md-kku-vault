@@ -1,0 +1,6 @@
+- **[[Crown]]** -- Above [[Gingiva]]
+	- [[Enamel]] cover [[Dentine]]
+- [[Neck]] 
+- [[Periodental Ligament]]
+- [[Root]] -- under gingiva
+- [[Cementum]]

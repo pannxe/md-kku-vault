@@ -1,0 +1,4 @@
+- Lies in the root of [[Tongue]] -> [[Sulcus Terminaris]]
+- Largest
+- [[Taste Bud]] lies on the side, has the most taste bud
+- Assoc. c. [[Von Ebner Gland]] 

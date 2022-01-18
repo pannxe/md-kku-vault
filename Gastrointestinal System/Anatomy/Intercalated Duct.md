@@ -1,0 +1,1 @@
+Conducts [[Saliva]] from [[Mucous Acinus]], [[Serous Acinus]], and [[Seromucous Acina]] and discharges to [[Striated Duct]]

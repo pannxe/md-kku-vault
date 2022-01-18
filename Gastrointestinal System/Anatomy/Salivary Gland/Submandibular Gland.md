@@ -1,0 +1,3 @@
+- Produce both [[Mucous Saliva]] and [[Serous Saliva]] <- found [[Mucous Acinus]], [[Serous Acinus]], and [[Seromucous Acina]]
+- Some [[Adipose Cell]] (not as many as [[Parotid Gland]])
+- Some Connective Tissue  

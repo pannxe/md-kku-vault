@@ -1,0 +1,2 @@
+- Stained black using silver staining
+- aka. Bile capillaries

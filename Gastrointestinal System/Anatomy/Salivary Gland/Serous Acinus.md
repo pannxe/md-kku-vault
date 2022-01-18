@@ -1,0 +1,1 @@
+- No mucus -> Dark stain

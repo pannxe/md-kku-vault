@@ -1,0 +1,2 @@
+- Mineral Oil -> prevent water reabsorption
+- Glycerin -> stimulate peristalsis

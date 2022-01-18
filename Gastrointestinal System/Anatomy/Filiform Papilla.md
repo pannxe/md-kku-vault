@@ -1,0 +1,4 @@
+- No [[Taste Bud]]
+- The most abundant
+- Smallest
+- May trap food particle
