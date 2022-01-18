@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gastrointestinal System/Laxative Cathartic & Drugs for Constipation.md",
+            "file": "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -40,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mainPage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gastrointestinal System/Laxative Cathartic & Drugs for Constipation.md",
+                "file": "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,19 +145,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.2142028808594
+    "width": 339.1487121582031
   },
   "active": "233ea4327dbb74d5",
   "lastOpenFiles": [
-    "Gastrointestinal System/Laxative Cathartic & Drugs for Constipation.md",
-    "Gastrointestinal System/Extraintestinal Amoebiasis.md",
-    "Gastrointestinal System/Amoeboma.md",
-    "Drug/Elobixibat.md",
-    "Drug/Opiod Receptor Antagonist.md",
-    "Drug/Methylnatrexone.md",
-    "Drug/Chloride Channel Activator.md",
-    "Drug/Lubricant Laxative.md",
-    "Drug/Stool Softener.md",
-    "Gastrointestinal System/Protozoan Infection in Gastrointestinal Tract.md"
+    "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
+    "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis fellineus.md",
+    "Parasite/Helminths/Platyhelminthes/Trematode/Clonorchis sinensis.md",
+    "Gastrointestinal System/Hepatobiliary Parasite.md",
+    "Parasite/Helminths/Nematode/Toxocara spp..md",
+    "Parasite/Helminths/Nematode/Ascaris lumbricoides.md",
+    "Parasite/Helminths/Platyhelminthes/Cestode/Echinococcus spp..md",
+    "Parasite/Helminths/Platyhelminthes/Trematode/Schistosoma spp..md",
+    "Parasite/Apicomplexa/Malaria.md",
+    "Parasite/Helminths/Platyhelminthes/Trematode/Dicrocoelium dendriticum.md"
   ]
 }

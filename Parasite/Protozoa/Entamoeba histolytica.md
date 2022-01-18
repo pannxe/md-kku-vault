@@ -8,7 +8,7 @@
 # Risk Factors
 - Poor sanitary
 - Immigrant from developing countries
-- Travelers to topics
+- Travelers to topics -> [[Traveler Diarrhoea]]
 - Residents of institutions for mentally retarded
 - Men who have sex with men
 - [[Immunocompromised]] persons

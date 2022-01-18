@@ -1,5 +1,5 @@
 - [[Osmotic Laxative Agents]]
-- [[Stimulant Laxative Agent]]
+- [[Stimulant Laxative Agents]]
 - [[Stool Softener]]
 - [[Lubricant Laxative]]
 - [[Chloride Channel Activator]]

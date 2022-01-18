@@ -1,4 +1,3 @@
-#protozoa
 # Clinical Manifestation
 - **Persistent [[Diarrhoea]]**
 Rare symptoms :

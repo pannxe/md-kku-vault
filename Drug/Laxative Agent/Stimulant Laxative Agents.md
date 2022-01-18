@@ -4,7 +4,7 @@
 	- Phenolphthalein
 	- Oxyphenisatin
 - Anthraquinone glycosides
-- [[Castol oil]]
+- [[Castol Oil]]
 
 # MoA
 - **Stimulation of enteric nervous system** -> induce **inflammation** -> accumulation on water and salt intestine

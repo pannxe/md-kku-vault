@@ -1,0 +1,1 @@
+Swollow capsule with string attached to it -> collect content in UGI -> drag out to Dx 
