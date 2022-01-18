@@ -11,7 +11,7 @@ May include :
 ## Small Liver Fluke
 - *[[Opisthorchis viverrini]]*
 - *[[Opisthorchis fellineus]]*
-- *[[Clonorchis sinensis*]]
+- *[[Clonorchis sinensis]]*
 
 ## Large Liver Fluke
 - *[[Fasciola hepatica]]*

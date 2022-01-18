@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e2a87236555f85d7",
+        "id": "47db7805511d9adb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inflammation.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inflammation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +137,17 @@
     "direction": "horizontal",
     "width": 308.5
   },
-  "active": "e2a87236555f85d7",
+  "active": "47db7805511d9adb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Haematology/Erythropoiesis.md",
-    "Haematology/Spleen.md",
-    "Haematology/__media__/Pasted image 20210928114156.png",
-    "Haematology/__media__/Pasted image 20210928115402.png",
+    "Inflammation.md",
+    "Cyprinid.md",
+    "Parasite/Capillaria hepatica.md",
     "README.md",
-    "Untitled.md",
-    "Musculoskeletal System/Gluteal Region/Gluteal Region.md",
-    "Musculoskeletal System/Lower limb/Lower limb.md",
-    "Musculoskeletal System/Gluteal Region/Bone/Hip bone/Ischium.md"
+    "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
+    "Gastrointestinal System/Disease/Periductal Fibrosis.md",
+    "Gastrointestinal System/Anatomy/Von Ebner Gland.md",
+    "Parasite/Helminths/Platyhelminthes/Trematode/Clonorchis sinensis.md",
+    "Gastrointestinal System/Test/Enterotest.md",
+    "Gastrointestinal System/Anatomy/Liver/Μφ.md"
   ]
 }
