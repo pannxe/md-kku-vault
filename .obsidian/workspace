@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "47db7805511d9adb",
+        "id": "eebac98b49f71c6e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
+            "file": "IARC Monogram.md",
             "mode": "source",
             "source": false
           }
@@ -97,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c502908abd6881e4",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
+                "file": "IARC Monogram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +138,17 @@
     "direction": "horizontal",
     "width": 308.5
   },
-  "active": "47db7805511d9adb",
+  "active": "eebac98b49f71c6e",
   "lastOpenFiles": [
-    "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
     "IARC Monogram.md",
+    "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
+    "Gastrointestinal System/Hepatobiliary Parasite.md",
+    "Parasite/Helminths/Platyhelminthes/Trematode/Schistosome.md",
+    "Schistosoma mekongi.md",
+    "Schistosoma mansoni.md",
+    "Schistosoma japonicum.md",
+    "Parasite/Helminths/Platyhelminthes/Trematode/Schistosoma haematobium.md",
     "Nitrosamine.md",
-    "Gastrointestinal System/Disease/Gallbladder Hydrops.md",
-    "Gastrointestinal System/Disease/Biliary Obstruction.md",
-    "Gastrointestinal System/Disease/Cholangiocarcinoma.md",
-    "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis fellineus.md",
-    "Parasite/Helminths/Platyhelminthes/Trematode/Schistosoma spp..md",
-    "Inflammation.md",
-    "Cyprinid.md"
+    "Gastrointestinal System/Disease/Gallbladder Hydrops.md"
   ]
 }
