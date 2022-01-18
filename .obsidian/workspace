@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "eebac98b49f71c6e",
+        "id": "233ea4327dbb74d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Parasite/Helminths/Platyhelminthes/Trematode/Fasciola gigantic.md",
+            "file": "Parasite/Protozoa/Heterokonta/Malaria.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -61,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "d4edf4cbf942e00a",
@@ -90,10 +90,18 @@
             }
           },
           {
-            "id": "9c8129ce66e8f2c0",
+            "id": "4ed0e1a3394316b1",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9b4557b628f56e5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
@@ -110,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parasite/Helminths/Platyhelminthes/Trematode/Fasciola gigantic.md",
+                "file": "Parasite/Protozoa/Heterokonta/Malaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +136,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
@@ -136,19 +144,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 339.1487121582031
   },
-  "active": "eebac98b49f71c6e",
+  "active": "233ea4327dbb74d5",
   "lastOpenFiles": [
-    "Parasite/Helminths/Platyhelminthes/Trematode/Fasciola gigantic.md",
-    "Triclabendazole.md",
-    "Paragonimus spp..md",
-    "Extrahepatic Fascioliasis.md",
-    "Hepatic Fibrosis.md",
-    "Pancreatitis.md",
-    "Gallstone.md",
-    "Cholecystitis.md",
-    "Internal Bleeding.md",
-    "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md"
+    "Parasite/Protozoa/Heterokonta/Malaria.md",
+    "Parasite/Apicomplexa/Plasmodium ovale.md",
+    "Parasite/Protozoa/Euglenozoa/Leishmania spp..md",
+    "Parasite/Protozoa/Heterokonta/Plasmodium vivax.md",
+    "Gastrointestinal System/Disease/Portal Hypertension.md",
+    "Gastrointestinal System/Hepatobiliary Parasite.md",
+    "Parasite/Protozoa/Apicomplexa/Cryptosporidium spp..md",
+    "Gastrointestinal System/Disease/Periductal Sclerosis.md",
+    "Gastrointestinal System/Disease/Triaditis.md",
+    "Gastrointestinal System/Disease/Hepatitis.md"
   ]
 }

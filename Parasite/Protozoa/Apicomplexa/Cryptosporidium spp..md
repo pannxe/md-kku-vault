@@ -6,4 +6,10 @@
 3. Ungergone regular [[Apicomplexa]] replication
 	1. **Thin-walled oocyst** (20%) -> **autoinfection**
 	2. **Thick-walled oocyst** -> **excrete via faeces**
- 
+
+# Clinical Manifestation
+## Liver
+- [[Triaditis]]
+- [[Cholangitis]]
+- Lobular [[Hepatitis]] with [[Periductal Fibrosis]] -> sclerosis
+- [[Cholangitis]] -> sclerosis

@@ -8,6 +8,9 @@ Typical of trematode.
 
 **Metacercaria** -- infective stage -> contaminate in **[[Aquatic Plant]]** -> Excyst in [[Duodenum]] -> migrate out of GI tract -> [[Abdominal Wall]] and [[Diaphragm]] -> encapsulate and develop in [[Liver]]
 
+# Pathogenesis
+Secretory product (**[[Cathepsins]]**) -> Chronic inflammation -> **[[Hepatic Fibrosis]]** & activation of **[[Stellate Cell]]** -> **[[Cirrhosis]]**
+
 # Clinical Manifestation
 ## Acute
 **Juvenile worm migration** -> tissure destruction -> inflammation
