@@ -9,24 +9,26 @@ May include :
 
 # Causative Organism
 ## Small Liver Fluke
-- [[Opisthorchis viverrini]]
-- [[Opisthorchis fellineus]]
-- [[Clonorchis sinensis]]
+- *[[Opisthorchis viverrini]]*
+- *[[Opisthorchis fellineus]]*
+- *[[Clonorchis sinensis*]]
 
 ## Large Liver Fluke
-- [[Fasciola hepatica]]
-- [[Fasciola gigantic]]
+- *[[Fasciola hepatica]]*
+- *[[Fasciola gigantic]]*
 
 ## Others
 Mainly accidental from animal
-- [[Dicrocoelium dendriticum]]
-- [[Eurythrema pancreaticum]]
-- [[Capillaria hepatica]]
-- [[Echinococcus spp.]]
+- *[[Dicrocoelium dendriticum]]*
+- *[[Eurythrema pancreaticum]]*
+- *[[Capillaria hepatica]]*
+- *[[Echinococcus spp.]]*
 
 ## Complication From Other Organs
-- [[Entamoeba histolytica]]
+- *[[Entamoeba histolytica]]*
 - [[Malaria]]
-- [[Schistosoma spp.]]
-- [[Ascaris lumbricoides]]
-- [[Toxocara spp.]]
+- *[[Schistosoma spp.]]*
+- *[[Ascaris lumbricoides]]*
+- *[[Toxocara spp.]]*
+
+#TODO 
