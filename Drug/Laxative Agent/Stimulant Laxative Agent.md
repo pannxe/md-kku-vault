@@ -19,5 +19,3 @@
 - Cramping
 - Diarrhoea
 - Increase pH -> enteric coat dissoves
-
-#TODO 

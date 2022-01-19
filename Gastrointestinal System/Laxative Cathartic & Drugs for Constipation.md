@@ -38,7 +38,3 @@ Fetus compresses colon -> [[Constipation]]
 - [[Weight Control]]
 - Interfere with normal habit
 > May lead to [[Malnutrition]], [[Fatigue]], [[Electrolyte Imbalance]], etc.
-
-
-
-#TODO 

@@ -32,5 +32,3 @@ Mainly accidental from animal
 - [[Cryptosporidium spp.]]
 - [[Leishmania spp.]]
 - *[[Toxocara spp.]]*
-
-#TODO 

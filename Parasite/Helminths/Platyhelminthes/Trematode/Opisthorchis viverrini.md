@@ -25,7 +25,7 @@ Embryonated egg passed c faeces -> water -> ingested via [[Fresh Water Snail]] (
 # Pathology
 - Protein secreted by the parasite -> **DNA damage**
 - Sucker -> Mechanical damage -> Inflammation -> **[[Periductal Fibrosis]]** -> Chronic -> **[[Cholangiocarcinoma]]** -> Metastasis
-- Immune reponds -> Free radical + [[Nitrosamine]] -> **DAN damage**
+- Immune reponds -> Free radical + [[Nitrosamine]] -> **DNA damage**
 - [[Biliary Obstruction]] -> [[Gallbladder Hydrops]]
 
 ## Carcinogenicity
