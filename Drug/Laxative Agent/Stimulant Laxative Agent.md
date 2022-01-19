@@ -1,9 +1,12 @@
 - **Diphenylmethane derivatives**
 	- **[[Bisacodyl]]**
 	- Sodium picosulfate
-	- Phenolphthalein
-	- Oxyphenisatin
+	- ~~Phenolphthalein~~
+	- ~~Oxyphenisatin~~ 
 - **[[Anthraquinone Glycosides]]**
+	- **[[Senna Glycosides]]**
+	- [[Aloe Emodin]]
+	- [[Frangula purshiana]] (**Cascara**)
 - **[[Castol Oil]]**
 
 # Common MoA
