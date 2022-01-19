@@ -1,0 +1,1 @@
+Hydatid disease (also known as hydatidosis or echinococcosis) is a **potentially serious, sometimes fatal, condition caused by cysts containing** the larval stages of the Echinococcus granulosus (E. granulosus) or other [[Echinococcus spp.]] tapeworm

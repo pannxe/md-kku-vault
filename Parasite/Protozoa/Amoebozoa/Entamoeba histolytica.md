@@ -55,7 +55,7 @@ Generally host can establish tolerance by
 	- [[Iodamoeba buetschlii]] -- large glycogen mass
 
 ## False Negative
-- [[Anti-protozoan Drug]] before Dx
+- [[Anti-Protozoan Agent]] before Dx
 - Soap amd tap water lyse trophozoite
 - [[Barium Contrast]]
 - Single stool examination or improper maintainance of sample
@@ -69,8 +69,8 @@ Colitis and liver abscess :
 - [[Tinidazole]]
 
 Lumenal infection
+- **[[Paramomycin]]**
 - [[Iodoquinol]]
-- [[Paramomycin]]
 
 # Prevention
 - Environmental sanitation
