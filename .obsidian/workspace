@@ -7,13 +7,8 @@
         "id": "233ea4327dbb74d5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Parasite/Protozoa/Heterokonta/Malaria.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -118,9 +113,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parasite/Protozoa/Heterokonta/Malaria.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -148,15 +142,15 @@
   },
   "active": "233ea4327dbb74d5",
   "lastOpenFiles": [
-    "Parasite/Protozoa/Heterokonta/Malaria.md",
-    "Parasite/Apicomplexa/Plasmodium ovale.md",
-    "Parasite/Protozoa/Euglenozoa/Leishmania spp..md",
-    "Parasite/Protozoa/Heterokonta/Plasmodium vivax.md",
-    "Gastrointestinal System/Disease/Portal Hypertension.md",
-    "Gastrointestinal System/Hepatobiliary Parasite.md",
-    "Parasite/Protozoa/Apicomplexa/Cryptosporidium spp..md",
-    "Gastrointestinal System/Disease/Periductal Sclerosis.md",
-    "Gastrointestinal System/Disease/Triaditis.md",
-    "Gastrointestinal System/Disease/Hepatitis.md"
+    "Drug/Laxative Agent/Hypercalcaemia.md",
+    "Drug/Laxative Agent/Stimulant Laxative Agent.md",
+    "Drug/Laxative Agent/Stool Softener.md",
+    "1.md",
+    "Drug/Laxative Agent/Phytic Acid.md",
+    "Hypokalaemia.md",
+    "Parasite/Protozoa/Metamonada/Giardia spp..md",
+    "Drug/Laxative Agent/Lubricant Laxative Agent.md",
+    "Gastrointestinal System/Laxative Cathartic & Drugs for Constipation.md",
+    "Drug/Laxative Agent/Constipation.md"
   ]
 }

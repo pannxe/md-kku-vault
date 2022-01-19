@@ -10,7 +10,7 @@
 ## Acute giadiasis (< 4 wks.)
 - **[[Steatorrhoea]]** and [[Diarrhoea]]
 - UGI disconfort -> [[Nausea and Vomitting]], [[Bloating]], [[Abdominal Pain]]
-- [[Anorexia]]
+- [[Anorexia]] 
 - **Usually self-limited within 3-4 days**
 
 ## Chronic giadiasis
@@ -53,7 +53,7 @@ Intermittent [[Diarrhoea]] is associated host immunity.
 Usually stems from [[Malnutrition]] and chronic inflammation.
 - [[Allergies]]
 - [[Failure to Thrive]]
-- [[Chronic Fatigue Syndrome]]
+- [[Fatigue]] (Chronic Fatigue Syndrome)
 - [[Irritable Bowel Syndrome]]
 - Etc.
 

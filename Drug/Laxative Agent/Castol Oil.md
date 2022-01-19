@@ -1,4 +1,12 @@
-- Hydrolysed in the ileum
+Hydrolysed in the ileum by [[Pancreatic Enzymes]] (**lipase**) -> **ricinoleic acid** & glycerol
 
 # MoA
-Increase cAMP -> increase secretion in small intestine
+Ricinoleic acid -> **incr. cAMP** -> **increase secretion** in [[Small Intestine]] and incr. [[Peristalsis]]
+
+# Indication
+**Bowel preparation** before operation <- fast-acting
+
+# ADR
+- [[Abdominal Pain]]
+- [[Electrolyte Imbalance]]
+- **[[Uterine Contaction]]** -> [[Abortion]]
