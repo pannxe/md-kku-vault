@@ -4,7 +4,7 @@
 	- ~~Phenolphthalein~~
 	- ~~Oxyphenisatin~~ 
 - **[[Anthraquinone Glycosides]]**
-	- **[[Senna Glycosides]]**
+	- **[[Senna Glycoside]]**
 	- [[Aloe Emodin]]
 	- [[Frangula purshiana]] (**Cascara**)
 - **[[Castol Oil]]**
