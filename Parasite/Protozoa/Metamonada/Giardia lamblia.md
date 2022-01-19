@@ -2,9 +2,7 @@
 - **Long incubation period ~1-3 wks.**
 - **Prepatent period 4-22 days**
 
-# Pathogenic Stain
-- *[[Giadia lamblia]]*
-- [[Giadia enterica]]
+[[Giadia enterica]] is also found to be pathogenic in human
 
 # Clinical Manifestation
 ## Acute giadiasis (< 4 wks.)
@@ -51,7 +49,7 @@ Intermittent [[Diarrhoea]] is associated host immunity.
 
 ## Long-Term
 Usually stems from [[Malnutrition]] and chronic inflammation.
-- [[Allergies]]
+- [[Allergy]]
 - [[Failure to Thrive]]
 - [[Fatigue]] (Chronic Fatigue Syndrome)
 - [[Irritable Bowel Syndrome]]
@@ -71,8 +69,9 @@ Usually stems from [[Malnutrition]] and chronic inflammation.
 - [[Strongyloides stercolaris]] infection
 
 # Treatment
-- [[Metronidazole]]
+- **[[Metronidazole]]**
 - [[Trimethoprim]]
+- [[Tinidazole]]
 
 
 

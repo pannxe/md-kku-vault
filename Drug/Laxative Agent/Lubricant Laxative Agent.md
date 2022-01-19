@@ -1,2 +1,2 @@
-- Mineral Oil -> prevent water reabsorption
-- Glycerin -> stimulate peristalsis
+- **[[Mineral Oil]]**
+- **[[Glycerin]]**

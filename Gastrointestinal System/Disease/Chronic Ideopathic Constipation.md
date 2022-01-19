@@ -1,0 +1,1 @@
+Chronic idiopathic constipation (CIC) is an ongoing [[Constipation]] without any known cause or identified underlying illness

@@ -7,7 +7,7 @@
 - Blastocystosis <- ***[[Blastocystis hominis]]***
 
 ## [[Small Intestine]]
-- Giardiasis <- ***[[Giardia spp.]]***
+- Giardiasis <- ***[[Giardia lamblia]]***
 - Cryptosporidiasis <- ***[[Cryptosporidium spp.]]***
 - Cyclosporiasis <- ***[[Cyclospora cayetanensis]]*** 
 - Cystoisosporiasis <- ***[[Cystoisosporia]]***

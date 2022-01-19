@@ -18,16 +18,27 @@
 	- Post partum
 - Preparation of examination
 - Removeal of poision/toxin
-- Adjuncts [[Anti-helminthic Drug]]
+- Adjuncts [[Anti-Helminthic Drug]]
 
 # In Pregnancy
-Fetus compresses colon
+## Casue
+Fetus compresses colon -> [[Constipation]]
 
 ## Safe
-- Bulk-forming
-- Lactulose
-- Stool Softeners
+- **[[Bulk-Forming Laxative Agent]]**
+- **[[Lactulose]]**
+- **[[Stool Softener]]**
+
+# Unsafe
+- [[Mineral Oil]] -- malabsorption of vitamin
+- [[Castol Oil]] -- abortion
+- [[Osmotic Laxative Agent]] -- electrolyte imbalance; some electrolyte in saline laxative (e.g., Mg) can be toxic to fetus
 
 # Laxative Abuse
+- [[Weight Control]]
+- Interfere with normal habit
+> May lead to [[Malnutrition]], [[Fatigue]], [[Electrolyte Imbalance]], etc.
+
+
 
 #TODO 

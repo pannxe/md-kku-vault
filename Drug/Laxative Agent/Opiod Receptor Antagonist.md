@@ -1,4 +1,2 @@
-[[Methylnatrexone]]
-
-# Use
-- **Opiod-induced constipation**
+- **[[Methylnatrexone]]**
+- **[[Alvimopan]]**

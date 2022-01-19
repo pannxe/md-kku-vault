@@ -1,4 +1,4 @@
-- Hydrolysed by esterase
+Hydrolysed by esterase
 
 # MoA
 Mostly on [[Large Intestine]], mechanism on the small intestine is minimal.
@@ -17,5 +17,3 @@ Increase pH (basic) -> enteric coat dissove -> irritation;
 - **Milk**
 - **[[Proton Pump Inhibitor]]**
 - **[[H2 Blocker]]**
-
-#TODO 
