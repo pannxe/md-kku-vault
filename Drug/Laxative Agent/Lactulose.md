@@ -1,3 +1,14 @@
-- Used in **hepatic encephalopathy** (alteraltion of concious)
+Fructose + galactose that is pooly absorbed
 
-Laculose -> lysed to **lactic acid** and **acetic acid** -> NH4 
+# MoA
+Lactulose -> lysed to **lactic acid** and **acetic acid** by [[Gut Microbiota]] -> acid condition ->
+- **Retention of water**
+- (NH3 -> NH4+) -> NH4+ is nonabsorble -> **reduce plasma NH3** in **[[Hepatic Encephalopathy]]** pt. 
+
+# ADR
+Usually at high dose
+- [[Diarrhoea]]
+- [[Flatulence]]
+- [[Abdominal Discomfort]]
+- [[Electrolyte Imbalance]]
+- Tolerance

@@ -1,4 +1,4 @@
 - [[Schistosoma haematobium]]
 - [[Schistosoma japonicum]]
 - [[Schistosoma mansoni]]
-- [[Schistosoma mekongi]]
+- **[[Schistosoma mekongi]]**

@@ -29,6 +29,8 @@ Mainly accidental from animal
 - [[Malaria]]
 - [[Schistosome]]
 - *[[Ascaris lumbricoides]]*
+- [[Cryptosporidium spp.]]
+- [[Leishmania spp.]]
 - *[[Toxocara spp.]]*
 
 #TODO 

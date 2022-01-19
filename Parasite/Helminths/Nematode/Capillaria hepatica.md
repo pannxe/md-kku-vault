@@ -1,0 +1,2 @@
+- Normally infect [[Rodents]]
+- **Embyonated egg** in the environment may accidentally ingested by human
