@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "d4edf4cbf942e00a",
@@ -141,6 +140,7 @@
   "active": "eebac98b49f71c6e",
   "lastOpenFiles": [
     "Parasite/Helminths/Platyhelminthes/Trematode/Fasciola gigantic.md",
+    "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md",
     "Triclabendazole.md",
     "Paragonimus spp..md",
     "Extrahepatic Fascioliasis.md",
@@ -148,7 +148,6 @@
     "Pancreatitis.md",
     "Gallstone.md",
     "Cholecystitis.md",
-    "Internal Bleeding.md",
-    "Parasite/Helminths/Platyhelminthes/Trematode/Opisthorchis viverrini.md"
+    "Internal Bleeding.md"
   ]
 }
