@@ -7,7 +7,8 @@
 - Excreted mostly in [[Urine]], some in [[Bile]]
 
 # Indication
-- [[Schistosome]]
+Generally flukes (except [[Fasciola gigantic]]), or others platyhelminthes.
+- [[Schistosomes]]
 - [[Opisthorchis viverrini]] and [[Clonorchis sinensis]]
 - [[Tapeworms]]
 

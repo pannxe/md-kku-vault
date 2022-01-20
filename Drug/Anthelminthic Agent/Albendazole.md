@@ -16,7 +16,7 @@
 		- [[Ascaris lumbricoides]]
 		- [[Enterobius vermicularis]]
 		- [[Trichuris trichiura]]
-		- [[Ancyclostoma duodenal]] and [[Necator americanus]]
+		- [[Ancyclostoma duodenale]] and [[Necator americanus]]
 
 # Dosage
 For general GI nematode : **400 mg once**

@@ -27,7 +27,7 @@ Mainly accidental from animal
 ## Complication From Other Organs
 - *[[Entamoeba histolytica]]*
 - [[Malaria]]
-- [[Schistosome]]
+- [[Schistosomes]]
 - *[[Ascaris lumbricoides]]*
 - [[Cryptosporidium spp.]]
 - [[Leishmania spp.]]

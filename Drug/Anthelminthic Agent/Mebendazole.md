@@ -12,9 +12,9 @@ Same as other [[Benzimidazole]] : **bind to [[β-Tubulin]]**
 # Indication
 GI nematodes
 - [[Enterobius vermicularis]]
-- [[Ascaris lumbricoidese]]
+- [[Ascaris lumbricoides]]
 - [[Trichuris trichiura]]
-- [[Ancyclostoma duodenal]]
+- [[Ancyclostoma duodenale]]
 
 # Dosage
 - **100 mg bid x3** or

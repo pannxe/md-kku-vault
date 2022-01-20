@@ -9,7 +9,7 @@ Inh. [[Cholinesterase]] and incr. [[Acetylcholine]] in neuromuscular system of t
 
 # Indication
 - **[[Enterobius vermicularis]]** -- highly effective
-- [[Ancyclostoma duodenal]] and [[Necator americanus]] -- moderately effective
+- [[Ancyclostoma duodenale]] and [[Necator americanus]] -- moderately effective
 
 # ADR
 - [[Abdominal Discomfort]]
