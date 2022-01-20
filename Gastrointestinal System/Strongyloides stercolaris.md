@@ -47,10 +47,20 @@ Living in [[Mucosa layer]] -> secretion -> inh. cell proliferation -> [[Villus]]
 - **[[Inflammatory Bowel Disease]]**
 
 # Treatment
-[[Anti-Helminthic Drug]] + other supportive treatment, e.g. ([[Antibiotic Agent]] (board-spectum), fl)
 ## Acute and Chronic
 - **[[Ivermectin]]** -- 200 μg/kg single dose
 - [[Albendazole]]
 
 ## Hyperinfection
 **[[Ivermectin]]** -- 200 μg/kg **until no parasite found in stool for 2 wks.**
+
+Other supportive treatment as needed
+- [[Antibiotic Agent]] (board-spectum)
+- Fluid hydration
+- etc.
+
+# Prevention
+- **Wear shoes when walk on soil**
+- Avoid contact with faeces
+- Take care of dogs
+- Toilet use
