@@ -1,18 +1,20 @@
 # Protozoan Diseases in GI According to Habitats
 ## [[Large Intestine]]
-- Amoebiasis <-
+- **Amoebiasis** <-
 	- ***[[Entamoeba histolytica]]***
 	- *[[Dientamoeba fragilis]]* (*not in lecture objective*)
 - Balantidiasis <- ***[[Balantidium coli]]***
 - Blastocystosis <- ***[[Blastocystis hominis]]***
 
 ## [[Small Intestine]]
-- Giardiasis <- ***[[Giardia lamblia]]***
-- Cryptosporidiasis <- ***[[Cryptosporidium spp.]]***
-- Cyclosporiasis <- ***[[Cyclospora cayetanensis]]*** 
-- Cystoisosporiasis <- ***[[Cystoisosporia belli]]***
-- Sarcosporidiosis <- *[[Sarcocystis spp.]]* (*not in lecture objective*)
-- Microsporidiosis <- ***[[Microsporidia]]***
+- **Giardiasis** <- ***[[Giardia lamblia]]***
+- **Coccidian protozoa**
+	- Cryptosporidiasis <- ***[[Cryptosporidium spp.]]***
+	- Cyclosporiasis <- ***[[Cyclospora cayetanensis]]*** 
+	- Cystoisosporiasis <- ***[[Cystoisosporia belli]]***
+	- Sarcosporidiosis <- *[[Sarcocystis spp.]]* (*not in lecture objective*)
+	- Microsporidiosis <- ***[[Microsporidia]]***
+> Symptoms of coccidian protozoa are similar, see [[Cryptosporidium spp.]] for prototyping details.
 
 ## AIDs Patients ([[Immunocompromised]])
 - [[Entamoeba histolytica]]
@@ -25,4 +27,3 @@ Generally low prevalence but can be found more often in **children with poor hyg
 
 Most common organism is ***[[Blastocystis hominis]]***
 
-#TODO

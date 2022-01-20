@@ -1,6 +1,6 @@
 **The most prevalence intestinal parasitic infection in [[Immunocompromised]] pt.**
 
-- [[Cryptosporidium parvum]] -- the most common
+- ***[[Cryptosporidium parvum]]*** -- the most common
 
 # Life Cycle
 1. Oocysts is ingested
@@ -17,7 +17,28 @@
 - [[Cholangitis]] -> sclerosis
 
 # Pathogenesis
-- The parasite hide in the parasitoporous vacuole -> very hard to Tx
-- Secretion from [[Apic]]
-- Motility -- gliding movement
-- 
+The parasite attaches to the [[Microvillus]] -> epithelial cell release [[Cytokine]] & release of [[Enterotoxin]] -> inflammation -> :
+- Apoptosis of [[Enterocyte]] -> [[Malabsorption]] -> [[Malnutrition]] -> [[Weight Loss]] and [[Fatigue]]
+- Incr. Cl- secretion and water -> [[Diarrhoea]]
+- Parasite hide in the parasitoporous vacuole -> very hard to Tx
+- Secretion from [[Apicoplast]]
+	- Host attachment
+	- Proteases -> cellular invasion
+	- gp30 lectin -> motility -> gliding movement
+
+# Clinical Manifestation
+Mostly **asymptomatic** in immunocompetent pt. For [[Immunocompromised]] or pt. c. symptom may varries according to [[CD4]] count. Low CD4 -> chronic and life-threatening.
+- **Waterry [[Diarrhoea]]** -> **[[Dehydration]]**
+- [[Abdominal Discomfort]]
+- [[Anorexia]]
+- [[Nausea and Vomitting]]
+- **[[Malabsorption]]** -> [[Weight Loss]] and [[Fatigue]]
+- Respiratory problems
+
+# Diagnosis
+**[[Modified Acid Fast Stain]]** -> **4-6 μm.**, **4 sporozotes** inside
+> Smaller than [[Cyclospora cayetanensis]], and with sporozote.
+
+# Treatment
+- **[[Paramomycin]]** -- target [[Apicoplast]]
+- [[Nitazoxanide]]

@@ -22,5 +22,8 @@ Spore is injested or inhaled -> spore injects parasitic cytoplasmic contents to 
 - Aquatic animal - [[Enterospora spp.]], [[Enterocytozoon spp.]], [[Pseudoloma spp.]]
 
 # Diagnosis
-- **Modified Trichome**
-- **Gram Chromotrope**
+**[[Modified Trichrome Stain]]** or **[[Gram Chromotrope Stain]]** -> 1-3 μm. with  **belt-like** stripe.
+
+# Treatment
+**[[Albendazole]]** for [[Encephalitozoon intestinalis]].
+> No Tx is reccommended for [[Enterocytozoon bieneusi]], throuh albendazole can decr. number of organism.

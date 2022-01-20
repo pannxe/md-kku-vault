@@ -3,7 +3,7 @@ High prevalence in Thailand ~39% and even higher in [[Immunocompromised]] patien
 # Clinical Manifestation
 Either **pathogenic**, **commensal** or **opportunistic** -- unclear whether it can cause disease. Pathogenicity depends on subtype.
 
-**ST1** and **ST3** are related to [[Irritable Bowel Syndrome]]
+**ST1** and **ST3** are related to [[Irritable Bowel Syndrome]] -> mild [[Diarrhoea]]
 
 ## Pathogenesis
 **ST1** and **ST3** -> 
