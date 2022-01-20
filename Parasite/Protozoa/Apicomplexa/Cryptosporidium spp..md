@@ -1,4 +1,6 @@
-- **The most prevalence intestinal parasitic infection in [[Immunocompromised]] pt.**
+**The most prevalence intestinal parasitic infection in [[Immunocompromised]] pt.**
+
+- [[Cryptosporidium parvum]] -- the most common
 
 # Life Cycle
 1. Oocysts is ingested
@@ -13,3 +15,9 @@
 - [[Cholangitis]]
 - Lobular [[Hepatitis]] with [[Periductal Fibrosis]] -> sclerosis
 - [[Cholangitis]] -> sclerosis
+
+# Pathogenesis
+- The parasite hide in the parasitoporous vacuole -> very hard to Tx
+- Secretion from [[Apic]]
+- Motility -- gliding movement
+- 

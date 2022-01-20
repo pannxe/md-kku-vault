@@ -18,7 +18,7 @@
 - [[Entamoeba histolytica]]
 - [[Cryptosporidium spp.]]
 - [[Cystoisosporia belli]]
-- [[Microsporidia]]
+- **[[Microsporidia]]**
 
 # Situation in Thailand
 Generally low prevalence but can be found more often in **children with poor hygiene**.
