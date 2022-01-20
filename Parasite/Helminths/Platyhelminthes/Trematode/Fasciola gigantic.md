@@ -1,4 +1,4 @@
-# Geographic Distribution
+6# Geographic Distribution
 **Tropical zone** -- including Thailand
 
 # Life Cycle

@@ -49,6 +49,11 @@ Frequently **asymptomatic**. In children may cause :
 - **Surgery** -> remove ico. [[Intestinal Obstruction]] or [[Biliary Obstruction]]
 - **[[Albendazole]]**
 
+# Prevention
+- Toilet
+- Safe water, sanitation, and hygiene
+- Mass drug administration
+
 
 
 
