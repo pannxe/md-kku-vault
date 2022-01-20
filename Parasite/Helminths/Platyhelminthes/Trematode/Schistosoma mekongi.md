@@ -12,7 +12,7 @@ Generally very similar to *[[Schistosoma japonicum]]*
 	- [[Periportal Fibrosis]]
 	- [[Splenomegaly]] and [[Hepatomegaly]]
 	- [[Portal Hypertension]]
-- Erosion of [[Submucosa]] and [[Vilus]] of [[Small Intestine]] ->
+- Erosion of [[Submucosa]] and [[Villus]] of [[Small Intestine]] ->
 	- [[Malabsorption]]
 	- [[Anaemia]]
 	- [[Failure to Thrive]]

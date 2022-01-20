@@ -42,6 +42,32 @@ Rare now
 - Classical Triad
 - Accidental during [[Colonoscopy]] for [[Abdominal Pain]] and [[Altered Bowel Habits]]
 - **Egg in stool** <- [[FECT]], [[Kato-Katz Technique]], simple smear
+- [[Charcot-Leyden Crystal]] in faeces is possible
+- Molecular and serological test is not commonly used in clinic
+
+# Treatment
+- **[[Mebendazole]]**
+- [[Albendazole]]
+- [[Ivermectin]]
+
+# Prevention
+- Safe water, food and hygiene
+- Toilet use
+- Mass drug administration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

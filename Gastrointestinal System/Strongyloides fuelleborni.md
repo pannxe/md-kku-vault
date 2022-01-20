@@ -1,0 +1,2 @@
+- **Monkey** is definitive host but can infects human
+- Very similar to [[Strongyloides stercolaris]] but **cannot cause auto-infection**
