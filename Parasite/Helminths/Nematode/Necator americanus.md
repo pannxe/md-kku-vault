@@ -13,7 +13,7 @@ Southern China, **Southeeast Asia**, Americas, and Africa
 # Pathogenesis
 ## Larve
 - Entry -> **Ground itch** (Pruritic, erythematous [[Rash]])
-- Secretions -> **[[Allergy]]** -> [[Dermatitis]] in repeteated infection
+- Secretions -> **[[Allergic Reaction]]** -> [[Dermatitis]] in repeteated infection
 - Larva in [[Lung]] -> **[[Wakana Disease]]**
 
 ## Adult

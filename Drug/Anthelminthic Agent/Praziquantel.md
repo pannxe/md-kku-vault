@@ -16,7 +16,7 @@ Generally flukes (except [[Fasciola gigantic]]), or others platyhelminthes.
 - [[Nausea and Vomitting]]
 - [[Headache]]
 - [[Fever]]
-- [[Rash]] and [[Allergy]]
+- [[Rash]] and [[Allergic Reaction]]
 - Muscle ache
 
 # Contraindication

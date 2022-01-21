@@ -26,16 +26,17 @@ Mostly those big-chungus thicc ones.
 ## [[Abdominal Pain]]
 [[Gastric Pain]] <- [[Visceral Larva Migrans]]
 - Anisakiasis <- [[Anisakis simplex]]
-- Gnathostomiasis <- [[Gnathostoma spinigerum]] #TODO 
+- Gnathostomiasis <- [[Gnathostoma spinigerum]]
 
 [[Intestinal Perforation]] <- Acanthocephaliasis
+[[Acanthocephala]]
 - [[Macracanthorynchus hirudinaceus]]
 - [[Moniliformis moniliformis]]
 
 Irritation <- [[Trichinella spiralis]]
 
 ## [[Pruritus Ani]]
-**Enterobiasis** <- **[[Enterobius vermicularis]]**
+- **Enterobiasis** <- **[[Enterobius vermicularis]]**
 
 ## Other
 - **Taeniasis** / **[[Cysticercosis]]** 

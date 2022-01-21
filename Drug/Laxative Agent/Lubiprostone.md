@@ -9,4 +9,4 @@ Bind to **EP4-receptor** -> incr. Cl- -> **incr. fluid secretion**
 - [[Nausea and Vomitting]] 
 - [[Diarrhoea]]
 - [[Headache]]
-- [[Allergy]]
+- [[Allergic Reaction]]

@@ -49,7 +49,7 @@ Intermittent [[Diarrhoea]] is associated host immunity.
 
 ## Long-Term
 Usually stems from [[Malnutrition]] and chronic inflammation.
-- [[Allergy]]
+- [[Allergic Reaction]]
 - [[Failure to Thrive]]
 - [[Fatigue]] (Chronic Fatigue Syndrome)
 - [[Irritable Bowel Syndrome]]

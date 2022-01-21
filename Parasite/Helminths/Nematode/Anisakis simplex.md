@@ -9,7 +9,7 @@ DH -- **Marine mammals** -> human is AH
 # Pathogenesis
 Larva penetrate GI [[Mucosa layer]] (-> **[[Intestinal Perforation]]**) -> die -> **immune respond** ->
 - **Eosinophilic [[Granuloma]]** 
-- **[[Allergy]]** -> [[Urticaria]], [[Angioedema]], or [[Anaphylaxis]] 
+- **[[Allergic Reaction]]** -> [[Urticaria]], [[Angioedema]], or [[Anaphylaxis]] 
 
 # Clinical Manifestation
 **Mimicks [[Crohn Disease]]**
