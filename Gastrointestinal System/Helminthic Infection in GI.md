@@ -44,10 +44,10 @@ Irritation <- [[Trichinella spiralis]]
 	- **[[Taenia saginata]]**
 	- [[Taenia asiatica]]
 - Hymenolepiasis
-	- [[Hymenolepis nana]]
-	- [[Hymenolepis diminuta]]
+	- [[Hymenolepis nana]] -- more common
+	- [[Hymenolepis diminuta]] -- rare
 - [[Dipylidium caninum]]
 - Echinostomiasis <- [[Echinostomids]]
-
+- [[Minute Intestinal Flukes]]
 
 #TODO

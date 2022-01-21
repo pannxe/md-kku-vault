@@ -3,7 +3,7 @@
 
 # Life Cycle
 Typical of trematode.
-- IH 1 -- [[Fresh Water Snail]]
+- IH 1 -- [[Freshwater Snail]]
 - IH 2 -- [[Aquatic Plant]]
 
 **Metacercaria** -- infective stage -> contaminate in **[[Aquatic Plant]]** -> Excyst in [[Duodenum]] -> migrate out of GI tract -> [[Abdominal Wall]] and [[Diaphragm]] -> encapsulate and develop in [[Liver]]

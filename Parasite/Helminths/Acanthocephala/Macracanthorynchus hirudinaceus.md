@@ -1,2 +1,2 @@
 # Transmission
-- Ingestion of **cockchafer** (แมงอินูน)
+- Ingestion of **[[Cockchafer]]** (แมงอินูน)
