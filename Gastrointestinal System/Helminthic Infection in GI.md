@@ -17,20 +17,22 @@ Mostly those big-chungus thicc ones.
 
 ## [[Anaemia]]
 **Iron Deficiency Anaemia** <- **[[Hookworms]]**
-- [[Necator americanus]]
-- **[[Ancyclostoma duodenale]]**
+- **[[Necator americanus]]**
+- [[Ancyclostoma duodenale]]
 
 **Megaloblastic Anaemia**
 - Diphyllobothriasis <- [[Dibothriocephalus latus]]
 
 ## [[Abdominal Pain]]
-[[Gastric Pain]] <- Visceral Larva Migrans
+[[Gastric Pain]] <- [[Visceral Larva Migrans]]
 - Anisakiasis <- [[Anisakis simplex]]
-- Gnathostomiasis <- [[Gnathostoma spinigerum]]
+- Gnathostomiasis <- [[Gnathostoma spinigerum]] #TODO 
 
 [[Intestinal Perforation]] <- Acanthocephaliasis
 - [[Macracanthorynchus hirudinaceus]]
 - [[Moniliformis moniliformis]]
+
+Irritation <- [[Trichinella spiralis]]
 
 ## [[Pruritus Ani]]
 **Enterobiasis** <- **[[Enterobius vermicularis]]**

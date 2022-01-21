@@ -1,0 +1,4 @@
+- Caused by [[Hookworms]] esp. **[[Ancyclostoma duodenale]]**
+- [[Pneumonitis]]
+- [[Abdominal Discomfort]]
+- [[Eosinophilia]]

@@ -24,10 +24,40 @@ Destroy [[Mucosa layer]] -> inflammation (leukocyte infiltration) -> flatten [[V
 	- Decrease immunity -> 2nd bacterial infection
 
 # Diagnosis
+- **Parasite egg, larva, or adult in faeces** <- simple smear or **[[FECT]]**
+- [[Charcot-Leyden Crystal]] in faeces is common
+- **Immunochromatography** and Ab detection is **COMMON**
+
 ## Clue
 - **Chronic [[Diarrhoea]]**
 - History of raw freshwater fish consumption
 - Cue of [[Malnutrition]]
+
+# Treatment
+## Specific
+- **[[Mebendazole]]**
+- **[[Albendazole]]**
+
+## Supportive
+- High protein diet
+- [[Albumin]] IV
+- Correct fluid and [[Electrolyte Imbalance]]
+- [[Antibiotic Agent]] if needed
+
+# Prevention
+- Eat cooked fish
+- Toilet
+- Treatment of infected people
+
+
+
+
+
+
+
+
+
+
 
 
 
