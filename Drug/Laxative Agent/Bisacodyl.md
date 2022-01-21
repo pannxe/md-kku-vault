@@ -7,7 +7,7 @@ Mostly on [[Large Intestine]], mechanism on the small intestine is minimal.
 
 # ADR
 - [[Electrolyte Imbalance]]
-- Mild [[Abdominal Cramping]] -> [[Abdominal Pain]]
+- Mild [[Abdoninal Cramp]]-> [[Abdominal Pain]]
 - [[Diarrhoea]]
 - Destroy [[Enteric Nervous System]] -> [[Atonic Colon]] and [[Cathartic Colon]]
 

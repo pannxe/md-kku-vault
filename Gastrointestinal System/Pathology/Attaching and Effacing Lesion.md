@@ -1,0 +1,1 @@
+Localised **destruction of [[Brush Border]] [[Microvillus]]**, intimate **attachment of bacteria** to the residual apical [[Enterocyte]] membrane.

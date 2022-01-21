@@ -1,0 +1,1 @@
+**Locus of enterocyte effacement** of [[Escherichia coli]] genome -> encodes the [[T3SS]] and associated chaperones and effector proteins responsible for [[Attaching and Effacing Lesion]] in the [[Large Intestine]]
