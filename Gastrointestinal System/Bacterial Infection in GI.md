@@ -4,10 +4,21 @@
 - [[Clostridium botulinum]] -> [[Botulinum Toxin]]
 
 # Infection
-- [[Escherichia coli]]
-- [[Shigella spp.]] #TODO 
-- [[Samonella enterica]]
-- [[Vibrio cholerae]]
-- [[Vibrio parahaemolyticus]]
-- [[Clostridium difficile]]
-- [[Helicobacter pylori]]
+## Gram Negative Rod
+- Enterobacteriaceae
+	- **[[Escherichia coli]]**
+	- **[[Shigella spp.]]**
+	- [[Samonella enterica]]
+- Vibrionaceae
+	- [[Vibrio cholerae]]
+	- [[Vibrio parahaemolyticus]]
+	- [[Helicobacter pylori]]
+
+## Gram Positive Bacilli
+- Aerobic
+	- [[Bacillus cereus]]
+- Anaerobic
+	- [[Clostridium difficile]]
+
+## Gram Positive Cocci
+- [[Staphylococcus aureus]]
