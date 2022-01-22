@@ -36,7 +36,7 @@ Frequently **asymptomatic**. In children may cause :
 # Heavy Infection
 - **[[Intestinal Obstruction]]** -- mostly at distal [[Ileum]]
 	- Tramline appearance in [[Radiology]]
-- **[[UGI Bleeding]]** -> [[Intestinal Perforation]]
+- **[[GI Bleeding]]** -> [[Intestinal Perforation]]
 - [[Intussusception]], [[Volvulus]]
 - [[Peritonitis]]
 

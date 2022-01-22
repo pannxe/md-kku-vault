@@ -8,7 +8,7 @@
 - Enterobacteriaceae
 	- **[[Escherichia coli]]**
 	- **[[Shigella spp.]]**
-	- [[Samonella enterica]]
+	- **[[Salmonella enterica]]**
 - Vibrionaceae
 	- [[Vibrio cholerae]]
 	- [[Vibrio parahaemolyticus]]
