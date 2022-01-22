@@ -6,7 +6,7 @@ Larva in **[[Freshwater Snail]]** and **[[Tadpoles]]** -> ingestion -> inhabits 
 
 # Clinical Manifestation
 - **Mostly asymptomatic**
-- May casue injury to [[Mucosa layer]]
+- May casue injury to [[Mucosal Layer]]
 
 # Diagnosis
 **Egg in faeces** -- indentical to egg of [[Fasiolopsis buski]] and [[Fasciola gigantic]], etc.

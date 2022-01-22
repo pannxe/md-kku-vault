@@ -1,0 +1,1 @@
+Blood Group Antigen-binding Adhesion Gene

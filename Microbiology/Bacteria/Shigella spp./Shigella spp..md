@@ -12,17 +12,17 @@
 - [[Shigella sonnei]] -- Group D
 
 # Transmission
-**Faecal-oral route** or **person-person**
+- **Faecal-oral route** or **person-person**
 > 4Fs : Files, Fingers, Food, Faeces
-
-ID is low also, 10 - 500 cells 
+- **ID is low also** -- 10 - 500 cells 
 > More virulant strain -> less cell required
 
 # Pathogenesis
 - **[[Shiga Toxins]]** and **[[T3SS]]**
 - **[[Invation Plasmid Antigens]]**
-- Group B and D also has [[Form 1 Surface Antigen]] -> adhesive factor 
 
+-> apoptosis of [[Μφ]] and disrupted cell structure -> bacteria migrate through disrupted thigh junction -> spread
+> Group B and D also has [[Form 1 Surface Antigen]] -> adhesive factor 
 
 # Clinical Manifestation
 **[[Dysentery]]** -- Group A **Most severe** -> Group D mild

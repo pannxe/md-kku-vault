@@ -7,7 +7,7 @@ IH -- **Marine fishes** (salmon, cods) including **squids**, etc.
 DH -- **Marine mammals** -> human is AH
 
 # Pathogenesis
-Larva penetrate GI [[Mucosa layer]] (-> **[[Intestinal Perforation]]**) -> die -> **immune respond** ->
+Larva penetrate GI [[Mucosal Layer]] (-> **[[Intestinal Perforation]]**) -> die -> **immune respond** ->
 - **Eosinophilic [[Granuloma]]** 
 - **[[Allergic Reaction]]** -> [[Urticaria]], [[Angioedema]], or [[Anaphylaxis]] 
 

@@ -18,7 +18,7 @@ High prevalence in **Southern Thailand**. High recurrent in the Carribean.
 **Wisp-like** -- thin ant. 3/5, thicc post. 2/5
 
 # Pathogenesis
-Inflammation of [[Mucosa layer]] of [[Colon]] ->
+Inflammation of [[Mucosal Layer]] of [[Colon]] ->
 - Mucoid and bloody [[Diarrhoea]], [[Rectal Bleeding]] -> iron-deficiency [[Anaemia]] -> **[[Finger Clubbing]]**
 - Incr. peristalsis -> [[Tenesmus]] and **[[Rectal Prolapse]]**
 

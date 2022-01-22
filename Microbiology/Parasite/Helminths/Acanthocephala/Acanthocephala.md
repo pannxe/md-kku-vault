@@ -8,7 +8,7 @@ Sporadic case in Thailand <- **Occur where insects are consumed**
 IH are arthropod esp. insect -> ingested -> egg excreted via faeces
 
 # Clinical Manifestation
-Larva penetrates GI [[Mucosa layer]] ->
+Larva penetrates GI [[Mucosal Layer]] ->
 - **Severer [[Abdominal Pain]]**
 - **[[Gastric Perforation]]** and **[[Intestinal Perforation]]**
 - [[Peritonitis]]

@@ -11,7 +11,7 @@ Entero**aggregative** [[Escherichia coli]]
 - **[[Immunocompromised]] pts**
 
 # Pathogenesis
-Aggregative adherence factors (**AAF**, i.e., frimbria) -> biofilm -> cytotoxins -> inflammation -> **[[Diarrhoea]]** -> **[[Malnutrition]]** (children)
+Aggregative adherence factors (**AAF**, i.e., frimbria) -> **biofilm** (esp. [[Small Intestine]]) -> cytotoxins -> inflammation -> **[[Diarrhoea]]** -> **[[Malnutrition]]** (children)
 
 If that strain can produce [[Shiga Toxins]] -> [[Haemolytic Uraemic Syndrome]] and [[Ranal Failure]]
 

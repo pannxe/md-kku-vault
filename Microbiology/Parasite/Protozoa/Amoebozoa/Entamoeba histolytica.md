@@ -26,7 +26,7 @@
 4. Encystation in large intestine -> excreted in faeces
 
 # Pathogenesis
-Trophozoite adhesion using [[Gal/GalNAc Lectin]] -> invation of [[Mucosa layer]] -> colonization -> acute inflammation -> [[Diarrhoea]] and [[Amoebic Dysentery]]
+Trophozoite adhesion using [[Gal/GalNAc Lectin]] -> invation of [[Mucosal Layer]] -> colonization -> acute inflammation -> [[Diarrhoea]] and [[Amoebic Dysentery]]
 
 Triphozoites invade [[Lamina Propria]] using [[Amoeba Product]] -> **Flask-shaped ulcer** -> enter portal circulation -> [[Liver Abscess]] and others [[Extraintestinal Amoebiasis]] 
 

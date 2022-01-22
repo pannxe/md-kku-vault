@@ -10,9 +10,9 @@
 	- **[[Shigella spp.]]**
 	- **[[Salmonella enterica]]**
 - Vibrionaceae
-	- [[Vibrio cholerae]]
-	- [[Vibrio parahaemolyticus]]
-	- [[Helicobacter pylori]]
+	- **[[Vibrio cholerae]]**
+	- **[[Vibrio parahaemolyticus]]**
+	- **[[Helicobacter pylori]]**
 
 ## Gram Positive Bacilli
 - Aerobic

@@ -16,10 +16,10 @@
 - Male, advanced age, animal-human transmission, humid area
 
 # Life Cycle
-**L3 larva prenatrate skin** -> become **adult in [[Small Intestine]]** -> Egg deposited in [[Mucosa layer]] or excreted in faeces -> can be free-living and reproduce in the environment -> become L3 larva again
+**L3 larva prenatrate skin** -> become **adult in [[Small Intestine]]** -> Egg deposited in [[Mucosal Layer]] or excreted in faeces -> can be free-living and reproduce in the environment -> become L3 larva again
 
 # Pathogenesis
-Living in [[Mucosa layer]] -> secretion -> inh. cell proliferation -> [[Villus]] atrophy and crypt hyperplasia -> **[[Malabsorption]]**
+Living in [[Mucosal Layer]] -> secretion -> inh. cell proliferation -> [[Villus]] atrophy and crypt hyperplasia -> **[[Malabsorption]]**
 
 ## Larva
 - **[[Cutaneous Larva Currens]]** -> creeping eruption
@@ -43,7 +43,7 @@ Living in [[Mucosa layer]] -> secretion -> inh. cell proliferation -> [[Villus]]
 - **Other nematodes**
 	- [[Trichuris trichiura]]
 	- [[Capillaria philippinensis]]
-- **[[Pseuomembranous Colitis]]**
+- **[[Pseudomembraneous Colitis]]**
 - **[[Inflammatory Bowel Disease]]**
 
 # Treatment
