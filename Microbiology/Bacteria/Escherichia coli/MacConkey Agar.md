@@ -1,0 +1,1 @@
+MacConkey agar is a selective and differential culture medium for bacteria. It is designed to selectively isolate Gram-negative and enteric (normally found in the intestinal tract) bacteria and differentiate them **based on [[Lactose Fermentation Test]]**.

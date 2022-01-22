@@ -14,7 +14,7 @@ Partially processed **high protein** food -> act as growth media for [[Staphyloc
 # Clinical Manifestation
 Usually self-limited in **3 days**
 > Longer than [[Bacillus Enterotoxin]]
-- **[[Nausea and Vomitting]]**
+- **[[Nausea and Vomiting]]**
 - **[[Abdoninal Cramp]]** and **[[Abdominal Pain]]**
 - c or s [[Diarrhoea]]
 

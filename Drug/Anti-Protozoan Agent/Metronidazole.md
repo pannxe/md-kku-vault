@@ -19,7 +19,7 @@ Anaerobic infection, both protozoa and bacteria :
 - [[Anaerobic Gram-Negative Bacilli]]
 
 # ADR
-- [[Nausea and Vomitting]]
+- [[Nausea and Vomiting]]
 - [[Dry Mouth]]
 - Metallic Taste
 - **[[Disulfuram]]-like effect** <- also function as AHD blocker

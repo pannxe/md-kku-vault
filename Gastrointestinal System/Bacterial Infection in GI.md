@@ -5,6 +5,7 @@
 
 # Infection
 - [[Escherichia coli]]
+- [[Shigella spp.]] #TODO 
 - [[Samonella enterica]]
 - [[Vibrio cholerae]]
 - [[Vibrio parahaemolyticus]]

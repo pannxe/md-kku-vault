@@ -15,7 +15,7 @@ Secretory product (**[[Cathepsins]]**) -> Chronic inflammation -> **[[Hepatic Fi
 ## Acute
 **Juvenile worm migration** -> tissure destruction -> inflammation
 - [[Fever]]
-- [[Nausea and Vomitting]]
+- [[Nausea and Vomiting]]
 - [[Abdominal Pain]]
 - [[Internal Bleeding]]
 - [[Allergic Reaction]]

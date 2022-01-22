@@ -7,7 +7,7 @@
 		- [[SS]]
 		- [[EIEC]]
 	- [[EHEC]]
-- c **[[Nausea and Vomitting]]** ->
+- c **[[Nausea and Vomiting]]** ->
 	- Enterotoxin ->
 		- [[Staphylococcus aureus]] -> **[[Staphylococcal Enterotoxin B]]**
 		- [[Bacillus cereus]] -> **[[Bacillus Enterotoxin]]**

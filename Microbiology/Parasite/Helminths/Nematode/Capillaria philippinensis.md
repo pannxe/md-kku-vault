@@ -18,7 +18,7 @@ Destroy [[Mucosa layer]] -> inflammation (leukocyte infiltration) -> flatten [[V
 
 # Clinical Manifestation
 - **Chronic Waterry [[Diarrhoea]]**
-> [[Abdominal Pain]], [[Nausea and Vomitting]], [[Anorexia]], [[Abdominal Discomfort]], large volume of defaecation
+> [[Abdominal Pain]], [[Nausea and Vomiting]], [[Anorexia]], [[Abdominal Discomfort]], large volume of defaecation
 - Protein [[Malabsorption]] -> **Protein-losing enteropathy**
 	- **[[Hypoalbuminaemia]]** -> [[Pitting Oedema]], [[Ascites]], and [[Cachexia]]
 	- Decrease immunity -> 2nd bacterial infection

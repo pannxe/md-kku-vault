@@ -1,0 +1,1 @@
+Shiga toxin is specifically from [[Shigella dysenteriae]]. Others are considered **Shiga-like toxin**. They are however groupped together as shiga toxins.

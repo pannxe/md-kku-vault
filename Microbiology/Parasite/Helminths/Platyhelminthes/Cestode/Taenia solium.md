@@ -14,7 +14,7 @@ Latin America, Eastern Europe, Sub-saharan Africa, Asia and India
 ## Adult
 Inhabits [[Small Intestine]] -> usually **mild**, **non-specific**, or **asymptomatic**
 - [[Abdominal Pain]]
-- [[Nausea and Vomitting]]
+- [[Nausea and Vomiting]]
 - [[Diarrhoea]]
 - [[Constipation]]
 

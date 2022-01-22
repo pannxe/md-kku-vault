@@ -13,7 +13,7 @@ Generally flukes (except [[Fasciola gigantic]]), or others platyhelminthes.
 - [[Tapeworms]]
 
 # ADR
-- [[Nausea and Vomitting]]
+- [[Nausea and Vomiting]]
 - [[Headache]]
 - [[Fever]]
 - [[Rash]] and [[Allergic Reaction]]

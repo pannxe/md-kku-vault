@@ -14,7 +14,7 @@ Larva penetrate GI [[Mucosa layer]] (-> **[[Intestinal Perforation]]**) -> die -
 # Clinical Manifestation
 **Mimicks [[Crohn Disease]]**
 - **Severe [[Abdominal Pain]]**
-- [[Nausea and Vomitting]]
+- [[Nausea and Vomiting]]
 - [[Diarrhoea]]
 - **[[Intestinal Obstruction]]**
 

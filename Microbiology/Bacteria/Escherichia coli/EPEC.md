@@ -4,7 +4,7 @@
 # Clinical Manifestation
 Usually assoc. c **[[Infant]]** -> **high mortality in < 1 y/o**
 - **Moderate** to **severe** **[[Diarrhoea]]** -> [[Dehydration]]
-- **[[Nausea and Vomitting]]**
+- **[[Nausea and Vomiting]]**
 - Low-grade [[Fever]]
 
 # Pathogenesis
