@@ -1,0 +1,1 @@
+Toxin that has similar michanism to [[Cholera Toxin]]

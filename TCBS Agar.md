@@ -1,0 +1,1 @@
+Thiosulfate-citrate-bile salts-sucrose agar. -> Highly selective for **[[Vibrio cholerae]]**, **[[Vibrio parahaemolyticus]]**, and others Vibrio spp.
