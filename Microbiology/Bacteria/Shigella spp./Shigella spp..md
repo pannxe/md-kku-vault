@@ -1,0 +1,5 @@
+- **Gram negative**, **faculataive anaerobe**
+- **Non-motile**
+- **[[Lactose Fermentation Test]]** -> Negative
+- Commensal in human
+- Genetically close to [[Escherichia coli]]
