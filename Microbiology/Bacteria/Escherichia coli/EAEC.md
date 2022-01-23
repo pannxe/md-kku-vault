@@ -13,7 +13,7 @@ Entero**aggregative** [[Escherichia coli]]
 # Pathogenesis
 Aggregative adherence factors (**AAF**, i.e., frimbria) -> **biofilm** (esp. [[Small Intestine]]) -> cytotoxins -> inflammation -> **[[Diarrhoea]]** -> **[[Malnutrition]]** (children)
 
-If that strain can produce [[Shiga Toxins]] -> [[Haemolytic Uraemic Syndrome]] and [[Ranal Failure]]
+If that strain can produce [[Shiga Toxins]] -> [[Haemolytic Uraemic Syndrome]] and [[Renal Failure]]
 
 # Symptoms
 - **Watery [[Diarrhoea]] c mucus**

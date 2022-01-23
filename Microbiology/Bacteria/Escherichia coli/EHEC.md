@@ -6,7 +6,7 @@ Entero**haemorrhagic** [[Escherichia coli]]
 # Pathogenesis
 - **Very low ID** -- 1e1 - 1e2 cells
 - [[LEE]] -> [[Tir]]/[[Intimin]] -> Colonization in **[[Large Intestine]]** -> [[Attaching and Effacing Lesion]] -> **Haemorrhagic [[Colitis]]** -> [[Bloody Diarrhoea]]
-	- Produce **[[Shiga Toxins]]** -> Enter blood circulation -> [[Kidney]] -> [[Haemolytic Uraemic Syndrome]] and [[Ranal Failure]]
+	- Produce **[[Shiga Toxins]]** -> Enter blood circulation -> [[Kidney]] -> [[Haemolytic Uraemic Syndrome]] and [[Renal Failure]]
 	- Damage to [[Microvillus]] -> [[Diarrhoea]]
 
 # Symptom
@@ -17,7 +17,7 @@ Entero**haemorrhagic** [[Escherichia coli]]
 - **[[Colitis]]**
 
 # Complication
-[[Shiga Toxins]] -> **[[Haemolytic Uraemic Syndrome]]** and **[[Ranal Failure]]**
+[[Shiga Toxins]] -> **[[Haemolytic Uraemic Syndrome]]** and **[[Renal Failure]]**
 
 # Treatment
 - **Mild** -> Not reccommend

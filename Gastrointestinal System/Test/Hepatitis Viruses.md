@@ -12,7 +12,7 @@ Cause [[Hepatitis]]
 - **[[Hepatitis C Virus]]**
 
 ## Unknown Disease
-- [[Hepatitis G Virus]]
+- [[GB-Virus C]] (Hepatitis G Virus)
 
 # Clinical Manifestation
 ## Prodromal Phase
