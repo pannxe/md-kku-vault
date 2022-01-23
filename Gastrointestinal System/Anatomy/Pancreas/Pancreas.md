@@ -27,7 +27,7 @@ Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
 	- [[Annular Pancreas]]
 	- [[Heterotopic Pancreas]]
 	- Pancreatic Agenesis
-- [[Pancleatic Cyst]]
+- [[Pancreatic Cyst]]
 - **[[Pancreatitis]]**
 - [[Pancreatic Neoplasia]]
 
