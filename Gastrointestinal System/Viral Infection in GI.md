@@ -3,4 +3,4 @@ Usually cause [[Gastroenteritis]] -> **Waterry [[Diarrhoea]]**
 
 # Causative Agent
 - **[[Rotavirus]]** -- **infants**
-- **[[Norovirus]]** -- **adult**
+- **[[Norovirus]]** -- **adults**

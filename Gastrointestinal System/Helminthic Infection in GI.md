@@ -49,5 +49,3 @@ Irritation <- [[Trichinella spiralis]]
 - [[Dipylidium caninum]]
 - Echinostomiasis <- [[Echinostomids]]
 - [[Minute Intestinal Flukes]]
-
-#TODO

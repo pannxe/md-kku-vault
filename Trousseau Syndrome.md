@@ -1,0 +1,1 @@
+Sign involving episodes of **vessel inflammation** due to blood clot (**[[Thrombophlebitis]]**) which are **recurrent in different locations** (migratory thrombophlebitis).

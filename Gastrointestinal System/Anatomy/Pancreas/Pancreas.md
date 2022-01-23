@@ -27,7 +27,7 @@ Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
 	- [[Annular Pancreas]]
 	- [[Heterotopic Pancreas]]
 	- Pancreatic Agenesis
-- [[Pancreatic Cyst]]
+- [[Pancreatic Cysts]]
 - **[[Pancreatitis]]**
 - [[Pancreatic Neoplasia]]
 
@@ -39,5 +39,5 @@ Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
 - Remneant of proximal duct -> **[[Duct of Santorini]]** -> [[Minor Papilla]]
 
 Ducts branches into smaller duct and give rise to 
-- [[Pancreatoc Lobule]] -> [[Pancreatic Ancini]] (and [[Pancreatic Ancinar Cell]]) -- they acquire [[Zymogen Granule]]
+- [[Pancreatic Lobule]] -> [[Pancreatic Ancini]] (and [[Pancreatic Ancinar Cell]]) -- they acquire [[Zymogen Granule]]
 - [[Islet of Langerhans]] -- they aquire [[Secretory Granules]]

@@ -62,7 +62,7 @@ Usually stems from [[Malnutrition]] and chronic inflammation.
 - PCR
 
 ## Differential Diagnosis
-- [[Viral Infection in GI Tract]] (e.g., [[Norovirus]])
+- [[Viral Infection in GI]] (e.g., [[Norovirus]])
 - [[Traveler Diarrhoea]]
 - [[Lactose Intolerance]]
 - [[Cryptosporidium spp.]] infection
