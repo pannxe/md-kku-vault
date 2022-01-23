@@ -20,7 +20,6 @@ Cause [[Hepatitis]]
 - **Increased [[ALT]]** 
 
 ## Acute Hepatitis
-#consider-re-oranize 
 - **Increased [[ALT]] (10x or more)** -> resolved in 8-10 wks.
 > **Hepatitis Virus ALT > AST**; 
 > DDx : [[Alcoholic Hepatitis]] AST > ALT (2:1 or more)
@@ -28,10 +27,11 @@ Cause [[Hepatitis]]
 > DDx : [[Biliary Obstruction]] -> incr. ALP but resolved in 2-3 days.
 
 # Chronic Hepatitis
-#consider-re-oranize
 - Signs of [[Cirrhosis]]
 - **Increased [[ALT]]** and **[[AST]]** **(2-3x)**
 > DDx : 
 > - **[[Alcoholic Hepatitis]] - AST:ALT > 2:1 and does not exceed 400
 > - [[Non-alcoholic Steatohepatits]]
 > - [[Metabolic Disease]], [[Haemochromatosis]], [[Wilson's Disease]]
+
+#consider-re-oranize
