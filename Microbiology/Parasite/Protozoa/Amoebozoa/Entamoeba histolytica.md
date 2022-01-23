@@ -10,7 +10,7 @@
 - Immigrant from developing countries
 - Travelers to topics -> [[Traveler Diarrhoea]]
 - Residents of institutions for mentally retarded
-- Men who have sex with men
+- [[MSM]]
 - [[Immunocompromised]] persons
 	- Use of [[Corticosteroid]]
 - [[Pregnancy]]
@@ -55,7 +55,7 @@ Generally host can establish tolerance by
 	- [[Iodamoeba buetschlii]] -- large glycogen mass
 
 ## False Negative
-- [[Anti-Protozoan Agent]] before Dx
+- [[Anti-Protozoan Agents]] before Dx
 - Soap amd tap water lyse trophozoite
 - [[Barium Contrast]]
 - Single stool examination or improper maintainance of sample

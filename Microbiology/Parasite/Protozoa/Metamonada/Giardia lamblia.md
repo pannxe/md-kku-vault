@@ -17,7 +17,7 @@
 
 # Risk Factor
 - Children (**Daycare center** in underdevelop countries) 
-- Homosexual
+- Homosexual, esp. [[MSM]]
 - [[Immunocompromised]] host
 - [[Hypoglobulinaemia]] -> Chronic
 

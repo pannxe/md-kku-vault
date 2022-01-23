@@ -7,7 +7,7 @@
 
 # Pathogenesis
 - **Urease enzyme** -> nutralize acid -> [[Dyspeptic]] ->
-	- **[[Gastritis]]** -> **[[Gastric Ulcer]]** -> [[Gastric CA]]
+	- **[[Gastritis]]** -> **[[Gastric Ulcer]]** -> **[[Gastric CA]]**
 	- [[Duodenal Ulcer]]
 - Flagella -> movement
 - **[[CagA]]** -> **Induce [[Cytokine]] production** -> inflammation
