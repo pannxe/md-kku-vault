@@ -1,5 +1,0 @@
-- Secretes [[Pancreatic Enzymes]] -> [[Zymogen Granule]] -> [[Intercalated Duct]] (Pancreatic Duct)
-- Looks like [[Serous Acinus]]
-- Darker stain on the basal side
-	- [[Zymogen Granule]] -> pale stain
-- Contain [[Centroancinar Cell]], which is unique to [[Pancreas]]

@@ -1,4 +1,4 @@
 - Pure serous gland <- only [[Serous Acinus]]
 - Connective tissue divids into lobular
-- [[Adipose Cell]] in lobular
+- **[[Adipose Cell]] in lobular**
 - Long [[Intercalated Duct]], short [[Striated Duct]]
