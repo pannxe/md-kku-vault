@@ -55,7 +55,7 @@ Generally host can establish tolerance by
 	- [[Iodamoeba buetschlii]] -- large glycogen mass
 
 ## False Negative
-- [[Anti-Protozoan Agents]] before Dx
+- [[Antiprotozoan Drugs]] before Dx
 - Soap amd tap water lyse trophozoite
 - [[Barium Contrast]]
 - Single stool examination or improper maintainance of sample
