@@ -1,5 +1,7 @@
 Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
 
+---
+
 # Anatomy
 ## Location
 **[[Retroperotoneal]]** -- behind [[Lesser Omental Sac]] and [[Stomach]]
@@ -10,6 +12,8 @@ Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
 - **Neck**
 - **Tail**
 
+---
+
 # Function
 ## Exocrine Portion
 **[[Pancreatic Ancini]]** with [[Zymogen Granule]] -> [[Pancreatic Enzymes]] -> [[Exocrine]] portion
@@ -19,6 +23,8 @@ Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
 ## Endocrine Portion
 **[[Islet of Langerhans]]** -> [[Endocrine]] portion
 > Histo : Paler stain than [[Pancreatic Ancini]]
+
+---
 
 # Pathology
 - Congenital Anomalies
@@ -31,6 +37,8 @@ Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
 - **[[Pancreatitis]]**
 - [[Pancreatic Neoplasia]]
 
+---
+
 # Development
 **4th week** : 2 [[Endoderm]] outpouching on the dorsal and ventral side of [[Embryonic Duodenal Tube]] -> migrate posteriorly around the [[Duodenum]] -> 2x **[[Pancreatic Anlage]]**
 
@@ -41,3 +49,5 @@ Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
 Ducts branches into smaller duct and give rise to 
 - [[Pancreatic Lobule]] -> [[Pancreatic Ancini]] (and [[Pancreatic Ancinar Cell]]) -- they acquire [[Zymogen Granule]]
 - [[Islet of Langerhans]] -- they aquire [[Secretory Granules]]
+
+---

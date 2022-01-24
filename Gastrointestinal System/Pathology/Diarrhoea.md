@@ -16,12 +16,15 @@
 > - [[Large-intestinal CA]]
 > - [[Intussusception]]
 
+## Bloody Diarrhoea
+Somewhat interchangable with [[Dysentery]] 
+
 ---
 # Duration
 ## Acute Diarrhoea
 **3 or more** loss or watery stool in 24 hr or **Bloody once** 
 - c **Fever** -> **invasive pathogen**
-- c **Bloody stool** -> [[Bloody Diarrhoea]], [[Dysentery]]
+- c **Bloody stool** -> [[Diarrhoea#Bloody Diarrhoea|Bloody diarrhoea]], [[Dysentery]]
 	- Invasive and cytotoxin -> 
 		- [[Clostridium difficile]]
 		- [[SS]]

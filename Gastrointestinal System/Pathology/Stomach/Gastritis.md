@@ -1,0 +1,2 @@
+- Inflammation of the [[Stomach]]
+- Chronic -> atrophy -> [[Hypochlorhydria|Hypo-/achlorhydria]] + decr. [[Intrinsic Factor]] deficiency -> **[[Anaemia#Megaloblastic Anaemia|Megaloblastic Anaemia]]**

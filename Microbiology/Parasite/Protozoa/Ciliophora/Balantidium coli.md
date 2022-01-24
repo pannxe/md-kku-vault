@@ -1,5 +1,5 @@
 # Clinical Manifestation
-- **Persistent [[Diarrhoea]]**
+- **[[Diarrhoea#Presistent Diaarhoea|Persistent diarrhoea]]**
 Rare symptoms :
 - [[Dysentery]]
 - [[Abdominal Pain]]

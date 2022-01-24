@@ -44,7 +44,7 @@ Generally host can establish tolerance by
 # Diagnosis
 - **[[Stool Examination]]** - **Simple smear & concentration**
 	- Cyst and trophozote in stool
-- **[[Bloody Diarrhoea]]** with **mucous** and **offensive smell**
+- **[[Diarrhoea#Bloody Diarrhoea|Bloody diarrhoea]]** with **mucous** and **offensive smell**
 - Cultivation, serological, and molecuilar techniques are also possible
 
 ## False Positive

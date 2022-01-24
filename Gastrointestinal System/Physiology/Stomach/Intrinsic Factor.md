@@ -1,0 +1,1 @@
+Essential in **absorption of [[Vitamin B12]]**

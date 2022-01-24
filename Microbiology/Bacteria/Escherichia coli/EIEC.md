@@ -11,7 +11,7 @@ Entero**invasive** [[Escherichia coli]].
 > See [[Shigella spp.]]
 
 # Symptoms
-- **Mild watery [[Diarrhoea]]** maybe [[Bloody Diarrhoea]] -> [[Dehydration]]
+- **Mild watery [[Diarrhoea]]** maybe [[Diarrhoea#Bloody Diarrhoea|Bloody diarrhoea]] -> [[Dehydration]]
 > **[[Dysentery]]-like**
 - [[Abdoninal Cramp]], **[[Tenesmus]]**
 - [[Fever]], [[Fatigue]], [[Anorexia]], etc.

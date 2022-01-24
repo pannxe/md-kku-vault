@@ -16,7 +16,7 @@ Larva may causes muscle weakness / aches
 
 # Clinical Manifestation
 - **Light infection** -> **asymptomatic**
-- **Secretory [[Diarrhoea]]**
+- **[[Diarrhoea#Secretory|Secretory diarrhoea]]**
 - [[Nausea & Vomiting]] and [[Abdominal Pain]]
 - Mostly Self-limited within few weeks
 

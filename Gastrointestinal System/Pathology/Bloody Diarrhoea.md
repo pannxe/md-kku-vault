@@ -1,1 +1,0 @@
-Somewhat interchangable with [[Dysentery]] 

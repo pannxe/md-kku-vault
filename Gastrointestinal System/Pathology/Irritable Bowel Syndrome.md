@@ -7,7 +7,7 @@
 - [[Constipation]]
 - [[Tenesmus]]
 - [[Bloating]]
-> **But NOT [[Bloody Diarrhoea]] or [[Dysentery]]-like**
+> **But NOT [[Diarrhoea#Bloody Diarrhoea|Bloody diarrhoea]] or [[Dysentery]]-like**
 
 # Diagnosis
 **Idiopathic**

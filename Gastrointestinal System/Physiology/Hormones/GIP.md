@@ -1,4 +1,4 @@
-**Gastric inhibitory peptide**
+**Gastric-inhibitory Peptide**
 
 # Source 
 **[[Small Intestine]]**

@@ -8,7 +8,7 @@ A complication of [[Amoebic Dysentery]] (very rare, < 0.5%). **Mortality rate < 
 
 # Manifestation
 Rapid onset of
-- Severe [[Bloody Diarrhoea]]
+- Severe [[Diarrhoea#Bloody Diarrhoea|Bloody diarrhoea]]
 - Severe [[Abdominal Pain]]
 - [[Peritonitis]]
 - [[Fever]]

@@ -5,12 +5,12 @@ Entero**haemorrhagic** [[Escherichia coli]]
 
 # Pathogenesis
 - **Very low ID** -- 1e1 - 1e2 cells
-- [[LEE]] -> [[Tir]]/[[Intimin]] -> Colonization in **[[Large Intestine]]** -> [[Attaching and Effacing Lesion]] -> **Haemorrhagic [[Colitis]]** -> [[Bloody Diarrhoea]]
+- [[LEE]] -> [[Tir]]/[[Intimin]] -> Colonization in **[[Large Intestine]]** -> [[Attaching and Effacing Lesion]] -> **Haemorrhagic [[Colitis]]** -> [[Diarrhoea#Bloody Diarrhoea|Bloody diarrhoea]]
 	- Produce **[[Shiga Toxins]]** -> Enter blood circulation -> [[Kidney]] -> [[Haemolytic Uraemic Syndrome]] and [[Renal Failure]]
 	- Damage to [[Microvillus]] -> [[Diarrhoea]]
 
 # Symptom
-- **[[Bloody Diarrhoea]]**
+- **[[Diarrhoea#Bloody Diarrhoea|Bloody diarrhoea]]**
 - [[Abdominal Pain]], [[Abdoninal Cramp]]
 - Severe [[Nausea & Vomiting]]
 - **NO to LOW [[Fever]]**

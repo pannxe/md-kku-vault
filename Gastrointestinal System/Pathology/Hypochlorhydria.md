@@ -1,0 +1,1 @@
+Achlorhydria and hypochlorhydria refer to states where the production of hydrochloric acid in gastric secretions of the stomach and other digestive organs is absent or low, respectively.

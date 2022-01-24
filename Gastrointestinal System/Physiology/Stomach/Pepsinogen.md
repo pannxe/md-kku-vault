@@ -1,0 +1,2 @@
+- Secreted by **[[Chief Cell]]**
+- Activated by **[[HCl]]** -> **[[Pepsin]]**

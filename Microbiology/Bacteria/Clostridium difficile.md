@@ -11,7 +11,7 @@
 [[Dysbiosis]] -> colonization -> **glucosylating toxin** -> inflammation -> cytokines -> **[[Neutrophil]] influx** -> **[[Pseudomembraneous Colitis]]****
 
 # Clinical Manifestation
-- **[[Bloody Diarrhoea]]**
+- **[[Diarrhoea#Bloody Diarrhoea|Bloody diarrhoea]]**
 - **[[Abdominal Pain]]**
 - **[[Fever]]**
 - **[[Pseudomembraneous Colitis]]** c WBC in stool.

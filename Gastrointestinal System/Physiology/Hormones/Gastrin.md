@@ -2,4 +2,4 @@
 **[[Stomach]]** and **[[Duodenum]]**
 
 # Function
-**Incr. [[Gastric Secretion]] secretion.**
+**Incr. [[Gastric Secretion]].**

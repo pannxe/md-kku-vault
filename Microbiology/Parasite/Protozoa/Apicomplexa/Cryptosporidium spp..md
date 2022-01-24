@@ -19,7 +19,7 @@
 # Pathogenesis
 The parasite attaches to the [[Microvillus]] -> epithelial cell release [[Cytokine]] & release of [[Enterotoxin]] -> inflammation -> :
 - Apoptosis of [[Enterocyte]] -> [[Malabsorption]] -> [[Malnutrition]] -> [[Weight Loss]] and [[Fatigue]]
-- Incr. Cl- secretion and water -> [[Diarrhoea]]
+- Incr. Cl- secretion and water -> [[Diarrhoea#Secretory Diarrhoea|Secretory dirrhoea]]
 - Parasite hide in the parasitoporous vacuole -> very hard to Tx
 - Secretion from [[Apicoplast]]
 	- Host attachment
