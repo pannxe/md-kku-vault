@@ -3,7 +3,7 @@
 
 # MoA
 - **Incr. [[Gastric Mucous]] viscosity**, **coat [[Mucosal Layer]]**, and incr. [[Bicarbonate]] output -> barrier effect
-- Absorb [[Pepsin]]
+- **Absorb [[Pepsin]]**
 - Incr. [[Prostaglandins]] -> incr. blood flow -> incr. tissue growth
 -> **Promote healing**
 > May take long time to heal

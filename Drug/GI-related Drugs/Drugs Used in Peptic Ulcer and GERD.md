@@ -1,5 +1,5 @@
 # Indication
-**[[Peptic Ulcer]]** ([[Gastric Ulcer]] and [[Duodenal Ulcer]]) -> decrease level of **gastric acidity** or **incr. mucosal protection**. Tx infection if there is one.
+**[[Peptic Ulcer]]** ([[Gastric Ulcer]] and [[Duodenal Ulcer]]) -> decr level of **gastric acidity**, **decr [[Gastric Secretion]]**, or **incr. [[Gastric Mucous]] protection**. Tx infection if there is one.
 > First trial in Tx [[Dyspepsia]]; if not improve -> endoscope -> biopsy
 
 # Classification
@@ -19,17 +19,4 @@ Specific drugs + Lifestyle chages -> **Reinvestigation**
 - [[Carbenoxalone]]
 
 ## Treatment of [[Helicobacter pylori]]
-## Triple Therapy
-- **[[Omeprazole]]**
-- **[[Clarithromycin]]**
-- **[[Amoxicillin]]** or [[Metronidazole]]
-> Or [[Levofloxacin]] + [[Amoxicillin]] + [[PPIs]]
-
-## Quadruple Therapy
-- **[[Omeprazole]]**
-- [[Bismuth Chelate]]
-- [[Metronidazole]]
-- [[Tetracycline]]
-
-# Sequential
-[[PPIs]] + [[Amoxicillin]] (5 d) -> [[PPIs]] + [[Clarithromycin]] + [[Metronidazole]] (5 d)
+See **[[Helicobacter pylori#Treatment]]**

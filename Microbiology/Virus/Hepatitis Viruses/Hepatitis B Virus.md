@@ -42,7 +42,7 @@ Most pt. is infected since childhood, newly acquired infection as adult is low (
 - **[[Anorexia]]** -> [[Fatigue]]
 - [[Abdominal Pain]] esp. at RUQ
 - [[Dark Urine]]
-- [[Malaria]]
+- [[Malaise]]
 
 # Serology
 Mainly screening via serology

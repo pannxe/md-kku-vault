@@ -6,7 +6,7 @@
 - 95% protein binding
 
 # MoA
-Acidic environment -> convert to [[Sulfenic Acid]] -> **form covalent bond c [[H+-K+ ATPase]]** -> irreversibly inh. [[Gastric Secretion]]
+Acidic environment -> convert to [[Sulfenic Acid]] -> **form covalent bond c [[H+-K+ ATPase]]** in [[Parietal Cell]] (irreversible) -> inh. [[Gastric Secretion]]
 > Take 3-4 days to reach max potential; [[H+-K+ ATPase]] can regenerate in 2 days 
 
 # Drugs

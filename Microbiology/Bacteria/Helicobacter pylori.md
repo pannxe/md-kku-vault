@@ -6,7 +6,7 @@
 **Faecal-oral route**
 
 # Pathogenesis
-- **Urease enzyme** -> nutralize acid -> [[Dyspepsia]] ->
+- **[[Urease]]** -> base -> **nutralize [[Gastric Secretion]]** -> [[Dyspepsia]] ->
 	- **[[Gastritis]]** -> **[[Gastric Ulcer]]** -> **[[Gastric CA]]**
 	- [[Duodenal Ulcer]]
 - Flagella -> movement
@@ -25,6 +25,17 @@
 - Faeces -> [[PCR]]
 
 # Treatment
-- **[[Amoxicillin]]**
+## Triple Therapy
+- **[[Omeprazole]]**
 - **[[Clarithromycin]]**
-- **[[Metronidazole]]**
+- **[[Amoxicillin]]** or **[[Metronidazole]]**
+> Or [[Levofloxacin]] + [[Amoxicillin]] + [[PPIs]]
+
+## Quadruple Therapy
+- **[[Omeprazole]]**
+- [[Bismuth Chelate]]
+- [[Metronidazole]]
+- [[Tetracycline]]
+
+## Sequential
+[[PPIs]] + [[Amoxicillin]] (5 d) -> [[PPIs]] + [[Clarithromycin]] + [[Metronidazole]] (5 d)
