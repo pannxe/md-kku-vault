@@ -11,7 +11,7 @@
 # ADR
 - **[[Diarrhoea]]** -- usually self-limited
 - **[[Iodine Toxicity]]**
-- [[Nausea and Vomiting]]
+- [[Nausea & Vomiting]]
 - [[Anorexia]]
 - [[Headache]]
 - Skin rash

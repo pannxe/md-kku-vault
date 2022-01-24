@@ -17,4 +17,4 @@ If that strain can produce [[Shiga Toxins]] -> [[Haemolytic Uraemic Syndrome]] a
 
 # Symptoms
 - **Watery [[Diarrhoea]] c mucus**
-- Low grade [[Fever]] and [[Nausea and Vomiting]]
+- Low grade [[Fever]] and [[Nausea & Vomiting]]

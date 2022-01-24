@@ -12,7 +12,7 @@ Entero**haemorrhagic** [[Escherichia coli]]
 # Symptom
 - **[[Bloody Diarrhoea]]**
 - [[Abdominal Pain]], [[Abdoninal Cramp]]
-- Severe [[Nausea and Vomiting]]
+- Severe [[Nausea & Vomiting]]
 - **NO to LOW [[Fever]]**
 - **[[Colitis]]**
 

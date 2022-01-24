@@ -18,7 +18,7 @@ Attachment via **[[VP4 Spike]]** -> **Enter epithelium** and shedding of shell -
 # Clinical Manifestation
 Usually self-limited within 7 d.
 - [[Fever]]
-- **[[Nausea and Vomiting]]**
+- **[[Nausea & Vomiting]]**
 - **Mucous** **[[Diarrhoea]]** ->
 	- Large Volume, **[[Bile]]**, **frothy** <- undigested milk
 	- **[[Dehydration]]** ->

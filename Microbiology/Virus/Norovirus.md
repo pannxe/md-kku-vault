@@ -13,7 +13,7 @@
 # Clinical Manifestation
 **[[Gastroenteritis]]** -> short duration, rarely cause dehydration
 - **[[Diarrhoea]]**
-- **[[Nausea and Vomiting]]**
+- **[[Nausea & Vomiting]]**
 - [[Fever]], [[Headache]], etc.
 
 # Diagnosis

@@ -36,7 +36,7 @@ Inflammation of [[Mucosal Layer]] of [[Colon]] ->
 Rare now
 - [[Finger Clubbing]]
 - [[Rectal Prolapse]]
-- Chronic [[Diarrhoea]] (children)
+- [[Diarrhoea#Chronic Diarrhoea|Chronic diarrhoea]] (children)
 
 # Diagnosis
 - Classical Triad

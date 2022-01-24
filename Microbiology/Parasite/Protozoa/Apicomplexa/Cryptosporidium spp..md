@@ -31,7 +31,7 @@ Mostly **asymptomatic** in immunocompetent pt. For [[Immunocompromised]] or pt. 
 - **Waterry [[Diarrhoea]]** -> **[[Dehydration]]**
 - [[Abdominal Discomfort]]
 - [[Anorexia]]
-- [[Nausea and Vomiting]]
+- [[Nausea & Vomiting]]
 - **[[Malabsorption]]** -> [[Weight Loss]] and [[Fatigue]]
 - Respiratory problems
 

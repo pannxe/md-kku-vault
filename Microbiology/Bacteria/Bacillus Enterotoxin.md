@@ -4,7 +4,7 @@ Either **pre-formed** or produced by **living cells** in GI tract.
 From **High protein foods** that has been **reheated** -> **[[Diarrhoea]]**
 
 # Emetic Type
-From **High CHO foods** that has been **reheated** -> **[[Nausea and Vomiting]]**
+From **High CHO foods** that has been **reheated** -> **[[Nausea & Vomiting]]**
 
 Both types are **self-limited within 24 hrs** and **treatement is not reccommended** 
 

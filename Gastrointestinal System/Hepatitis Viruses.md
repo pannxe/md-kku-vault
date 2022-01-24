@@ -16,7 +16,7 @@ Cause [[Hepatitis]]
 
 # Clinical Manifestation
 ## Prodromal Phase
-- Non-specific : [[Fever]], [[Malaise]], [[Nausea and Vomiting]]
+- Non-specific : [[Fever]], [[Malaise]], [[Nausea & Vomiting]]
 - **Increased [[ALT]]** 
 
 ## Acute Hepatitis

@@ -8,7 +8,7 @@ Bind to **EP4-receptor** -> incr. Cl- -> **incr. fluid secretion**
 - [[Irritable Bowel Syndrome]]
 
 # ADR
-- [[Nausea and Vomiting]] 
+- [[Nausea & Vomiting]] 
 - [[Diarrhoea]]
 - [[Headache]]
 - [[Allergic Reaction]]

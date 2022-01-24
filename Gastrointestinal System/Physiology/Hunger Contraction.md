@@ -1,0 +1,1 @@
+**[[Hunger]]** or **emptiness of [[Stomach]]** -> **strong contraction** of [[Stomach]] -> [[Abdominal Pain]]

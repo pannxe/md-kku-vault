@@ -1,0 +1,1 @@
+Mechanical digestion in [[Oral Cavity]] by [[Teeth]]; food mixed with [[Saliva]] -> **Bolus**

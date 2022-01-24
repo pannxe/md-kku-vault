@@ -14,7 +14,7 @@ Latin America, Eastern Europe, Sub-saharan Africa, Asia and India
 ## Adult
 Inhabits [[Small Intestine]] -> usually **mild**, **non-specific**, or **asymptomatic**
 - [[Abdominal Pain]]
-- [[Nausea and Vomiting]]
+- [[Nausea & Vomiting]]
 - [[Diarrhoea]]
 - [[Constipation]]
 
@@ -31,7 +31,7 @@ If egg is ingested by human -> hatch in [[Small Intestine]] -> larva enters bloo
 - **[[Albendazole]]**
 - [[Niclosamide]] 
 
-Drugs may cause [[Vomitting]] -> **[[Reverse Peristalsis]]** -> **[[Cysticercosis]]**
+Drugs may cause [[Nausea & Vomiting]] -> **[[Reverse Peristalsis]]** -> **[[Cysticercosis]]**
 
 - Collect stool 3 days after Tx -> search for scolex, or
 - Stool re-examination for eggs after 1-3 mo.

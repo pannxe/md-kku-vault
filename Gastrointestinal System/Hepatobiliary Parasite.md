@@ -1,5 +1,5 @@
 # Symptom
-- [[Nausea and Vomiting]]
+- [[Nausea & Vomiting]]
 - Rt-upper quadrant [[Abdominal Pain]]
 - [[Jaundice]]
 May include :

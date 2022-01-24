@@ -13,7 +13,7 @@ Mechanism still unclear. Possibly :
 Typical of **[[Food Poisoning]]**. IP up to 0.5 - 3 days. Usually self-limited in 3 days.
 - **Severe Watery [[Diarrhoea]]**
 - **[[Abdoninal Cramp]]**
-- [[Nausea and Vomiting]]
+- [[Nausea & Vomiting]]
 - **NO Fever**
 
 # Treatment

@@ -1,2 +1,2 @@
-Food in **[[Duodenum]]** **inh.** contraction of **[[Stomach]]** -> **incr. gastric emptying time**
+Food in **[[Duodenum]]** **inh.** contraction of **[[Stomach]]** -> **incr. [[Stomach#Gastric Emptying Time|gastric emptying time]]**
 > CC : [[Duodenectomy]] -> loss of reflex -> **decr. gastric emptying time**

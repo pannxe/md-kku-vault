@@ -18,7 +18,7 @@ Destroy [[Mucosal Layer]] -> inflammation (leukocyte infiltration) -> flatten [[
 
 # Clinical Manifestation
 - **Chronic Waterry [[Diarrhoea]]**
-> [[Abdominal Pain]], [[Nausea and Vomiting]], [[Anorexia]], [[Abdominal Discomfort]], large volume of defaecation
+> [[Abdominal Pain]], [[Nausea & Vomiting]], [[Anorexia]], [[Abdominal Discomfort]], large volume of defaecation
 - Protein [[Malabsorption]] -> **Protein-losing enteropathy**
 	- **[[Hypoalbuminaemia]]** -> [[Pitting Oedema]], [[Ascites]], and [[Cachexia]]
 	- Decrease immunity -> 2nd bacterial infection
@@ -29,7 +29,7 @@ Destroy [[Mucosal Layer]] -> inflammation (leukocyte infiltration) -> flatten [[
 - **Immunochromatography** and Ab detection is **COMMON**
 
 ## Clue
-- **Chronic [[Diarrhoea]]**
+- **[[Diarrhoea#Chronic Diarrhoea|Chronic diarrhoea]]**
 - History of raw freshwater fish consumption
 - Cue of [[Malnutrition]]
 

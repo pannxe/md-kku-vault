@@ -10,5 +10,5 @@
 # Clinical Manifestation
 Usually assoc. c **[[Infant]]** -> **high mortality in < 1 y/o**
 - **Moderate** to **severe** **[[Diarrhoea]]** -> [[Dehydration]]
-- **[[Nausea and Vomiting]]**
+- **[[Nausea & Vomiting]]**
 - Low-grade [[Fever]]

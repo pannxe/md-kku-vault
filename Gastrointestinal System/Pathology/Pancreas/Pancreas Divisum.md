@@ -3,4 +3,4 @@
 
 # Clinical Manifestation
 **Asymptomatic**
-> Minority may have **[[Pancreatitis]]** -> [[Abdominal Pain]] and [[Nausea and Vomiting]]
+> Minority may have **[[Pancreatitis]]** -> [[Abdominal Pain]] and [[Nausea & Vomiting]]
