@@ -14,4 +14,4 @@
 
 # Treatment
 - Reduce [[Stress]] or [[Anxiety]] associated
-- [[Laxative Cathartic & Drugs for Constipation]] or [[ORS]] if necessery
+- [[Drugs Used in Constipation]] or [[ORS]] if necessery

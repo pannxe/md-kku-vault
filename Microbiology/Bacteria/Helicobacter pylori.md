@@ -6,7 +6,7 @@
 **Faecal-oral route**
 
 # Pathogenesis
-- **Urease enzyme** -> nutralize acid -> [[Dyspeptic]] ->
+- **Urease enzyme** -> nutralize acid -> [[Dyspepsia]] ->
 	- **[[Gastritis]]** -> **[[Gastric Ulcer]]** -> **[[Gastric CA]]**
 	- [[Duodenal Ulcer]]
 - Flagella -> movement

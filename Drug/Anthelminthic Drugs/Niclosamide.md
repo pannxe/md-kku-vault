@@ -5,4 +5,4 @@
 - **DOES NOT ABSORBED** from lumen
 
 # Clinical Use
-Tapeworms. If used with ***[[Taenia solium]]*** must adjucts with **Laxative drug** ([[Laxative Cathartic & Drugs for Constipation]]) to prevent auto-infection.
+Tapeworms. If used with ***[[Taenia solium]]*** must adjucts with **Laxative drug** ([[Drugs Used in Constipation]]) to prevent auto-infection.

@@ -5,7 +5,7 @@ Secrete **[[HCl]]** and **[[Intrinsic Factor]]** -> [[Gastric Secretion]]
 **Tubulovesicular structures** relocate to the surface of **canaliculus** during secretion
 
 **[[Carbonic Anhydrase]]** -- (CO2 + H20 -> H+ + HCO3- ([[Bicarbonate]])) -> upon stim :
-- **[[ECL Cell]]** -> **[[Histamine]]** -> **[[H2 Receptor]]** -- **most significant**
+- **[[ECL Cell]]** -> **[[Histamine]]** -> **[[H2-receptor]]** -- **most significant**
 - [[Parasympathetic NS]] -> **[[ACh]]** -> **[[M3 Receptor]]**
 - [[Gastrin]] -> [[CCK-B Receptor]] -- least significant
 > Also Ach and gastrin also stim. indirectly via stimulation of [[ECL Cell]]

@@ -1,0 +1,38 @@
+**Proton Pump Inhibitors**
+
+# Pharmacokinetics
+- **Active at acidic condition** -> **30 min ac**
+- Rapidly absorbed
+- 95% protein binding
+
+# MoA
+Acidic environment -> convert to [[Sulfenic Acid]] -> **form covalent bond c [[H+-K+ ATPase]]** -> irreversibly inh. [[Gastric Secretion]]
+> Take 3-4 days to reach max potential; [[H+-K+ ATPase]] can regenerate in 2 days 
+
+# Drugs
+**[[Omeprazole]]** -- prototype
+> **-prazole** : [[Lanzoprazole]], [[Rabeprazole]], [[Pantoprazole]], etc
+> Bioavailability varies with cost
+
+# Clinical Indication
+- **[[Peptic Ulcer]]** and others **[[Dyspepsia]]**
+- **[[GERD]]**
+- **Stress-induced [[Gastritis]]**
+- **[[Zollinger-Ellison Syndrome]]**
+
+# ADRs
+**Minimal**. Normally in chronic use -> **altered gut pH** ->
+- [[Malabsorption]]
+	- **[[Vitamin B12]]** -> [[Anaemia#Megaloblastic Anaemia]]
+	- **[[Calcium]]** -> [[Bone Fracture]]
+- **Altered [[Gut Microbiota]]** -> 
+	- [[Clostridium difficile]]
+	- Bacterial [[Gastroenteritis]] 
+	- Bacterial [[Pneumonia]]
+
+# Drug Interaction
+- **[[High Plasma Protein Binding Drugs]]**
+- **[[CYP2C9]]** and **[[CYP3A4]]**
+
+# Contraindication
+- Pregnancy category **C**

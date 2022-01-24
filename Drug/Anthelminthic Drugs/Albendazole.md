@@ -1,7 +1,7 @@
 # Pharmacokinetic
 - **Poor bioavailability** ~5%
 - **Fatty meal incr. absorption**
-- **Pass [[Blood-Brain Barrieri]]**
+- **Pass [[Blood-Brain Barrier]]**
 - Excrete in urine
 - Metabolized to active metabolite by [[Liver]] 
 
