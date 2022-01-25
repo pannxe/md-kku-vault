@@ -21,7 +21,8 @@ See [[Absorption of Nutrients]]
 - **[[Intrinsic Factor]]** 
 - [[Alcohol]]
 - [[Water]]
-- Electrolytes -- Cu, I, F, Mo
+- Electrolytes
+> Cu, I, F, Mo
 
 ---
 

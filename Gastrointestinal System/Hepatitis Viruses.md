@@ -32,6 +32,6 @@ Cause [[Hepatitis]]
 > DDx : 
 > - **[[Alcoholic Hepatitis]] - AST:ALT > 2:1 and does not exceed 400
 > - [[Non-alcoholic Steatohepatits]]
-> - [[Metabolic Disease]], [[Haemochromatosis]], [[Wilson's Disease]]
+> - [[Metabolic Diseases]], [[Haemochromatosis]], [[Wilson's Disease]]
 
 #consider-re-oranize
