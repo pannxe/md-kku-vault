@@ -1,0 +1,1 @@
+**[[Isomaltose]]** -> [[Glucose]] + [[Malto-oligosaccaride]]

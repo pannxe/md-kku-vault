@@ -1,0 +1,1 @@
+**[[Maltose]]** -> **2x [[Glucose]]**

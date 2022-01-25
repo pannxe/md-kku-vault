@@ -5,7 +5,7 @@ Activate [[Opioid-receptor]]
 ## MoA
 - **[[μ-Opioid Receptors]]** -> **decr. [[Intestinal Movement]]** and **incr [[Anal Sphincters]] tone**
 - **[[δ-Opioid Receptors]]** -> **decr. [[Intestinal Secretions]]**
-- Both -> **decr. [[Gut Absorption]]**
+- Both -> **decr. [[Absorption of Nutrients]]**
 
 ## Drugs
 - **[[Loperamide]]**

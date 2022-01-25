@@ -9,5 +9,5 @@ Activate in [[Duodenum]]
 - **[[Elastase]]**
 
 ## Active Form
-- **[[Amylase]]**
+- **[[α-Amylase]]**
 - **[[Lipase]]**

@@ -14,7 +14,7 @@ Stomach has both [[Endocrine]] and [[Exocrine]] seretory protion
 - **[[Nervous Systems, Hormone, and Movement of GI#Hormone in GI|GI Hormones]]**
 
 ## Digestion
-- **[[Phases of Digestion]]**
+- **[[Digestion of Nutrients]]**
 ---
 
 # Pathology

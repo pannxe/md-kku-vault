@@ -19,7 +19,7 @@ Gastric secretion is produced by various [[Gastric Glands]]. ~2 L per day.
 > Faster production rate -> **decr. Na+**; incr. Cl-, H+ and K+ 
 
 # Regulation
-> See [[Phases of Digestion]]
+> See [[Digestion of Nutrients#Phases of Digestion]]
 
 ## Hormonal Control
 > See [[Parietal Cell]]

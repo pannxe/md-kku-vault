@@ -20,7 +20,7 @@
 - **[[Shock]]**, **[[Acute Respiratory Distress Syndrome]]**, and **acute [[Renal Failure]]**
 
 ## Diagnosis
-**Incr. serum [[Amylase]]** and **[[Lipase]]** within 24-72 hrs.
+**Incr. serum [[α-Amylase]]** and **[[Lipase]]** within 24-72 hrs.
 
 ## Treatment
 **Total restriction of oral intake** -> rest the [[Pancreas]]
