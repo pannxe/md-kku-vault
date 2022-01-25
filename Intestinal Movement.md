@@ -1,0 +1,1 @@
+See [[Small Intestine Motility]] and [[Large Intestine Motility]]

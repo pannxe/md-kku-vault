@@ -7,7 +7,7 @@
 
 # Mechanism of Action
 **Bind to H2O** -> **incr. bulk -> **stimulate [[Colonic Reflex (defaeces)]]**
-> Maintains regular [[Bowel Movement]].
+> Maintains regular [[Intestinal Movement]].
 > Note that it also need adequet water to take effect.
 
 Because they mimick normal physiological process -> **take days for action**

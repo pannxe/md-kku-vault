@@ -20,7 +20,7 @@
 **Usage**
 - **General [[Constipation]] patients**
 - Some drugs may have other specific uses
-	- Lactulose & sorbital -- **[[Opioid]]** or **[[Vincristine]]** induced constipation
+	- Lactulose & sorbital -- **[[Opioid Agonists]]** or **[[Vincristine]]** induced constipation
 	- Lactulose -- [[Hepatic Encephalopathy]]
 	- PEG, sodium phosphate, magnesium citrate -- **Bowel preparation** before investigation
 

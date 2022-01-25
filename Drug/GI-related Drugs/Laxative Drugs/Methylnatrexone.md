@@ -4,7 +4,7 @@ Aka. Relistor
 **Selective μ-receptor antagonist** that cannot cross [[Blood-Brain Barrier]]
 
 # Indication
-- **[[Opioid]]-induced constipation** in palliative care
+- **[[Opioid Agonists]]-induced constipation** in palliative care
 
 # ADR
 - [[Abdominal Pain]]

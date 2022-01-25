@@ -42,4 +42,11 @@ Somewhat interchangable with [[Dysentery]]
 ## Presistent Diaarhoea
 **Longer than 2 wks.**
 
+---
+
+ # Management
+ - **Maintain fluid** and **electrolyte balance** -- **[[ORS]]**
+ - **Anti-infection** (if needed)
+ - [[Drugs Used in Non-infective Diarrhoea]] (if needed)
+
 #TODO 
