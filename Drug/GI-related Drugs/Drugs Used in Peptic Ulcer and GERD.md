@@ -18,5 +18,8 @@ Specific drugs + Lifestyle chages -> **Reinvestigation**
 - [[Bismuth Chelate]]
 - [[Carbenoxalone]]
 
+## Promote Passage of Food
+- [[Prokinetic Drugs]]
+
 ## Treatment of [[Helicobacter pylori]]
 See **[[Helicobacter pylori#Treatment]]**

@@ -1,0 +1,1 @@
+[[Potassium]] is absorbed **passively** in **[[Jejunum]]** and **[[Ileum]]**

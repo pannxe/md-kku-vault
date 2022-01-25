@@ -13,7 +13,7 @@
 - Astringent -- tea leaf
 - [[Bile Salt-binding Resins]]
 - [[Octreotide]] and [[Somatostatin]]
-- [[α2-Adrenergic-receptor Agonists]]
+- [[α2-Adrenergic Agonists]]
 
 # Probiotic & Prebiotics
 - **[[Prebiotics]]**

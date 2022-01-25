@@ -1,4 +1,4 @@
-- Also has prokinetic
+Both [[Antiemetic Drugs]] and [[Prokinetic Drugs]]
 
 # Drugs
 - **[[Chlorpromazine]]**

@@ -23,7 +23,7 @@ Acidic environment -> convert to [[Sulfenic Acid]] -> **form covalent bond c [[H
 # ADRs
 **Minimal**. Normally in chronic use -> **altered gut pH** ->
 - [[Malabsorption]]
-	- **[[Vitamin B12]]** -> [[Anaemia#Megaloblastic Anaemia]]
+	- **[[Vitamin B12]]** -> [[Anaemia#Megaloblastic Anaemia|Megaloblastic Anaemia]]
 	- **[[Calcium]]** -> [[Bone Fracture]]
 - **Altered [[Gut Microbiota]]** -> 
 	- [[Clostridium difficile]]

@@ -1,0 +1,1 @@
+[[Water]] is absorbed by **simple diffusion** over [[Small Intestine]] and [[Large Intestine]]
