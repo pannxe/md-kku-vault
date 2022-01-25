@@ -25,7 +25,7 @@ Acidic environment -> convert to [[Sulfenic Acid]] -> **form covalent bond c [[H
 - [[Malabsorption]]
 	- **[[Vitamin B12]]** -> [[Anaemia#Megaloblastic Anaemia|Megaloblastic Anaemia]]
 	- **[[Calcium]]** -> [[Bone Fracture]]
-- **Altered [[Gut Microbiota]]** -> 
+- **Altered [[Gut Microbiota]]** -> [[Dysbiosis]] 
 	- [[Clostridium difficile]]
 	- Bacterial [[Gastroenteritis]] 
 	- Bacterial [[Pneumonia]]
