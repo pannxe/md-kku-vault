@@ -5,6 +5,7 @@
 | 10-11 | `Gastrointestinal System/Protozoan Infection in GI`                   |
 | 12    | `Gastrointestinal System/Hepatobiliary Parasites`                     |
 | 15-16 | `Gastrointestinal System/Nervous System and Movement of GI`           |
+| 22   | `Gastrointestinal System/Absorption of Nutrients` and `Gastrointestinal System/Digestion of Nutrients` |
 | 17    | `Gastrointestinal System/Physiology/Stomach/Gastric Secretion`|
 | 23    | `Drug/Anthelmintic Drugs` and `Drug/Antiprotozoal Drugs`              |
 | 24-25 | `Gastrointestinal System/Bacterial Infection in GI`                   |

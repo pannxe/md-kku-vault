@@ -1,0 +1,1 @@
+Cut [[Proteins]] -> [[Peptones]] at [Peptide Bond]
