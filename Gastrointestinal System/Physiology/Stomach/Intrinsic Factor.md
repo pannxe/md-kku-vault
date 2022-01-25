@@ -1,1 +1,1 @@
-Essential in **absorption of [[Vitamin B12]]**
+Essential in **absorption of [[Vitamin B12]]** at [[Ileum]]

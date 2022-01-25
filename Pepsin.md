@@ -1,0 +1,1 @@
+[[Proteins]] -> [[Peptones]] at [Peptide Bond]

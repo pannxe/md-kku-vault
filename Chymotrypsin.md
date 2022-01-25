@@ -1,0 +1,1 @@
+Cuts **[[Amino Group]]** from [[Peptide]]

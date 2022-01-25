@@ -1,5 +1,7 @@
 A process of breaking down food -> small enough to **[[Absorption of Nutrients]]**
 
+> **[[Teeth]]** -> **mechanical digestion** for all food types
+
 # Digestion of [[Carbohydrates]]
 > including [[Alcohol]], [[Pectins]], [[Lactic Acid]], etc.
 1. [[Saliva]] and **[[Pancreas]]** -> **[[α-Amylase]]** -> breakdown **α1-4 [[Glycosidic Bound]]** -> ([[Polysaccharide]] -> [[Disaccharides]])
@@ -8,6 +10,18 @@ A process of breaking down food -> small enough to **[[Absorption of Nutrients]]
 3. [[Absorption of Nutrients#Carbohydrate Absorption|Absorption]]
 
 # Digestion of [[Proteins]]
+1. [[Stomach]] -> **[[HCl]]** and **[[Pepsin]]** ([[Proteins]] -> [[Peptones]])
+2. [[Pancreas]] -> [[**Trypsin**]] -> activate **[[Chymotrypsin]]**, **[[Carboxypeptidase]]** and [[Elastase]] -> (**[[Protones]]** -> **[[Dipeptide]]**, **[[Tripeptide]]**, and **[[Amino Acids]]**)
+3. [[Absorption of Nutrients#Absorption of Proteins|Absorption]]
+4. In [[Brush Border]] -> [[Peptidase]] -> (more [[Amino Acids]])
+
+# Digestion of [[Lipids]]
+1. [[Oral Cavity]] -> **Lingual [[Lipase]]** -> [[Medium-chain Fatty Acids]]
+2. [[Stomach]] -> **Gastric [[Lipase]]** (-> [[Short-chain Fatty Acids]] -> [[Absorption of Nutrients#Absorption of Lipids|absorption]])
+3. [[Pancreas]] ->
+	- [[CCK]] -> [[Gallbladder]] -> [[Bile]] -> emulsification -> enhc. activity of [[Lipase]] -> ([[Lipids]] -> [[Fatty Acids]] + [[Monoglycerides]])
+	- **Pancreatic [[Lipase]]** and [[Cholesterol Esterase]]
+4. Broken-down products stored in [[Micelles]] -> [[Absorption of Nutrients#Absorption of Lipids|Absorption]]
 
 ---
 # Phases of Digestion

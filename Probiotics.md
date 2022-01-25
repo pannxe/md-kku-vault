@@ -3,7 +3,7 @@
 - [[Enterococcus faecium]]
 - [[Bifidobacterium spp.]]
 
--> [[Dietary Fiber]] -> Fermentation -> [[Short Chain Fatty Acids]] ([[Acetate]], [[Butyrate]], [[Proplonate]]) ->
+-> [[Dietary Fiber]] -> Fermentation -> [[Short-chain Fatty Acids]] ([[Acetate]], [[Butyrate]], [[Proplonate]]) ->
 - Protection of [[Heart]] and [[Blood Vessels]]
 - Prevent [[Atherosclerosis]], [[Obesity]], [[Dyslipidaemia]], [[Insulin Resistance]], etc.
 - Incr. [[Immune]]

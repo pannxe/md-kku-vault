@@ -1,0 +1,1 @@
+Cut [[Carboxy Group]] from [[Peptide]]
