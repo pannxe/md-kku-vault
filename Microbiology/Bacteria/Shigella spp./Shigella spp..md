@@ -21,7 +21,7 @@
 - **[[Shiga Toxins]]** and **[[T3SS]]**
 - **[[Invation Plasmid Antigens]]**
 
--> apoptosis of [[Μφ]] and disrupted cell structure -> bacteria migrate through disrupted thigh junction -> spread
+-> apoptosis of [[Macrophage]] and disrupted cell structure -> bacteria migrate through disrupted thigh junction -> spread
 > Group B and D also has [[Form 1 Surface Antigen]] -> adhesive factor 
 
 # Clinical Manifestation

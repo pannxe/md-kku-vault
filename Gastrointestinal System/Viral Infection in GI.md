@@ -4,3 +4,6 @@ Usually cause [[Gastroenteritis]] -> **Waterry [[Diarrhoea]]**
 # Causative Agent
 - **[[Rotavirus]]** -- **infants**
 - **[[Norovirus]]** -- **adults**
+
+# Responds
+See [[Intestinal Innate Immnue Respond#Intracellular Pathogens]]

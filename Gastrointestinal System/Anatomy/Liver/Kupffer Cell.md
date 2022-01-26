@@ -1,1 +1,1 @@
-i.e., [[Μφ]] in the [[Liver]]
+i.e., [[Macrophage]] in the [[Liver]]

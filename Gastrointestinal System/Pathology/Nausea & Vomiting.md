@@ -9,7 +9,7 @@ From stimulation of [[Chemoreceptor Trigger Zone]]
 
 ## Cause
 - **Extreme [[Vagus Nerve]] stim.**
-> Irritation to [[Mucosal Layer]], [[Cholecystitis]], [[Peritonitis]], **[[Gag Reflex]]**, etc.
+> Irritation to [[Intestinal Mucosal Layer]], [[Cholecystitis]], [[Peritonitis]], **[[Gag Reflex]]**, etc.
 - **Extreme [[Vestibular Organs]] stim.**
 - **[[Chemoreceptor Trigger Zone]] stim.**
 - **[[Increased Intracranial Pressure]]** -> only stim [[Vomiting Center]] -> **ONLY VOMITING**; no nausea (Projectile vomiting)

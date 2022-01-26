@@ -2,7 +2,7 @@
 - Active at low pH -> ac
 
 # MoA
-- **Incr. [[Gastric Mucous]] viscosity**, **coat [[Mucosal Layer]]**, and incr. [[Bicarbonate]] output -> barrier effect
+- **Incr. [[Gastric Mucous]] viscosity**, **coat [[Intestinal Mucosal Layer]]**, and incr. [[Bicarbonate]] output -> barrier effect
 - **Absorb [[Pepsin]]**
 - Incr. [[Prostaglandins]] -> incr. blood flow -> incr. tissue growth
 -> **Promote healing**

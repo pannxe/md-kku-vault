@@ -49,3 +49,6 @@ Irritation <- [[Trichinella spiralis]]
 - [[Dipylidium caninum]]
 - Echinostomiasis <- [[Echinostomids]]
 - [[Minute Intestinal Flukes]]
+
+# Responds
+See [[Intestinal Innate Immnue Respond#Helminths]]

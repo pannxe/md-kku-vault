@@ -7,7 +7,7 @@ Entero**invasive** [[Escherichia coli]].
 - **Non-motile**
 
 # Pathogenesis
-**[[T3SS]]** and **[[Shiga Toxins]]** -> invasion of [[Mucosal Layer]] 
+**[[T3SS]]** and **[[Shiga Toxins]]** -> invasion of [[Intestinal Mucosal Layer]] 
 > See [[Shigella spp.]]
 
 # Symptoms

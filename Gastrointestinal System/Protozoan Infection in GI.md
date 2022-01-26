@@ -22,6 +22,9 @@
 - [[Cystoisosporia belli]]
 - **[[Microsporidia]]**
 
+# Responds
+See [[Intestinal Innate Immnue Respond#Extracellular Pathogens and Fungi]]
+
 # Situation in Thailand
 Generally low prevalence but can be found more often in **children with poor hygiene**.
 

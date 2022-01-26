@@ -22,3 +22,6 @@
 
 ## Gram Positive Cocci
 - [[Staphylococcus aureus]]
+
+# Responds
+See [[Intestinal Innate Immnue Respond#Extracellular Pathogens and Fungi]]
