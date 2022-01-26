@@ -1,0 +1,2 @@
+- **[[Gingivitis]]**
+- **[[Periodontitis]]** -> **[[Periodontal Abscess]]**

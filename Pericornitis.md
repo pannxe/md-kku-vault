@@ -1,0 +1,1 @@
+Inflammation of [[Gingiva]] around [[3rd Molar]]; a common sequela of [[Impacted Tooth]]

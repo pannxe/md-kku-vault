@@ -1,27 +1,26 @@
 # Teeth and Supporting Structure
 ## Congenital
-- **[[Hypodontia]]
-- **[[Anodontia]]**
+- **[[Hypodontia]]** and **[[Anodontia]]**
 
 ## Structural
 - **[[Cleft Lip and Cleft Palate]]**
 - **[[Dental Caries]]**
 - **[[Impacted Tooth]]**
 
-## Periodontal Diseases
-- [[Gingivitis]]
-- [[Periodontitis]] -> [[Periodontal Abscess]]
+## [[Periodontal Diseases]]
+- **[[Gingivitis]]**
+- **[[Periodontitis]]** -> [[Periodontal Abscess]]
 
 ## Oral Manifestation of [[HIV]]
 - **[[Kaposi Sarcoma]]
-- Infection
-	- [[Pharyngitis]]
-	- [[Tonsilitis]] -> [[Peritonsilar Abscess]]
-	- [[Oral Herpes]]
-	- [[Hairy Leukoplakia]]
-	- [[Actionmyces israelii|Cerviofacial Actinomycosis]]
-	- [[Ludwig Angina]]
-	- [[Candida spp.|Oral Candidiasis]]
+
+## Infection
+- [[Pharyngotonsilitis]] -> [[Peritonsilar Abscess]]
+- [[Oral Herpes]]
+- [[Hairy Leukoplakia]]
+- [[Actionmyces israelii|Cerviofacial Actinomycosis]]
+- [[Ludwig Angina]]
+- [[Candida spp.|Oral Candidiasis]
 
 ## Inflammatory and Tumor-like
 - [[Stomatitis]]

@@ -1,0 +1,3 @@
+# Pathology
+- **[[Gingivitis]]**
+- [[Pericornitis]]

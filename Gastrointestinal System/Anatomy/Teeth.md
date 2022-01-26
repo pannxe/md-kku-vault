@@ -2,15 +2,13 @@
 - **[[Crown]]** -- Above [[Gingiva]]
 	- [[Enamel]] cover [[Dentine]]
 - [[Neck]] 
-- [[Periodental Ligament]]
+- [[Periodontal Ligament]]
 - [[Root]] -- under gingiva
 - [[Cementum]]
 
 # Pathology
-## Congenital
-- **[[Hypodontia]]
-- ****[[Anodontia]]**
-
-## Structural
-- **[[Dental Caries]]**
+- **Congenital**
+	- **[[Hypodontia]]
+	- **[[Anodontia]]**
+- [[Calculus]] and [[Dental Plaque]] -> **[[Dental Caries]]**
 - **[[Impacted Tooth]]**
