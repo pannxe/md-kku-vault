@@ -9,7 +9,7 @@ Either **pathogenic**, **commensal** or **opportunistic** -- unclear whether it 
 **ST1** and **ST3** -> 
 - IgA degradation -> **[[Dysbiosis]]** -> low grade inflammation
 - Oxidative damage
-- Mucus impairment (incr. permeability, decr. [[Mucosal Immunity#Innate Immunity|Gut Barrier]] function) 
+- Mucus impairment (incr. permeability, decr. [[Intestinal Mucosal Immunity#Innate Immunity|Gut Barrier]] function) 
 
 # Morphology
 At least 4 forms :

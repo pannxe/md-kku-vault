@@ -1,5 +1,5 @@
 # Acute Dysbiosis
-Acute change of [[Gut Microbiota]] -> Weakening of [[Intestinal Mucosal Layer]] -> [[Mucosal Immunity]] -> Inflammation
+Acute change of [[Gut Microbiota]] -> Weakening of [[Intestinal Mucosal Layer]] -> [[Intestinal Mucosal Immunity]] -> Inflammation
 
 ## Treatment 
 [[Prebiotics]] and [[Probiotics]] -- adjust the balance
