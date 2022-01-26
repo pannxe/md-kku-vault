@@ -6,4 +6,4 @@ Usually cause [[Gastroenteritis]] -> **Waterry [[Diarrhoea]]**
 - **[[Norovirus]]** -- **adults**
 
 # Responds
-See [[Intestinal Innate Immnue Respond#Intracellular Pathogens]]
+See [[Protective Cell-mediated Intestinal Immune Respond#Intracellular Pathogens]]

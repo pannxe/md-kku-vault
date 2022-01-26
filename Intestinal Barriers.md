@@ -1,6 +1,6 @@
 # Physical Barrier
-- [[Intestinal Epithelium]] -> **[[Tight Junction]]**
-- [[Goblet Cell]] -> **[[Mucus]]**
+[[Intestinal Epithelium]] -> **[[Tight Junction]]** -- prevent invasion
 
 # Chemical Barrier
-- [[Paneth Cell]] -> **[[Antimicrobial Peptides]]**, esp., [[Defensins]]
+- [[Goblet Cell]] -> **[[Mucus]]** -- protection against most organisms
+- [[Paneth Cell]] -> **[[Antimicrobial Peptides]]**, esp. [[Defensins]] -- modulate number of [[Gut Microbiota]]

@@ -15,22 +15,38 @@ There are 2 types of mucosal immunity, **innate** and **adaptive**
 ## Non-specific Respond
 Respond **non-specifically**. 
 - **[[Intestinal Barriers]]** -- e.g., [[Tight Junction]] and [[Antimicrobial Peptides]]
-- Invasion or infection -> [[Danger Signals]]
+- Invasion or infection -> **[[Danger Signals]] -> less-specific responds** 
 
 ## Less-specific Respond
 Usually via [[Innert Immnue Cells]], i.e., [[Macrophage]], [[Denditic Cell]], and [[ILC]]
-- **[[Intestinal Innate Immnue Respond]]**
 - [[Anti-viral State]]
+- **Inflammation**
+- **Antigen presentation -> adaptive immunity**
+> [[Intestinal Epithelium]] has [[PRRs]] on the basolateral surface
 
 # Adaptive Immunity
 Respond to **specific** clonal expression
 - [[Antibody]] -- esp. **[[IgA]]**
-- Controlled inflammation
-- Cell-mediated cytotoxicity to infected cells
+- [[Th Cell]] -- esp. **[[Th-17]]**
 
-## Mechanism
+---
+
+# Normal Stage
+**NO [[Danger Signals]]** -> Ag is safe -> **incr. [[T-reg Cell]] activity** -> [[TGF-β]], [[IL-10]], and [[IL-4]] ->
+	- Decr. activity of [[Th-1]], [[Th-2]] -> **decr. inflammation**
+	- **Incr. activity of [[B Cell]]** -> incr. production of [[IgA]] 
+> Focus on passive defenses
+- [[ILC]] promote [[Intestinal Barriers]]
+- [[Plasma Cell]] ([[B Cell]]) in [[Lamina Propria]] -> **[[IgA]]**
+- [[Denditic Cell]] and [[Macrophage]] in the [[Lamina Propria]] -> **inh inflammation** and maintains [[Homeostasis]]
+> [[Macrophage]] in [[Lamina Propria]] is mostly [[Macrophage#M2 Macrophage|M2 Mφ]]
+
+# Mechanism
 **[[M Cell]] import Ag to [[Peyer Patch]]** ->
-- **s [[Danger Signals]]** -> Ag is safe -> **incr. [[T-reg Cell]] activity** -> no immune respond
-- **c [[Danger Signals]]** -> Ag is pathogenic -> **decr [[T-reg Cell]] activity** -> **incr. [[T-helper Cell]] activity** -> recruite **[[Neutrophil]]** -> **Protective cell-mediated immune respond** 
+- **c [[Danger Signals]]** -> Ag is pathogenic -> **decr [[T-reg Cell]] activity** -> **[[Protective Cell-mediated Intestinal Immune Respond]]
+- **[[Denditic Cell]]** presents Ag -> **adaptive respond**
+> If there is no [[Danger Signals]] -> Normal Stage
 
-**[[Short-chain Fatty Acids]]** improve all aspect of mucosal immunity
+# Clinical Correlation
+- Non-pathogenic Ag -> Ag tolerance -> **difficulty making oral vaccine**
+- **[[Short-chain Fatty Acids]]** improve all aspect of mucosal immunity

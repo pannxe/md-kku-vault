@@ -24,4 +24,4 @@
 - [[Staphylococcus aureus]]
 
 # Responds
-See [[Intestinal Innate Immnue Respond#Extracellular Pathogens and Fungi]]
+See [[Protective Cell-mediated Intestinal Immune Respond#Extracellular Pathogens and Fungi]]

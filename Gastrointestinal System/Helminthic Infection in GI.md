@@ -51,4 +51,4 @@ Irritation <- [[Trichinella spiralis]]
 - [[Minute Intestinal Flukes]]
 
 # Responds
-See [[Intestinal Innate Immnue Respond#Helminths]]
+See [[Protective Cell-mediated Intestinal Immune Respond#Helminths]]
