@@ -5,7 +5,7 @@
 - 45-64 y/o
 - Fatty, big meal
 - [[Alcohol]]
-- [[Smoking]]
+- [[Tabacco]]
 - [[Obesity]]
 
 # Clinical Manifestation

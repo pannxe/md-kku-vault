@@ -3,7 +3,7 @@
 # Risk Factor
 Similar to [[Erythroplakia]] and [[Leukoplakia]]
 - **Chronic irritation** -- e.g., ill-fitting **[[Denture]]**
-- **[[Smoking|Tabacco]]**, **[[Betel Nut]]**, and **[[Alcohol]]**
+- **[[Tabacco|Tabacco]]**, **[[Betel Nut]]**, and **[[Alcohol]]**
 - **[[Human Papilomavirus 16]]** and **[[Human Papilomavirus 18]]**
 - [[Sunlight]] -> [[Lip]]
 

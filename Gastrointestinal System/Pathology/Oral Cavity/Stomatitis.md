@@ -2,7 +2,7 @@ aka. **Aphthous ulcers**, **Canker sores**, etc.
 
 # Causes
 Unknown.
-> [[Stress]], [[Hormones]], Genetics; [[Smoking]] acutally reduced risk. Very common in ppl under 20 y/o
+> [[Stress]], [[Hormones]], Genetics; [[Tabacco]] acutally reduced risk. Very common in ppl under 20 y/o
 
 # Clinical Manifestation
 **Rucurrent**, **very painful** hyperaemic **ulcers at [[Lip]]**

@@ -5,7 +5,7 @@
 - Genetic factors
 - Environmental factors
 	- **[[Retinoic Acid Embryopathy]]** -> defective [[TGF-β Signaling Pathway]]
-	- [[Alcohol]] and [[Smoking]] 
+	- [[Alcohol]] and [[Tabacco]] 
 -> **Failure** of **fusion of [[Facial Processes]]** at GA ~6th wks -> unfused [[Lip]] and [[Palate]]
 
 # Clinical Manifestation

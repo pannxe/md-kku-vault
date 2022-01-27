@@ -1,7 +1,7 @@
 i.e., **Infiltrating ductal adenocarcinoma of pancreas**
 
 # Risk Factor
-- **[[Smoking]]**
+- **[[Tabacco]]**
 - **[[Obesity]]** and **[[Diabete Mellitus]]**
 - **Chronic [[Pancreatitis]]**
 - Genetic

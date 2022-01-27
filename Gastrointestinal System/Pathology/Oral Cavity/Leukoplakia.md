@@ -1,12 +1,12 @@
 # Risk Factor
 - **Chronic irritation** -- e.g., ill-fitting **[[Denture]]**
-- **[[Smoking|Tabacco]]** and **[[Alcohol]]**
+- **[[Tabacco|Tabacco]]** and **[[Alcohol]]**
 - **[[Human Papilomavirus 16]]** and **[[Human Papilomavirus 18]]** 
-> Similar to [[Leukoplakia]]
+> Similar to [[Erythroplakia]]
 
 # Clinical Manifestation
-**Red**, possibly eroded area within [[Oral Cavity]]
+**White patch / plaque** within [[Oral Cavity]] that **CANNOT be scraped off**
 
 # Complication
 Dysplasia -> [[Carcinoma in situ]] -> **[[Squamous Cell Carcinoma]]**
-> Similar to [[Leukoplakia]] c **MUCH HIGHER CHANCE**
+> Similar to [[Erythroplakia]]
