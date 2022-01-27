@@ -9,7 +9,7 @@ Severe case :
 
 # Clinical Presentation
 - **[[Fever]]**
-- **Inflammation** at **[[Neck]]**, [[Submandibular Space]], and [[Submantle Space]] -> pain, warm, erythema, tenderness
+- **Inflammation** at **[[Neck]]** and **[[Jaw]]** ([[Submandibular Space]], and [[Submantle Space]]) -> pain, warm, erythema, tenderness
 - **[[Dysphagia]]** and **[[Odynophagia]]**
 - Difficulty opening [[Mouth]]
 - [[Difficluty Breathing]]

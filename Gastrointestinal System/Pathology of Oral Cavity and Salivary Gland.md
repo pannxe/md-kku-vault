@@ -32,13 +32,13 @@
 
 ## Tumors
 - Benign
-	- [[Squamous Papilloma]]
-	- [[Exostoses]]
+	- **[[Squamous Papilloma]]** -- most common benign tumor in [[Oral Cavity]]
+	- **[[Exostoses]]**
 - Premalignant
-	- [[Leukoplakia]]
-	- [[Erythroplakia]]
+	- **[[Leukoplakia]]**
+	- **[[Erythroplakia]]**
 - Malignant
-	- [[Squamous Cell Carcinoma]]
+	- **[[Squamous Cell Carcinoma]]**
 
 ## Odontogenic Cysts
 - Inflammatory -> [[Periapical Cyst]]
