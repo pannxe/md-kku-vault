@@ -1,6 +1,6 @@
 # Causes
-- **[[Herpes Simplex Virus 1]]** (most)
-- [[Herpes Simplex Virus 2]] (occasionally)
+- **[[Human Herpesvirus 1]]** (mostly)
+- [[Human Herpesvirus 2]] (occasionally)
 
 # Clinical Manifestation
 **Vascular lesion** at
@@ -13,5 +13,5 @@ Virus dormants in **Sensory Ganglion of [[Cranial Nerves]]** -> ([[Stress]], [[M
 
 # Diagnosis
 - Clinical Signs
-- [[Tzannk Smear]] -> Intranuclear viral inclusions -> **Multinucleated epithelial giant cells**
+- **[[Tzannk Smear]]** -> Intranuclear viral inclusions -> **Multinucleated epithelial giant cells**
 > Nuclear modling and ground-glass nuclei

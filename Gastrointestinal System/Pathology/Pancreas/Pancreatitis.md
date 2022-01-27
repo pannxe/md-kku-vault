@@ -24,7 +24,7 @@
 
 ## Treatment
 **Total restriction of oral intake** -> rest the [[Pancreas]]
-> Supportive : IV fluid and [[Analgestic Drugs]]
+> Supportive : IV fluid and [[Analgesic Drugs]]
 
 ## Outcome
 - **Mostly fully recovery**

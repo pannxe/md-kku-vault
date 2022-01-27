@@ -12,20 +12,21 @@
 - **[[Periodontitis]]** -> [[Periodontal Abscess]]
 
 ## Oral Manifestation of [[HIV]]
-- **[[Kaposi Sarcoma]]
+- **[[Candida spp.|Oral Candidiasis]]** -- most common
+- **[[Hairy Leukoplakia]]**
+- **[[Kaposi Sarcoma]]**
+> [[Stomatitis]], [[Oral Herpes]]
 
 ## Infection
 - **[[Pharyngotonsilitis]]** -> [[Peritonsilar Abscess]]
 - [[Oral Herpes]]
-- [[Hairy Leukoplakia]]
-- [[Actinomyces israelii|Cerviofacial Actinomycosis]] <- [[Actinomyces israelii]]
+- [[Actinomyces israelii|Cerviofacial Actinomycosis]] 
 - [[Ludwig Angina]]
-- [[Candida spp.|Oral Candidiasis]]
 
 ## Inflammatory and Tumor-like
-- [[Stomatitis]]
-- [[Glossitis]]
-- Proliferative Lesion
+- **[[Stomatitis]]** -- non-infectous
+- **[[Glossitis]]**
+- Proliferative lesions
 	- [[Irritation Fibroma]]
 	- [[Pyogenic Granuloma]]
 

@@ -1,0 +1,1 @@
+**Swelling** of [[Perimandibular Area]]
