@@ -55,7 +55,7 @@ Living in [[Intestinal Mucosal Layer]] -> secretion -> inh. cell proliferation -
 **[[Ivermectin]]** -- 200 μg/kg **until no parasite found in stool for 2 wks.**
 
 Other supportive treatment as needed
-- [[Antibiotic Agent]] (board-spectum)
+- [[Antibiotic Drugs]] (board-spectum)
 - Fluid hydration
 - etc.
 

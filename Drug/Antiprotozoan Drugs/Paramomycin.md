@@ -1,4 +1,4 @@
-Belong to [[Aminoglycoside]] group of [[Antibiotic Agent]]
+Belong to [[Aminoglycoside]] group of [[Antibiotic Drugs]]
 
 # MoA
 **Binds to 30S [[rRNA]]** -> misreading of [[mRNA]] codons.

@@ -42,7 +42,7 @@ Destroy [[Intestinal Mucosal Layer]] -> inflammation (leukocyte infiltration) ->
 - High protein diet
 - [[Albumin]] IV
 - Correct fluid and [[Electrolyte Imbalance]]
-- [[Antibiotic Agent]] if needed
+- [[Antibiotic Drugs]] if needed
 
 # Prevention
 - Eat cooked fish

@@ -4,7 +4,7 @@ Action of [[Intestinal Mucosal Layer]] in respond to pathogen.
 **Respond to [[Bacterial Infection in GI|Pathogenic bacteria]]** but **NOT to [[Gut Microbiota]] nor food**
 
 ## Above the Epithelium
-[[Mucus]], [[Antibiotic Agent]], and secretion [[IgA]]
+[[Mucus]], [[Antibiotic Drugs]], and secretion [[IgA]]
 
 ## Below the Epithelium
 [[PRRs]] and [[T-reg Cell]] (esp. [[Th-17]])

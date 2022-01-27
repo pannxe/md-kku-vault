@@ -15,12 +15,12 @@
 - **[[Kaposi Sarcoma]]
 
 ## Infection
-- [[Pharyngotonsilitis]] -> [[Peritonsilar Abscess]]
+- **[[Pharyngotonsilitis]]** -> [[Peritonsilar Abscess]]
 - [[Oral Herpes]]
 - [[Hairy Leukoplakia]]
-- [[Actionmyces israelii|Cerviofacial Actinomycosis]]
+- [[Actinomyces israelii|Cerviofacial Actinomycosis]] <- [[Actinomyces israelii]]
 - [[Ludwig Angina]]
-- [[Candida spp.|Oral Candidiasis]
+- [[Candida spp.|Oral Candidiasis]]
 
 ## Inflammatory and Tumor-like
 - [[Stomatitis]]
