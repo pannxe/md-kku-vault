@@ -41,7 +41,7 @@
 ## Causes
 - **Long-term [[Alcohol]] abuse ([[Alcoholism]] pt.)** 
 - Chronic [[Pancreatic Duct Obstruction]]
-- [[Autoimmune]]
+- [[Autoimmune Diseases]]
 - [[Hereditary Pancreatitis]] <- genetic
 
 ## Pathogenesis

@@ -47,12 +47,12 @@
 
 
 # Salivary Gland
-- [[Xerostomia]]
+- [[Xerostomia]] <- **[[Sjögren Syndrome]]**
 - [[Sialadenitis]]
-- [[Mucocoele]]
-- [[Ranula]]
+- **[[Mucocoele]]** and **[[Ranula]]**
 
 ## Tumors
+**[[Salivary Gland Neoplasms]]**
 - [[Pleomorphic Ademona]]
 - [[Warthin Tumor]]
 - [[Mucoepidermoid Carcinoma]]

@@ -1,1 +1,1 @@
-Minor [[Salivary Gland]]
+Minor [[Salivary Glands]]

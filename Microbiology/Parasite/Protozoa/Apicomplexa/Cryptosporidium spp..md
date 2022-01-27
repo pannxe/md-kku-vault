@@ -27,7 +27,7 @@ The parasite attaches to the [[Microvillus]] -> epithelial cell release [[Cytoki
 	- gp30 lectin -> motility -> gliding movement
 
 # Clinical Manifestation
-Mostly **asymptomatic** in immunocompetent pt. For [[Immunocompromised]] or pt. c. symptom may varries according to [[CD4]] count. Low CD4 -> chronic and life-threatening.
+Mostly **asymptomatic** in immunocompetent pt. For [[Immunocompromised]] or pt. c. symptom may varries according to [[CD4 T-Cell]] count. Low CD4 -> chronic and life-threatening.
 - **Waterry [[Diarrhoea]]** -> **[[Dehydration]]**
 - [[Abdominal Discomfort]]
 - [[Anorexia]]

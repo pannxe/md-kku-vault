@@ -2,7 +2,7 @@
 - [[Encephalitozoon spp.]]
 
 - Is an obligate intracellular parasite.
-- Directily related to [[CD4]] count in HIV pt.
+- Directily related to [[CD4 T-Cell]] count in HIV pt.
 - Intestinal infectino is most common.
 > 30-50% of AIDs pt. [[Immunocompromised]] host;
 
