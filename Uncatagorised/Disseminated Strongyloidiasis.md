@@ -3,7 +3,7 @@ Complication from hyperinfection, i.e., **larva migrates to organs other than [[
 
 - Migration through blood vessel -> [[Internal Bleeding]]
 - Skin -> [[Petechiae]] and [[Purpura]]
-- Intestine -> [[Intestinal Perforation]], [[Intestineal Infarction]]
+- Intestine -> [[Intestinal Perforation]], [[Intestinal Infarction]]
 - Bring bacteria from GI tract to other system -> [[Peritonitis]], [[Sepsis]]
 - [[Anaemia]] and [[Hypoglobulinaemia]]
 
