@@ -7,7 +7,7 @@
 - **[[Malnutrition]]**
 - **Toxins** -- [[Nitrites]]/[[Nitrosamine]], toxin from microorganisms, etc.
 - **[[Achalasia]]** and chronic **[[Oesophagitis]]**
-- **Genetics** -- [[p53]], [[p16]] mutation, etc.
+- **Genetics** -- [[p53 gene]], [[p16]] mutation, etc.
 
 # Pathology
 ## Gross

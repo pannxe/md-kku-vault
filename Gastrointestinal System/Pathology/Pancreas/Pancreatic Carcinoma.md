@@ -7,7 +7,7 @@ i.e., **Infiltrating ductal adenocarcinoma of pancreas**
 - Genetic
 
 # Pathogenesis
-Mutation -> **activation of [[KRAS oncogene]]** -> **inactivation of tumor-supressor gene** ([[p16]], [[p53]], [[BRCA2]], [[SMADA4]], etc.)
+Mutation -> **activation of [[KRAS oncogene]]** -> **inactivation of tumor-supressor gene** ([[p16]], [[p53 gene]], [[BRCA2]], [[SMADA4]], etc.)
 
 # Clinical Manifestation
 - **Asymptomatic until advanced** -> already metastasized at time of Dx
