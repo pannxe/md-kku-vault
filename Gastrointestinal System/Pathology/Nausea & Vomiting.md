@@ -18,6 +18,6 @@ From stimulation of [[Chemoreceptor Trigger Zone]]
 - **[[pH Imbalance]]**
 - **[[Electrolyte Imbalance]]**
 - [[Malnutrition]]
-- [[Asperation Pneumonia]]
+- [[Aspiration Pneumonia]]
 
 > DDx : [[Milk Regurgitation]]

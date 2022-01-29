@@ -1,0 +1,13 @@
+# Pathology
+- Congenital
+	- [[Oesophageal Atresia]] / **[[Tracheoesophageal Fistula]]**
+	- [[Oesophageal Stenosis]] -- narrowing
+- Assoc Motor Dysfunction
+	- **[[Achalasia]]**
+	- **[[Hiatal Hernia]]**
+	- **[[Oesophageal Diverticulum]]**
+- [[Oesophageal Varices]]
+- [[Oesophagitis]]
+- [[Oesophageal Laceration]] and [[Oesophageal Perforation]]
+- [[Barrett Oesophagus]]
+- Neoplasm
