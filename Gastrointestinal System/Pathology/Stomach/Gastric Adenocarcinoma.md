@@ -1,7 +1,7 @@
 # Risk Factors
 - Diet -- [[Nitrites]]/[[Niclosamide]]; food preservation
 - Host factors
-- Genetics -- mutation of [[CDH1 gene]] -> diffuse type; [[p53 gene]], [[APC gene]], [[β-Catenin gene]], [[BAX gene]], etc.
+- Genetics -- mutation of [[CDH1 gene]] -> diffuse type; [[p53 gene]], [[APC gene]], [[β-Catenin]], [[BAX gene]], etc.
 - **[[Gastritis#Chronic Gastritis|Chronic Gastritis]]** c **intestinal metaplasia** <- [[Helicobacter pylori]] and [[Gastritis#Autoimmune Gastritis|Autoimmune Gastritis]]
 - **[[Gastric Adenomatous Polyp]]**
 

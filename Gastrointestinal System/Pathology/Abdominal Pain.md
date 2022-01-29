@@ -93,7 +93,7 @@ Indicate severe pathology -- [[Peritonitis]], [[Intestinal Infarction]], [[Aorti
 ## [[Anus|Anal]] Examination
 In **acute abdominal pain**; look for these
 - **Perinanal skin** -> signs of **infections**, **inflammation**, and **[[Haemorrhoid]]**
-- **Wall of [[Large Intestine#Rectum|rectum]]** -> [[Peritonitis]] if painful; mass; [[Rectal Shelf]] in female; etc.
+- **Wall of [[Rectum|rectum]]** -> [[Peritonitis]] if painful; mass; [[Rectal Shelf]] in female; etc.
 - **[[Faeces]]** -- obstruction, blood, etc.
 
 ## PV Examination

@@ -1,0 +1,1 @@
+**Tumer-supressor gene** that regulate **cell polarization**

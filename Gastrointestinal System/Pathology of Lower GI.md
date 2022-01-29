@@ -23,12 +23,16 @@
 
 # [[Polyps]]
 - **Non-neoplastic**
-	- [[Hyperplastic Polyp]]
-	- [[Inflammatory Fibroid Polyp]]
+	- **[[Hyperplastic Polyp]]**
+	- **[[Inflammatory Polyps]]**
 	- [[Hamartomatous Polyps]]
-		- [[Juvenile Polyps]]
-		- [[Peutz-Jeghers Syndrome]]
+		- **[[Juvenile Polyps]]**
+		- **[[Peutz-Jeghers Syndrome]]**
 - **Neoplastic**
-	- [[Adenomatous Polyposis]]
-	- [[Hereditary Non-polyposis Colorectal Cancer]]
-	- [[Intestinal Adenocarcinoma]]
+	- **[[Adenomatous Polyposis]]** 
+	- **[[Hereditary Non-polyposis Colorectal Cancer]]**
+	- **[[Colorectal Adenocarcinoma]]** -- most common malignancy in GI
+
+# Tumors
+- **[[Anal Squamous Cell Carcinoma]]**
+- [[Appendiceal Neuroendocrine Tumor]]

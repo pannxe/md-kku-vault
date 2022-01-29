@@ -8,6 +8,6 @@
 [[Uveitis]], [[Migratory Polyarthritis]], [[Ankylosing Spondylitis]], [[Finger Clubbing]], etc.
 
 # Pathology
-- Mostly at **[[Large Intestine#Caecum|Caecum]] -> [[Ileum]]**
+- Mostly at **[[Caecum|Caecum]] -> [[Ileum]]**
 - **Skipping lesions**
 - **Non-caseating [[Granuloma]]** in [[Submucosa]] and [[Serosa]]

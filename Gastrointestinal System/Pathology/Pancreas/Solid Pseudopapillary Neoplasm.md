@@ -2,7 +2,7 @@
 - Mainly **young famale**
 
 # Pathogenesis
-**Mutation of [[CTNNB1]]** -> disrupted [[β-Catenin gene]] -> disrupted cell adhesion and gene transcription -> **Hyperactivation of [[Wnt]]** signaling
+**Mutation of [[CTNNB1]]** -> disrupted [[β-Catenin]] -> disrupted cell adhesion and gene transcription -> **Hyperactivation of [[Wnt pathway]]** signaling
 
 # Histology
 - **Well-circumscribed malignant neoplasm** -> very low grade

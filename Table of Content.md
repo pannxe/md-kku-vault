@@ -11,5 +11,9 @@
 | 24-25 | `Gastrointestinal System/Bacterial Infection in GI`                   |
 | 26    | `Gastrointestinal System/Viral Infection in GI`                       |
 | 27    | `Gastrointestinal System/Hepatitis Viruses`                           |
-| 32 | `Gastrointestinal System/Anatomy/Pancreas` |
+| 30-31 | `Gastrointestinal System/Pathology of Oral Cavity and Salivary Glands` |
+| 32    | `Gastrointestinal System/Anatomy/Pancreas` |
+| 33-34 | `Gastrointestinal System/Pathology of Upper GI Tract` |
+| 35-36 | `Gastrointestinal System/Pathology of Lower GI Tract` |
 | 37-38, 41    | `Gastrointestinal System/Drugs Used in Gastrointestinal Disorder`      |
+| 39-40 | `Gastrointestinal System/Pathology of Liver and Biliary System` |
