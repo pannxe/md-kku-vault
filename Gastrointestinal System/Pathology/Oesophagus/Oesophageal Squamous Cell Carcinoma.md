@@ -11,7 +11,7 @@
 
 # Pathology
 ## Gross
-- Polypoid ([[Polyp]]-like) / expophytic mass
+- Polypoid ([[Polyps]]-like) / expophytic mass
 - Ulcerative lesion
 - Diffusely infiltrative
 

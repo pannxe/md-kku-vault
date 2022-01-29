@@ -40,8 +40,8 @@ See [[Absorption of Nutrients]]
 - **[[Gastritis]]**
 - [[Acute Gastic Ulceration]] -> **[[Peptic Ulcer Disease]]** -- assoc. [[Zollinger-Ellison Syndrome]]
 - Tumors
-	- **Benign** -- **[[Polyp]]**
+	- **Benign** -- **[[Polyps]]**
 		- [[Hyperplastic Polyp]] -- non-malignant
-		- [[Inflmmatory Fibroid Polyp]] -- usually non-malignant
+		- [[Inflammatory Fibroid Polyp]] -- usually non-malignant
 		- **[[Gastric Adenomatous Polyp]]** -- **c malignant potential**
 	- **Malignant** -- **[[Gastric Adenocarcinoma]]**

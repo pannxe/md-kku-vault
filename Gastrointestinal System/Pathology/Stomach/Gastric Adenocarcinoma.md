@@ -9,7 +9,7 @@
 ## Intestinal Type
 - Arose from **intestinal metaplasia** -- assoc. [[Helicobacter pylori]]
 - c **Gland-forming cell**; well-diferentiated
-- c **Exophytic mass** ([[Polyp]]-like) -- heaped-up, raised rolled border
+- c **Exophytic mass** ([[Polyps]]-like) -- heaped-up, raised rolled border
 
 ## Diffuse Type
 - Arose from **[[Mucous Neck Cell]]** -- unknown risk factor

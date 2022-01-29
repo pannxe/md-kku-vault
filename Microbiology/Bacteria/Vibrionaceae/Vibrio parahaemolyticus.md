@@ -7,11 +7,11 @@
 # Pathogenesis
 Mechanism still unclear. Possibly :
 - [[T3SS]]
-- Haemolysin gene
+- [[Haemolysin gene]] 
 
 # Clinical Manifestation
 Typical of **[[Food Poisoning]]**. IP up to 0.5 - 3 days. Usually self-limited in 3 days.
-- **Severe Watery [[Diarrhoea]]**
+- **Severe [[Diarrhoea]]** c/s **[[Diarrhoea#Bloody Diarrhoea|Blood]]**
 - **[[Abdoninal Cramp]]**
 - [[Nausea & Vomiting]]
 - **NO Fever**

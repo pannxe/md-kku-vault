@@ -2,7 +2,7 @@ Mainly **Docusate salts**. Slow-acting -> for **prevention**
 
 # Clinical Use
 - **Prevent [[Constipation]]** in IPD patients
-- **[[Anal fissure]]** patients
+- **[[Anal Fissure]]** patients
 - **[[Haemorrhoid]]** patients
 
 # MoA

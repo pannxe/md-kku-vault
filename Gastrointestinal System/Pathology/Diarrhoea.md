@@ -1,14 +1,16 @@
 # Types
 ## Secretory Diarrhoea
-**Secretion** of NaCl -> **lumen of [[Small Intestine]]** -> osmosis of water -> diarrhoea
+- **Secretion** of NaCl -> **lumen of [[Small Intestine]]** -> osmosis of water -> diarrhoea
+- **Persists even fasting**
 > [[Vibrio cholerae]], [[ETEC]], etc.
 
 ## Osmotic Diarrhoea
-**Food or durgs** -> high osmoticity in lumen -> osmosis of water -> diarhoea
+- **Food or durgs** -> high osmoticity in lumen -> osmosis of water -> diarhoea
+- Decr if fast
 > Juice, honey, some drugs
 
 ## Malabsorptive Diarrhoea
-**Cannot absorb water & ions** -> diarrhoea
+**[[Malabsorption]]** -> diarrhoea and [[Steatorrhoea]]
 
 ## Inflammatory (Exudative) Diarrhoea
 **Inflammation** -> **bloody** and **mucous** diarrhoea (usually found with [[Tenesmus]])

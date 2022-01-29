@@ -1,4 +1,4 @@
-aka. **Congenital [[Megacolon]]**
+aka. **Congenital Aganglionic [[Megacolon]]**
 
 # Pathogenesis
 Some part of [[Small Intestine]] or [[Large Intestine]] **misses** **[[Meissner Plexus]]** or **[[Auerbach Plexus]]** -> **no [[Peristalsis]]** -> [[Intestinal Obstruction]] -> distension of area before defective area (**[[Megacolon]]**) -> **[[Abdominal Distention]]** and **[[Constipation]]**

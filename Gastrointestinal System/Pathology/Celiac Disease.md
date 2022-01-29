@@ -1,8 +1,17 @@
-aka. Gluten enteropathy, celiac sprue, etc.
+aka. **Gluten enteropathy**, celiac sprue, etc.
 
 # Pathogenesis
-[[Gluten]] -> digested to **giladin** -> activate **immune respond** -> inflammation -> **apoptosis of [[Enterocyte]]** -> villi flattening 
+[[Gluten]] -> digested to **[[α-Giladin]]** -> activate **immune respond** (esp. [[CD8 T-Cell]]) -> inflammation -> **apoptosis of [[Enterocyte]]** -> flattening of [[Villus]] -> **[[Malabsorption]]**
 
 May include other [[Hypersensitivity]] responds
 - [[Dermatitis]]
 - Erythematous plaque
+
+# Clinical Manifestation
+- Common in **Adult**
+- **[[Diarrhoea#Chronic Diarrhoea|Chronic Diarrhoea]]**, **[[Bloating]]**, **[[Fatigue]]** or asymptomatic 
+- [[Anaemia]]
+> Prediatric : [[Abdominal Distention]], [[Anorexia]], [[Failure to Thrive]], [[Weight Loss]], etc.
+
+# Treatment
+**[[Gluten]]-free diet**
