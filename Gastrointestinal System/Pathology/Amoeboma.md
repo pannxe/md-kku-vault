@@ -1,1 +1,1 @@
-A colon-carcinoma-like lesion in colonoscopy finging. Caused by aggregation of *[[Entamoeba histolytica]]* or others amoeba.
+A [[Colorectal Adenocarcinoma]]-like lesion in colonoscopy finging. Caused by aggregation of *[[Entamoeba histolytica]]* or others amoeba.
