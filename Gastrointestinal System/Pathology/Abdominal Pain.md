@@ -4,7 +4,10 @@
 ## Colicky Pain
 Strong **[[Peristalsis]]** of **hollow visceral organ** ->
 - [[Small Intestine]], [[Large Intestine]], and [[Ureter]] -> **intermittant pain**
-- [[Biliary System]] -> **sustained pain**
+
+## Biliary Pain
+[[Biliary System]] -> **sustained pain**
+> Actually a type of colicky pain
 
 ## Burning Pain
 **Chemical trigger** -> assoc **[[Stomach]]** -- **[[Peptic Ulcer]]** -> **[[Peptic Perforation]]**
@@ -65,10 +68,10 @@ Indicate severe pathology -- [[Peritonitis]], [[Intestinal Infarction]], [[Aorti
 ## PEs
 - **Vital signs**
 	- **High HR, RR** and **low BP** <- **[[Peritonitis]]**
-	- Shock <- [[Internal Bleeding]], etc.
+	- Shock <- [[Intraabdominal Bleeding]], etc.
 - **Posture**
 	- Low movement, fetal postition <- [[Peritonitis]]; blend forward -> **[[Pancreatitis#Acute Pancreatitis|Acute Pancreatits]]**
-	- **Pale** + **low BP** <- **[[Internal Bleeding]]** <- **ruptures** ([[Hepatoma]], [[Hepatic Adenoma]], [[Ectopic Pregnancy]], etc.) 
+	- **Pale** + **low BP** <- **[[Intraabdominal Bleeding]]** <- **ruptures** ([[Hepatoma]], [[Hepatic Adenoma]], [[Ectopic Pregnancy]], etc.) 
 	- **[[Jaundice]]** <- **[[Biliary Obstruction]]**
 
 ## Abdominal Examination

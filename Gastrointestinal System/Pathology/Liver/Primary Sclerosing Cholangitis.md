@@ -10,3 +10,5 @@
 - **[[Cirrhosis]]**, **[[Jaundice]]**, [[Hepatomegaly]], [[Splenomegaly]], etc.
 > Like [[Cirrhosis]] from [[Biliary System#Pathology]]
 
+# Complication
+**[[Cholangiocarcinoma]]**

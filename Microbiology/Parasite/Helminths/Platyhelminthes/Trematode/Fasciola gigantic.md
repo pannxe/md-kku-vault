@@ -17,7 +17,7 @@ Secretory product (**[[Cathepsins]]**) -> Chronic inflammation -> **[[Hepatic Fi
 - [[Fever]]
 - [[Nausea & Vomiting]]
 - [[Abdominal Pain]]
-- [[Internal Bleeding]]
+- [[Intraabdominal Bleeding]]
 - [[Allergic Reaction]]
 - **[[Extrahepatic Fascioliasis]]**
 

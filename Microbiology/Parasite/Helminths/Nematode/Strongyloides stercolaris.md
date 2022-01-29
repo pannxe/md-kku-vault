@@ -27,7 +27,7 @@ Living in [[Intestinal Mucosal Layer]] -> secretion -> inh. cell proliferation -
 
 ## Adult
 - **GI infection is typically mild** -- mostly self-limited
-> [[Diarrhoea]], [[Abdominal Pain]], [[Malabsorption]] -> [[Weight Loss]], [[Internal Bleeding]] and possibly [[Appendicitis]]
+> [[Diarrhoea]], [[Abdominal Pain]], [[Malabsorption]] -> [[Weight Loss]], [[Intraabdominal Bleeding]] and possibly [[Appendicitis]]
 - [[Immunocompromised]] host -> **Hyperinfection** -> **[[Disseminated Strongyloidiasis]]** -> life-treatening
 - Long life-span in human (> 35 yrs.) -> **Autoinfection**
 
