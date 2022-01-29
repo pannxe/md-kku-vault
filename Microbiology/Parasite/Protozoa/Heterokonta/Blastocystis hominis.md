@@ -23,7 +23,7 @@ Normal faeco-oral route -> water-borne
 1. Cyst is ingested 
 2. Excystation in small intestine -> trophozoite
 3. Replication
-4. Encystation in large intestine -> excreted in faeces
+4. Encystation in large intestine -> excreted in [[Faeces]]
 
 # Diagnosis
 **Culture** -- gold standard

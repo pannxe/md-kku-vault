@@ -32,4 +32,4 @@ Larva may causes muscle weakness / aches
 
 ## Supportive
 - [[Prednisone]] ([[Corticosteroid]])
-- [[NSAIDs]] and [[Paracetamol]]
+- [[NSAIDs]] and [[Acetaminophen]]

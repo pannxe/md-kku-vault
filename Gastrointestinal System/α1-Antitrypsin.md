@@ -1,0 +1,2 @@
+# Function
+**Inhibit [[Proteases]]**

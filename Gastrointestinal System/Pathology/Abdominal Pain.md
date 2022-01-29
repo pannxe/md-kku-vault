@@ -4,7 +4,7 @@
 ## Colicky Pain
 Strong **[[Peristalsis]]** of **hollow visceral organ** ->
 - [[Small Intestine]], [[Large Intestine]], and [[Ureter]] -> **intermittant pain**
-- [[Biliary System]] -> **ever increasing pain**
+- [[Biliary System]] -> **sustained pain**
 
 ## Burning Pain
 **Chemical trigger** -> assoc **[[Stomach]]** -- **[[Peptic Ulcer]]** -> **[[Peptic Perforation]]**
@@ -91,7 +91,7 @@ Indicate severe pathology -- [[Peritonitis]], [[Intestinal Infarction]], [[Aorti
 In **acute abdominal pain**; look for these
 - **Perinanal skin** -> signs of **infections**, **inflammation**, and [[**Haemorrhoid**]]
 - **Wall of [[Large Intestine#Rectum|rectum]]** -> [[Peritonitis]] if painful; mass; [[Rectal Shelf]] in female; etc.
-- **Faeces** -- obstruction, blood, etc.
+- **[[Faeces]]** -- obstruction, blood, etc.
 
 ## PV Examination
 Necs in **female c pain at pelvic region**

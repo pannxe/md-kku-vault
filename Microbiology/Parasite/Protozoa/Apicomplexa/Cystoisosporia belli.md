@@ -1,6 +1,6 @@
 # Life Cycle
 - Typical of [[Apicomplexa]]
-- **Immature oocyst** are excreted in the faeces
+- **Immature oocyst** are excreted in the [[Faeces]]
 > Like [[Cyclospora cayetanensis]]
 - Prepatent period : **9-10 days**
 

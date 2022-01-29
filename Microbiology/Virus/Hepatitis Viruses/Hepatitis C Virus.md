@@ -5,16 +5,21 @@ Belongs to [[Flaviviridae]] family
 > Very low risk of sexual and vertical transmission 
 
 # Pathogenesis
-- **High risk (80%) of Chronic [[Hepatitis]]** -> [[Cirrhosis]] -> [[Hepatocellular Carcinoma]]
+- **High risk (80%) of [[Hepatitis#Chronic Hepatitis|Chronic Hepatitis]]** -> [[Cirrhosis]] -> [[Hepatocellular Carcinoma]]
 > Compare to [[Hepatitis B Virus]] ~8%
 - Chance of [[Cryoglobinaemia]] -> **[[Vascilitis]]** -> **[[Lymphoma]]**
 
+# Histopathology
+- Mild-moderate **chronic inflammatory cells** infiltration -- [[Plasma Cell]], [[Lymphocytes]], [[Kupffer Cell]], etc.
+- **[[Fibrosis]]**
+> c limiting plate picture
+
 # Clinical Manifestation
 - **ASYMPTOMATIC in acute infection**
-- **Chronic [[Hepatitis]]** -> **[[Cirrhosis]]** -> **[[Hepatocellular Carcinoma]]**
+- **[[Hepatitis#Chronic Hepatitis|Chronic Hepatitis]]** -> **[[Cirrhosis]]** -> **[[Hepatocellular Carcinoma]]**
 
 # Diagnosis
-- **Anti-HCV** and **HCV RNA**
+**Anti-HCV** and **HCV RNA**
 > Unreliable ALT value
 
 # Treatment

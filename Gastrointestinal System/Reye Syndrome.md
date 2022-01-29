@@ -1,0 +1,1 @@
+[[Aspirin]] -> **dysfunction of [[Mitochondia]] in [[Liver]]** -> microvesticular [[Steatosis]] -> fatal 

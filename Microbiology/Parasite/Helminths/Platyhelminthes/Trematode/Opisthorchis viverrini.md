@@ -16,7 +16,7 @@
 - Dx stage -- **egg**
 - RHs -- **cats**, **dogs**
 
-Embryonated egg passed c faeces -> water -> ingested via [[Freshwater Snail]] (IH 1) -> ingested by **[[Cyprinid]] Fish** (IH 2) -> Human
+Embryonated egg passed c [[Faeces]] -> water -> ingested via [[Freshwater Snail]] (IH 1) -> ingested by **[[Cyprinid]] Fish** (IH 2) -> Human
 
 # Transmission
 **Food-borne** -- **uncooked fish** -> ingestion of metacaercaria
@@ -45,7 +45,7 @@ Based on [[IARC Monogram]], *O. viverini* is **Group I Carcinogen** -> [[Cholang
 	- [[Cholangiocarcinoma]] (Chronic; < 20 years)
 
 # Diagnosis
-- **Egg/adult detection in faeces** 
+- **Egg/adult detection in [[Faeces]]** 
 	- Direct simple smear
 	- Concentration technique
 		- **[[FECT]]** -- **The best one so far**

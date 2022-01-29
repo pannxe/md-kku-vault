@@ -8,7 +8,7 @@
 
 # Phamarcokinetic
 - Mostly rapidly absorbed and well distributed.
-- **Inhibits [[CYP250]]**
+- **Inhibits [[CYP450]]**
 - Excrete via [[Urine]]
 
 # Indication
@@ -18,7 +18,7 @@
 - **[[Zollinger-Ellison Syndrome]]**
 
 # ADRs
-- **Inhibit [[CYP250]]** -> prolongs other drugs T1/2
+- **Inhibit [[CYP450]]** -> prolongs other drugs T1/2
 > **ESP. [[Cimetidine]]**
 - **Anti-androgenic effects** -> incr. [[Prolactin]] ->
 	- Male -- [[Gynecomastia]] & [[Sexual Impotence]]

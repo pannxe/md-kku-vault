@@ -3,7 +3,7 @@
 
 # MoA
 - Stimulate peristalsis
-- Lubericate faeces
+- Lubericate [[Faeces]]
 
 # ADR
 - Suppository -> Anal irritation

@@ -1,0 +1,1 @@
+**Plugging of [[Bile Canaliculi]]** -> [[Bile Pigment]] is seen in [[Hepatocyte]] (normally invisible)

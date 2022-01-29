@@ -5,7 +5,7 @@ Southern and Southeastern Asia. **Central Thailand**.
 
 # Life Cycle
 Infective stage : **Metacercaria** in **[[Aquatic Plant]]** 
--> Excyst in small intestine -> unembyonated eggs via faeces (> 25000 eggs/day)
+-> Excyst in small intestine -> unembyonated eggs via [[Faeces]] (> 25000 eggs/day)
 Others are typical of Trematode
 
 # Pathogenesis
@@ -26,7 +26,7 @@ Heavy infection :
 # Diagnosis
 - History of **raw [[Aquatic Plant]]** consumption
 - Obstruction sign from imaging
-- **Egg in faeces** ([[FECT]])
+- **Egg in [[Faeces]]** ([[FECT]])
 
 # Treatment
 **[[Praziquantel]]**

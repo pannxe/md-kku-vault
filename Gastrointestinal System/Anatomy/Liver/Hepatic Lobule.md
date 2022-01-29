@@ -4,9 +4,9 @@
 	- Covered with epithelial cell
 
 # Cells
+- **[[Hepatocyte]]**
 - [[Kupffer Cell]]
 - [[Stellate Cell]]
-- [[Hepatocyte]]
 - [[Central Vein]]
 
 # Blood Direction
@@ -17,3 +17,9 @@ Reverse of Blood direction
 
 # Content
 - [[Glycogen]] -- stained red
+
+# Zoning
+According to **amount of O2**; important in pathology
+- **Zone 1** -- near [[Portal Triad]] -> **highest O2**
+- **Zone 2** -- between zone 1 and 3
+- **Zone 3** -- surround [[Central Vein]] -> **lowest O2**

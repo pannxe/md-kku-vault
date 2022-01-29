@@ -5,7 +5,7 @@ Inh. [[Cholinesterase]] and incr. [[Acetylcholine]] in neuromuscular system of t
 > i.e., the opposite of [[Nitroimidazole]]s.
 
 # Pharmacokinetic
-**Poorly absorbed** -> mainly excreted in faeces (some in urine)
+**Poorly absorbed** -> mainly excreted in [[Faeces]] (some in urine)
 
 # Indication
 - **[[Enterobius vermicularis]]** -- highly effective

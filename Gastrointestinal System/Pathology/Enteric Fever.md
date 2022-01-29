@@ -16,5 +16,5 @@ High fetality rate ~20% s tx (~1% c treatment)
 - [[Cholecystitis]]
 
 # Diagnosis
-- Sample from [[Blood]], [[Bone Marrow]], [[Faeces]], [[Urine]], or [[Bile]] -> **culture**
+- Sample from [[Blood]], [[Bone Marrow]], [[[[Faeces]]]], [[Urine]], or [[Bile]] -> **culture**
 - **[[Widal Test]]**

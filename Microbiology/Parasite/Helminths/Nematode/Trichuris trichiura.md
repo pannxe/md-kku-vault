@@ -2,8 +2,8 @@
 - **Soil-borne** -- thus coinfected with [[Ascaris lumbricoides]]
 
 # Life Cycle
-1. Ingestion of embyonated egg <- soil, food, and water contaminated with human faeces
-2. Adult lives in [[Large Intestine]] -> unembryonated egg in faeces
+1. Ingestion of embyonated egg <- soil, food, and water contaminated with human [[Faeces]]
+2. Adult lives in [[Large Intestine]] -> unembryonated egg in [[Faeces]]
 
 # Risk Factor
 - **Children**
@@ -42,7 +42,7 @@ Rare now
 - Classical Triad
 - Accidental during [[Colonoscopy]] for [[Abdominal Pain]] and [[Altered Bowel Habits]]
 - **Egg in stool** <- [[FECT]], [[Kato-Katz Technique]], simple smear
-- [[Charcot-Leyden Crystal]] in faeces is possible
+- [[Charcot-Leyden Crystal]] in [[Faeces]] is possible
 - Molecular and serological test is not commonly used in clinic
 
 # Treatment

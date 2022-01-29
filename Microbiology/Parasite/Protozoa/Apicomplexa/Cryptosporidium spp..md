@@ -7,7 +7,7 @@
 2. Excystation in UGI
 3. Ungergone regular [[Apicomplexa]] replication
 	1. **Thin-walled oocyst** (20%) -> **autoinfection**
-	2. **Thick-walled oocyst** -> **excrete via faeces**
+	2. **Thick-walled oocyst** -> **excrete via [[Faeces]]**
 
 # Clinical Manifestation
 ## Liver

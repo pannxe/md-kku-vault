@@ -1,4 +1,4 @@
-**[[Altered Bowel Habits]]** -> less frequent, harder [[Defaecation]], or harder faeces.
+**[[Altered Bowel Habits]]** -> less frequent, harder [[Defaecation]], or harder [[Faeces]].
 
 # Cause
 - Low fiber diet

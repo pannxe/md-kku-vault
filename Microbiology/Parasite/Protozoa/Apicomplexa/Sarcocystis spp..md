@@ -16,4 +16,4 @@ Raw consumption of [[Pigs]] and [[Cattles]]
 Mostly asymptomatic
 
 # Diagnosis
-Simple smear or **[[FECT]]** -> **Oocyst** or **sporocyst** in faeces
+Simple smear or **[[FECT]]** -> **Oocyst** or **sporocyst** in [[Faeces]]

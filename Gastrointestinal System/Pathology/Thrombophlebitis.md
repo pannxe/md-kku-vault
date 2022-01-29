@@ -1,0 +1,1 @@
+A types of [[Phebitis]] (inflammation of [[Veins]]) caused by **[[Thrombosis]]**

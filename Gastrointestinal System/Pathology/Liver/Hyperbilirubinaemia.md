@@ -1,0 +1,1 @@
+Serum level of [[Bilirubin]] > 1.0 mg/dL

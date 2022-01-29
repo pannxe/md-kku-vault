@@ -16,7 +16,7 @@
 - Male, advanced age, animal-human transmission, humid area
 
 # Life Cycle
-**L3 larva prenatrate skin** -> become **adult in [[Small Intestine]]** -> Egg deposited in [[Intestinal Mucosal Layer]] or excreted in faeces -> can be free-living and reproduce in the environment -> become L3 larva again
+**L3 larva prenatrate skin** -> become **adult in [[Small Intestine]]** -> Egg deposited in [[Intestinal Mucosal Layer]] or excreted in [[Faeces]] -> can be free-living and reproduce in the environment -> become L3 larva again
 
 # Pathogenesis
 Living in [[Intestinal Mucosal Layer]] -> secretion -> inh. cell proliferation -> [[Villus]] atrophy and crypt hyperplasia -> **[[Malabsorption]]**
@@ -61,6 +61,6 @@ Other supportive treatment as needed
 
 # Prevention
 - **Wear shoes when walk on soil**
-- Avoid contact with faeces
+- Avoid contact with [[Faeces]]
 - Take care of dogs
 - Toilet use

@@ -6,7 +6,7 @@
 - [[Calcium Polycarbophil]]
 
 # Mechanism of Action
-**Bind to H2O** -> **incr. bulk -> **stimulate [[Colonic Reflex (defaeces)]]**
+**Bind to H2O** -> **incr. bulk -> **stimulate [[Colonic Reflex (de[[Faeces]])]]**
 > Maintains regular [[Intestinal Movement]].
 > Note that it also need adequet water to take effect.
 

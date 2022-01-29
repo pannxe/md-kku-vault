@@ -2,7 +2,7 @@
 - **~90% remains in lumen** -> Tx. luminal infection
 - Long T1/2 ~11-14 hr.
 - Metabolized by glucoronidation
-- Excreted in faeces
+- Excreted in [[Faeces]]
 
 # Clinical Use
 - [[Entamoeba histolytica]] (luminal infection)

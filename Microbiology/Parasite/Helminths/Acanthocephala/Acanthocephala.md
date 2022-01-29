@@ -5,7 +5,7 @@
 Sporadic case in Thailand <- **Occur where insects are consumed**
 
 # Life Cycle
-IH are arthropod esp. insect -> ingested -> egg excreted via faeces
+IH are arthropod esp. insect -> ingested -> egg excreted via [[Faeces]]
 
 # Clinical Manifestation
 Larva penetrates GI [[Intestinal Mucosal Layer]] ->

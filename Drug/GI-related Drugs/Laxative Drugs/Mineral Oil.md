@@ -1,6 +1,6 @@
 # MoA
 - Prevent water reabsorption
-- Lubricate faeces
+- Lubricate [[Faeces]]
 
 # ADR
 - [[Malabsorption]] esp. fat-soluble vitamin.

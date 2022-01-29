@@ -9,7 +9,7 @@ Larva in **[[Freshwater Snail]]** and **[[Tadpoles]]** -> ingestion -> inhabits 
 - May casue injury to [[Intestinal Mucosal Layer]]
 
 # Diagnosis
-**Egg in faeces** -- indentical to egg of [[Fasiolopsis buski]] and [[Fasciola gigantic]], etc.
+**Egg in [[Faeces]]** -- indentical to egg of [[Fasiolopsis buski]] and [[Fasciola gigantic]], etc.
 
 # Treatment
 **[[Praziquantel]]**

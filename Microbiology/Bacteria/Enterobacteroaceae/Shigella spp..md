@@ -13,7 +13,7 @@
 
 # Transmission
 - **Faecal-oral route** or **person-person**
-> 4Fs : Files, Fingers, Food, Faeces
+> 4Fs : Files, Fingers, Food, [[Faeces]]
 - **ID is low also** -- 10 - 500 cells 
 > More virulant strain -> less cell required
 

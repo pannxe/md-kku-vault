@@ -33,7 +33,7 @@ From adult worm in the liver
 - [[Anaemia]]
 
 # Diagnosis
-- **Egg detection in faeces** -- either direct smear or concentration technique (**[[FECT]]** (preferred) and [[Kato-Katz Technique]]) 
+- **Egg detection in [[Faeces]]** -- either direct smear or concentration technique (**[[FECT]]** (preferred) and [[Kato-Katz Technique]]) 
 - Immunological and molecular technique -- esp. for [[Extrahepatic Fascioliasis]]
 
 ## False Positive

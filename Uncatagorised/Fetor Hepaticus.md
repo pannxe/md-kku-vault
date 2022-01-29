@@ -1,1 +1,1 @@
-[[Mercaptans]] in excrete via exhalation -> unique odor
+[[Liver]] cannot destroy [[Mercaptans]] -> excrete via exhalation -> unique odor, **foul smell, [[Faeces]]-like**

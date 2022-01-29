@@ -6,10 +6,10 @@ Belongs in [[Picornaviridae]], aka. Enterovirus 72
 
 # Transmission
 **Faecal-oral route** -- viral particle found in stool for **~5 wks. p exposture**.
-> Virus replicate in [[Hepatocyte]] and [[Kupffer Cell]] -> excrete to faeces via [[Bile]]
+> Virus replicate in [[Hepatocyte]] and [[Kupffer Cell]] -> excrete to [[Faeces]] via [[Bile]]
 
 # Clinical Manifestation
-- **Acute [[Hepatitis]]** - HAV is responsible for 40% of it
+- **[[Hepatitis#Acute Hepatitis|Acute Hepatitis]]** - HAV is responsible for 40% of it
 - **NO RISK of Hepatocellular Carcinoma or Cirrhosis**
 
 # Serology

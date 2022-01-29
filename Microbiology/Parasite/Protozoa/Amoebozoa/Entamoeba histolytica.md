@@ -23,7 +23,7 @@
 1. Cyst is ingested 
 2. Excystation in small intestine -> trophozoite
 3. Replication
-4. Encystation in large intestine -> excreted in faeces
+4. Encystation in large intestine -> excreted in [[Faeces]]
 
 # Pathogenesis
 Trophozoite adhesion using [[Gal/GalNAc Lectin]] -> invation of [[Intestinal Mucosal Layer]] -> colonization -> acute inflammation -> [[Diarrhoea]] and [[Amoebic Dysentery]]
@@ -39,7 +39,7 @@ Generally host can establish tolerance by
 - Anti-superoxide acitvity <- various surface enzymes (e.g., peroxiredoxin, Superoxide dismutase, etc.)
 - Capping & shadding of Ab-Ag complex
 - [[Amoebapore-A]] -> forms pore in the target cell
-- Induces apoptosis of host cells -> **no WBC in faeces**
+- Induces apoptosis of host cells -> **no WBC in [[Faeces]]**
 
 # Diagnosis
 - **[[Stool Examination]]** - **Simple smear & concentration**

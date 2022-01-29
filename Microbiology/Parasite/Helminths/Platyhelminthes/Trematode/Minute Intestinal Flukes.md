@@ -11,7 +11,7 @@ Similar to [[Opisthorchis viverrini]]
 **Mostly asymptomatic**
 
 # Diagnosis
-**Egg in faeces** -- similar to [[Opisthorchis viverrini]]
+**Egg in [[Faeces]]** -- similar to [[Opisthorchis viverrini]]
 
 # Treatment
 **[[Praziquantel]]**

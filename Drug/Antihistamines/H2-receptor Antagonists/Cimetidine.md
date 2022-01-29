@@ -1,1 +1,1 @@
-**Inhibit [[CYP250]]** -> **multiple drug interaction** prolongs other drugs T1/2
+**Inhibit [[CYP450]]** -> **multiple drug interaction** prolongs other drugs T1/2

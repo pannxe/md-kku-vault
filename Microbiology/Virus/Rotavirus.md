@@ -12,7 +12,7 @@ Attachment via **[[VP4 Spike]]** -> **Enter epithelium** and shedding of shell -
 - Spreading -> Epithelial cell die -> **excretion of fluids** -> **[[Diarrhoea]]**
 - Shorterning of [[Villus]], loss of [[Microvillus]] -> 
 	- **[[Malabsorption]]** and cannot reabsorb [[Bile]]
-	- [[Lactase Deficiency]] -> [[Lactose Intolerance]] -> undigested milk -> **acid faeces** -> [[Diarrhoea]] and **irritation**
+	- [[Lactase Deficiency]] -> [[Lactose Intolerance]] -> undigested milk -> **acid [[Faeces]]** -> [[Diarrhoea]] and **irritation**
 - Non-enveloped virus -> **unaffected by [[Disinfectant/Alcohol]]** 
 
 # Clinical Manifestation
@@ -25,7 +25,7 @@ Usually self-limited within 7 d.
 		- **Sucken Features** : eyes, cheek, fontanelle, etc.
 		- **Decrease Skin Turgor**
 		- No tear, dry mouth
-	- Repeted wiping + acidic faeces -> **perianal irritation** (redness, pain)
+	- Repeted wiping + acidic [[Faeces]] -> **perianal irritation** (redness, pain)
 
 # Diagnosis
 **Mainly by clinical features and history**

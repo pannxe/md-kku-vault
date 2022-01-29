@@ -1,0 +1,1 @@
+Recieve blood from **[[Splanchic Vein]]** ([[Splenic Vein]] + [[Superior Mesenteric Vein]]) -> **[[Liver]]** ([[Central Vein]]) -> [[Hepatic Vein]] -> [[Heart]]

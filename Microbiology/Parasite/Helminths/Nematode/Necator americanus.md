@@ -8,7 +8,7 @@ Southern China, **Southeeast Asia**, Americas, and Africa
 > See [[Ancyclostoma duodenale]] for differences
 
 # Life Cycle
-**L3 larva** on **vegetation** -> **prenetrate skin** -> migrate to [[Lung]] -> coughed-up and enter [[Small Intestine]] -> egg passed in faeces
+**L3 larva** on **vegetation** -> **prenetrate skin** -> migrate to [[Lung]] -> coughed-up and enter [[Small Intestine]] -> egg passed in [[Faeces]]
 
 # Pathogenesis
 ## Larve
@@ -23,7 +23,7 @@ Southern China, **Southeeast Asia**, Americas, and Africa
 - **Protein-loss** in moderate-heavy infection -> [[Hypoalbuminaemia]], [[Anasarca]], [[Ascites]] -> [[Abdominal Distention]]
 
 # Diagnosis
-Clue of **iron deficiency [[Anaemia]]** -> perform stool exam (**[[FECT]]**) -> **egg or L3 larva in faeces**.
+Clue of **iron deficiency [[Anaemia]]** -> perform stool exam (**[[FECT]]**) -> **egg or L3 larva in [[Faeces]]**.
 
 # Treatment
 - **[[Albendazole]]**

@@ -22,7 +22,7 @@
 ## Non-invasive
 - Serology - [[ELISA]], **[[Immunochromatography]]**, **IgG Recombinant Marker** (definite)
 - **Urea Breath Test**
-- Faeces -> [[PCR]]
+- [[Faeces]] -> [[PCR]]
 
 # Treatment
 ## Triple Therapy
