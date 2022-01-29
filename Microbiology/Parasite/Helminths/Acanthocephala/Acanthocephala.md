@@ -10,7 +10,7 @@ IH are arthropod esp. insect -> ingested -> egg excreted via [[Faeces]]
 # Clinical Manifestation
 Larva penetrates GI [[Intestinal Mucosal Layer]] ->
 - **Severer [[Abdominal Pain]]**
-- **[[Gastric Perforation]]** and **[[Intestinal Perforation]]**
+- **[[Peptic Perforation]]** and **[[Intestinal Perforation]]**
 - [[Peritonitis]]
 
 # Diagnosis

@@ -8,5 +8,5 @@
 **Red**, possibly eroded area within [[Oral Cavity]]
 
 # Complication
-Dysplasia -> [[Carcinoma in situ]] -> **[[Squamous Cell Carcinoma]]**
+Dysplasia -> [[Carcinoma in situ]] -> **[[Oral Squamous Cell Carcinoma]]**
 > Similar to [[Leukoplakia]] c **MUCH HIGHER CHANCE**

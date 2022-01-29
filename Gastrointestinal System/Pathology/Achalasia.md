@@ -13,11 +13,10 @@ Adynamic oesophagus -> **Bird beak apperance** c [[Oesophagogram]]
 
 # Clinical Manifestaion
 - [[Dysphagia]]
-- [[Aspiration]]
-- Nocturnal regurgitation an aspiration <- undigested food reflux
+- Undigested food reflux -> nocturnal [[Regurgitation]] and [[Aspiration]] -> [[Aspiration Pneumonia]]
 
 # Complication
-3-5% develops [[Squamous Cell Carcinoma]]
+3-5% develops [[Oesophageal Squamous Cell Carcinoma]]
 
 # Treatment
 - Push air to open [[Lower Oesophageal Sphincter]]

@@ -15,7 +15,7 @@ Acidic environment -> convert to [[Sulfenic Acid]] -> **form covalent bond c [[H
 > Bioavailability varies with cost
 
 # Clinical Indication
-- **[[Peptic Ulcer]]** and others **[[Dyspepsia]]**
+- **[[Peptic Ulcer Disease]]** and others **[[Dyspepsia]]**
 - **[[GERD]]**
 - **Stress-induced [[Gastritis]]**
 - **[[Zollinger-Ellison Syndrome]]**

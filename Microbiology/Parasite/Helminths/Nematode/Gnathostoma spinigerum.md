@@ -1,3 +1,3 @@
 # Pathogenesis
 Larva migate to various location
-- [[Gastric Perforation]], [[Intestinal Perforation]], etc.
+- [[Peptic Perforation]], [[Intestinal Perforation]], etc.

@@ -1,4 +1,4 @@
 # Upper GI
-- [[Oesophagus#Pathology]]
-- [[Stomach#Pathology]]
-- [[Abdominal Pain]]
+- **[[Oesophagus#Pathology]]**
+- **[[Stomach#Pathology]]**
+- **[[Abdominal Pain]]**

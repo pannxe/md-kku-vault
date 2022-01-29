@@ -18,7 +18,7 @@ Every tumors arose from reserved cell from [[Excretory Duct]] and [[Intercalated
 
 ## Multicellular Theory
 Each type has its own specific origin
-- [[Excretory Duct]] -> [[Squamous Cell Carcinoma]]
+- [[Excretory Duct]] -> [[Oral Squamous Cell Carcinoma]]
 - [[Intercalated Duct]] -> [[Pleomorphic Ademona]]
 - [[Striated Duct]] -> [[Oncocytoma]]
 - [[Ancinar Cell]] -> [[Ancinar Cell Carcinoma]]

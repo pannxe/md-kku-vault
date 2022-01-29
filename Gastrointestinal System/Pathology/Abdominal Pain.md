@@ -10,7 +10,7 @@ Strong **[[Peristalsis]]** of **hollow visceral organ** ->
 > Actually a type of colicky pain
 
 ## Burning Pain
-**Chemical trigger** -> assoc **[[Stomach]]** -- **[[Peptic Ulcer]]** -> **[[Peptic Perforation]]**
+**Chemical trigger** -> assoc **[[Stomach]]** -- **[[Peptic Ulcer Disease]]** -> **[[Peptic Perforation]]**
 > Possibly [[Neuropathic Pain]]
 
 ## Dull Pain
@@ -29,7 +29,7 @@ Indicate severe pathology -- [[Peritonitis]], [[Intestinal Infarction]], [[Aorti
 # Pathogenesis
 - **Tension** or **Stretching** <- [[Abdominal Distention]], [[Intestinal Obstruction]], [[Hepatitis|Acute hepatitis]], etc.
 - **Spasm** -- assoc **[[#Colicky Pain]]** <- [[Gallstone]], [[Diarrhoea]], etc.
-- **Inflammation** and **irritation** <- [[Peptic Ulcer]], [[Gastritis]], [[Bacterial Infection in GI]], etc.
+- **Inflammation** and **irritation** <- [[Peptic Ulcer Disease]], [[Gastritis]], [[Bacterial Infection in GI]], etc.
 - **Ischaemia**
 - **Tumors** -> infiltration
 
@@ -49,7 +49,7 @@ Indicate severe pathology -- [[Peritonitis]], [[Intestinal Infarction]], [[Aorti
 - **Association factors**
 	- **Meal**
 		- Better pc -> **[[Duodenal Ulcer]]**
-		- Worsen pc -> **[[Gastric Ulcer]]**
+		- Worsen pc -> **[[Peptic Ulcer Disease]]**
 		- Worsen c fatty food -> [[Biliary System]]
 	- **[[Defaecation]]** -> better -> **[[Irritable Bowel Syndrome]]**
 	- **Posture** -> (blend forward -> better) + (move or inhale -> worsen) -> **[[Pancreatitis#Acute Pancreatitis|Acute Pancreatits]]**
@@ -83,7 +83,7 @@ Indicate severe pathology -- [[Peritonitis]], [[Intestinal Infarction]], [[Aorti
 - Sound
 	- **[[Bowel Sound]]**
 	- **[[Bruit]]** <- mass
-	- **Splashing sound** <- **[[Gastric Outlet Obstruction]]**
+	- **Splashing sound** <- **[[Pyloric Obstruction]]**
 - **Palpation** -- look for tenderness, gurding, and rigidity -> [[Peritonitis]]
 
 > DO NOT do deep palpation unless necs

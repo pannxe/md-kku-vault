@@ -13,7 +13,7 @@
 
 # Indication
 - **[[GERD]]**
-- **[[Peptic Ulcer]]** and **[[Dyspepsia]]**
+- **[[Peptic Ulcer Disease]]** and **[[Dyspepsia]]**
 - Prevent **stress-related [[Gastritis]]** -- IV
 - **[[Zollinger-Ellison Syndrome]]**
 

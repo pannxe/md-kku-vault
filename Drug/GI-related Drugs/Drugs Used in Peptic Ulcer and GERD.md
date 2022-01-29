@@ -1,5 +1,5 @@
 # Indication
-**[[Peptic Ulcer]]** ([[Gastric Ulcer]] and [[Duodenal Ulcer]]) -> decr level of **gastric acidity**, **decr [[Gastric Secretion]]**, or **incr. [[Gastric Mucous]] protection**. Tx infection if there is one.
+**[[Peptic Ulcer Disease]]** ([[Peptic Ulcer Disease]] and [[Duodenal Ulcer]]) -> decr level of **gastric acidity**, **decr [[Gastric Secretion]]**, or **incr. [[Gastric Mucous]] protection**. Tx infection if there is one.
 > First trial in Tx [[Dyspepsia]]; if not improve -> endoscope -> biopsy
 
 # Classification

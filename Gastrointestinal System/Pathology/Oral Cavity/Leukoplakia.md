@@ -8,5 +8,5 @@
 **White patch / plaque** within [[Oral Cavity]] that **CANNOT be scraped off**
 
 # Complication
-Dysplasia -> [[Carcinoma in situ]] -> **[[Squamous Cell Carcinoma]]**
+Dysplasia -> [[Carcinoma in situ]] -> **[[Oral Squamous Cell Carcinoma]]**
 > Similar to [[Erythroplakia]]

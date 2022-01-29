@@ -5,7 +5,7 @@
 - **[[Granuloma]] in [[Bile Duct]]**
 
 # Clinical Manifestation
-- **IgM [[Auto-Abs]]** -- [[Antimitochondrial Ab#M2]] 
+- **IgM [[autoAbs]]** -- [[Antimitochondrial Ab#M2]] 
 - [[Cirrhosis]], [[Jaundice]], [[Hepatomegaly]], [[Splenomegaly]], etc.
 > Like [[Cirrhosis]] from [[Biliary System#Pathology]]
 

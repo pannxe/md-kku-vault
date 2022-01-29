@@ -7,6 +7,11 @@
 - **[[Gastric Motility]]**
 - **[[Gastric Emptying Time]]**
 
+## Defensive Mechanisms
+- [[Prostaglandins]] -> [[Gastric Mucous ]] and mucosal blood flow
+- Apical surface membrane transportation -> [[Bicarbonate]] secretion
+- Epithelial regeneration
+
 ## Secretion
 Stomach has both [[Endocrine]] and [[Exocrine]] seretory protion
 - **[[Gastric Secretion]]** -> [[Digestion of Nutrients]]
@@ -27,5 +32,16 @@ See [[Absorption of Nutrients]]
 ---
 
 # Pathology
+- Congenital
+	- [[Gastric Agenesis]] -- extremely rare
+	- [[Heterotopic Pancreas]] -> **[[Pyloric Obstruction]]**
+	- [[Diaphragmatic Hernia]]
+	- [[Congenital Pyloric Stenosis]]
 - **[[Gastritis]]**
-- **[[Peptic Ulcer]]**
+- [[Acute Gastic Ulceration]] -> **[[Peptic Ulcer Disease]]** -- assoc. [[Zollinger-Ellison Syndrome]]
+- Tumors
+	- **Benign** -- **[[Polyp]]**
+		- Hyperplastic polyp -- non-malignant
+		- Inflmmatory fibroid polyp -- usually non-malignant
+		- **Adenomatous Polyp** -- **c malignant potential**
+	- **Malignant** -- **[[Gastric Adenocarcinoma]]**

@@ -38,7 +38,7 @@
 	- **[[Leukoplakia]]**
 	- **[[Erythroplakia]]**
 - Malignant
-	- **[[Squamous Cell Carcinoma]]**
+	- **[[Oral Squamous Cell Carcinoma]]**
 
 ## Odontogenic Cysts
 - Inflammatory -> [[Periapical Cyst]]
