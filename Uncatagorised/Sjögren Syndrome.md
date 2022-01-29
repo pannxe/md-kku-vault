@@ -24,7 +24,7 @@
 # Diagnosis
 **Examination of [[Salivary Glands#Minor Salivary Glands|Minor Salivary Glands]]**
 Biopsy of [[Lip]] -> **[[Anti-Ro Ab]] and [[Anti-La Ab]]** (specific)
-> [[ANAs]], [[RF]], and others [[Auto Abs]] are supportive and non-specific
+> [[ANAs]], [[RF]], and others [[Auto-Abs]] are supportive and non-specific
 
 # Squelae
 - 40x incr. risk of **[[Non-Hodkin Lymphoma]]**

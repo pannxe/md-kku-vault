@@ -1,4 +1,4 @@
-[[Thrombophlebitis]] at [[Cavernous Sinus]] 
+[[Thrombosis]] at [[Cavernous Sinus]] 
 - [[Periobital Oedema]]
 - [[Proptosis]]
 - [[Chemosis]]

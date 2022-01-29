@@ -3,7 +3,7 @@ End result of [[Chronic Liver Diseases]]. Normal [[Liver]] architecture is repla
 # Causes
 - [[Alcohol]] -> **[[Alcoholism]]**
 - **[[Hepatitis Viruses]]**
-- [[Biliary System#Pathology]]
+- **[[Biliary System#Pathology]]**
 - etc.
 
 # Pathological Finding

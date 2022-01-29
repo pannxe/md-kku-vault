@@ -32,14 +32,31 @@
 	- [[α1-Antitrypsin Deficiency]]
 - [[Neonatal Cholestasis]]
 
-## Intrahepatic biliary tract disease
+## Intrahepatic Biliary Tract Disease
 - [[Primary Biliary Cirrhosis]]
 - [[Primary Sclerosing Cholangitis]]
 
 ## Circulatory disorders
+- [[Liver Infarction]]
+- [[Centrilobular Haemorrhagic Necrosis]]
 
 ## Hepatic complication of transplantation
+- [[Graft vs Host Disease]]
+- [[Liver Rejection]]
 
-## Hepatic disease assoc pregnancy
+## Hepatic Disease assoc Pregnancy
+- [[Preeclampsia]] and [[Eclampsia]]
+- [[Acute Fatty Liver of Pregnancy]]
+> [[Intrahepatic Cholestasis of Pregnancy]]
 
 ## Nodules and tumors
+- **Nodular Hyperplasia** -- may develop in non-necrotic liver
+	- **[[Focal Nodular Hyperplasia]]**
+	- [[Nodular Regenerative Hyperplasia]]
+- **Benign Tumors**
+	- [[Cavernous Haemangioma]]
+	- [[Hepatocellular Adenomas]]
+- **Malignant Tumors**
+	- [[Hepatoblastoma]]
+	- [[Hepatocellular Carcinoma]]
+	- [[Cholangiocarcinoma]]

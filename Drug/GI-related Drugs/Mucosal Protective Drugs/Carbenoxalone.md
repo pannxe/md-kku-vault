@@ -5,5 +5,5 @@
 # ADR
 Steriod-like structure -> Similar to **[[Corticosteroid]]**
 - **[[Hypokalaemia]]**
-- **[[HTN]]**
+- **[[Hypertension]]**
 - [[Na-Water Retention]]
