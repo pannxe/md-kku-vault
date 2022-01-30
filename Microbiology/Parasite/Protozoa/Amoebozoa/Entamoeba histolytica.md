@@ -32,7 +32,7 @@ Triphozoites invade [[Lamina Propria]] using [[Amoeba Product]] -> **Flask-shape
 
 Generally host can establish tolerance by
 - Anti-[[Gal/GalNAc Lectin]]-[[IgA]] -> No colonization
-- [[Innert Response]] and [[Adaptive Response]]
+- [[Intestinal Mucosal Immunity]]
 
 ## Virulence Factors
 - [[Amoeba Product]] -> specific binding to epithelial cell and invasion
@@ -42,9 +42,9 @@ Generally host can establish tolerance by
 - Induces apoptosis of host cells -> **no WBC in [[Faeces]]**
 
 # Diagnosis
-- **[[Stool Examination]]** - **Simple smear & concentration**
+- **[[Stool Examination]]** -- **simple smear & concentration**
 	- Cyst and trophozote in stool
-- **[[Diarrhoea#Bloody Diarrhoea|Bloody diarrhoea]]** with **mucous** and **offensive smell**
+- **[[Diarrhoea#Bloody Diarrhoea|Bloody Diarrhoea]]** c **[[Mucus]]** and **offensive smell**
 - Cultivation, serological, and molecuilar techniques are also possible
 
 ## False Positive
