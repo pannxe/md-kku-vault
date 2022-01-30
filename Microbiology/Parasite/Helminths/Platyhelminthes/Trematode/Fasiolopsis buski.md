@@ -16,7 +16,7 @@ Others are typical of Trematode
 # Clinical Manifestation
 Most case are light infection -> **asymptomatic**
 Heavy infection :
-- [[Diarrhoea]]
+- **[[Diarrhoea]]**
 - [[Abdominal Pain]]
 - [[Fever]]
 - **[[Ascites]]** and **[[Anasarca]]**
