@@ -10,7 +10,7 @@
 Spore is injested or inhaled -> spore injects parasitic cytoplasmic contents to host cell -> produce more spore -> release to the environment
 
 ## Habitat
-[[Villus]] of GI tract
+[[Villi]] of GI tract
 
 # Transmission
 - **Food and water-borned** -- the most concerning

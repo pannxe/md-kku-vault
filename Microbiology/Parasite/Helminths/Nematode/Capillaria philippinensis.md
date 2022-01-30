@@ -14,7 +14,7 @@ High prevalence in **North-eastern Thailand**
 **Eating of uncooked fish** (esp. [[Cyprinid]] fish)
 
 # Pathogenesis
-Destroy [[Intestinal Mucosal Layer]] -> inflammation (leukocyte infiltration) -> flatten [[Villus]] and [[Microvillus]] -> hypertrophy of [[Crypt of Lieberkuhn]] -> [[Malabsorption]] (incl. water) -> waterry [[Diarrhoea]] -> [[Dehydration]], and [[Malnutrition]]
+Destroy [[Intestinal Mucosal Layer]] -> inflammation (leukocyte infiltration) -> flatten [[Villi]] and [[Microvillus]] -> hypertrophy of [[Crypt of Lieberkuhn]] -> [[Malabsorption]] (incl. water) -> waterry [[Diarrhoea]] -> [[Dehydration]], and [[Malnutrition]]
 
 # Clinical Manifestation
 - **Chronic Waterry [[Diarrhoea]]**

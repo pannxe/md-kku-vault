@@ -19,7 +19,7 @@
 **L3 larva prenatrate skin** -> become **adult in [[Small Intestine]]** -> Egg deposited in [[Intestinal Mucosal Layer]] or excreted in [[Faeces]] -> can be free-living and reproduce in the environment -> become L3 larva again
 
 # Pathogenesis
-Living in [[Intestinal Mucosal Layer]] -> secretion -> inh. cell proliferation -> [[Villus]] atrophy and crypt hyperplasia -> **[[Malabsorption]]**
+Living in [[Intestinal Mucosal Layer]] -> secretion -> inh. cell proliferation -> [[Villi]] atrophy and crypt hyperplasia -> **[[Malabsorption]]**
 
 ## Larva
 - **[[Cutaneous Larva Currens]]** -> creeping eruption

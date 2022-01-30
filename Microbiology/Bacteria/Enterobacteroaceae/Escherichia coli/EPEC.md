@@ -3,7 +3,7 @@
 
 # Pathogenesis
 **[[LEE]]** -> **[[T3SS]]** -> adherance factors & ingestion of toxins -> **[[Attaching and Effacing Lesion]]** ->
-- Shortening of [[Villus]] -> **[[Malabsorption]]**
+- Shortening of [[Villi]] -> **[[Malabsorption]]**
 - Inflammation -> [[Fever]]
 > Adherance factos includes : **[[BFP]]**, **[[Intimin]]-[[Tir]]** system, etc.
 

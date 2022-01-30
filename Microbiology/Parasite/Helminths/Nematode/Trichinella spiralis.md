@@ -10,7 +10,7 @@ Sometime [[Trichinella pesudospiralis]]. Considered **blood and tissue** nematod
 Larva ingested -> enter [[Small Intestine]] -> mature to adult -> new generation larva enter [[Muscle]] or other organs
 
 # Pathogenesis
-Adult lives intra-multicellulary -> irritation and inflammation -> Degeneration of [[Villus]]
+Adult lives intra-multicellulary -> irritation and inflammation -> Degeneration of [[Villi]]
 
 Larva may causes muscle weakness / aches
 

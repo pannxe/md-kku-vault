@@ -1,7 +1,7 @@
 aka. **Gluten enteropathy**, celiac sprue, etc.
 
 # Pathogenesis
-[[Gluten]] -> digested to **[[α-Giladin]]** -> activate **immune respond** (esp. [[CD8 T-Cell]]) -> inflammation -> **apoptosis of [[Enterocyte]]** -> flattening of [[Villus]] -> **[[Malabsorption]]**
+[[Gluten]] -> digested to **[[α-Giladin]]** -> activate **immune respond** (esp. [[CD8 T-Cell]]) -> inflammation -> **apoptosis of [[Enterocyte]]** -> flattening of [[Villi]] -> **[[Malabsorption]]**
 
 May include other [[Hypersensitivity]] responds
 - [[Dermatitis]]

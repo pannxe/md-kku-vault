@@ -34,15 +34,14 @@ Pathogenicity depends on strain of the parasite
 Trophozoite attaches to the epitherial surface / microvilli using **adhesive disc** -> release of enzymes to degrade musoal layer ->
 - **Inhibition of [[Pancreatic Enzymes]]** -> **[[Steatorrhoea]]**
 - Irritation -> [[Abdominal Pain]] and [[Nausea & Vomiting]] -> [[Irritable Bowel Syndrome]]
-- Parasite induces **chloride hypersecretion**
-- -> Apoptosis of epithelial cell and lyphocyte-mediated destruction -> **shortening of villi** -> blunt -> atrophy -> **inflammation of lamina propia** 
--> [[Malabsorption]] (esp. fat soluable vitamin) -> [[Weight Loss]] -> **[[Diarrhoea]]**
+- Parasite induces **chloride hypersecretion** -> Apoptosis of epithelial cell and lyphocyte-mediated destruction -> **shortening of [[Villi]]** -> blunt -> atrophy -> **inflammation of [[Lamina Propria]]**
+-> **[[Diarrhoea]]** and [[Malabsorption]] (esp. fat soluable vitamin) -> [[Weight Loss]] -> 
 
 Intermittent [[Diarrhoea]] is associated host immunity.
 
 # Complication
 ## Short-Term
-- Electrolyte imbalance
+- [[Electrolyte Imbalance]]
 	- [[Hypokalaemia]]
 	- [[Hyponatraemia]]
 - **[[Dehydration]]**
