@@ -21,7 +21,7 @@
 - **[[Helicobacter pylori]]** -- most common
 - Prolonged [[NSAIDs]] / high-dose [[Corticosteroid]] -> suppress [[Prostaglandins]]
 - [[Autoimmune Diseases]] -- see [[Gastritis#Autoimmune Gastritis|Autoimmune Gastritis]]
-- Toxins <- [[Alcohol]][[Giemsa Stain]] and [[Tabacco]]
+- Toxins <- [[Alcohol]] and [[Tabacco]]
 - [[Antrectomy]] / [[Gastroenterostomy]] -> reflux of [[Bile]] and [[Duodenal Secretion]]
 - [[Bezoars]] ([[Hair]], [[Dietary Fiber]]) -> Obstruction
 > esp. in pt. c [[Psychiatric Disorders]] or [[Mental Retard]] 
