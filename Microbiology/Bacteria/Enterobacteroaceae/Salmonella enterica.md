@@ -3,9 +3,11 @@
 - **Non-lactose fermentor**
 	- [[Lactose Fermentation Test]] -> Negative
 	- [[MacConkey Agar]] -> **Colorless**
-- **[[Salmonella-Shigella Agar]]** -> **Black**
-- **[[TSI Agar]]** -> **ALK/A**
-- [[Citrate Test]], Mot, Lys -> **Possitive** (except urea)
+- **H2S production**
+	- **[[Salmonella-Shigella Agar]]** -> **Black**
+	- **[[TSI Agar]]** -> **ALK/A + H2S**
+
+> [[Citrate Test]], Mot, Lys -> **Possitive** (except urea)
 
 # Transmission
 - **Faecal-oral route** -- contaminated water, etc.
@@ -28,7 +30,7 @@ Either Animal-Human or Human-Human
 -> **[[Non-typhoidal Salmonellosis]]**
 
 # Treatment
-**Generally not recommened** -> **[[Ceftriaxone]]** in severe case
+Depends on stains
 
 # Prevention
 - Hygiene

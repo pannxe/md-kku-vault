@@ -1,7 +1,8 @@
 Entero**haemorrhagic** [[Escherichia coli]]
 
 # Epidemiology
-**Developed contries** -- NA and EUR
+- **Developed contries** -- NA and EUR
+- **O157:H7** serogroup
 
 # Pathogenesis
 - **Very low ID** -- 1e1 - 1e2 cells
@@ -10,14 +11,15 @@ Entero**haemorrhagic** [[Escherichia coli]]
 	- Damage to [[Microvillus]] -> [[Diarrhoea]]
 
 # Symptom
-- **[[Diarrhoea#Bloody Diarrhoea|Bloody diarrhoea]]**
+- **[[Diarrhoea#Bloody Diarrhoea|Bloody diarrhoea]]** / **[[Dysentery]]**
 - [[Abdominal Pain]], [[Abdoninal Cramp]]
 - Severe [[Nausea & Vomiting]]
 - **NO to LOW [[Fever]]**
 - **[[Colitis]]**
 
 # Complication
-[[Shiga Toxins]] -> **[[Haemolytic Uraemic Syndrome]]** and **[[Renal Failure]]**
+[[Shiga Toxins]] -> **[[Haemolytic Uraemic Syndrome]]** (incl. [[Renal Failure]])
+> [[Thrombocytopenia]] and [[Anaemia]]
 
 # Treatment
 - **Mild** -> Not reccommend

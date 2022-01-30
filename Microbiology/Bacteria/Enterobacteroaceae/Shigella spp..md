@@ -1,5 +1,4 @@
-- Commensal in human
-- Genetically close to [[Escherichia coli]]
+Genetically close to [[Escherichia coli]]
 
 # Epidemiology
 - Asia, Afirca, Central America
@@ -18,14 +17,16 @@
 > More virulant strain -> less cell required
 
 # Pathogenesis
-- **[[Shiga Toxins]]** and **[[T3SS]]**
-- **[[Invation Plasmid Antigens]]**
+- **[[Shiga Toxins]]** -> [[Convulsion]], etc.
+- **[[T3SS]]** -> invasion
+- **[[Invation Plasmid Antigens]] (Ipa)**
 
 -> apoptosis of [[Macrophage]] and disrupted cell structure -> bacteria migrate through disrupted thigh junction -> spread
 > Group B and D also has [[Form 1 Surface Antigen]] -> adhesive factor 
 
 # Clinical Manifestation
-**[[Dysentery]]** -- Group A **Most severe** -> Group D mild
+- **[[Dysentery]]** -- Group A **Most severe** -> Group D mildest
+- [[Convulsion]] in severe case
 
 ## Group A
 - **Severe [[Abdoninal Cramp]]** + mucus and pus -> [[Dysentery]]
@@ -37,14 +38,16 @@
 > IP -> 1-6 days
 
 # Identification
-- **Gram negative**, **faculataive anaerobe**
+- **Gram negative**, faculataive anaerobe
 - **Non-motile**
 - **Non-lactose fermentor**
 	- **[[Lactose Fermentation Test]]** -> **Negative**
 	- [[MacConkey Agar]] -> **Colorless**
-- [[Salmonella-Shigella Agar]] -> **Colorless**
-- [[TSI Agar]] -> **ALK/A**
-- [[Citrate Test]], Mot, Lys, Urea -> **Negative**
+- **No H2S** production
+	- [[Salmonella-Shigella Agar]] -> **Colorless** (no H2S production)
+	- [[TSI Agar]] -> **ALK/A**
+
+> [[Citrate Test]], Mot, Lys, Urea -> **Negative**
 
 # Treatment
 Specific treatement for children or severe case

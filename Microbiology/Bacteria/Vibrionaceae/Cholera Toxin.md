@@ -1,4 +1,4 @@
-Encoded by [[ctx Gene]]. Produced by **[[Vibrio cholerae]]**
+Encoded by **[[ctx Gene]]**. Produced by **[[Vibrio cholerae]]**
 
 # Structure
 1x **subunit A** surrounded by 5x **subunit B**

@@ -2,19 +2,19 @@
 ## Secretory Diarrhoea
 - **Secretion** of NaCl -> **lumen of [[Small Intestine]]** -> osmosis of water -> diarrhoea
 - **Persists even fasting**
-> [[Vibrio cholerae]], [[ETEC]], etc.
+> [[Vibrio cholerae]], [[ETEC]], [[EPEC]], [[EAEC]], [[Norovirus]], etc.
 
 ## Osmotic Diarrhoea
 - **Food or durgs** -> high osmoticity in lumen -> osmosis of water -> diarhoea
 - Decr if fast
-> Juice, honey, some drugs
+> Juice, honey, some drugs, [[Rotavirus]], [[Lactose Intolerance]]
 
 ## Malabsorptive Diarrhoea
 **[[Malabsorption]]** -> diarrhoea and [[Steatorrhoea]]
 
 ## Inflammatory (Exudative) Diarrhoea
 **Inflammation** -> **bloody** and **mucous** diarrhoea (usually found with [[Tenesmus]])
-> - [[Colitis]] <- [[Entamoeba histolytica]], [[Shigella spp.]], [[Salmonella enterica]], [[Mycobacterium]]
+> - [[Colitis]] <- [[Entamoeba histolytica]], [[Shigella spp.]], [[Salmonella enterica]], [[Mycobacterium]], [[Vibrio parahaemolyticus]]
 > - [[Large-intestinal CA]]
 > - [[Intussusception]]
 

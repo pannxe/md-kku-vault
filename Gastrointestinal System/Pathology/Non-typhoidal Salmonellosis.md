@@ -1,13 +1,12 @@
 # Pathogenesis
 Attachment to epitherlial cell in **[[Small Intestine]]** -> **enterotoxin** and **invasion protein** -> 
 - Incr. cAMP -> fluid secretion -> **watery [[Diarrhoea]]**
-- Inflammation -> **mucous [[Diarrhoea]]**  
+- Inflammation -> **mucous [[Diarrhoea]]**
 
 # Clinical Manifestation
-- **[[Gastroenteritis]]**
+- **[[Gastroenteritis]]** -> **Waterry [[Diarrhoea]]**
 - **Acute [[Nausea & Vomiting]]**
 - [[Abdoninal Cramp]]
-- **Waterry [[Diarrhoea]]** or **[[Dysentery]]** -- opposite of [[Enteric Fever]]
 
 # Complication
 Usually in **infant**
@@ -20,7 +19,10 @@ Usually in **infant**
 > Similar to [[Widal Test]]
 
 # Treatment
-**Generally not required** -> risk of [[MDR]]
-- **Fluid** and **Electrolyte** replacement -- [[ORS]]
-- [[Ceftriaxone]] in more severe case -> **[[Salfamethoxazole]] + [[Trimethoprim]]** or [[Fluoroquinolones]] in high risk case
-> **Extreme ages**, valvular heart dis, uraemia, CA, etc.
+## Specific
+- **Generally not required** -> risk of [[MDR]]
+- [[Ciprofloxacin]] (or [[Norfloxacin]]) severe / high risk case
+> **Extreme ages**, valvular heart dis, uraemia, CA, etc, [[Immunocompromised]], etc.
+
+## Supportive
+**Fluid** and **Electrolyte** replacement -- [[ORS]]

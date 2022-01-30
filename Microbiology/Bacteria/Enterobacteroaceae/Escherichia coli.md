@@ -1,25 +1,22 @@
-- **Gram negative**, facultative anaerobe
-- Usually comensal in [[Small Intestine]] and [[Large Intestine]]
+Usually comensal in [[Small Intestine]] and [[Large Intestine]] -> [[Gut Microbiota]]
 
 # Identification
 - **Gram negative**, facultative anaerobe
 - **[[Lactose Fermentation Test]] -> Postitive** 
-- [[Oxidase Test]] -> Negative
+- **[[Oxidase Test]] -> Negative**
 - **Motile** -- peritricous flagella
 > **EXCEPT : [[EIEC]]** 
 
 # Transmission
-- **Faecal-oral route** -> contaminated food and water
+**Faecal-oral route** -> contaminated food and water
 
 # Pathogenic Strain
-- Entero**toxigenic** E. coli -- [[ETEC]]
-- Entero**pathogenic** E. coli -- [[EPEC]]
-- Shiga-toxin producing E. coli -- [[STEC]]
-	- Entero**haemorrhagic** E. coli -- [[EHEC]]
-	- Entero**invasive** E. coli -- [[EIEC]]
-	- Some strains of [[EAEC]]
-- Entero**aggregative** E. coli -- [[EAEC]]
-- **Diffusely Adherent** E.coli -- [[DAEC]]
+- Entero**toxigenic** E. coli -- **[[ETEC]]** -> [[Traveler Diarrhoea]]
+- **Shiga-toxin** producing E. coli -- [[STEC]] -> [[Dysentery]] and [[Haemolytic Uraemic Syndrome]]
+	- Entero**haemorrhagic** E. coli -- **[[EHEC]]**
+	- Entero**invasive** E. coli -- **[[EIEC]]**
+> Stain c [[K1]] -> capsule -> immune invasion -> [[Meningitis]] neonate and [[Bacteraemia]]
+>Others : [[EPEC]], [[EAEC]], [[DAEC]], etc.
 
 # Diagnosis
 ## 1. Correction
