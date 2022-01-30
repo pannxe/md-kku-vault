@@ -1,0 +1,1 @@
+Mucin + H20 -> [[Mucus]]

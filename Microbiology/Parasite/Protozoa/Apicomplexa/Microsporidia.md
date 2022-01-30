@@ -1,6 +1,5 @@
 - [[Enterocytozoon bieneusi]]
 - [[Encephalitozoon spp.]]
-
 - Is an obligate intracellular parasite.
 - Directily related to [[CD4 T-Cell]] count in HIV pt.
 - Intestinal infectino is most common.

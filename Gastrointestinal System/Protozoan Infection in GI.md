@@ -23,7 +23,7 @@
 - **[[Microsporidia]]**
 
 # Responds
-See [[Protective Cell-mediated Intestinal Immune Respond#Extracellular Pathogens and Fungi]]
+See [[Protective Cell-mediated Intestinal Immune Respond#Extracellular Pathogens and Fungi]] and [[Protective Cell-mediated Intestinal Immune Respond#Intracellular Pathogens]]
 
 # Situation in Thailand
 Generally low prevalence but can be found more often in **children with poor hygiene**.
