@@ -43,7 +43,7 @@ Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
 **4th week** : 2 [[Endoderm]] outpouching on the dorsal and ventral side of [[Embryonic Duodenal Tube]] -> migrate posteriorly around the [[Duodenum]] -> 2x **[[Pancreatic Anlage]]**
 
 **7th week** : ducts pf [[Pancreatic Anlage]] merges ->
-- **Main pancreatic duct ([[Duct of Wirsung]])** -> [[Papilla of Vater]] 
+- **Main pancreatic duct ([[Duct of Wirsung]])** -> [[Ampulla of Vater]] 
 - Remneant of proximal duct -> **[[Duct of Santorini]]** -> [[Minor Papilla]]
 
 Ducts branches into smaller duct and give rise to 
