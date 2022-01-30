@@ -25,7 +25,7 @@
 Typical of faecal-oral route
 1. **4 nucleus cyst** is ingested
 2. Excystation in GI tract
-3. Colonization in **duodenum** -> **jejunum**
+3. Colonization in **[[Duodenum]]** -> **[[Jejunum]]**
 4. Cyst and trophozoite is excreted in the stool (trophozoite does not survive the environment) 
 
 # Pathogenesis
