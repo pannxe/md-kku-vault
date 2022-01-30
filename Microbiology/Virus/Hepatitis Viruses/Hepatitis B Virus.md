@@ -82,5 +82,5 @@ Chronic + **HBV DNA > 2000 IU/mL** with [[Liver]] [[Fibrosis]] or [[Cirrhosis]] 
 > **Breast-feeding is safe** <- low viral particle
 - **HBIG** -- infants with HBV positive mother, contact with know pt.
 - **Follow up** q 3-6 mo.
-	- [[Ultrasound]] looking for [[Cirrhosis]]
-	- [[Alpha Fetoprotein]]
+	- [[Ultrasound]] for [[Cirrhosis]]
+	- [[α-Fetoprotein]] for [[Hepatocellular Carcinoma]]
