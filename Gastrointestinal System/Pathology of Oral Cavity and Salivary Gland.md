@@ -1,9 +1,9 @@
 # Teeth and Supporting Structure
 ## Congenital
 - **[[Hypodontia]]** and **[[Anodontia]]**
+- **[[Cleft Lip and Cleft Palate]]**
 
 ## Structural
-- **[[Cleft Lip and Cleft Palate]]**
 - **[[Dental Caries]]**
 - **[[Impacted Tooth]]**
 
