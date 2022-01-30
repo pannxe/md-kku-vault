@@ -1,10 +1,12 @@
 Either **pre-formed** or produced by **living cells** in GI tract.
 
 # Diarrhoeal Type
-From **High protein foods** that has been **reheated** -> **[[Diarrhoea]]**
+- **High protein foods** or **vegetable** -> incr. cAMP -> **[[Diarrhoea]]**
+- **Heat-labile**, **long onset** -> 6 hr minx
 
 # Emetic Type
-From **High CHO foods** that has been **reheated** -> **[[Nausea & Vomiting]]**
+- **High CHO foods** that has been **reheated** -> **[[Nausea & Vomiting]]**
+- **Heat-stable**, **short onset** -> 6 hr maxx
 
 Both types are **self-limited within 24 hrs** and **treatement is not reccommended** 
 

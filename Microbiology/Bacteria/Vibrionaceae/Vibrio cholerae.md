@@ -7,7 +7,7 @@
 	- O139 -> 1e4
 
 # Pathogenesis
-- tcpA -> **[[Pilus]]** -> **colinization**
+- tcpA -> **[[Pili]]** -> **colinization**
 - **[[ctx Gene]]** -> **[[Cholera Toxin]]** -> **incr. cAMP** -> incr. secretion -> **SEVERE [[Diarrhoea]]**
 > Also several minor virulence factors
 > - ace

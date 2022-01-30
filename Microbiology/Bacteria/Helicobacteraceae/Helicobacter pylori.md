@@ -30,29 +30,35 @@
 - [[Abdominal Pain#Dull Pain|Dull Pain]] / [[Abdominal Pain#Burning Pain|Burning Pain]] at [[Epigastrium]]
 - [[Nausea & Vomiting]]
 
+# Complication
+- **[[Gastric Adenocarcinoma]]**
+- [[MALT Lymphoma]]
+
 # Diagnosis
 ## Invasive Methods
 **Gastric Biopsy** -> 
 - **Culture** -- **[[Warthin-Starry Stain]]**, [[Giemsa Stain]], [[H&E Stain]], etc.
-- **[[Rapid Urease Test]]** -- for screening
+- **[[Rapid Urease Test]]** 
 
 ## Non-invasive Methods
-- Serology - [[ELISA]], **[[Immunochromatography]]**, **IgG Recombinant Marker** (definite)
+- ***H. pylori* Ab** and **[[Current Infection Marker]]** (CIM)
+> Non-invasive, accurate, and [[PPIs]] do not interfere c result; useful for monitoring too.
+> Other sero method is also possible -- [[ELISA]], etc.
 - **[[Urea Breath Test]]**
 - [[Faeces]] -> [[PCR]]
 
 # Treatment
 ## Triple Therapy
-- **[[Omeprazole]]**
+- **[[PPIs]]**
 - **[[Clarithromycin]]**
-- **[[Amoxicillin]]** or **[[Metronidazole]]**
+- **[[Amoxicillin]]** or [[Metronidazole]]
 > Or [[Levofloxacin]] + [[Amoxicillin]] + [[PPIs]]
-
-## Quadruple Therapy
-- **[[Omeprazole]]**
-- [[Bismuth Chelate]]
-- [[Metronidazole]]
-- [[Tetracycline]]
 
 ## Sequential
 [[PPIs]] + [[Amoxicillin]] (5 d) -> [[PPIs]] + [[Clarithromycin]] + [[Metronidazole]] (5 d)
+
+## Quadruple Therapy
+- **[[PPIs]]**
+- **[[Bismuth Chelate]]**
+- **[[Amoxicillin]]** or [[Metronidazole]]
+- **[[Tetracycline]]**

@@ -17,5 +17,11 @@
 | [[Schistosoma mansoni]]         | 3     |
 | [[Opisthorchis fellineus]]      | 3     |
 
+## Virus
+| [[Hepatitis B Virus]] | 1 |
+| [[Hepatitis C Virus]] | 1 |
+
+## Bacteria
+| [[Helicobacter pylori]] | 1 |
 
 

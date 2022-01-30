@@ -1,1 +1,0 @@
-Microangiopathic Haemolytic Anaemia

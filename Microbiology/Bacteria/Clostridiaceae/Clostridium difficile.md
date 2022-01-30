@@ -1,14 +1,12 @@
 # Risk Factor
-- **Prolonged broad spectrum ABx used** -> disruption of [[Gut Microbiota]]
-	- [[3rd Generation Cephalosporins]] - [[4rd Generation Cephalosporins]]
-	- [[Penicillins]]
-	- [[Carbapenems]]
-	- [[Clindamycin]]
-	- [[Fluoroquinolones]]
-- **Nosocomial infection**
+- **Prolonged broad spectrum [[Antibiotic Drugs]] used** -> disruption of [[Gut Microbiota]] -> decr colonization resistant
+- **[[Nosocomial Infection]]**
 
 # Pathogenesis
-[[Dysbiosis]] -> colonization -> **glucosylating toxin** -> inflammation -> cytokines -> **[[Neutrophil]] influx** -> **[[Pseudomembraneous Colitis]]****
+- **[[Toxin A]]** -- enterotoxin
+- **Toxin B** -- cytotoxin -> inflammation
+-> inflammation -> cytokines -> **[[Neutrophil]] influx** -> **[[Pseudomembraneous Colitis]]**
+> also from [[Dysbiosis]]
 
 # Clinical Manifestation
 - **[[Diarrhoea#Bloody Diarrhoea|Bloody diarrhoea]]**
@@ -17,5 +15,5 @@
 - **[[Pseudomembraneous Colitis]]** c WBC in stool.
 
 # Treatment
+- **[[Metronidazole]]**
 - **[[Vancomycin]]**
-- **[[Fidaxomicin]]**

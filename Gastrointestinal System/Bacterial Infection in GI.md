@@ -5,7 +5,7 @@
 
 # Classification
 ## Gram Negative Rod
-- **[[Oxidase Test]] Negatve** -> Enterobacteriaceae
+- **[[Oxidase Test|Oxidase]] Negatve** -> Enterobacteriaceae
 	- **[[Lactose Fermentation Test]] Positive**
 		- **[[Escherichia coli]]**
 		- [[Klebsiella spp.]]
@@ -13,19 +13,24 @@
 		- **[[Shigella spp.]]**
 		- **[[Salmonella enterica]]**
 		- [[Proteus spp.]]
-- **[[Oxidase Test]] Postitive**
-	- Vibrionaceae
-		- **[[Vibrio cholerae]]**
-		- **[[Vibrio parahaemolyticus]]**
-	- Helicobacteraceae
-		- **[[Helicobacter pylori]]**
-	- Pseudomonadaceae
-		- [[Pseudomonas aeruginosa]]
+- **[[Oxidase Test|Oxidase]] Postitive**
+	- **[[Glucose Fermentation Test|Fermenters]]**
+		- Vibrionaceae
+			- **[[Vibrio cholerae]]**
+			- **[[Vibrio parahaemolyticus]]**
+		- Helicobacteraceae
+			- **[[Helicobacter pylori]]**
+	- **[[Glucose Fermentation Test|Non-fermenters]]**
+		- Pseudomonadaceae
+			- **[[Pseudomonas aeruginosa]]**
+			- [[Acinetobacter spp.]]
+		- Burkholderiaceae
+			- **[[Burkholderia pseudomallei]]**
 
 ## Gram Positive Bacilli
-- Aerobic
+- **Aerobic**
 	- [[Bacillus cereus]]
-- Anaerobic
+- **Anaerobic**
 	- [[Clostridium difficile]]
 	- [[Clostridium perfringens]]
 
