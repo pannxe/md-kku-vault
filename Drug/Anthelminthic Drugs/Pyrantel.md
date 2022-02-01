@@ -1,7 +1,7 @@
 Being a derivative of tetrahydropyrimidine
 
 # MoA
-Inh. [[Cholinesterase]] and incr. [[Acetylcholine]] in neuromuscular system of the parasite -> **paralysis** -> death
+Inh. [[Cholinesterase]] and incr. [[ACh]] in neuromuscular system of the parasite -> **paralysis** -> death
 > i.e., the opposite of [[Nitroimidazole]]s.
 
 # Pharmacokinetic

@@ -9,7 +9,7 @@ Inhibits ileal [[Bile Acid Transporter]] (IBAT)
 
 # Drug Interaction
 - Inhibit **[[CYP2C9]]** and **[[CYP3A4]]**
-- High plasma protein binding
+- [[High Plasma Protein Binding Drugs]]
 
 # ADR
 - [[Abdominal Pain]]

@@ -7,7 +7,7 @@
 
 # Indication
 - Drug of choice for [[Hydatid Disease]] ([[Echinococcus spp.]] infection)
-- Border-spectrum that [[Mebendazole]], including :
+- Boarder-spectrum than [[Mebendazole]], including :
 	- [[Cysticercosis]], including [[Neurocysticerosis]]
 	- [[Taenia solium]] and [[Taenia saginata]]
 	- [[Opisthorchis viverrini]]
