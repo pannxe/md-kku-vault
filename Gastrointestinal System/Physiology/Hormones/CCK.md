@@ -4,5 +4,6 @@
 **[[Small Intestine]]**
 
 # Function
-- **[[Gallbladder]]** -> incr. **[[Bile]]** secretion
+- **[[Gallbladder]]** -> contraction -> incr. **[[Bile]]** secretion
+- **[[Sphincter of Oddi]]** -> relaxation
 - **[[Stomach]]** -> **inh. contraction**
