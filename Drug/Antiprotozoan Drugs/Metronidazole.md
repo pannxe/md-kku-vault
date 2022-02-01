@@ -11,16 +11,18 @@ Act as **electron acceptor** -> forming reducded cytotoxic compound -> cell deat
 
 # Indication
 Anaerobic infection, both protozoa and bacteria :
+## Protozoa
 - [[Entamoeba histolytica]]
 - [[Giardia lamblia]]
 - [[Trichomonas vaginalis]]
 
+## Bacteria
 - [[Anaerobic Cocci]]
 - [[Anaerobic Gram-Negative Bacilli]]
 
 # ADR
 - [[Nausea & Vomiting]]
-- [[Dry Mouth]]
+- [[Xerostomia]]
 - Metallic Taste
 - **[[Disulfuram]]-like effect** <- also function as AHD blocker
 - [[Neurotoxicity]] 

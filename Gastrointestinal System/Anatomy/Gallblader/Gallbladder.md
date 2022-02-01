@@ -4,7 +4,7 @@
 - Discharges to [[Common Bile Duct]]
 
 # Function
-- Concentrate bile <- reabsorb water <-
+- **Concentrate bile** <- reabsorb water 
 - Store bile
 
 # Pathology

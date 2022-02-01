@@ -35,7 +35,7 @@ Based on [[IARC Monogram]], *O. viverini* is **Group I Carcinogen** -> [[Cholang
 # Clinical Manifestation
 - Light infection -> **Mostly asymptiomatic** or non-specific symptom
 - Heavy infection
-	- [[Indigestion]] -> **[[Bloating]]**
+	- [[Indigestion]] -> **[[Abdominal Bloating]]**
 	- [[Anorexia]] and [[Malabsorption]] -> **[[Fatigue]]**
 	- **[[Hepatomegaly]]** -> Rt. upper q. **[[Abdominal Pain]]** 
 - Severe infection

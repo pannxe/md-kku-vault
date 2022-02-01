@@ -1,4 +1,4 @@
-Found in [[Pancreatic Ancini]], **Contains [[Pancreatic Enzymes]]**
+Found in [[Pancreatic Acini]], **Contains [[Pancreatic Enzymes]]**
 
 # Pathology
 - **Eonophilic**

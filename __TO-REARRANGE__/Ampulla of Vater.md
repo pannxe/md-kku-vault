@@ -1,0 +1,2 @@
+- **[[Common Bile Duct]]** + **[[Pancreatic Duct]]** 
+- Controlled by [[Sphincter of Oddi]]

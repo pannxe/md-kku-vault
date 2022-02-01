@@ -1,0 +1,1 @@
+[[Coiled Tubular Gland]] in [[Stomach#Cardia]]; secrete [[Mucus]]

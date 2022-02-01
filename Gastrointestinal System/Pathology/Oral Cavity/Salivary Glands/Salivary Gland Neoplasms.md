@@ -21,7 +21,7 @@ Each type has its own specific origin
 - [[Excretory Duct]] -> [[Oral Squamous Cell Carcinoma]]
 - [[Intercalated Duct]] -> [[Pleomorphic Ademona]]
 - [[Striated Duct]] -> [[Oncocytoma]]
-- [[Ancinar Cell]] -> [[Ancinar Cell Carcinoma]]
+- [[Salivary Acinar Cell]] -> [[Acinar Cell Carcinoma]]
 
 ## Associated Factors
 - Radiation

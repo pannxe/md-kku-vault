@@ -1,10 +1,13 @@
+# Histology
+Numerous Mitochondira and tubulovesicular structures -> **Acidophilic** strain
+
+# Function
 Secrete **[[HCl]]** and **[[Intrinsic Factor]]** -> [[Gastric Secretion]]
 
-# Physiological Process
 ## Stimulation
 **Tubulovesicular structures** relocate to the surface of **canaliculus** during secretion
 
-**[[Carbonic Anhydrase]]** -- (CO2 + H20 -> H+ + HCO3- ([[Bicarbonate]])) -> upon stim :
+**[[Carbonic Anhydrase]]** -- (CO2 + H20 -> H+ + HCO3- ([[Bicarbonate]])) <-
 - **[[ECL Cell]]** -> **[[Histamine]]** -> **[[H2-receptor]]** -- **most significant**
 - [[Parasympathetic NS]] -> **[[ACh]]** -> **[[M3 Receptor]]**
 - [[Gastrin]] -> [[CCK-B Receptor]] -- least significant

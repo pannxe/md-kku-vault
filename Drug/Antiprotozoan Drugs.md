@@ -1,7 +1,10 @@
 # GI Protozoal Infection
+## Systemic
 - [[Nitroimidazole]]
-	- [[Metronidazole]]
+	- **[[Metronidazole]]**
 	- [[Tinidazole]]
-- [[Paramomycin]]
-- [[Iodoquinol]]
+
+## Lumenal
+- **[[Paramomycin]]**
+- **[[Iodoquinol]]**
 

@@ -1,4 +1,28 @@
 # Anatomy
+## Cardia
+[[Gastric Pit]] contain **[[Cardiac Glands]]** -> [[Mucus]]
+> Shallower than at body and fundus
+
+## Fundus
+> See body
+
+## Body
+[[Gastric Pit]] contain **[[Gastric Glands]]** -> [[Gastric Secretion]]
+
+## Pylorus
+- [[Gastric Pit]] contain **[[Pyloric Gland]]** -> [[Mucus]]
+- **[[Pyloric Antrum]]**
+- **[[Pyloric Canal]]**
+- **[[Pyloric Spinchter]]**
+	> [[Gastroduodenal Junction]]; note the [[Brush Border]] and [[Brunner Gland]] of [[Duodenum]]
+
+## Histological Layers
+Typical of [[Histological Layers of Digestive System]] c
+- **[[Mucosa]]**
+	- [[Simple Columnar Epithelium]]
+	- **[[Rugae]]** -- folding of Mucosa
+	- Invagination -> [[Gastric Pit]] -> **[[Gastric Glands]]**
+- **[[Muscularis Propria]]** -- c EXTRA layer of **Oblique muscle** (inner most)
 
 ---
 
@@ -16,7 +40,7 @@
 Stomach has both [[Endocrine]] and [[Exocrine]] seretory protion
 - **[[Gastric Secretion]]** -> [[Digestion of Nutrients]]
 - [[Gastric Mucous]] -> protect stomach from its secretion
-- **[[Nervous Systems, Hormone, and Movement of GI#Hormone in GI|GI Hormones]]** -- [[Gastrin]]
+- **[[Nervous Systems, Hormone, and Movement of GI#Hormone in GI|GI Hormones]]** -- [[G Cell]] -> secrete **[[Gastrin]]**
 
 ## Digestion
 [[Gastric Secretion]] -> **[[Digestion of Nutrients]]**

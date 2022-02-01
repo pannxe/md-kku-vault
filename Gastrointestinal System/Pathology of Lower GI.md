@@ -11,7 +11,7 @@
 	- **[[Ischaemic Bowel Disease]]**
 	- [[Angiodysplasia]]
 - [[Malabsorption]] and [[Diarrhoea]]
-	- [[Celiac Disease]]
+	- [[Coeliac Disease]]
 - **[[Irritable Bowel Syndrome]]**
 - [[Inflammatory Bowel Disease]]
 	- **[[Crohn Disease]]**

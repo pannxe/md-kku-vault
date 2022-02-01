@@ -5,7 +5,7 @@ Same as other [[Benzimidazole]] : **bind to [[β-Tubulin]]**
 
 # Pharmacokinetics
 - **Low bioavailability** <- first pass effect in [[Liver]] (decarboxylation)
-- **Extensive binding to plasma protein**
+- **[[High Plasma Protein Binding Drugs]]**
 - Excreted unchanged in [[Faeces]] and urine
 - T1/2 ~3-9 hrs.
 

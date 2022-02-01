@@ -12,7 +12,7 @@ Time from when **bolus enter [[Stomach]]** -> **empty again**
 	- **Tempurature** -- **low** > high
 - **Neural Controls**
 	- **[[Enterogastric Reflex]]** -> **incr.**
-	- [[Celiac Plexus]] -> **[[Sympathetic NS]]** -> **incr.**
+	- [[Coeliac Plexus]] -> **[[Sympathetic NS]]** -> **incr.**
 	- [[Myenteric Reflex]], ([[Acetylcholine]], [[Vagus Nerve]] -> **[[Parasympathetic NS]]**) -> **decr**.
 - GI Hormones
 	- **[[CCK]]**, **[[Secretin]]**, **[[GIP]]** -> inh. [[Gastric Motility]] -> **incr.**

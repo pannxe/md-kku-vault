@@ -1,0 +1,1 @@
+Contains **[[Epiploic Foramen]]** -> has access to posterior [[Abdominal Wall]]

@@ -1,3 +1,16 @@
+# Anatomy
+- **Flexure to [[Ileocaecal Valve]]**
+- Combined length c [[Ileum]] -> **6-7 m**
+- Brighter coloured than [[Ileum]]
+- **1x [[Arterial Arcade]]** and **Long [[Vasa Recta]]**
+- Lower fat in [[Mesentery]] that [[Ileum]]
+
+# Lymphatic Drainage
+**[[Superior Mesenteric Lymph Node]]**
+
+# Nerve Supply
+**[[Coeliac Ganglion]]** and **[[Superior Mesenteric Ganglion]]**
+
 # Physiology
 ## Absorption
 - **[[Fat-soluble Vitamins]]**

@@ -7,7 +7,7 @@
 # Clinical Manifestation
 - **[[Diarrhoea]]** or **[[Constipation]]**
 - [[Abdominal Pain]], **[[Abdominal Discomfort]]**, or [[Tenesmus]] -- 3 day minx per mo., improves p [[Defaecation]]
-- **[[Bloating]]**
+- **[[Abdominal Bloating]]**
 > **But NOT Bloody Diarrhoea, Dysentery-like, nor Haematochezia**
 
 # Diagnosis

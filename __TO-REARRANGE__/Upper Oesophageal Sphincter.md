@@ -1,0 +1,1 @@
+Open when [[Epiglottis]] close

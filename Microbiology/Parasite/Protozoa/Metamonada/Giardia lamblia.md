@@ -7,7 +7,7 @@
 # Clinical Manifestation
 ## Acute giadiasis (< 4 wks.)
 - **[[Steatorrhoea]]** and [[Diarrhoea]]
-- UGI disconfort -> [[Nausea & Vomiting]], [[Bloating]], [[Abdominal Pain]]
+- UGI disconfort -> [[Nausea & Vomiting]], [[Abdominal Bloating]], [[Abdominal Pain]]
 - [[Anorexia]] 
 - **Usually self-limited within 3-4 days**
 
