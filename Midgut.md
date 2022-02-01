@@ -4,3 +4,7 @@
 
 # Blood Supply
 **[[Superior Mesenteric Artery]] and branches**
+
+# Innervation
+- [[Sympathetic NS]] <- **[[Superior Mesenteric Ganglion]]**
+- [[Parasympathetic NS]] <- **[[Vagus Nerve]]**

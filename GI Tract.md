@@ -3,7 +3,7 @@
 
 # Blood Supply
 **[[Abdominal Aorta]]** 
-- [[Foregut]] <- **[[Coeliac Artery]]** and branches
+- [[Foregut]] <- **[[Coeliac Artery]]**
 - [[Midgut]] <- **[[Superior Mesenteric Artery]]** and branches
 - [[Hindgut]] <- **[[Inferior Mesenteric Artery]]** and branches
 
@@ -12,6 +12,7 @@
 - [[Coeliac Ganglion]]
 - [[Superior Mesenteric Ganglion]]
 - [[Inferior Mesenteric Ganglion]]
+> Follow artery
 
 ## [[Parasympathetic NS]]
 - [[Foregut]] and [[Midgut]] <- **[[Vagus Nerve]]**

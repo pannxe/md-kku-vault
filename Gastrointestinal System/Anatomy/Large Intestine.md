@@ -1,11 +1,19 @@
-# Caecum
+# Anatomy
+- Pouching -> **[[Sacculation]]**
+- assoc. [[Greater Omentum]]
 
-# Colon
-## Sigmoid Colon
+## Parts
+- **[[Caecum]]**
+- **[[Colon]]**
+- **[[Rectum]]**
 
-## Transverse Colon
+# Histology
+- **[[Muscularis Propria]]** -> outer longitudinal muscle bundled together -> 3 stripes -> **[[Taeniae Coli]]**
+- [[Crypts of Lieberkühn]] -> **a lot of [[Goblet Cell]]**
 
-# Rectum
+# Nerve Supply
+- [[Parasympathetic NS]] -> **[[Vagus Nerve]]** and **[[Pelvic Splanchnic Nerve]]**
+- [[Sympathetic NS]] -> **T10-L2**
 
 # Physiology
 - [[Large Intestine Motility]]
@@ -18,3 +26,4 @@
 - [[Gut Microbiota]] -> **[[Vitamin K]]**
 
 # Pathology
+See [[Pathology of Lower GI]]

@@ -6,7 +6,7 @@
 	- **[[Solid Pseudopapillary Neoplasm]]**
 - **Solid Neoplasm**
 	- **[[Pancreatic Carcinoma]]**
-	- **[[Ancinar Cell Carcinoma]]**
+	- **[[Acinar Cell Carcinoma]]**
 	- **[[Pancreatoblastoma]]**
 
 # Endocrine Tumors

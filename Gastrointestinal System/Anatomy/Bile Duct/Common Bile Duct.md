@@ -1,0 +1,1 @@
+(**[[Gallbladder]]** -> **[[Cystic Duct]]**) + **[[Common Hepatic Duct]]**

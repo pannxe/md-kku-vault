@@ -1,11 +1,26 @@
 # Anatomy
 ## 1st Part
+- **L1** level
+- CC : [[Duodenal Ulcer]]
 
 ## 2nd Part
+- **L2-3** level
+- Contains **[[Ampulla of Vater]]**
 
 ## 3rd Part
+- **L3** level
 
 ## 4th Part
+- **L2-3** level
+- Fixed to [[Diaphragm#Right Crus]] by **[[Ligament of Treitz]]**
+
+## Histology
+**[[Brunner Gland]]** at **[[Submucosa]]**
+> See [[Histological Layers of Digestive System]]
+
+# Lymphatic Drainage
+- Anterior -> **[[Coeliac Lymph Node]]**
+- Posterior -> **[[Superior Mesenteric Lymph Node]]**
 
 # Physiology
 ## Absorption

@@ -1,0 +1,1 @@
+Activated by **[[Enterokinase]]** -> [[Trypsin]]

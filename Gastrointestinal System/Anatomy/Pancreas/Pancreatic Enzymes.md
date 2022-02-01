@@ -1,13 +1,20 @@
-- Secreted by [[Pancreatic Ancinar Cell]]
+- Secreted by [[Pancreatic Acinar Cell]]
 - Stored in [[Zymogen Granule]]
 
 # Enzymes
-## Inactive Form
-Activate in [[Duodenum]]
-- **[[Trypsin]]**
-- **[[Chymotrypsin]]**
-- **[[Elastase]]**
+- Pancreatic Proteinases
+	- **[[Trypsinogen]]** -> **[[Trypsin]]** -- go on to activate other pancreatic protiases :
+	- **[[Chymotrypsinogen]]** -> **[[Chymotrypsin]]**
+	- [[Procarboxypeptidase]] -> **[[Carboxypeptidase]]**
+	- **[[Proelastase]]** -> **[[Elastase]]** 
+- **Pancreatic [[α-Amylase]]**
+- **Pancreatic [[Lipase]]**
+- **[[Cholesterolesterase]]**
+- **[[Phospholipase A2]]**
+- Nucleases
+	- [[Ribonucleases]]
+	- [[Deoxyribonucleases]]
 
-## Active Form
-- **[[α-Amylase]]**
-- **[[Lipase]]**
+# Regulation
+- [[Parasympathetic NS]] (**[[Vagus Nerve]]**) and [[Enteric NS]] -> [[ACh]] -> stim.
+- [[CCK]] -> stim.

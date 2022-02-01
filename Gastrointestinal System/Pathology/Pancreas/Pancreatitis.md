@@ -10,7 +10,7 @@
 - etc.
 
 ## Pathogenesis
-**Inflammation** -> damage to [[Pancreatic Ancini]] -> **releases of [[Pancreatic Enzymes]]** -> 
+**Inflammation** -> damage to [[Pancreatic Acini]] -> **releases of [[Pancreatic Enzymes]]** -> 
 - [[Lipase]] -> **Fat necrosis**
 - [[Proteases]] -> **[[Vascilitis]]** -> Vasular destruction -> Haemorrhage -> **[[Shock]]**, **[[Acute Respiratory Distress Syndrome]]**, and **acute [[Renal Failure]]**
 - etc.

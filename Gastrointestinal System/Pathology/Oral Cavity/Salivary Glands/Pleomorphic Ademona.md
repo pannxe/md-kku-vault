@@ -6,7 +6,7 @@
 
 ## Histopathology
 Mixed tumor -> **varies**
-> May contains structure similar to [[Salivary Ducts]], [[Ancinar Cell]], [[Cartilage]]-like, [[Bone]]-like, etc.
+> May contains structure similar to [[Salivary Ducts]], [[Salivary Acinar Cell]], [[Cartilage]]-like, [[Bone]]-like, etc.
 
 # Clinical Manifestation
 **Painless**, mobile, mass at **[[Parotid Gland]]**
