@@ -1,5 +1,5 @@
 # Pathogenesis
-Compression of either [[Celiac Artery]], [[Superior Mesenteric Artery]], or [[Inferior Mesenteric Artery]] -> **[[Intestinal Infarction]]** (can be several meters) -> hypoxic injury & reperfusion injury
+Compression of either [[Coeliac Artery]], [[Superior Mesenteric Artery]], or [[Inferior Mesenteric Artery]] -> **[[Intestinal Infarction]]** (can be several meters) -> hypoxic injury & reperfusion injury
 > Damage varies, can be mild (no deeper than [[Muscularis Mucosae]]) -> all 3 layers 
 
 # Causes

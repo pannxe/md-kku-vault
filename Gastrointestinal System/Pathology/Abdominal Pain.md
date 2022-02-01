@@ -14,7 +14,7 @@ Strong **[[Peristalsis]]** of **hollow visceral organ** ->
 > Possibly [[Neuropathic Pain]]
 
 ## Dull Pain
-- Pain from **[[Visceral Orgains]]** -- **EXCEPT [[Peritoneum]]**
+- Pain from **[[Visceral Organs]]** -- **EXCEPT [[Peritoneum]]**
 - **[[Biliary Obstruction]]** 
 
 ## Sharp Pain

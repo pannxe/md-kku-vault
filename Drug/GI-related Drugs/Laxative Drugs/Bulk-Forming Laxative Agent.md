@@ -24,4 +24,4 @@ Because they mimick normal physiological process -> **take days for action**
 
 # Contraindication
 - **[[Intestinal Obstruction]]**
-- [[Celiac Disease]] -- esp. for drugs derived from natural source.
+- [[Coeliac Disease]] -- esp. for drugs derived from natural source.

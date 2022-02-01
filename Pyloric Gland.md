@@ -1,0 +1,1 @@
+[[Simple Branched Tubular Gland]] at [[Stomach#Pylorus]]; produce [[Mucus]]

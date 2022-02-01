@@ -10,7 +10,7 @@
 - **[[Castol Oil]]**
 
 # Common MoA
-- **Stimulation of [[Enteric Nervous System]]** -> induce **inflammation** -> **accumulation** on **water** and **salt** in the intestine
+- **Stimulation of [[Enteric NS]]** -> induce **inflammation** -> **accumulation** on **water** and **salt** in the intestine
 > via PGE-cAMP, NO-cGMP, PAF, Na-K-ATPase, etc.
 
 # ADR

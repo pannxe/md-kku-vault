@@ -1,3 +1,6 @@
+# Anatomy
+**[[Peyer Patch]] in [[Lamina Propria]]**
+
 # Physiology
 ## Absorption
 - **[[Folate]]**
