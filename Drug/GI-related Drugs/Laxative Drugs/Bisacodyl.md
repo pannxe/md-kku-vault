@@ -13,7 +13,7 @@ Mostly on [[Large Intestine]], mechanism on the small intestine is minimal.
 
 # Contraindication
 Increase pH (basic) -> enteric coat dissove -> irritation;
-- **Antacid**
-- **Milk**
+- **[[Antacids]]**
 - **[[PPIs]]**
 - **[[H2-receptor Antagonists]]**
+- **Milk**

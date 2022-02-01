@@ -9,7 +9,7 @@ May include other [[Hypersensitivity]] responds
 
 # Clinical Manifestation
 - Common in **Adult**
-- **[[Diarrhoea#Chronic Diarrhoea|Chronic Diarrhoea]]**, **[[Bloating]]**, **[[Fatigue]]** or asymptomatic 
+- **[[Diarrhoea#Chronic Diarrhoea|Chronic Diarrhoea]]**, **[[Abdominal Bloating]]**, **[[Fatigue]]** or asymptomatic 
 - [[Anaemia]]
 > Prediatric : [[Abdominal Distention]], [[Anorexia]], [[Failure to Thrive]], [[Weight Loss]], etc.
 

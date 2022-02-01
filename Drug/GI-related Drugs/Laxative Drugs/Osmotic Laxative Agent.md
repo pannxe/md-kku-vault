@@ -14,7 +14,7 @@
 
 # MoA
 **Draw H2O to the lumen** -> incr. intralumenal pressure -> incr. [[Peristalsis]]
-- <- incr. **[[Cholecytostokinin]]** secretion <- **Mg2+**
+- <- incr. **[[CCK]]** secretion <- **Mg2+**
 - <- hydrolysed to acid <- Nonabsorbable sugars
 
 **Usage**

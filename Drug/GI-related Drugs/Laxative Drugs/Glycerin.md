@@ -2,7 +2,7 @@
 - Given as suppository
 
 # MoA
-- Stimulate peristalsis
+- Stimulate **[[Peristalsis]]**
 - Lubericate [[Faeces]]
 
 # ADR
