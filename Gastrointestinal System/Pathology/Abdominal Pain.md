@@ -2,8 +2,7 @@
 
 # Characteristic of Pain
 ## Colicky Pain
-Strong **[[Peristalsis]]** of **hollow visceral organ** ->
-- [[Small Intestine]], [[Large Intestine]], and [[Ureter]] -> **intermittant pain**
+Strong **[[Peristalsis]]** of **hollow visceral organ** -> [[Small Intestine]], [[Large Intestine]], and [[Ureter]] -> **intermittant pain**
 
 ## Biliary Pain
 [[Biliary System]] -> **sustained pain**
