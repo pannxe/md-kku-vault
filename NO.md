@@ -1,0 +1,2 @@
+- Synthesized from [[Guanidium Nitrogen]] of [[Arginine]] by [[NO Synthase]]
+- Diffuse to cytoplasm and act on [[NO Receptor]] -> act on [[Guanylyl Cyclase]] -> incr. [[cGMP]] -> decr. cytosolic Ca2+ -> Vasodilation, etc.

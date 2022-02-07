@@ -1,0 +1,2 @@
+- Synthesized from **[[Vitamin D]]** or (by photolysis of 7-Dehydrocholesterol in skin -> Vitamin D first)
+- Incr. transcription of [[Calcium-binding protein]] -> #TODO 
