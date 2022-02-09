@@ -1,7 +1,8 @@
-Synthesized in respond to [[Cytokine]]
+- Synthesized in respond to [[Cytokines]] i.e., **NOT premade nor stored**
+- Considered **[[Paracrine]]**
 
 # Biosynthesis
-[[Phospholipids]] -> ([[COXs]]) [[Arachidonatic Acid]] and [[Eisapentaenoic Acid]] ->
+[[Phospholipids]] → ([[COXs]]) → [[Arachidonatic Acid]] and [[Eisapentaenoic Acid]] →
 - **[[Prostaglandins]]**
 - [[Thromboxanes]]
 - [[Leukotrienes]]

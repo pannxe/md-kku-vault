@@ -10,7 +10,7 @@
 - **[[CagA]]** -> alter signalling pathway -> **loosen epithelial junctions** 
 - **[[VacA]]** -> **massive vacuolization**, loosen epithelial junctions, etc -> damage + apoptosis
 - [[babA]] -> bind to epithelium
-- [[LPS]], [[PGN]], etc -> induce [[Cytokine]] production -> inflammation
+- [[LPS]], [[PGN]], etc -> induce [[Cytokines]] production -> inflammation
 
 ## Enzymes
 - **[[Urease]]** -> alkaline -> **nutralize [[Gastric Secretion]]** -> [[Dyspepsia]] ->

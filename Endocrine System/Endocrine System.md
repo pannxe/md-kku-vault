@@ -8,8 +8,8 @@
 - **[[Metabolism]]**
 
 # Components
-- **Gland or tissue**
-	- c secreting cell s duct;
+- **Gland or Tissues**
+	- c secreting cell s duct
 	- **[[Pituitary Gland]]** is master of them all
 - **[[Hormones]]**
 - **Target cells** -- in specific organ c specific receptor

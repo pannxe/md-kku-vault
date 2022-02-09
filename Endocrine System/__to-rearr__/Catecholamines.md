@@ -1,4 +1,4 @@
-- Synthesized from [[Tyrosine]] in [[Brain]] and [[Adrenal Gland]]
+- Synthesized from **[[Tyrosine]]** in [[Brain]], [[Adrenal Gland]], etc.
 - Function both as [[Neurotransmitters]] and [[Hormones]]
 
 # Example
