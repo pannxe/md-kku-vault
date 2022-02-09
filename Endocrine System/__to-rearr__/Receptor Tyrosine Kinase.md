@@ -3,3 +3,7 @@ Ligand binds to receptor → dimerization (conformational change) → **auto-pho
 
 # Enzymes
 - **[[Insulin]]**
+- [[Growth Hormone]]
+
+# Clinical Correlation
+- [[Colorectal Adenocarcinoma]] -- ↑ [[EGF Receptor]] expression; Tx by monoclonal Ab ([[Cetuximab]])
