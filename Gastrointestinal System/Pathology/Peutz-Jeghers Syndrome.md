@@ -11,6 +11,6 @@ LoF mutation of [[STK11 gene]] ->
 **Bundle of [[Smooth Muscle]]** -- 
 
 # Clinical Manifestation
-- Birth -- **Tumors at [[Testes]]**
+- Birth -- **Tumors at [[Testis]]**
 - Late Childhood -- **CA of [[Stomach]]** and **[[Small Intestine]]**
-- 20-30 y/o -- **CA of [[Colon]], [[Pancreas]], [[Breast]], [[Lung]], [[Overy]] and [[Uterus]]**
+- 20-30 y/o -- **CA of [[Colon]], [[Pancreas]], [[Breast]], [[Lung]], [[Ovary]] and [[Uterus]]**

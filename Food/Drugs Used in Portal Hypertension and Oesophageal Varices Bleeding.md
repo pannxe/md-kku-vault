@@ -4,6 +4,6 @@
 - **Drugs**
 	- [[β-Antagonists]] (non-selective) -> decr. portal pressure -> prevention
 	- [[Somatostatin]]/[[Octreotide]] -> Tx : reduce portal blood flow -> decr. pressure
-	- [[Vassopressin]]/[[Terlipressin]] -> Tx : maintain serum osmolarity ->
+	- [[ADH]]/[[Terlipressin]] -> Tx : maintain serum osmolarity ->
 
 #TODO

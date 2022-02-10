@@ -20,7 +20,7 @@
 # ADRs
 - **Inhibit [[CYP450]]** -> prolongs other drugs T1/2
 > **ESP. [[Cimetidine]]**
-- **Anti-androgenic effects** -> incr. [[Prolactin]] ->
+- **Anti-androgenic effects** -> incr. [[PRL]] ->
 	- Male -- [[Gynecomastia]] & [[Sexual Impotence]]
 	- Female -- [[Galactorrhoea]]
 - Cross [[Blood-Brain Barrier]] -> neurological involvements 

@@ -1,0 +1,1 @@
+**Destruction of [[Pituitary Gland]]** → complete absence of [[Pituitary Hormones]]

@@ -16,7 +16,7 @@ Messenger c high specificity and high efficieny; may be stored in cell first; di
 	- Nuclear receptors
 		- **[[Steroid Hormones]]**
 		- **[[Retinoid Hormones]]** and **[[Calcitriol Hormones]]**
-		- **[[Thyroid Hormone]]**
+		- **[[Thyroid Hormones]]**
 	- **[[NO]]** -> **cytosolic receptor** ([[Guanylyl Cyclase]]) -> ↑ [[cGMP]]
 
 # Stimulation
@@ -28,7 +28,7 @@ Messenger c high specificity and high efficieny; may be stored in cell first; di
 > e.g., [[Autonomic NS]] -> [[Epinephrin]], [[Norepinephrine]]
 
 ## Control of Secretion
-- **Cyclic change** -- e.g., [[Growth Hormone]] incr c sleep; [[Menstruation]], etc.
+- **Cyclic change** -- e.g., [[GH]] incr c sleep; [[Menstruation]], etc.
 - **Feedback Mechanism**
 	- **Negative** -- prevent excessive amount of hormones; most event in body
 	- **Positive** -- usually used in sequential event, e.g., [[Labour]], [[Lactation]], etc.
@@ -40,9 +40,48 @@ Messenger c high specificity and high efficieny; may be stored in cell first; di
 	- **Plasma volume** -- decr. plasma volume -> incr conc
 - **Hormone receptors**
 	- **Number** of receptors 
-	- **Sensitivity** of receptors
+		- ↑ -- up-regulation
+		- ↓ -- down-regulation, inactivation, sequestation, destroyed by [[Lysosome]], ↓ production, etc. 
+	- **Sensitivity** of receptors or [[Signal Transduction]]
+
+Hormone effect ↑ sigmoidally c hormone conc. ← satuation effect ← limit n of receptor
+
+Sensitivity is definded by conc. that produce 50% of max respond.
+
+- **↓ target cell** (number or internal signaling) → ↓ max responsiveness
+- **↓ receptor** affinity or number → **↓ sensitivity**
+
 > CC : [[Diabete Mellitus#Type II]]
+
+# Metabolic Clearance
+When [[Hormones]] finished their purpose → destroyed
+MCR = (d/dt disappear) / conc. hormone
+
+## Factors Affect MCR
+- Destruction by tissue
+- Binding c tissue
+- Excretion by [[Liver]] → [[Bile]] and [[Kidney]] → [[Urine]]
+> CC : MCR ↓ in [[Chronic Liver Diseases]], [[Acute Kidney Injury]], etc. → ↑ plasma hormone conc.
+
+# Disorders
+## Hormone Deficiency
+- Hyposecretion
+- ↑ MCR
+- ↓ tissue response -- ↓ receptors or ↓ [[Signal Transduction]]
+
+## Excess Hormone
+- Hypersecretion
+- [[autoAbs]] -- e.g., [[Grave Disease]]
+- ↓ MCR
+
+# Function Test
+- **Direct** measurement of hormone conc.
+- **Dynamic test**
+	- **Deficiency** → **Stimulation test** -- e.g., [[ACTH]] to stim. [[Adrenal Gland]]; if responds correctly → normal (no hyposecretion)
+	- **Excess** → **Suppression test** -- e.g., [[NSS]] → inh. [[Aldosterone]]; if inh. correctly → normal (no hypersecretion)
 
 # Images
 
 ![[Pasted image 20220210000501.png]]
+![[Pasted image 20220211035642.png]]
+![[Pasted image 20220211035654.png]]
