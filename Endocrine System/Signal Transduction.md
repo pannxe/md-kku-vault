@@ -15,6 +15,6 @@
 		- **[[Receptor Tyrosine Kinase]]**
 		- **[[Receptor Guanylyl Cyclase]]**
 	- **[[Gated Ion Channel]]**
-	- **[[Nuclear Receptor]]**
+	- **[[Nuclear Hormone Receptors]]**
 
 ![[Pasted image 20220210011815.png]]

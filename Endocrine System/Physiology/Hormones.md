@@ -39,9 +39,10 @@ Messenger c high specificity and high efficieny; may be stored in cell first; di
 	- **Number of carrier protein** -- incr. protein -> incr. binding -> decr. effect
 	- **Plasma volume** -- decr. plasma volume -> incr conc
 - **Hormone receptors**
-	- **Number** of receptors
+	- **Number** of receptors 
 	- **Sensitivity** of receptors
 > CC : [[Diabete Mellitus#Type II]]
 
 # Images
+
 ![[Pasted image 20220210000501.png]]
