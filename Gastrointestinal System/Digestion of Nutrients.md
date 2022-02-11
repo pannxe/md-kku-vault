@@ -9,7 +9,7 @@ A process of breaking down food -> smaller size -> **[[Absorption of Nutrients]]
 
 # Phases of Digestion
 ## Cephalic Phase
-Smell, though, taste, sight d food -> [[Cerebral Cortex]] + [[Thalamus]] -> [[Hypothalamus]] and [[Medulla]] -> **[[Vagus Nerve]]** -> **stim [[Gastric Secretion]]**
+Smell, though, taste, sight d food -> [[Cerebral Cortex]] + [[Thalamus]] -> [[Hypothalamus]] and [[Medulla]] -> **[[CN X]]** -> **stim [[Gastric Secretion]]**
 > 30% of total duration
 
 ## Gastric Phase

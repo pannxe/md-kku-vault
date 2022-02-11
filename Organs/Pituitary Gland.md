@@ -1,14 +1,72 @@
+Master gland of all [[Endocrine System]]
+
 # Anatomy
-Located in 
 
-## Anterior
+![[Pasted image 20220212002227.png]]
 
-## Posterior
+Located in **[[Sella Turcica]]**, connected to [[Hypothalamus]] via [[Infundubulum]]. Devided into 2 parts.
+
+## Anterior Lobe
+a.k.a. **Adenohypophysis** consists of 3 parts
+- **Pars tuberalis** -- covered infundibulum stalk; together form [[Infundubulum]]
+- **Pars intermedia**
+- **Pars distalis**
+
+**Hypophyseal cleft** between pars distalis and pars intermedia
+
+## Posterior Lobe
+a.k.a. **Neurohypophysis**, consists of 2 parts
+- Infundibular stalk
+- **Pars nervosa** ← [[Hypothalamo-hypophyseal Tract]]
+
+# Blood Supply
+## Artery
+![[Pasted image 20220212013144.png]]
+
+[[Internal Carotid Artery]] →
+- **[[Superior Hypophyseal Artery]]** → **Pars tuberalis**
+	- **[[Hypophyseal Portal System]]** → **Pars distalis**
+- **[[Inferior Hypophyseal Artery]]** → **Pars nervosa**
+
+## Vein
+- **[[Cavernous Sinus]]**
+- Par distalis → **[[Short Portal Vein]]** → Pars nerversa → [[Hypothalamus]] -- feedback system
 
 # Histology
+
+![[Pasted image 20220212013439.png]]
+
+## Pars Distalis
+
+![[Pasted image 20220212015001.png]]
+
+**Darker** stain ← from **secretory vesicles** ([[Pituitary Hormones#From Anterior Lobe]])
+- **Acidophils** -- medium-sized
+	- **[[Somatotropes]]**
+	- **[[Lactotropes]]**
+- **Basophils** -- largest
+	- **[[Corticotropes]]**
+	- **[[Gonadotropes]]**
+	- **[[Thyrotropes]]**
+- **[[Chromophobes]]** -- neither acidic nor basic; smallest
+
+## Pars Intermedia
+**Folicular** appearence
+
+## Pars Nervosa
+**Pale** stain
 
 # Development
 
 # Physiology
-**[[Pituitary Hormones]]** -- master gland of all [[Endocrine System]]
 
+![[Pasted image 20220212012415.png]]
+
+Pituitary gland recieved releasing and inh. hormones from **[[Hypothalamus]]** via
+- **[[Hypophyseal Portal System]]** → **Anterior** Lobe
+- **[[Hypothalamo-hypophyseal Tract]]** → **Posterior** Lobe
+
+which stim. or inh. **[[Pituitary Hormones]]**
+
+# Pathology
+- **[[Empty Sella Syndrome]]**

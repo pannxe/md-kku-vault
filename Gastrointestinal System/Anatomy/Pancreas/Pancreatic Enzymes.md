@@ -16,5 +16,5 @@
 	- [[Deoxyribonucleases]]
 
 # Regulation
-- [[Parasympathetic NS]] (**[[Vagus Nerve]]**) and [[Enteric NS]] -> [[ACh]] -> stim.
+- [[Parasympathetic NS]] (**[[CN X]]**) and [[Enteric NS]] -> [[ACh]] -> stim.
 - [[CCK]] -> stim.

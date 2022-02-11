@@ -12,7 +12,7 @@
 - [[Crypts of Lieberkühn]] -> **a lot of [[Goblet Cell]]**
 
 # Nerve Supply
-- [[Parasympathetic NS]] -> **[[Vagus Nerve]]** and **[[Pelvic Splanchnic Nerve]]**
+- [[Parasympathetic NS]] -> **[[CN X]]** and **[[Pelvic Splanchnic Nerve]]**
 - [[Sympathetic NS]] -> **T10-L2**
 
 # Physiology

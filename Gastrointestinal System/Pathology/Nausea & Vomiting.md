@@ -8,7 +8,7 @@ From stimulation of [[Chemoreceptor Trigger Zone]]
 **[[Vomiting Center]]** at [[Medulla]] -> **decr. [[Stomach#Motility|gastric motility]]** & **incr. [[Small Intestine Motility]]** -> **[[Reverse Peristalsis]]** -> expulsion
 
 ## Cause
-- **Extreme [[Vagus Nerve]] stim.**
+- **Extreme [[CN X]] stim.**
 > Irritation to [[Intestinal Mucosal Layer]], [[Cholecystitis]], [[Peritonitis]], **[[Gag Reflex]]**, etc.
 - **Extreme [[Vestibular Organs]] stim.**
 - **[[Chemoreceptor Trigger Zone]] stim.**

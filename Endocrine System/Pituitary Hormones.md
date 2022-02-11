@@ -1,6 +1,6 @@
 Produced by [[Pituitary Gland]]
 
-# From Anterior Part
+# From Anterior Lobe
 Controlled by [[Hypothalamus]] → [[Hypothalamic Hormones]]
 - [[TRH]] → 
 	- [[TSH]] → [[Thyroid Gland]]
@@ -10,7 +10,7 @@ Controlled by [[Hypothalamus]] → [[Hypothalamic Hormones]]
 - [[GnRH]] → [[LH]] and [[FSH]] → [[Ovary]] or [[Testis]]
 > Focus on **[[PRL]]** and **[[GH]]**
 
-# From Posterior Part
+# From Posterior Lobe
 From Supraoptic nuclei and paraventricular nuclei.
 Very similar structure → **partial similar functionality**
 - **[[ADH]]**

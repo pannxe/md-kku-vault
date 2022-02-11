@@ -10,7 +10,7 @@
 	- **Extrinsic NS** -- originate from outside the GI
 		- [[Sympathetic NS]] -> **decr. movements**, **sphincters contact**
 		- [[Parasympathetic NS]] -> **vice vesa** and **incr. GI secretion** (e.g., [[Pancreatic Enzymes]])
-			- [[Vagus Nerve]] -> [[Stomach]] and [[Small Intestine]]
+			- [[CN X]] -> [[Stomach]] and [[Small Intestine]]
 			- [[Pudendal Nerve]] -> [[Large Intestine]] 
 - **Reflexes**
 	- **[[Gastrocolic Reflex]]**

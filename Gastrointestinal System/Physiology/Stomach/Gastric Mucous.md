@@ -11,7 +11,7 @@ Lubricate [[Chyme]]
 
 # Control
 ## Stimulate
-- **[[Vagus Nerve]]**
+- **[[CN X]]**
 - **[[Secretin]]**, **[[Prostaglandins]]**, etc
 - Irritation 
 

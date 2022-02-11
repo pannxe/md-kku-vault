@@ -15,5 +15,5 @@
 > Follow artery
 
 ## [[Parasympathetic NS]]
-- [[Foregut]] and [[Midgut]] <- **[[Vagus Nerve]]**
+- [[Foregut]] and [[Midgut]] <- **[[CN X]]**
 - [[Hindgut]] <- **[[Pelvic Splanchnic Nerve]]**

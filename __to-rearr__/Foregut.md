@@ -9,4 +9,4 @@
 
 # Innervation
 - [[Sympathetic NS]] -- **[[Coeliac Ganglion]]**
-- [[Parasympathetic NS]] -- **[[Vagus Nerve]]**
+- [[Parasympathetic NS]] -- **[[CN X]]**

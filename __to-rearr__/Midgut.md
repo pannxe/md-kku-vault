@@ -7,4 +7,4 @@
 
 # Innervation
 - [[Sympathetic NS]] <- **[[Superior Mesenteric Ganglion]]**
-- [[Parasympathetic NS]] <- **[[Vagus Nerve]]**
+- [[Parasympathetic NS]] <- **[[CN X]]**
