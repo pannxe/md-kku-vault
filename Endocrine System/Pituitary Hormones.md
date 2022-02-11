@@ -11,10 +11,9 @@ Controlled by [[Hypothalamus]] → [[Hypothalamic Hormones]]
 > Focus on **[[PRL]]** and **[[GH]]**
 
 # From Posterior Lobe
-From Supraoptic nuclei and paraventricular nuclei.
 Very similar structure → **partial similar functionality**
-- **[[ADH]]**
-- **[[Oxytocin]]**
+- [[Hypothalamus#Supraoptic Nucleus]] → **[[ADH]]**
+- [[Hypothalamus#Paraventricular Nucleus]] → **[[Oxytocin]]**
 
 > Cys-Tyr-**Phe**-Gln-Asn-Cys-Pro-**Arg**-Gly -- ADH
 > Cys-Tyr-**Ile**-Gln-Asn-Cys-Pro-**Leu**-Gly -- Oxytocin

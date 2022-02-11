@@ -38,7 +38,7 @@ a.k.a. **Neurohypophysis**, consists of 2 parts
 
 ## Pars Distalis
 
-![[Pasted image 20220212015001.png]]
+![[Pasted image 20220212025843.png]]
 
 **Darker** stain ← from **secretory vesicles** ([[Pituitary Hormones#From Anterior Lobe]])
 - **Acidophils** -- medium-sized
@@ -51,10 +51,24 @@ a.k.a. **Neurohypophysis**, consists of 2 parts
 - **[[Chromophobes]]** -- neither acidic nor basic; smallest
 
 ## Pars Intermedia
-**Folicular** appearence
 
-## Pars Nervosa
-**Pale** stain
+![[Pasted image 20220212025825.png]]
+
+- Residual of [[Rathke Pouch]] → **Folicular** appearence
+- Contain basophils, assumed to be **[[Corticotropes]]** and **[[Chromophobes]]**
+- Function in human remains unclear
+>  In frogs, basophils or melanotropes produce melanocyte stimulating hormone ([[MSH]]). MSH is found in the human pars intermedia in small amounts
+
+## Posterior Lobe
+
+![[Pasted image 20220212030933.png]]
+
+- [[Fibroblast]], [[Mast Cell]], and **[[Pituicytes]]** → **pale** stain
+- **Unmyelinated axons** ← [[Hypothalamo-hypophyseal Tract]]
+- Many types of vesicles
+	- **[[Herring Body]]**
+	- **Nerve terminals** c **[[ACh]]**
+	- **Large vesicle** -- similar to dense core vesicle of [[Adrenal Gland#Medulla]] and adrenergic nerve ending
 
 # Development
 
@@ -63,10 +77,10 @@ a.k.a. **Neurohypophysis**, consists of 2 parts
 ![[Pasted image 20220212012415.png]]
 
 Pituitary gland recieved releasing and inh. hormones from **[[Hypothalamus]]** via
-- **[[Hypophyseal Portal System]]** → **Anterior** Lobe
-- **[[Hypothalamo-hypophyseal Tract]]** → **Posterior** Lobe
+- **[[Hypophyseal Portal System]]** → **Anterior** Lobe → [[Pituitary Hormones#From Anterior Lobe]]
+- **[[Hypothalamo-hypophyseal Tract]]** → **Posterior** Lobe → [[Pituitary Hormones#From Posterior Lobe]]
 
-which stim. or inh. **[[Pituitary Hormones]]**
+See **[[Pituitary Hormones]]**
 
 # Pathology
 - **[[Empty Sella Syndrome]]**
