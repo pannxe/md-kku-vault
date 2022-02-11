@@ -18,3 +18,6 @@ Very similar structure → **partial similar functionality**
 
 > Cys-Tyr-**Phe**-Gln-Asn-Cys-Pro-**Arg**-Gly -- ADH
 > Cys-Tyr-**Ile**-Gln-Asn-Cys-Pro-**Leu**-Gly -- Oxytocin
+
+# Clinical Correlation
+**[[Sheehan Syndrome]]** → [[Hypopituitarism]]

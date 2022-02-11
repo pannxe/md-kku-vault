@@ -7,10 +7,14 @@ Many forms present in blood circulation
 - **Big-big PRL** -- c [[IgA]], [[IgA]], or aggregated; inactive
 
 # Regulation
+
 ## Stimulation
 - **[[TRH]]**
 - **[[Oestrogen]]** ← [[Pregnancy]]
 > CC : [[Hypothyroidism]] → ↑ TRH → [[Hyperprolactinaemia]]
+
+The specific releasing factor of PRL is still unknown
+> While many prolactin stimulating and enhancing factors are well known (such as [[TRH]], [[Oxytocin]], Vasoactive intestinal peptide and [[Oestrogen]]) those have primary functions other than stimulating prolactin release and the search for hypothetical releasing factor or factors continues
 
 ## Inhibition
 **[[Dopamine]]**

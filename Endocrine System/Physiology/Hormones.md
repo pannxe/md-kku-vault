@@ -31,7 +31,7 @@ Messenger c high specificity and high efficieny; may be stored in cell first; di
 - **Cyclic change** -- e.g., [[GH]] incr c sleep; [[Menstruation]], etc.
 - **Feedback Mechanism**
 	- **Negative** -- prevent excessive amount of hormones; most event in body
-	- **Positive** -- usually used in sequential event, e.g., [[Labour]], [[Lactation]], etc.
+	- **Positive** -- usually used in sequential event, e.g., [[Childbirth]], [[Lactation]], etc.
 
 # Factor Affecting Target Cell Response
 - **Hormone conc. in blood**
