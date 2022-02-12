@@ -15,24 +15,30 @@ This is my experiment on using Obsidian.md and developing my own note-taking sys
 Honestly, use whatever you like.
 
 ## Abbreviation
-| abb.     | Meaning                             | Root        | Language |
-| -------- | ----------------------------------- | ----------- | -------- |
-| **c**    | **with**                            | *cum*       | Latin    |
-| **s**    | **without**                         | *sine*      | Latin    |
-| **q**    | **every**                           | *quaque*    | Latin    |
-| **p**    | **after**                           | *post*      | Latin    |
-| **a**    | **before**                          | *ante*      | Latin    |
-| **incr** | **increase**                        | -           | English  |
-| **decr** | **decrease**                        | -           | English  |
-| **ico**  | **in case of**                      | -           | English  |
-| **esp**  | **especially**                      | -           | English  |
-| **bco**  | **because of**                      | -           | English  |
-| **bc**   | **because**                         | -           | English  |
-| **minx** | **at least, minimum**               | *minimum*   | Latin    |
-| **maxx** | **at most, maximum**                | *maximum*   | Latin    |
-| **de**   | **about**, **up to**, **regarding** | *de*        | Latin    |
-| **necs** | **necessery**                       | -           | English  |
-| **negl** | **regardless of**                   | *neglegens* | Latin    |
-| **inh**  | **inhibit**                         | -           | English         |
+
+| abb.                  | Meaning                                                  | Root             | Language |
+| --------------------- | -------------------------------------------------------- | ---------------- | -------- |
+| **c**                 | **with**                                                 | *cum*            | Latin    |
+| **s**                 | **without**                                              | *sine*           | Latin    |
+| **q**                 | **every**, **when**, **than**                                      | *quaque*, *quod*, *quam* | Latin    |
+| **p**                 | **after**                                                | *post*           | Latin    |
+| **a**                 | **before**                                               | *ante*           | Latin    |
+| **incr**, **↑**       | **increase**, **high**, **more than**                                   | -                | English  |
+| **decr**, **↓**       | **decrease**, **low**, **less than**                                    | -                | English  |
+| **ico**               | **in case of**                                           | -                | English  |
+| **esp**               | **especially**                                           | -                | English  |
+| **bc**                | **because (of)**                                         | -                | English  |
+| **min**               | **at least, minimum**                                    | *minimum*        | Latin    |
+| **max**               | **at most, maximum**                                     | *maximum*        | Latin    |
+| **de**, **assoc**     | **about**, **up to**, **regarding**, **associated with** | *de*             | Latin    |
+| **necs**              | **necessery**                                            | -                | English  |
+| **negl**              | **regardless of**                                        | *neglegens*      | Latin    |
+| **inh**, **⊣**, **⊢** | **inhibit**                                              | -                | English  |
+| **stim**, **⋇**       | **stimulate**, **activate**, **trigger**                                            | -                | English  |                     
+
+Note : the exact meaning of ↑, ↓, ⋇, q and de depends on context; usually unambiquous; otherwise will use full word.
+
+Otherwise normal medical abbreviations are used.
+
 ## Author
 pannxe

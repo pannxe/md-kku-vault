@@ -1,0 +1,1 @@
+Failure of closure of [[Hypophyseal Canal]] → **communication** of **[[Nasopharynx]]** and **[[Sella Turcica]]**

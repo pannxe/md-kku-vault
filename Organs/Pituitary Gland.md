@@ -40,7 +40,7 @@ a.k.a. **Neurohypophysis**, consists of 2 parts
 
 ![[Pasted image 20220212025843.png]]
 
-**Darker** stain ← from **secretory vesicles** ([[Pituitary Hormones#From Anterior Lobe]])
+**Darker** stain ← **secretory vesicles** ([[Pituitary Hormones#From Anterior Lobe]])
 - **Acidophils** -- medium-sized
 	- **[[Somatotropes]]**
 	- **[[Lactotropes]]**
@@ -77,9 +77,9 @@ See **[[Development of Pituitary Gland]]**
 
 ![[Pasted image 20220212012415.png]]
 
-Pituitary gland recieved releasing and inh. hormones from **[[Hypothalamus]]** via
-- **[[Hypophyseal Portal System]]** → **Anterior** Lobe → [[Pituitary Hormones#From Anterior Lobe]]
-- **[[Hypothalamo-hypophyseal Tract]]** → **Posterior** Lobe → [[Pituitary Hormones#From Posterior Lobe]]
+Pituitary gland recieved releasing and inhibitory hormones from **[[Hypothalamus]]** via
+- **[[Hypophyseal Portal System]]** → **Anterior** Lobe → ⋇ [[Pituitary Hormones#From Anterior Lobe]]
+- **[[Hypothalamo-hypophyseal Tract]]** → **Posterior** Lobe → ⋇ [[Pituitary Hormones#From Posterior Lobe]]
 
 See **[[Pituitary Hormones]]**
 
@@ -93,3 +93,4 @@ See **[[Pituitary Hormones]]**
 
 ## Others
 - **[[Empty Sella Syndrome]]**
+
