@@ -10,3 +10,11 @@ Persistance of **[[Rathke Pouch]]** → filled c fluid over time.
 > believed to casued by **Drastic changes of [[Vasopressure]]** ← flactuation in **[[Gonadotropes]]** and **[[ADH]]**
 
 # Clincial Manifestation
+May compress
+- [[CN II]] → **[[Visual Disturbance]]**
+- [[Pituitary Gland]] → **dysfunction**
+- Mass effect → **[[Headache]]**
+
+# Images
+
+![[Pasted image 20220212071212.png]]

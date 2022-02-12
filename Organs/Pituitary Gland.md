@@ -112,3 +112,4 @@ See **[[Pituitary Hormones]]**
 # Pathology
 - **[[Empty Sella Syndrome]]**
 - **[[Rathke Cleft Cyst]]**
+- **[[Craniopharyngioma]]**
