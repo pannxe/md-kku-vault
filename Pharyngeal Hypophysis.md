@@ -1,0 +1,1 @@
+A remnent of [[Rathke Pouch]], composed of mainly [[Chromophobes]] → **physiologically inactive**

@@ -71,6 +71,33 @@ a.k.a. **Neurohypophysis**, consists of 2 parts
 	- **Large vesicle** -- similar to dense core vesicle of [[Adrenal Gland#Medulla]] and adrenergic nerve ending
 
 # Development
+## 4th Week
+
+![[Pasted image 20220212063014.png]]
+
+[[Stomodeum]] → **[[Rathke Pouch]]** → project dorsally toward brain
+
+## 5th Week
+[[Rathke Pouch]] → nipple-like appearance
+
+## 6th Week
+
+![[Pasted image 20220212063210.png]]
+
+[[Rathke Pouch]] disconnect from [[Oral Cavity]] → degenerate and disappears
+- **Anterior** portion → **Pars distalis**
+- **Posterior** portion → **Pars intermedia**
+- **Extension** around **infundibular stem** → **Pars tubercularis**
+
+> CC : [[Rathke Pouch]] may persist → [[Pharyngeal Hypophysis]] or [[Rathke Cleft Cyst]]
+
+## 7th Week
+Formation of 
+- [[Sella Turcica]]
+- [[Hypophyseal Portal System]]
+
+## 16th Week
+**Adult configuration** acquired
 
 # Physiology
 
@@ -84,3 +111,4 @@ See **[[Pituitary Hormones]]**
 
 # Pathology
 - **[[Empty Sella Syndrome]]**
+- **[[Rathke Cleft Cyst]]**
