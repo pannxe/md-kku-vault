@@ -33,8 +33,8 @@ Honestly, use whatever you like.
 | **de**, **assoc**     | **about**, **up to**, **regarding**, **associated with** | *de*             | Latin    |
 | **necs**              | **necessery**                                            | -                | English  |
 | **negl**              | **regardless of**                                        | *neglegens*      | Latin    |
-| **inh**, **⊣**, **⊢** | **inhibit**                                              | -                | English  |
-| **stim**, **⋇**       | **stimulate**, **activate**, **trigger**                                            | -                | English  |                     
+| **inh**, **⊣**, **⊢**, **** | **inhibit**                                              | -                | English  |
+| **stim**, **落**       | **stimulate**, **activate**, **trigger**                                            | -                | English  |                     
 
 Note : the exact meaning of ↑, ↓, ⋇, q and de depends on context; usually unambiquous; otherwise will use full word.
 

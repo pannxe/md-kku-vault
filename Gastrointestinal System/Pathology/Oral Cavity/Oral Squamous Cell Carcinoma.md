@@ -22,5 +22,5 @@ Similar to [[Erythroplakia]] and [[Leukoplakia]]
 **Protruding mass** c **irregular border** and **ulceration**
 
 # Histology
-- [[Stratified Squamous Nonkeratinized Epithelium|Squamous epithelium]] invades [[Basement Membrane]] 
+- [[Stratified Squamous Epithelium|Squamous epithelium]] invades [[Basement Membrane]] 
 - **[[Keratin Pearl]]**

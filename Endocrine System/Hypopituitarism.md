@@ -1,6 +1,14 @@
-# Causes
-- **Destructive processes** -- [[Ischaemia]], trauma, radiation
-- Inflammation
-- [[Pituitary Adenomas#Non-functioning]]
+**Deficiency of [[Pituitary Hormones]]** ← ↓ secretion, ↑ elim., etc.
 
-**Deficiency of [[Pituitary Hormones]]**
+# Causes
+Occurs q loss
+- **Destructive processes** -- **↑ 75% of [[Pituitary Gland#Anterior Lobe]]**; ← [[Ischaemia]], trauma, Sx, radiation, etc.
+	- **[[Sheehan Syndrome]]**
+	- [[Pituitary Apoplexy]]
+- Inflammation
+- **Mass effect**
+	- **[[Pituitary Adenomas#Non-functioning]]**
+	- [[Rathke Cleft Cyst]]
+	- [[Empty Sella Syndrome]]
+- Dysfunction of **[[Hypothalamus]]**
+

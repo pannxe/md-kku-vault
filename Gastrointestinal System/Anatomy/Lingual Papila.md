@@ -1,4 +1,4 @@
-Covered by [[Stratified Squamous Nonkeratinized Epithelium]]
+Covered by [[Stratified Squamous Epithelium]]
 
 # Type
 - [[Filiform Papilla]]

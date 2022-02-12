@@ -1,6 +1,6 @@
 # Anatomy
 ## Epithelium
-**[[Stratified Squamous Nonkeratinized Epithelium]]**
+**[[Stratified Squamous Epithelium]]**
 
 # Pathology
 ## Congenital

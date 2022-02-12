@@ -1,6 +1,6 @@
 # Layers
 - **[[Epithelium]]** -- differs from organs to organs
-	- Those c contact c the environment -> [[Stratified Squamous Nonkeratinized Epithelium]]
+	- Those c contact c the environment -> [[Stratified Squamous Epithelium]]
 	- Those c secretic function -> [[Simple Columnar Epithelium]]
 - **[[Lamina Propria]]** -- Loose CNT
 - **[[Muscularis Mucosae]]** -- 2 layers of [[Smooth Muscle]]

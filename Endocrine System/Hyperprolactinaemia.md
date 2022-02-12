@@ -1,5 +1,19 @@
-High [[PRL]] level
+**Serum [[PRL]] > 200 ng/mL**
 
 # Cause
-- [[Anti-psychotic Drug]] and some [[Anti-depressants]]
-- [[Renal Insufficiency]] or [[Renal Failure]]
+- **[[Lactotroph Adenoma]]**
+- **↓ [[Dopamine]]** ←
+	- [[Anti-psychotic Drug]] and some [[Anti-depressants]]
+	- Damage to dopaminergic neuron of **[[Hypothalamus]]** ← trauma, mass, etc.
+- [[Renal Insufficiency]] or [[Renal Failure]] → ↓ excretion
+- [[Hypothyroidism#Primary]] → compensation attempt → ↑ [[TRH]] and [[TSH]] 
+
+# Clinical Manifestation
+Female →
+- **[[Amenorrhoea]]**
+- **[[Loss of Libido]]** and **[[Infertility]]**
+- **[[Galactorrhoea]]**
+> Subtle in male / old female
+
+# Treatment
+- [[Bromocriptine]]

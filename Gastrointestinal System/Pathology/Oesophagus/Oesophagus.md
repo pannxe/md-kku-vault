@@ -2,14 +2,14 @@
 ## Layers
 Typical of [[Histological Layers of Digestive System]] c these additional features :
 - **[[Mucosa]]**
-	- **[[Stratified Squamous Nonkeratinized Epithelium]]**
+	- **[[Stratified Squamous Epithelium]]**
 	- **Prominent [[Muscularis Mucosae]]**
 - **[[Submucosa]]** -- [[Meissner Plexus]] -> **[[Oesophageal Glands]]** -> [[Mucus]]
 
 ## Sphinchter and Junction
 - [[Upper Oesophageal Sphincter]]
 - **[[Lower Oesophageal Sphincter]]** -- CC : weakness -> [[GERD]]
-> [[Oesophagogastric Junction]] -> [[Stomach#Cardia]]; note the transition of mucosa from [[Stratified Squamous Nonkeratinized Epithelium]] -> [[Simple Columnar Epithelium]]
+> [[Oesophagogastric Junction]] -> [[Stomach#Cardia]]; note the transition of mucosa from [[Stratified Squamous Epithelium]] -> [[Simple Columnar Epithelium]]
 
 # Pathology
 - Congenital

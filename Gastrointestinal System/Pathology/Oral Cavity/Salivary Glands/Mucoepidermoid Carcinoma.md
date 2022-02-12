@@ -5,5 +5,5 @@
 **NO well-definded capsules**, infiltrative margins; **[[Mucin]]-containing cyst** inside
 
 ## Histopathology
-**[[Stratified Squamous Nonkeratinized Epithelium|Squamous cell]]** c **mucus-secreting cell** and intermediate cell. In higher grade -> necrosis, anaplasia, mitotic figures, etc. -> **Neural invasion**
+**[[Stratified Squamous Epithelium|Squamous cell]]** c **mucus-secreting cell** and intermediate cell. In higher grade -> necrosis, anaplasia, mitotic figures, etc. -> **Neural invasion**
 > Hence the name; Grading follow histopathological finding.
