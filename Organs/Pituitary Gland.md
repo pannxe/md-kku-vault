@@ -7,7 +7,8 @@ Master gland of all [[Endocrine System]]
 Located in **[[Sella Turcica]]**, connected to [[Hypothalamus]] via [[Infundubulum]]. Devided into 2 parts.
 
 ## Anterior Lobe
-a.k.a. **Adenohypophysis** consists of 3 parts
+a.k.a. **Adenohypophysis**. 80% of the entire gland.
+Consists of 3 parts
 - **Pars tuberalis** -- covered infundibulum stalk; together form [[Infundubulum]]
 - **Pars intermedia**
 - **Pars distalis**
@@ -44,6 +45,7 @@ a.k.a. **Neurohypophysis**, consists of 2 parts
 - **Acidophils** -- medium-sized
 	- **[[Somatotropes]]**
 	- **[[Lactotropes]]**
+	- [[Mammosomatotrophs]] -- like a mixture of both
 - **Basophils** -- largest
 	- **[[Corticotropes]]**
 	- **[[Gonadotropes]]**
@@ -84,6 +86,9 @@ Pituitary gland recieved releasing and inhibitory hormones from **[[Hypothalamus
 See **[[Pituitary Hormones]]**
 
 # Pathology
+- Excess → **[[Hyperpituitarism]]**
+- Deficiency → **[[Hypopituitarism]]** 
+
 ## Congential
 - **[[Rathke Cleft Cyst]]**
 - [[Persistent Hypophyseal Canal]]

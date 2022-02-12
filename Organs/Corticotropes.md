@@ -8,7 +8,7 @@ a.k.a. **ACTH Cells**
 - **Basophilic granules**
 
 # Function
-**Produce [[ACTH]]**
+**Produce [[ACTH]]**, [[POMC]], and [[MSH]]
 
 # Regulation
 stim. by [[Hypothalamus]] → **[[CRH]]**

@@ -12,7 +12,7 @@ From stimulation of [[Chemoreceptor Trigger Zone]]
 > Irritation to [[Intestinal Mucosal Layer]], [[Cholecystitis]], [[Peritonitis]], **[[Gag Reflex]]**, etc.
 - **Extreme [[Vestibular Organs]] stim.**
 - **[[Chemoreceptor Trigger Zone]] stim.**
-- **[[Increased Intracranial Pressure]]** -> only stim [[Vomiting Center]] -> **ONLY VOMITING**; no nausea (Projectile vomiting)
+- **[[Increased ICP]]** -> only stim [[Vomiting Center]] -> **ONLY VOMITING**; no nausea (Projectile vomiting)
 
 ## Sequelae
 - **[[pH Imbalance]]**
