@@ -36,8 +36,8 @@ For most tissues
 **↑ [[IGF-1]] → ↑ [[Somatostatin]]**
 
 # Disorders
-- **[[GH Hypersecretion]]**
-- **[[GH Hyposecretion]]**
+- **[[GH Excess]]**
+- **[[GH Deficiency]]**
 
 # Images
 MoA

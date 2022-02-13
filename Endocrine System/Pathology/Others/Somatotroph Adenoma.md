@@ -2,7 +2,7 @@
 Persistently **↑ [[GH]]** → **↑ [[IGF-1]]**
 
 # Clinical Manifestation
-**[[GH Hypersecretion]]** → [[Acromegaly]] and [[Gigantism]]
+**[[GH Excess]]** → [[Acromegaly]] and [[Gigantism]]
 
 # Diagnosis
 - **↑ surum [[IGF-1]]**

@@ -1,5 +1,5 @@
 # Function
-stim. [[Glycogenesis]], [[Lipogenesis]], and [[Protein Synthesis]] -> **Lower [[Blood Sugar]]**
+stim. [[Glycogenesis]], [[Lipid Synthesis]], and [[Protein Synthesis]] -> **Lower [[Blood Sugar]]**
 > Dysfunction -> [[Diabete Mellitus]]
 
 # MoA

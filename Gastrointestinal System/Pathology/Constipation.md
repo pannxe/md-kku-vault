@@ -9,3 +9,6 @@
 	- Ischaemia
 	- Neuronal or hormonal defects
 	- [[Intestinal Obstruction]]
+
+# Treatment
+See. **[[Drugs Used in Constipation]]**
