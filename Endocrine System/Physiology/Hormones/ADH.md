@@ -11,7 +11,7 @@ a.k.a. **Antidiuretic Hormone** or **Vasopressin**
 
 → **stim. [[Hypothalamus]]** → stim. [[Pituitary Gland#Posterior]] → release of ADH → 
 - **[[Blood Vessels]]** via [[V1 Receptor]] → **Vasoconstriction** → **↑ [[SVR]]**
-- **[[Kidney]]** via [[V2 Receptor]] ([[GPCR]], [[Gs α-subunit]]) → **↑ exocytosis of [[AQ2]]** → **↑ water reabsorption**
+- [[Kidney]] -- **[[Renal Tubular Cells]]** via **[[V2 Receptor]]** ([[GPCR]], [[Gs α-subunit]]) → **↑ exocytosis of [[AQ2]]** → **↑ water reabsorption**
 > ↑ conc. of [[Urine]], ↑ [[Venous Return]], ↑ [[ECF]]
 
 → **↑ [[BP]]**
