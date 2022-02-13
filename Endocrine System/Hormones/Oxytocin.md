@@ -22,3 +22,8 @@ Co-stimulated c **[[PRL]]** by **[[Oestrogen]]**
 - **落 [[Lactation]]** -- nasal spray
 
 ## Contraindications
+- **[[Placenta Previa]]**
+- Fetus in abnormal postition -- [[Transverse Lie]] or [[Bleech Presentation]]
+
+# Antagonist
+**[[Atosiban]]**
