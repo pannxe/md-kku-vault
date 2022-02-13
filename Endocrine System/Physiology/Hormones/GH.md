@@ -37,7 +37,7 @@ For most tissues
 
 # Disorders
 - **[[GH Excess]]**
-- **[[GH Deficiency]]**
+- **[[Endocrine System/Physiology/Hormones/GH Deficiency]]**
 
 # Images
 MoA

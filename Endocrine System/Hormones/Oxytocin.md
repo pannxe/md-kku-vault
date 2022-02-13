@@ -15,3 +15,10 @@
 
 ## Lactation
 Co-stimulated c **[[PRL]]** by **[[Oestrogen]]**
+
+# As Drug
+## Indication
+- **落 [[Childbirth]]** -- IV drip
+- **落 [[Lactation]]** -- nasal spray
+
+## Contraindications

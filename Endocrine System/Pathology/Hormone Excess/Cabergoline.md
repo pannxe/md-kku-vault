@@ -1,0 +1,1 @@
+Potent [[D2-receptor Agonists]], also [[5-HT-receptor Agonists]]

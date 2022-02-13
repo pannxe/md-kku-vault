@@ -1,3 +1,12 @@
+# Function
+-  [[Pituitary Hormones#From Anterior Lobe]] release →
+	- **↓ [[GH]]**
+	- **↓ [[TSH]]**
+	- **↓ [[PRL]]**
+-  [[Nervous Systems, Hormone, and Movement of GI#Hormone in GI|GI Hormones]] →
+	- **↓ [[Intestinal Movement]]** → **↓ [[Gastric Emptying Time]]**
+	- **↓ [[Pancreatic Hormones]]** → **↓ [[Insulin]]** and **↓ [[Glucagon]]** release
+
 # Regulation
 ## Stimulate
 - **[[IGF-1]]**
@@ -12,3 +21,6 @@
 - [[5-HT]]
 - [[ACh]]
 - **[[Ghrelin]]**
+
+# Clinical Correlation
+**[[Octreotide]]** -- analog

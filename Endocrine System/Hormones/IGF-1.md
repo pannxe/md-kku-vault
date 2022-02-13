@@ -8,7 +8,7 @@ Metabolized from **[[GH]]** by **[[Liver]]**
 - **↑ [[Epiphyseal Plate]] growth** → lengthen of [[Bone]]
 
 # As Drug
-Used in **[[Dwarfism]]** or **[[GH Deficiency]]** c **[[GH]] resistant** →
+Used in **[[Dwarfism]]** or **[[Endocrine System/Physiology/Hormones/GH Deficiency]]** c **[[GH]] resistant** →
 - ↑ [[BMI]]
 - ↑ [[Muscle]] mass
 - ↓ [[Visceral Fat]]

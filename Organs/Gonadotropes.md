@@ -6,7 +6,7 @@ a.k.a. **FSH & LH Cells**
 - **Eccentric nucleus**
 
 # Function
-**Produce [[LH]]** and **[[FSH]]**
+**Produce [[LH]]** and **[[FSH]]** (**[[Gonadotropins]]**)
 
 # Regulation
 [[Hypothalamus]] → **[[GnRH]]**

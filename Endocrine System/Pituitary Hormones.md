@@ -2,13 +2,12 @@ Produced by [[Pituitary Gland]]
 
 # From Anterior Lobe
 Controlled by [[Hypothalamus]] → [[Hypothalamic Hormones]]
-- [[TRH]] → 
+- [[TRH]] → 落
 	- [[TSH]] → [[Thyroid Gland]]
-	- **[[PRL]]** ← (inh.) [[Dopamine]] 
-- [[GHRH]] stim. and [[Somatostatin]] inh. → **[[GH]]**
-- [[CRH]] → [[ACTH]] → [[Adrenal Gland]]
-- [[GnRH]] → [[LH]] and [[FSH]] → [[Ovary]] or [[Testis]]
-> Focus on **[[PRL]]** and **[[GH]]**
+	- **[[PRL]]** 
+- [[GHRH]] → 落 **[[GH]]**
+- [[CRH]] → **[[ACTH]]** → 落 [[Adrenal Gland]]
+- [[GnRH]] → **[[LH]]** and **[[FSH]]** ([[Gonadotropins]]) → 落 [[Ovary]] or [[Testis]]
 
 # From Posterior Lobe
 Very similar structure → **partial similar functionality**
@@ -19,4 +18,4 @@ Very similar structure → **partial similar functionality**
 > Cys-Tyr-**Ile**-Gln-Asn-Cys-Pro-**Leu**-Gly -- Oxytocin
 
 # Clinical Correlation
-**[[Sheehan Syndrome]]** → [[Hypopituitarism]]
+**[[Sheehan Syndrome]]** → [[Hypopituitarism|Panhypopituitarism]]

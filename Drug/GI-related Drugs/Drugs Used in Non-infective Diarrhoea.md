@@ -12,7 +12,7 @@
 - [[Absorbents]] -- charcoal, kaolin, pectin, chalk, etc.
 - Astringent -- tea leaf
 - [[Bile Salt-binding Resins]]
-- [[Octreotide]] and [[Somatostatin]]
+- [[Somatostatin]] and [[Octreotide]] (analog)
 - [[α2-Adrenergic Agonists]]
 
 # Probiotic & Prebiotics

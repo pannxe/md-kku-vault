@@ -35,7 +35,7 @@ Via **[[Kidney]]**
 
 # Pathology
 - Excess → **[[Hyperprolactinaemia]]**
-- Deficiency → **[[Prolactin Deficiency]]**
+- Deficiency → **[[PRL Deficiency]]**
 
 # Images
 Forms

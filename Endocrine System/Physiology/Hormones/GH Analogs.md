@@ -17,7 +17,7 @@ Similar to **[[GH#Physiology]]**
 - **[[Cyclosporin]]**
 
 # Indications
-- **[[GH Deficiency]]** -- both adult and children ([[Dwarfism]])
+- **[[Endocrine System/Physiology/Hormones/GH Deficiency]]** -- both adult and children ([[Dwarfism]])
 - **[[Failure to Thrive]]**
 - [[Renal Failure]] -- ↑ [[Erythropoiesis]]
 

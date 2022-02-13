@@ -1,9 +1,13 @@
 # Drugs
 - **[[Bromocriptine]]**
-- [[Cabergoline]]
+- **[[Cabergoline]]**
 
 # Indication
+## Endocrine Disorders
 - **[[GH Excess]]** -- [[Somatotroph Adenoma]]
+- **[[Hyperprolactinaemia]]**
+
+## CNS
 - **[[Parkinson Disease]]**
 
 # Side Effects

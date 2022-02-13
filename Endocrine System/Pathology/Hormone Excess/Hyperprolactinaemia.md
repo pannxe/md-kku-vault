@@ -16,4 +16,7 @@ Female →
 > Subtle in male / old female
 
 # Treatment
-- [[Bromocriptine]]
+- Remove causes -- Sx, or stop drugs
+- **[[D2-receptor Agonists]]**, esp. in [[Lactotroph Adenoma]]
+	- **[[Cabergoline]]** -- prefered; ↓ SE, ↑ effectiveness 
+	- [[Bromocriptine]]

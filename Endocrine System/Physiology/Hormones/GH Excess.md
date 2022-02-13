@@ -9,5 +9,5 @@
 # Treatment
 **Tx [[Somatotroph Adenoma]] 1st**; if not cured or recurrent → drugs
 - **[[D2-receptor Agonists]]** -- esp. **[[Bromocriptine]]**
-- **[[GH-receptor Antagonist]]** -- **[[Pegvisomant]]**
+- GH-receptor Antagonist -- **[[Pegvisomant]]**
 - **[[Somatostatin Analog]]** -- **[[Octreotide]]**
