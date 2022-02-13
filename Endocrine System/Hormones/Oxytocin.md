@@ -8,7 +8,7 @@
 ## Inhibition
 **[[Progesterone]]**
 
-# Regulation
+# Regulationb
 ## Childbirth
 - [[Placenta]] → **[[Oestrogen]]** → **↑ [[Oxytocin Receptor]]** ([[GPCR]], [[Gq α-subunit]]) on [[Uterus]]
 - Oxytocin stim. [[Uterine Contaction]], along c [[Prostaglandins]] → **postitive feedback**
