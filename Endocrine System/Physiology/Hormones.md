@@ -15,7 +15,7 @@ Messenger c high specificity and high efficieny; may be stored in cell first; di
 		- **[[Eicosanoids]]**
 	- Nuclear receptors
 		- **[[Steroid Hormones]]**
-		- **[[Retinoid Hormones]]** and **[[Calcitriol Hormones]]**
+		- **[[Retinoid Hormones]]** and **[[Calcitriol]]**
 		- **[[Thyroid Hormones]]**
 	- **[[NO]]** -> **cytosolic receptor** ([[Guanylyl Cyclase]]) -> ↑ [[cGMP]]
 

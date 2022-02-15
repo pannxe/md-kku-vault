@@ -11,7 +11,7 @@
 - [[Calcitonin]]
 - [[Glucagon]]
 - [[FSH]] and [[LH]]
-- [[Parathyroid Hormones]]
+- [[PTH]]
 
 # Inhibition
 - [[ACh]]

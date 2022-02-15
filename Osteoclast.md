@@ -1,0 +1,1 @@
+See [[Bone Remodeling#Resorption]]

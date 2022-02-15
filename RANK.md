@@ -1,0 +1,1 @@
+**Receptor for Activator for [[NFκB]]**

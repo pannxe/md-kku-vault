@@ -6,7 +6,7 @@ Synthesized by [[rER]] → **Preprohormone** → ([[Post-translational Modificat
 # Example
 - **[[Pancreatic Hormones]]** -- [[Insulin]], [[Glucagon]], [[Somatostatin]], etc.
 - **[[Hypothalamic Hormones]]**
-- **[[Parathyroid Hormones]]**
+- **[[PTH]]**
 - **[[Calcitonin]]**
 - **[[Pituitary Hormones]]**
 

@@ -13,7 +13,7 @@ Gastric secretion is produced by various [[Gastric Glands]]. ~2 L per day.
 - **[[Parietal Cell]]** -> **[[HCl]]** and **[[Intrinsic Factor]]** 
 	- **[[G Cell]]** -> **[[Gastrin]]** -> stim. **[[ECL Cell]]** -> **[[Histamine]]** -> **stim.**
 	- **[[D Cell]]** -> **[[Somatostatin]]** -> **inh.**
-- **[[Chief Cell]]** -> **[[Pepsinogen]]** and **Gastric [[Lipase]]**
+- **[[Gastric Chief Cell]]** -> **[[Pepsinogen]]** and **Gastric [[Lipase]]**
 - **[[Mucous Neck Cell]]** -> **[[Mucus]]** and **[[Bicarbonate]]** -> protective effect
 
 > Faster production rate -> **decr. Na+**; incr. Cl-, H+ and K+ 

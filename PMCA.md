@@ -1,0 +1,1 @@
+**Plama membrane [[Calcium|Ca2+]] ATPase**

@@ -1,5 +1,5 @@
 # Physiology
-Secreted from **[[Hypothalamus]]** → 落 [[Pituitary Gland]] → ↑ **[[FSH]]** and **[[LH]]** secretion
+Secreted from **[[Hypothalamus]]** → 落 [[Pituitary Gland]] → ↑ **[[FSH]]** and **[[LH]]** ([[Gonadotropins]]) secretion
 
 # Regulation
 ## Inhibition

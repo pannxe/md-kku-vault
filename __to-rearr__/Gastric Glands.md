@@ -4,7 +4,7 @@
 - **Undifferentiated cells** -- at **isthmus** -> [[Mucous Neck Cell]] et al q 4-7 d
 - **[[Mucous Neck Cell]]**
 - **[[Parietal Cell]]** -- at **isthmus**, **neck**, and **base**
-- **[[Chief Cell]]** -- at **base**
+- **[[Gastric Chief Cell]]** -- at **base**
 - Enteroendocrine Cells
 	- **[[G Cell]]**
 	- **[[D Cell]]**

@@ -1,0 +1,1 @@
+Subtype of [[Cathepsins]] secreted by [[Osteoclast]] → [[Bone Remodeling]]
