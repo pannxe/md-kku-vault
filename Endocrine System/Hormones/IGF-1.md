@@ -4,13 +4,13 @@ Metabolized from **[[GH]]** by **[[Liver]]**
 	- ↓ [[Gluconeogenesis]]
 	- ↑ uptake and oxidation of [[Fatty Acids]]
 	- ↑ sensitivity of [[Insulin]]
-- **↑ [[Protein Synthesis]]** and **↑ [[Amino Acids]] uptake** → strength and mass of [[Muscle]]
+- **↑ [[Protein Synthesis]]** and **↑ [[Amino Acids]] uptake** → strength and mass of [[Skeletal Muscle]]
 - **↑ [[Epiphyseal Plate]] growth** → lengthen of [[Bone]]
 
 # As Drug
 Used in **[[Dwarfism]]** or **[[Endocrine System/Physiology/Hormones/GH Deficiency]]** c **[[GH]] resistant** →
 - ↑ [[BMI]]
-- ↑ [[Muscle]] mass
+- ↑ [[Skeletal Muscle]] mass
 - ↓ [[Visceral Fat]]
 
 ## Side Effects

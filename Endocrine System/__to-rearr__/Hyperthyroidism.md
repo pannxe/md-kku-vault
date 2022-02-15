@@ -1,0 +1,11 @@
+# Clinical Manifestation
+- **↑ [[Metabolism]]** → ↑ energy consumption
+	- [[Weight Loss]]
+	- ↑ [[Thermogenesis]] → 
+		- Heat intolerance
+		- **[[Hyperhidrosis]]**
+	- [[Hyperreflexia]] and [[Nervousness]]
+	- [[Hair Loss]]
+- ↑ [[Intestinal Movement]] → [[Diarrhoea→ ]]
+- ↑ [[Cardiac Contraction]] → **[[Tachycardia]]** and [[Palpitation]]
+- [[Muscle Weakness]], hypotrophy and [[Tremor]]

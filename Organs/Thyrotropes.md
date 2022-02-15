@@ -10,4 +10,11 @@ a.k.a. **TSH Cells**
 **Produce [[TSH]]**
 
 # Regulation
-[[Hypothalamus]] → **[[TRH]]**
+
+![[Pasted image 20220216005030.png]]
+
+## Stimulation
+[[Hypothalamus]] → **[[TRH]]** → 落 [[TRH Receptor]] ([[GPCR]]; [[Gq α-subunit]]) → ↑ [[TSH]] production and secretion
+
+## Inhibition
+Negative Feedback : ([[T4]] →) **[[T3]]** → **↑ inhibitory protein synthesis** → **↓ [[TRH Receptor]]** and **↓ [[TSH]] synthesis**

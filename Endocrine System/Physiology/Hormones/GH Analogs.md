@@ -4,7 +4,7 @@
 
 # Mechanism of Action
 Similar to **[[GH#Physiology]]**
-- ↑ [[Muscle]] mass
+- ↑ [[Skeletal Muscle]] mass
 - ↑ [[Bone]] growth
 - ↑ [[Erythropoiesis]] → ↑ [[Red Blood Cell]]
 - ↑ [[IGF-1]]

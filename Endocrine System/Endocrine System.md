@@ -4,7 +4,7 @@
 	- [[Glucose Regulation]]
 	- [[Blood Pressure Regulation]]
 - **Control [[Reproduction]]** -- [[Ovulation]], [[Pregnancy]], [[Lactation]], [[Genital Organs]], etc.
-- **[[Body Growth]]** -- develodment of [[Muscle]], [[Bone]], [[Nervous System]], etc.
+- **[[Body Growth]]** -- develodment of [[Skeletal Muscle]], [[Bone]], [[Nervous System]], etc.
 - **[[Metabolism]]**
 
 # Components

@@ -1,1 +1,1 @@
-[[autoAbs]] to [[Thyroid Receptor]] → similar effect to [[TSH]] 
+[[autoAbs]] to [[TSH Receptor]] → similar effect to [[TSH]] 

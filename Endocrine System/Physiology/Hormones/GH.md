@@ -21,7 +21,7 @@ Highest secretion during [[Adolescence]], ↓ p 20 y/o
 q released into bloodstream can **directly** or **enter [[Liver]] → [[IGF-1]]**
 
 ## Anabolic Effect
-- **↑ [[Protein Synthesis]]** and **↑ [[Amino Acids]] uptake** → strength and mass of [[Muscle]]
+- **↑ [[Protein Synthesis]]** and **↑ [[Amino Acids]] uptake** → strength and mass of [[Skeletal Muscle]]
 - **↑ [[Epiphyseal Plate]] growth** → lengthen of [[Bone]]
 > **[[IGF-1]]** has insulin-like effect. **But NOT GH; GH → ANTI-INSULIN**
 

@@ -1,7 +1,7 @@
 Water Solutable -> **receptor at cell membrane**
 
 # Biosynthesis
-Synthesized by [[RER]] → **Preprohormone** → ([[Post-translational Modification]] at [[ER]]) → **Prohormone** → (cleavage) → **Hormone** -> **stored in vessicle** -> release when triggered
+Synthesized by [[rER]] → **Preprohormone** → ([[Post-translational Modification]] at [[ER]]) → **Prohormone** → (cleavage) → **Hormone** -> **stored in vessicle** -> release when triggered
 
 # Example
 - **[[Pancreatic Hormones]]** -- [[Insulin]], [[Glucagon]], [[Somatostatin]], etc.

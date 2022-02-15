@@ -1,1 +1,1 @@
-Excessive sweating
+Excessive [[Sweating]]

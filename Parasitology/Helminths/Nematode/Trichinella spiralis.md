@@ -1,13 +1,13 @@
 Sometime [[Trichinella pesudospiralis]]. Considered **blood and tissue** nematode
 - Adult -> [[Small Intestine]]
-- Larva -> [[Muscle]]
+- Larva -> [[Skeletal Muscle]]
 
 # Epidemiology
 - Considered public health problem in Thailand
 - **Rural people** -> eating of raw/undercooked wild animals
 
 # Life Cycle
-Larva ingested -> enter [[Small Intestine]] -> mature to adult -> new generation larva enter [[Muscle]] or other organs
+Larva ingested -> enter [[Small Intestine]] -> mature to adult -> new generation larva enter [[Skeletal Muscle]] or other organs
 
 # Pathogenesis
 Adult lives intra-multicellulary -> irritation and inflammation -> Degeneration of [[Villi]]
