@@ -15,3 +15,8 @@
 
 # Complication
 Usually from [[Adrenal Crisis]] → **Life-threatening**
+
+# Treatment
+Supplement important hormones, i.e., **[[TSH]]** and **[[ACTH]]**
+- [[Glucocorticoids]] -- **[[Hydrocortisone]]**
+- [[T4]] analog -- **[[Levothyroxine]]**

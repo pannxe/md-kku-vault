@@ -24,4 +24,4 @@
 [[Miller-Moses Test]] → ddx central from nephrogenic
 
 # Treatment
-**[[V2-receptor Agonists]]**
+**[[Desmopressin]]** -- [[ADH]] analog

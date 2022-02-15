@@ -4,6 +4,7 @@ Secreted from **[[Hypothalamus]]** → 落 [[Pituitary Gland]] → ↑ **[[FSH]]
 # Regulation
 ## Inhibition
 **[[Oestrogen]]**
+> CC: [[Ganirelix]] -- receptor antagonist
 
 # Disorder
-- [[Hypogro]]
+See [[Gn Excess]] and [[Gn Deficiency]]

@@ -1,4 +1,5 @@
-a.k.a. **Antidiuretic Hormone** or **Vasopressin**
+- a.k.a. **Antidiuretic Hormone** or **Vasopressin**
+- ADH analog → **[[Desmopressin]]**
 
 # Function
 [[Blood Pressure Regulation]] -- **↑ BP**
