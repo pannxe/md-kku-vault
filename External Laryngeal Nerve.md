@@ -1,0 +1,2 @@
+- Supply [[Cricothyroideus]]
+- Damage → weak voice, ↓ pitch, hoarseness, and aphonia 

@@ -27,6 +27,40 @@
 	- [[External Laryngeal Nerve]] and [[Recurrent Laryngeal Nerve]]
 - **Posterolateral** -- [[Carotid Sheath]], [[Cervical Sympathetic Chain]], [[Longus Coli]], and [[Ansa Cervicalis]]
 
+# Blood and Lymph
+## Arteries
+
+![[Pasted image 20220217001929.png]]
+
+- **[[Superior Thyroid Artery]]**
+- **[[Inferior Thyroid Artery]]**
+- **[[Thyroidea Ima Artery]]** -- **varietion** that interfere c surgery
+
+> CC : Superior and inferior thyroid artery run along importent nerves → may be damage c [[Thyroidectomy]].
+
+## Veins
+
+![[Pasted image 20220217002141.png]]
+
+- **[[Superior Thyroid Vein]]** and **[[Middle Thyroid Vein]]** → [[Internal Jugular Vein]]
+- **[[Inferior Thyroid Veins]]** → [[Left Brachiocephalic Vein]]
+
+## Lymph Nodes
+
+![[Pasted image 20220217002418.png]]
+- **Upper part** → [[Prelaryngeal Lymph Node]] and [[Superior Deep Cervical Lymph Node]]
+- **Lower part** → [[Pretracheal Lymph Node]], [[Paratracheal Lymph Node]], and [[Inferior Deep Cervical Lymph Node]]
+
+# Nerve Supply
+[[Sympathetic NS]] -- **[[Middle Cervical Ganglion]]** via [[Inferior Thyroid Artery]] → **Vasoconstriction**
+
+> Minor from [[Superior Cervical Ganglion]]; unknown Parasympathetic function
+
+# Landmarks
+- **[[Joll Triangle]]**
+- **[[Simon Triangle]]**
+- **[[Tubercle of Zuckerkandl]]**
+
 # Histology
 
 
