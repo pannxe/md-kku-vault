@@ -1,5 +1,12 @@
 Structurally [[Steroid]] → inher. **[[Steroid Hormones]]**
 
+# Regulation
+## Stimulation
+**[[PTH]]** → ↑ [[1α-Hydroxylase]] → ↑ activation
+
+## Inhibition
+**[[FGF-23]]** → ↓ activation 
+
 # Synthesis
 
 ![[Pasted image 20220216040714.png]]
@@ -12,10 +19,10 @@ Synthesized from **[[Vitamin D]]** ←
 ![[Pasted image 20220210005016.png]]
 
 # Function
-- **↑ [[Absorption of Calcium]]**
+- **↑ [[Absorption of Calcium]]** and **↑ [[Absorption of Phosphate]]**
 - **↑ [[Bone Remodeling#Reabsorption]]**
-- **↑ [[Reasorption of Calcium (Kidney)]]**
+- **↑ [[Reabsorption of Calcium (Kidney)]]**
 
 # MoA
-Work c [[PTH]] → act on nuclear receptor → **↑ transcription of [[Calcium-binding Protein]]** in [[Intestine]]
-> See. **[[Absorption of Calcium]]**
+Forms complex c [[RXR]] → bind to **[[VDRE]]** on [[DNA]] → **↑ or ↓ [[DNA Transcription]]**
+> see each individually

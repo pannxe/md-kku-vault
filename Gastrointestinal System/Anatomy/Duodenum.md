@@ -28,4 +28,4 @@
 - **[[Folate]]**
 - **[[Calcium]]**, **[[Iron]]**, **[[Phosphate]]** and other electolytes
 > Mg, Co, Se, [[Vitamin B1]], [[Vitamin B2]], [[Vitamin B3]], [[Vitamin B7]]
-> See. [[Absorption of Vitamins]], [[Absorption of Calcium]], [[Absorption of Iron]], [[Absorption of Calcium]], [[Absortion of Phosphate]]
+> See. [[Absorption of Vitamins]], [[Absorption of Calcium]], [[Absorption of Iron]], [[Absorption of Calcium]], [[Absorption of Phosphate]]

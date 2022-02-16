@@ -1,0 +1,1 @@
+**[[Vitamin D]]-responsive element**. In [[DNA]]

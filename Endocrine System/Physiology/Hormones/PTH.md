@@ -12,12 +12,12 @@ Normal of [[Amino Acid Hormones]]; break down in bloodsteam
 via **[[PTH1R]]** on [[Osteoblast]] and [[Kidney]]
 - [[Bone]] -- **↑ [[Bone Remodeling#Resorption]]**
 - [[Kidney]]
-	- **↑ [[Reasorption of Calcium (Kidney)]]**
-	- **↓ [[Reasorption of Phosphate (Kidney)]]**
+	- **↑ [[Reabsorption of Calcium (Kidney)]]**
+	- **↓ [[Reabsorption of Phosphate (Kidney)]]**
 	- **↑ [[Calcitriol]] synthesis**
 - [[Intestine]]
 	- via [[Calcitriol]] → **↑ [[Absorption of Calcium]]**
-	- **↑ [[Absortion of Phosphate]]**
+	- **↑ [[Absorption of Phosphate]]**
 
 # Regulation
 
@@ -36,7 +36,8 @@ Mainly via **Plasma [[Calcium]]** via **[[CaSR]]** on [[Parathyroid Gland]].
 
 - **[[Hypercalcaemia]]** → 落 [[CaSR]] → **↑ [[Leukotrienes]]** → vise versa of 落
 - **[[Calcitriol]]** → 
-	-  PTH gene → ↓ **synthesis**
+	- ** PTH gene** → ↓ **synthesis**
+	- ↑ [[p21]] → ** proliferation of [[Parathyroid Chief Cell]]**
 	- 落 [[CaSR]] gene → ↑ CaSR → ↑ respond to Ca2+ level
 
 ## Other Factors

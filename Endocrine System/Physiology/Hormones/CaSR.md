@@ -4,4 +4,4 @@
 # Location
 - **[[Parathyroid Chief Cell]]** in [[Parathyroid Gland]]
 - **[[Renal Tubular Cells]]** in [[Kidney]]
-- **[[Thyroid C Cell]]**
+- **[[Parafollicular Cell]]**

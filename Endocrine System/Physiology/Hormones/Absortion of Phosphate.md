@@ -1,1 +1,0 @@
-At [[Duodenum]]; ↑ by [[PTH]]

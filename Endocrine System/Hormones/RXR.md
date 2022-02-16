@@ -1,0 +1,1 @@
+a.k.a. **Retinoid-X receptor**
