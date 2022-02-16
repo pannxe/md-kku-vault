@@ -1,6 +1,10 @@
 # Gross Anatomy
 
 
+- **Rt.** and **Lt. lobe**; connected by **isthmus** -- at **2nd-3rd** (4th) **[[Tracheal Ring]]**
+- **Apex** -- along **olique line** of **[[Thyroid Cartilage]]**
+- 
+
 # Histology
 
 
