@@ -3,4 +3,4 @@
 - **[[Crohn Disease]]** in adult
 
 # Clinical Finding
-Elongate [[Microvillus]] s RBC and WBC
+Elongate [[Microvilli]] s RBC and WBC

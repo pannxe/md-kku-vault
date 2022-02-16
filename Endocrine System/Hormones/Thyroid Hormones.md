@@ -15,9 +15,9 @@
 
 ![[Pasted image 20220215232016.png]]
 
-1. **[[Thyroglobulin]]** synthesis via [[rER]] → export to lumen
-2. **[[Iodine]] trapping** via [[NA-I Symport]] -- from blood → [[Thyroid Follicular Cell]]
-3. Oxidation -- **I- → I2** via [[Peroxidase]] -- export to lumen 
+1. **[[Thyroglobulin]]** synthesis via [[rER]] → export to [[Thyroid Follicle]]
+2. **[[Iodine]] trapping** via [[NA-I Symport]] -- from blood → [[Follicular Cell]]
+3. Oxidation -- **I- → I2** via [[Peroxidase]] -- export to [[Thyroid Follicle]] 
 4. Organification -- **integrate I2 into [[Thyroglobulin]]** → MIT, DIT via [[Peroxidase]]
 5. **MIT and DIT → [[T3]] and [[T4]]** via [[Peroxidase]]
 6. Endocytosis back

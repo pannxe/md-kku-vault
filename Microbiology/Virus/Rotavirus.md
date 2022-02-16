@@ -10,7 +10,7 @@
 # Pathogenesis
 Attachment via **[[VP4 Spike]]** -> **Enter epithelium** and shedding of shell -> virus multiply -> produce **NSP4** (**enterotoxin)** ->
 - Spreading -> Epithelial cell die -> **excretion of fluids** -> **[[Diarrhoea]]**
-- Shorterning of [[Villi]], loss of [[Microvillus]] -> 
+- Shorterning of [[Villi]], loss of [[Microvilli]] -> 
 	- **[[Malabsorption]]** and cannot reabsorb [[Bile]]
 	- [[Lactase Deficiency]] -> [[Lactose Intolerance]] -> undigested milk -> **acid [[Faeces]]** -> [[Diarrhoea]] and **irritation**
 - Non-enveloped virus -> **unaffected by [[Disinfectant/Alcohol]]** 

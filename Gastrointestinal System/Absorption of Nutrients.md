@@ -1,6 +1,6 @@
 Process of moving **nutrients from [[GI Tract]] -> [[Blood]]**
 - [[Villi]]
-- [[Microvillus]] -> [[Brush Border]]
+- [[Microvilli]] -> [[Brush Border]]
 -> incr. surface area -> **rate of absorption** and **[[Digestion of Nutrients]]**
 
 # Absorption of Food

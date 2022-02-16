@@ -63,15 +63,38 @@
 
 # Histology
 
+![[1f1dafd59e91f6fcb2cb410870add3c2.jpg]]
+
+3 layers :
+- **Capsule** -- CNT
+- **Stroma** -- CNT c **reticular formation** → lobules; nerves, lymphs, and blood vessels 
+- **Parenchyma** -- **follicular formation**
+	- **[[Thyroid Follicle]]** and **[[Follicular Cell]]**
+	- **[[Parafollicular Cell]]** between each follicle
+
+![[Pasted image 20220217012659.png]]
+
+## Inactive Phase
+↓ synthesis and ↑ storage of [[Thyroid Hormones]] →
+- **Large [[Thyroid Follicle]]**
+- **Flat [[Follicular Cell]]**
+
+## Active Phase
+Vise versa of inactive and **Reabsorption Lacunae** are seen
 
 # Development
+Parts of [[Development of Pharyngeal Arches]]
+
+## Clinical Correlation
+- [[Thyroglossal Duct Cyst]]
+- [[Ectopic Thyroid Gland]]
 
 # Regulation
 
 ![[Pasted image 20220216004405.png]]
 
 **[[TSH]]** → **落 [[TSH Receptor]]** ([[GPCR]]; [[Gs α-subunit]]) → 
-- **↑ cell proliferation** and **[[Thyroid Follicule]] formation**
+- **↑ cell proliferation** and **[[Thyroid Follicle]] formation**
 - **↑ [[Thyroid Hormones]]** -- ↑ production and ↑ energy
 
 # Physiology

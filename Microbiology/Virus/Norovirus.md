@@ -4,7 +4,7 @@
 
 # Pathogenesis
 - IP - 1-3 d.
-- **Lysis of epithelial** -> denuded [[Microvillus]] ->
+- **Lysis of epithelial** -> denuded [[Microvilli]] ->
 	- Leakage of fluid and electrolyte -> **[[Diarrhoea]]**
 	- Decrease enzymatic activity of [[Brush Border]]
 - **Non-enverloped** -> unaffected by [[Disinfectant/Alcohol]]

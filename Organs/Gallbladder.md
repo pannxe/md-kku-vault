@@ -1,6 +1,6 @@
 - Mucosal fold inward the lumen
 - [[Simple Columnar Epithelium]]
-- Contain [[Microvillus]], but no [[Brush Border]]
+- Contain [[Microvilli]], but no [[Brush Border]]
 - Discharges to [[Common Bile Duct]]
 
 # Function
