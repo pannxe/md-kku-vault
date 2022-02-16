@@ -24,3 +24,5 @@
 | 1   | `Endocrine System/Endocrine System`                             |
 | 2   | `Endocrine System/Cellular and Molecular Mechanism of Hormones` |
 | 3-6 | `Organs/Pituitary Gland`                                        |
+| 9   | `Endocrine System/Thyroid Hormones`                              |
+| 10  | `Endocrine System/PTH`, etc.                                                                |
