@@ -86,7 +86,7 @@ Indicate severe pathology -- [[Peritonitis]], [[Intestinal Infarction]], [[Aorti
 - **Palpation** -- look for tenderness, gurding, and rigidity -> [[Peritonitis]]
 
 > DO NOT do deep palpation unless necs
-> Bimannual palpation -> mass at [[Retroperotoneum]]
+> Bimannual palpation -> mass at [[Retroperitoneum]]
 > Palpation for [[Lymph Node]] -> tumor spreading
 
 ## [[Anus|Anal]] Examination

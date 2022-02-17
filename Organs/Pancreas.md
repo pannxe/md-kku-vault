@@ -4,7 +4,7 @@ Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
 
 # Anatomy
 ## Location
-**[[Retroperotoneum]]** -- behind [[Lesser Omental Sac]] and [[Stomach]]
+**[[Retroperitoneum]]** -- behind [[Lesser Omental Sac]] and [[Stomach]]
 > Note that anterior surface is still covered by [[Peritoneum]]
 
 ## Subdivision

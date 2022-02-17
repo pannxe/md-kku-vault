@@ -1,1 +1,0 @@
-[[autoAbs]] to [[TSH Receptor]] → similar effect to [[TSH]] 
