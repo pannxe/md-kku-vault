@@ -107,5 +107,5 @@ See [[Development of Thyroid Gland]]
 - **[[Hyperthyroidism]]**
 - **[[Hypothyroidism]]**
 
-- [[Thyroiditis]]
+- **[[Thyroiditis]]**
 - **[[Thyroid Neoplasms]]**
