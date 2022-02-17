@@ -83,11 +83,7 @@
 Vise versa of inactive and **Reabsorption Lacunae** are seen
 
 # Development
-Parts of [[Development of Pharyngeal Arches]]
-
-## Clinical Correlation
-- [[Thyroglossal Duct Cyst]]
-- [[Ectopic Thyroid Gland]]
+See [[Development of Thyroid Gland]]
 
 # Regulation
 
