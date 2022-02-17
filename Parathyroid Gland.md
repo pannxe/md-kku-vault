@@ -44,6 +44,7 @@
 	- [[Adipose Cell]] -- ↑ c age
 
 # Development
+See. [[Development of Parathyroid Cell]]
 
 # Function
 Produce **[[PTH]]**

@@ -1,4 +1,6 @@
 # Anatomy
+Normally measured in g. -- **15-25 g.**
+
 ## Gross Structures
 
 ![[Pasted image 20220216231430.png]]
@@ -96,3 +98,13 @@ See [[Development of Thyroid Gland]]
 # Physiology
 - **[[Thyroid Hormones]]**
 - **[[Calcitonin]]**
+
+# Pathology
+- Congenital
+	- **[[Thyroglossal Duct Cyst]]**
+	- **[[Ectopic Thyroid Gland]]**
+- **[[Goiter]]**
+- **[[Hyperthyroidism]]**
+- **[[Hypothyroidism]]**
+
+> Also [[Thyroiditis]]

@@ -1,8 +1,25 @@
 **↓ [[Thyroid Hormones]]**
 
-# Primary
+# Type
+## Primary
+**[[Thyroid Gland]] ↓ function**
 
-# Secondary
+## Secondary
+From **other causes**, e.g., [[Pituitary Gland#Pathology]] ([[Sheehan Syndrome]]), etc.
+
+# Causes
+- **[[Iodine Deficiency]]**
+- **[[Hashimoto Thyroiditis]]**
+- Surgery and radiation
+- Medication -- [[Lithium]] and [[Phenybutazone]]
+- Agenesis
+
+# Diagnosis
+## Primary
+**↓ [[Thyroid Hormones]]** → **↑ [[TSH]]**
+
+## Secondary
+**↓ [[TSH]]** → **↓ [[Thyroid Hormones]]**
 
 # Clinical Manifestation
 - **↓ [[Metabolism]]** → ↓ energy
@@ -10,8 +27,9 @@
 	- ↓ [[Thermogenesis]] →
 		- **Cold intolerance**
 		- **[[Hypohidrosis]]** → dry skin
-	- [[Fatigue]]
+	- **[[Fatigue]]** and **[[Weakness]]**
 	- [[Arthralgia]], [[Muscle Stiffness]], etc.
 	- [[Hyporeflexia]]
 - ↓ [[β-Adrenergic Receptor]] on [[Heart]] → **[[Bradycardia]]**
 - ↓ [[Intestinal Movement]] → **[[Constipation]]**
+- ↓ [[Nervous System]]
