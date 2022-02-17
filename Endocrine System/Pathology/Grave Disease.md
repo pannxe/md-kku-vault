@@ -1,5 +1,7 @@
 # Pathology
-[[autoAbs]] to [[TSH Receptor]] → similar effect to [[TSH]] 
+[[autoAbs]] to [[TSH Receptor]] → 
+- 落 production of [[Thyroid Hormones]] → [[Hyperthyroidism]]
+- 
 
 # Clinical Manifestation
 
