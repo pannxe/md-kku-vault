@@ -1,0 +1,1 @@
+[[Calcium]], [[Fluoride]], [[Cabbage]], [[Cassava]] → [[Thiocyanate]], [[Corn]]

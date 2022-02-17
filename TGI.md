@@ -1,0 +1,1 @@
+Thyroid growth immunoglobulin
