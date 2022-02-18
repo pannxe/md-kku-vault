@@ -9,12 +9,15 @@ From **other causes**, e.g., [[Pituitary Gland#Pathology]] ([[Sheehan Syndrome]]
 
 # Causes
 - **[[Iodine Deficiency]]**
+- **[[Goiter]]**
 - **[[Hashimoto Thyroiditis]]**
-- Surgery and radiation
+- Surgery ([[Thyroidectomy]]) and radiation
 - Medication -- [[Lithium]] and [[Phenybutazone]]
 - Agenesis
 
 # Diagnosis
+- [[Thyroid Function Test]]
+- Manifestation
 ## Primary
 **↓ [[Thyroid Hormones]]** → **↑ [[TSH]]**
 
@@ -33,3 +36,19 @@ From **other causes**, e.g., [[Pituitary Gland#Pathology]] ([[Sheehan Syndrome]]
 - ↓ [[β-Adrenergic Receptor]] on [[Heart]] → **[[Bradycardia]]**
 - ↓ [[Intestinal Movement]] → **[[Constipation]]**
 - ↓ [[Nervous System]]
+
+# Treatment
+## Drugs
+- Natural [[Thyroid Hormones]] -- ↑ SE, inconsistant ratio
+- **[[Synthetic Thyroid Hormones]]**
+	- **[[Levothyroxine]]** -- [[T4]]
+	- **[[Liothyronine]]** -- [[T3]]
+
+## Follow Up
+- Size of [[Thyroid Gland]]
+- [[Thyroid Function Test]]
+- Clinical Manifestation
+
+→ Adjust dose accordingly
+
+> ↑ [[TSH]] ← poor compliance
