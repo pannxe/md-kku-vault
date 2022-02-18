@@ -12,3 +12,6 @@
 - Carcinomas
 	- **[[Papillary Carcinoma]]** -- 85%
 	- **[[Follicular Carcinoma]]** -- up to 15%
+	- **[[Medullary Carcinoma]]** -- up to 10%
+> Minor : [[Thyroid Anaplastic Carcinoma]], etc.
+
