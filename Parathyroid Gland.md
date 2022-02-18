@@ -48,3 +48,11 @@ See. [[Development of Parathyroid Cell]]
 
 # Function
 Produce **[[PTH]]**
+
+# Pathology
+## Hormonal
+- **[[Hyperparathyroidism]]**
+- **[[Hypoparathyroidism]]**
+## Tumors
+- [[Parathyroid Adenoma]]
+- [[Parathyroid Chief Cell Hyperplasia]]
