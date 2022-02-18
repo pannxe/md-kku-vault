@@ -20,5 +20,4 @@ a.k.a. **Struma Lymphomatos**
 - **[[Hyperthyroidism]]** (leakage) → later [[Hypothyroidism]] (little left)
 
 # Complications
-- Risk of **[[Lymphoma]] ↑**
-- ****
+Risk of **[[Lymphoma]] ↑**
