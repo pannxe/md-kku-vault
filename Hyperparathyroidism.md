@@ -12,3 +12,9 @@ From **compensatory ↑ [[PTH]]** ← **chronic [[Hypocalcaemia]]** ← **[[Rena
 **Persistent ↑ [[PTH]] p correction** of [[Hypocalcaemia]]
 
 # Clinical Manifestation
+From ↑ [[PTH]] → 
+- ↑ [[Osteoclast]] activity → 
+	- **[[Hypercalcaemia]]** → [[Renal Stone]]
+	- **[[Osteoporosis]]** and [[Osteitis Fibrosa Cystica]]
+- **[[Hypophosphataemia]]**
+- ↑ [[Gastrin]] → **[[Peptic Ulcer Disease]]**
