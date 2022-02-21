@@ -70,7 +70,7 @@ a.k.a. **Neurohypophysis**, consists of 2 parts
 - Many types of vesicles
 	- **[[Herring Body]]**
 	- **Nerve terminals** c **[[ACh]]**
-	- **Large vesicle** -- similar to dense core vesicle of [[Adrenal Gland#Medulla]] and adrenergic nerve ending
+	- **Large vesicle** -- similar to dense core vesicle of [[Adrenal Medulla]] and adrenergic nerve ending
 
 # Development
 See **[[Development of Pituitary Gland]]**
