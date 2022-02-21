@@ -16,7 +16,7 @@ Observable [[Thyroid Hormones]]
 
 # Parafollicular Cell
 From **[[Endoderm]]** of **[[Ultimobrachial Body]]** by 14th week → **functional at 16th weel**
-> In bird, reptile, and fish [[Parafollicular Cell]] dev. from [[Neural Crest Cell]]
+> In bird, reptile, and fish [[Parafollicular Cell]] dev. from [[Neural Crest]]
 
 # Clinical Correlation
 - [[Thyroglossal Duct Cyst]]
