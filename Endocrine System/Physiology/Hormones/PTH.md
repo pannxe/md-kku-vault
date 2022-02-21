@@ -12,8 +12,8 @@ Normal of [[Amino Acid Hormones]]; break down in bloodsteam
 via **[[PTH1R]]** on [[Osteoblast]] and [[Kidney]]
 - [[Bone]] -- **↑ [[Bone Remodeling#Resorption]]**
 - [[Kidney]]
-	- **↑ [[Reabsorption of Calcium (Kidney)]]**
-	- **↓ [[Reabsorption of Phosphate (Kidney)]]**
+	- **↑ [[Calcium Reabsorption]]**
+	- **↓ [[Phosphate Reabsorption]]**
 	- **↑ [[Calcitriol]] synthesis**
 - [[Intestine]]
 	- via [[Calcitriol]] → **↑ [[Absorption of Calcium]]**

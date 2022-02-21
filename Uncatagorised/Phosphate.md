@@ -12,7 +12,7 @@ Dietary intake ~1400 mg. → [[Absorption of Phosphate]] 900 mg →
 - **85% stored in [[Bone]]** and other tissues (see. [[Bone Remodeling]])
 - 900 mg excrete via [[Kidney]] → [[Urine]]
 
-> See [[Reabsorption of Phosphate (Kidney)]]
+> See [[Phosphate Reabsorption]]
 
 Normal plasma level is **2.5-4.5 mg/dL**
 - **80%** -- **Alkaline phosphate**

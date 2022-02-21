@@ -11,8 +11,8 @@ Immediately below capsule
 
 **Ball-like cluster** of cells c foamy cytoplasm
 
-## Function
-Produce and secrete **[[Aldosterone]]** ([[Mineralocorticoids]])
+## Physiology
+[[ACTH]] and **[[Angiotensin II]]** 落 → ↑ **[[Aldosterone]]** ([[Mineralocorticoids]])
 
 # Zona Fasciculata
 **Widest** of all zones (up to 80%).
@@ -24,7 +24,9 @@ Produce and secrete **[[Aldosterone]]** ([[Mineralocorticoids]])
 **Radially-arranged cell cord** (a.k.a. *multiple-paizuri :3*) c **lipid-droplet** → spongiocyte
 
 ## Physiology 
-Produce and secrete **[[Cortisol]]** ([[Glucocorticoids]])
+**[[ACTH]]** → 落 [[ACTH Receptor]] → ↑ **[[Cortisol]]** ([[Glucocorticoids]])
+
+> Supported by atrophy of this layer p [[Hypophysectomy]]
 
 # Zona Reticulata
 Deepest layer of cortex.
@@ -35,5 +37,9 @@ Deepest layer of cortex.
 
 **Net-like** appearance c **Lipofusin pigment**. Low lipid droplet. 
 
-## Function
-(Minor) Produce precursor of [[Aldosterone]] and [[Testosterone]]
+## Physiology
+[[ACTH]] → 落 produce precursor of [[Aldosterone]] and [[Testosterone]] (→ [[Oestrogen]])
+
+> MINOR; **DOES NOT** respond to [[Gonadotropins]].
+
+> Deficiency often asymptomatic. Excess is similar to [[Gonadotropins#Disorders]]

@@ -8,5 +8,5 @@ Contain **[[Chromaffin Cell]]** and Ganglion cells ([[Sympathetic NS]]; unknow f
 
 Also has capillary and **Adrenal medullary vein** → drain hormone and stuff
 
-# Function
-Produce and secrete **[[Catecholamines]]** (i.e., [[Epinephrine]] and [[Norepinephrine]]; from [[Chromaffin Cell]])
+# Physiology
+[[Stress]] → via [[Locus Coeruleus]] and [[Sympathetic NS]] → **落 production of [[Catecholamines]]** (i.e., [[Epinephrine]] and [[Norepinephrine]]; from [[Chromaffin Cell]])

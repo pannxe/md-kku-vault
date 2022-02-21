@@ -8,7 +8,7 @@
 
 # Functions
 **↓ Plasma [[Phosphate]]** level ←
-- (directily) **↓ [[Reabsorption of Phosphate (Kidney)]]**
+- (directily) **↓ [[Phosphate Reabsorption]]**
 -  activation of [[Vitamin D]] → ↓ [[Calcitriol]] → ↑ [[PTH]] → 
 	- **↓ [[Absorption of Phosphate]]**
-	- **↓ [[Reabsorption of Phosphate (Kidney)]]** (indirect)
+	- **↓ [[Phosphate Reabsorption]]** (indirect)

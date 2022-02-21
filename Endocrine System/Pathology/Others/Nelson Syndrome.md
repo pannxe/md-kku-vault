@@ -1,4 +1,4 @@
-May complicated from Tx for [[Cushing Syndrome]]
+May complicated from Tx for [[Cushing Disease]]
 
 # Pathology
 Removal of [[Adrenal Gland]] → **compensation attempt** → 落 pre-existing or remaining **[[Corticotroph Adenoma]]** → **hypertrophy** → 

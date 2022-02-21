@@ -1,0 +1,1 @@
+[[GPCR]] c [[Gs α-subunit]]

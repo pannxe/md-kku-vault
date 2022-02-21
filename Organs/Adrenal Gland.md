@@ -43,7 +43,7 @@ See [[Adrenal Medulla]] and [[Adrenal Cortex]]
 
 # Pathology
 ## Excess
-- **[[Cushing Syndrome]]**
+- **[[Cushing Disease]]**
 
 ## Deficiency
 - **[[Addison Disease]]**

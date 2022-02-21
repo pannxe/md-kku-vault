@@ -6,7 +6,7 @@ Metabolize and degrade by [[Kidney]] and [[Liver]]
 # Functions
 Decrease plasma [[Phosphate]] and [[Calcium]] conc.
 - **↓ [[Bone Remodeling#Resorption]]**
-- **↓ [[Reabsorption of Calcium (Kidney)]]** and **↓ [[Reabsorption of Phosphate (Kidney)]]**
+- **↓ [[Calcium Reabsorption]]** and **↓ [[Phosphate Reabsorption]]**
 > See MoA individually
 
 # Regulation

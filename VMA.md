@@ -1,0 +1,1 @@
+Inactive metabolite of [[Catecholamines]] → excreted in [[Urine]]

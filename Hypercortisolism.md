@@ -1,0 +1,4 @@
+# Types
+## Primary
+
+## Secondary

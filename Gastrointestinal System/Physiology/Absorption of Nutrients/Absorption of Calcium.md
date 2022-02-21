@@ -4,7 +4,7 @@
 [[Calcium]] is absorbed by
 - **Active transportation** in [[Small Intestine]], esp. **[[Duodenum]]** and **[[Jejunum]]** via [[TRPV6]] → bind to [[Calbindin#D-9k]] exit via [[PMCA]] and [[Na-Ca Exchanger]]
 - Minor : passive -- paracellular
-> Similar to [[Reabsorption of Calcium (Kidney)]]
+> Similar to [[Calcium Reabsorption]]
 
 # Regulation
 Stim. by **[[Calcitriol]]** (← [[PTH]]) → ↑ transcription →

@@ -21,7 +21,7 @@ Synthesized from **[[Vitamin D]]** ←
 # Function
 - **↑ [[Absorption of Calcium]]** and **↑ [[Absorption of Phosphate]]**
 - **↑ [[Bone Remodeling#Reabsorption]]**
-- **↑ [[Reabsorption of Calcium (Kidney)]]**
+- **↑ [[Calcium Reabsorption]]**
 
 # MoA
 Forms complex c [[RXR]] → bind to **[[VDRE]]** on [[DNA]] → **↑ or ↓ [[DNA Transcription]]**

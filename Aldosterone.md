@@ -1,5 +1,8 @@
-A [[Mineralocorticoids]]
+Main [[Mineralocorticoids]] of human
 
 # Physiology
-- [[Regulation of Blood Pressure]]
-- [[Regulation of Electrolyte]] (i.e., [[Sodium]] and [[Potassium]])
+See [[Mineralocorticoids#Physiology]]
+
+# Pathology
+- **[[Hyperaldosteronism]]**
+- **[[Hypoaldosteronism]]**

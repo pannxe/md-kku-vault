@@ -1,4 +1,4 @@
 # Anatomy
 
 # Physiology
-- **[[Reabsorption of Calcium (Kidney)]]**
+- **[[Calcium Reabsorption]]**
