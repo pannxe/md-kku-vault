@@ -23,7 +23,7 @@ Produce and secrete **[[Aldosterone]]** ([[Mineralocorticoids]])
 
 **Radially-arranged cell cord** (a.k.a. *multiple-paizuri :3*) c **lipid-droplet** → spongiocyte
 
-## Function
+## Physiology 
 Produce and secrete **[[Cortisol]]** ([[Glucocorticoids]])
 
 # Zona Reticulata

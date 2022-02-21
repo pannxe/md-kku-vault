@@ -1,4 +1,4 @@
-A [[Glucocorticoids]] produced by [[Adrenal Cortex#Zona Fasciculata]].
+A [[Glucocorticoids]] produced by **[[Adrenal Cortex#Zona Fasciculata]]**.
 
 # Physiology
 - ** [[Inflammation]]**

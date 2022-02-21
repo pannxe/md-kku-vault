@@ -6,9 +6,13 @@
 # Types
 There are 2 general types
 - **[[Corticosteroid]]**
-	- **[[Glucocorticoids]]** -- mainly affects **[[Metabolism of Carbohydrate]]**
-	- **[[Mineralocorticoids]]** -- e.g., [[Aldosterone]]; affects **[[Regulation of Electrolyte]]**
+	- [[Glucocorticoids]] -- esp. **[[Cortisol]]** mainly affects **[[Metabolism of Carbohydrate]]**
+	- [[Mineralocorticoids]] -- e.g., [[Aldosterone]]; affects **[[Regulation of Electrolyte]]**
 - **[[Sex Hormones]]**
+
+# Biosynthesis
+
+![[Adrenal_steroid_hormone_synthesis.png]]
 
 # Transportation
 use **binding proteins** -> **bound hormone** ->
