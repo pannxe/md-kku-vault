@@ -13,7 +13,7 @@
 
 # Adverse Reaction
 ## Common
-**[[Skin]]** -- **[[Rash]]**, [[Urticaria]], or [[Pruritus]]
+**[[Skin]]** -- **[[Rash]]**, [[Urticaria]], or [[Itching]]
 
 ## Severe
 **[[Agranulocytosis]]** and **[[Thrombocytopenia]]** -- rare and reversible

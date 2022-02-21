@@ -25,7 +25,7 @@ Messenger c high specificity and high efficieny; may be stored in cell first; di
 - **Humoral** -- Controled by proterty of humers
 > e.g., retension of Ca2+
 - **Neural** -- Controled by nervous system
-> e.g., [[Autonomic NS]] -> [[Epinephrin]], [[Norepinephrine]]
+> e.g., [[Autonomic NS]] -> [[Epinephrine]], [[Norepinephrine]]
 
 ## Control of Secretion
 - **Cyclic change** -- e.g., [[GH]] incr c sleep; [[Menstruation]], etc.

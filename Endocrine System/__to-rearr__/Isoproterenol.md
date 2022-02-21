@@ -1,1 +1,1 @@
-[[Epinephrin]] agonist
+[[Epinephrine]] agonist

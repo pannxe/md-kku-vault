@@ -1,0 +1,1 @@
+i.e., **Modified postganglionic [[Sympathetic NS|sympathetic]] neuron** → secrete [[Catecholamines]]

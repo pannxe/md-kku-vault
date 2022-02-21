@@ -2,5 +2,5 @@
 - Function both as [[Neurotransmitters]] and [[Hormones]]
 
 # Example
-- [[Epinephrin]]
+- [[Epinephrine]]
 - [[Norepinephrine]]

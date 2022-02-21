@@ -41,3 +41,9 @@ Mainly [[Lateral Aortic Lymph Nodes]] which can make tumor metastasize easily.
 # Function
 See [[Adrenal Medulla]] and [[Adrenal Cortex]] 
 
+# Pathology
+## Excess
+- **[[Cushing Syndrome]]**
+
+## Deficiency
+- **[[Addison Disease]]**

@@ -5,7 +5,7 @@ From stimulation of [[Chemoreceptor Trigger Zone]]
 **Expulsion** of content from **[[Stomach]]** or **[[Duodenum]]** -> **[[Mouth]]** or [[Nose]]
 
 ## Pathophysiology
-**[[Vomiting Center]]** at [[Medulla]] -> **decr. [[Stomach#Motility|gastric motility]]** & **incr. [[Small Intestine Motility]]** -> **[[Reverse Peristalsis]]** -> expulsion
+**[[Vomiting Center]]** at [[Medulla Oblongata]] -> **decr. [[Stomach#Motility|gastric motility]]** & **incr. [[Small Intestine Motility]]** -> **[[Reverse Peristalsis]]** -> expulsion
 
 ## Cause
 - **Extreme [[CN X]] stim.**
