@@ -27,8 +27,8 @@
 Relaxation of [[Urinary Bladder]]
 
 # Diagnosis
-- Plasma [[Metanephrines]] level
-- Urine [[VMA]] level
+- **Plasma [[Metanephrines]] level**
+- **Urine [[VMA]] level**
 - [[Clonidine Suppression Test]]
 
 # Pathology
@@ -36,4 +36,4 @@ Relaxation of [[Urinary Bladder]]
 - Excess -- **[[Hypertension]]**
 	> [[Sweating]], [[Tachycardia]], [[Hyperglycaemia]], [[Weight Loss]], etc. Generally similar to [[Hyperthyroidism]] → DDx
 
-> Common cause : [[Pheochromocytoma]]
+> Common cause : [[Pheochromocytoma]] (esp., [[Norepinephrine]])
