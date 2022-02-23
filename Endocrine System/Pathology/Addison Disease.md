@@ -1,4 +1,4 @@
-a.k.a. **Primary adrenal insufficiency** → **life-threatening**
+a.k.a. **Primary chronic adrenal insufficiency** → **life-threatening**
 
 # Cause
 - [[Autoimmune Diseases]]

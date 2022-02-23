@@ -45,6 +45,5 @@ Deepest layer of cortex.
 > Deficiency often asymptomatic. Excess is similar to [[Gonadotropins#Disorders]]
 
 # Pathology
-- **[[Cushing Syndrome]]**
-- **[[Conn Syndrome]]**
-- **[[Congenital Adrenal Hyperplasia]]**
+- **[[Hyperadrenocorticism]]**
+- **[[Hypoadrenocorticism]]**
