@@ -6,7 +6,7 @@
 - Exogenous corticosteroid ← drug
 - Endogenous ←
 	- **↑ [[ACTH]]** ← **[[Cushing Disease]]**, [[Small-cell Carcinoma of Lung]], [[Thymoma]], etc.
-	- **↑ [[Cortisol]]** ← **[[Adrenal Adenoma]]**, [[Adrenal Carcinoma]], [[Congenital Adrenal Hyperplasia]]
+	- **↑ [[Cortisol]]** ← **[[Adrenocortical Adenoma]]**, [[Adrenocortical Carcinoma]], [[Congenital Adrenal Hyperplasia]]
 	- ↑ [[CHR]] -- brain tumor; rarte
 
 # Clinical Manifestation

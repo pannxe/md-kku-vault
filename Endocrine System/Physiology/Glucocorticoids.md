@@ -52,7 +52,7 @@ On [[Kidney]] →
 
 # Pathology
 - Deficiency ← **[[Addison Disease]]**
-- Excess ← **[[Cushing Disease]]**
+- [[Cushing Syndrome]] ← Excess ← **[[Cushing Disease]]**
 
 # Drugs
 - **[[Prednisone]]**

@@ -45,5 +45,10 @@ Deepest layer of cortex.
 > Deficiency often asymptomatic. Excess is similar to [[Gonadotropins#Disorders]]
 
 # Pathology
+## Hormonal
 - **[[Hyperadrenocorticism]]**
 - **[[Hypoadrenocorticism]]**
+
+## Neoplasms
+- [[Adrenocortical Adenoma]]
+- [[Adrenocortical Carcinoma]]

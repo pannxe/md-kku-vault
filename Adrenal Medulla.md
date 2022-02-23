@@ -10,3 +10,9 @@ Also has capillary and **Adrenal medullary vein** → drain hormone and stuff
 
 # Physiology
 [[Stress]] → via [[Locus Coeruleus]] and [[Sympathetic NS]] → **落 production of [[Catecholamines]]** (i.e., [[Epinephrine]] and [[Norepinephrine]]; from [[Chromaffin Cell]])
+
+# Pathology
+- **[[Pheochromocytoma]]** ← [[Chromaffin Cell]]
+- From neuronal origin
+	- [[Neuroblastoma]]
+	- [[Ganglioneuroma]]
