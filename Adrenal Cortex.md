@@ -38,8 +38,13 @@ Deepest layer of cortex.
 **Net-like** appearance c **Lipofusin pigment**. Low lipid droplet. 
 
 ## Physiology
-[[ACTH]] → 落 produce precursor of [[Aldosterone]] and [[Testosterone]] (→ [[Oestrogen]])
+[[ACTH]] → 落 produce precursor of [[Aldosterone]] and **[[Testosterone]]** (→ **[[Oestrogen]]**)
 
 > MINOR; **DOES NOT** respond to [[Gonadotropins]].
 
 > Deficiency often asymptomatic. Excess is similar to [[Gonadotropins#Disorders]]
+
+# Pathology
+- **[[Cushing Syndrome]]**
+- **[[Conn Syndrome]]**
+- **[[Congenital Adrenal Hyperplasia]]**

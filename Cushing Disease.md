@@ -1,4 +1,4 @@
-S# Cause
+# Cause
 **↑ [[ACTH]]** → ↑ [[Glucocorticoids]]
 
 # Diagnosis

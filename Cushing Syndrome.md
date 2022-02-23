@@ -1,9 +1,13 @@
 # Pathogenesis
+
+![[Pasted image 20220223161742.png]]
+
 **Excess [[Glucocorticoids]]** ←
 - Exogenous corticosteroid ← drug
 - Endogenous ←
 	- **↑ [[ACTH]]** ← **[[Cushing Disease]]**, [[Small-cell Carcinoma of Lung]], [[Thymoma]], etc.
-	- **↑ [[Cortisol]]** ← **[[Adrenal Cortex Adenoma]]**
+	- **↑ [[Cortisol]]** ← **[[Adrenal Adenoma]]**, [[Adrenal Carcinoma]], [[Congenital Adrenal Hyperplasia]]
+	- ↑ [[CHR]] -- brain tumor; rarte
 
 # Clinical Manifestation
 - **[[Osteoporosis]]** and **[[Muscle Weakness]]**
@@ -11,5 +15,12 @@
 - Moon face
 - ↑ fat deposition → buffalo hump
 - [[Obesity]]
-- Skin bleeding -- bruis, striae, and ulcer
+- Skin bleeding -- bruises, striae, petechiae, and ulcers
 - Emotional disturbance
+- **[[Amenorrhoea]]**, [[Hirsutism]], and [[Gynecomastia]]
+- [[Immunocompromised]]
+
+# Diagnosis
+- **↑ Plasma [[Cortisol]]** and [[ACTH]]
+- **[[Dexamethasone Supression Test]]**
+- CT [[Pituitary Gland]] and [[Adrenal Gland]]

@@ -15,4 +15,4 @@ Cortisal →  [[ACTH]] and  [[CRH]]
 See [[Glucocorticoids#Physiology]]
 
 # Clinical Correlation
-**[[Cushing Syndrome]]**
+Excess → **[[Cushing Syndrome]]**

@@ -38,12 +38,5 @@ Mainly [[Lateral Aortic Lymph Nodes]] which can make tumor metastasize easily.
 # Nerve Supply
 [[Sympathetic NS]] : [[Splanchic Nerve]] → medulla
 
-# Function
+# Function and Pathology
 See [[Adrenal Medulla]] and [[Adrenal Cortex]] 
-
-# Pathology
-## Excess
-- **[[Cushing Disease]]**
-
-## Deficiency
-- **[[Addison Disease]]**
