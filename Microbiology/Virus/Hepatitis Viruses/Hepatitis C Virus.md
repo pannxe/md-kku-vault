@@ -7,7 +7,7 @@ Belongs to [[Flaviviridae]] family
 # Pathogenesis
 - **High risk (80%) of [[Hepatitis#Chronic Hepatitis|Chronic Hepatitis]]** -> [[Cirrhosis]] -> [[Hepatocellular Carcinoma]]
 > Compare to [[Hepatitis B Virus]] ~8%
-- Chance of [[Cryoglobinaemia]] -> **[[Vascilitis]]** -> **[[Lymphoma]]**
+- Chance of [[Cryoglobinaemia]] -> **[[Vasculitis]]** -> **[[Lymphoma]]**
 
 # Histopathology
 - Mild-moderate **chronic inflammatory cells** infiltration -- [[Plasma Cell]], [[Lymphocytes]], [[Kupffer Cell]], etc.

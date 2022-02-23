@@ -27,7 +27,7 @@ Most pt. is infected since childhood, newly acquired infection as adult is low (
 		- [[Hepatitis#Chronic Hepatitis|Chronic hepatitis]] -> **[[Cirrhosis]]** and extrahepatic diseases
 		- **[[Hepatocellular Carcinoma]]** -- upto 35 yrs.; **can occurs at any stage** and does not need to have cirrhosis first
 	- Co-infection with **[[Hepatitis D Virus]]** -> **[[Fulminant Hepatitis]]**
-> Immune responds may cause [[Vascilitis]], [[Arthralgia]], [[Rash]], [[Kidney]] damage -> [[Renal Failure]]
+> Immune responds may cause [[Vasculitis]], [[Arthralgia]], [[Rash]], [[Kidney]] damage -> [[Renal Failure]]
 
 # Histopathology
 **Ground-glass** picture of [[Hepatocyte]] from viral inclusion

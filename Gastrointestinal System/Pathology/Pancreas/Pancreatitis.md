@@ -12,7 +12,7 @@
 ## Pathogenesis
 **Inflammation** -> damage to [[Pancreatic Acini]] -> **releases of [[Pancreatic Enzymes]]** -> 
 - [[Lipase]] -> **Fat necrosis**
-- [[Proteases]] -> **[[Vascilitis]]** -> Vasular destruction -> Haemorrhage -> **[[Shock]]**, **[[Acute Respiratory Distress Syndrome]]**, and **acute [[Renal Failure]]**
+- [[Proteases]] -> **[[Vasculitis]]** -> Vasular destruction -> Haemorrhage -> **[[Shock]]**, **[[Acute Respiratory Distress Syndrome]]**, and **acute [[Renal Failure]]**
 - etc.
 
 ## Cliniacl Manifestation

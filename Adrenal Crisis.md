@@ -1,0 +1,1 @@
+**Severe [[Hypoadrenocorticism]]** → **life-threatening**
