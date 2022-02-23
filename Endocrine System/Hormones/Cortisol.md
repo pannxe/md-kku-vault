@@ -13,3 +13,6 @@ Cortisal →  [[ACTH]] and  [[CRH]]
 
 # Physiology
 See [[Glucocorticoids#Physiology]]
+
+# Clinical Correlation
+**[[Cushing Syndrome]]**

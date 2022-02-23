@@ -1,3 +1,10 @@
+# Pathogenesis
+**Excess [[Glucocorticoids]]** ←
+- Exogenous corticosteroid ← drug
+- Endogenous ←
+	- **↑ [[ACTH]]** ← **[[Cushing Disease]]**, [[Small-cell Carcinoma of Lung]], [[Thymoma]], etc.
+	- **↑ [[Cortisol]]** ← **[[Adrenal Cortex Adenoma]]**
+
 # Clinical Manifestation
 - **[[Osteoporosis]]** and **[[Muscle Weakness]]**
 - **[[Hypertension]]** → Enlarged [[Heart]]
