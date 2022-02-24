@@ -1,5 +1,7 @@
 - Tumor of [[Chromaffin Cell]]; can be outside [[Adrenal Medulla]] → [[Adrenal Paraganglioma]]
-- **10% bilateral** (rather common) 
+- **10% bilateral** (rather common)
+- May have blood vessel and capsule invasion in benign
+- Malignant ← **invasion of lymph node**
 
 # Morphology
 

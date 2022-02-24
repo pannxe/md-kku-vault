@@ -4,5 +4,3 @@ Dysentery is a specific syndrome consisting of the frequent passage of character
 
 - **[[Blood]]** and **[[Pus]]** in [[Faeces]]
 - [[Abdominal Pain]], [[Fever]], [[Abdoninal Cramp]]
-
-#TODO 

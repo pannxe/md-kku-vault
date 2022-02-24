@@ -15,4 +15,5 @@ Also has capillary and **Adrenal medullary vein** → drain hormone and stuff
 - **[[Pheochromocytoma]]** ← [[Chromaffin Cell]]
 - From neuronal origin
 	- [[Neuroblastoma]]
-	- [[Ganglioneuroma]]
+	- [[Adrenal Paraganglioma]]
+- **[[Multiple Endocrine Neoplasia]]**
