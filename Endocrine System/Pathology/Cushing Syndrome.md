@@ -3,7 +3,7 @@
 ![[Pasted image 20220223161742.png]]
 
 **Excess [[Glucocorticoids]]** ←
-- Exogenous corticosteroid ← drug
+- **[[Glucocorticoid Drugs]]**
 - Endogenous ←
 	- **↑ [[ACTH]]** ← **[[Cushing Disease]]**, [[Small-cell Carcinoma of Lung]], [[Thymoma]], etc.
 	- **↑ [[Cortisol]]** ← **[[Adrenocortical Adenoma]]**, [[Adrenocortical Carcinoma]], [[Congenital Adrenal Hyperplasia]]

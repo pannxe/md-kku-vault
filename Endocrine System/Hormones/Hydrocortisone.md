@@ -1,0 +1,1 @@
+Drug form of [[Cortisol]]

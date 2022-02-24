@@ -2,7 +2,7 @@
 - Considered **[[Paracrine]]**
 
 # Biosynthesis
-[[Phospholipids]] → ([[COXs]]) → [[Arachidonatic Acid]] and [[Eisapentaenoic Acid]] →
+[[Phospholipids]] → ([[COX]]) → [[Arachidonatic Acid]] and [[Eisapentaenoic Acid]] →
 - **[[Prostaglandins]]**
 - [[Thromboxanes]]
 - [[Leukotrienes]]

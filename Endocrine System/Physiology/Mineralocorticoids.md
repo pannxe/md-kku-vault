@@ -5,6 +5,9 @@ Main hormone is **[[Aldosterone]]** (human).
 ![[Pasted image 20220221145424.png]]
 
 ## Stimulation
+
+![[Pasted image 20220224123242.png]]
+
 - **[[ACTH]]**
 - **[[Renin-angiotensin System]]** ← ↓ [[Blood Volume]]
 - ↑ [[Potassium]] / ↓ [[Sodium]]

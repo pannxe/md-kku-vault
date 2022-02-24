@@ -31,5 +31,5 @@ Larva may causes muscle weakness / aches
 - **[[Mebendazole]]**
 
 ## Supportive
-- [[Prednisone]] ([[Corticosteroid]])
+- [[Prednisone]] ([[Corticosteroid Drugs]])
 - [[NSAIDs]] and [[Acetaminophen]]

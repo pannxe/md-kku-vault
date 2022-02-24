@@ -55,8 +55,4 @@ On [[Kidney]] →
 - [[Cushing Syndrome]] ← Excess ← **[[Cushing Disease]]**
 
 # Drugs
-- **[[Prednisone]]**
-- [[Dexamethasone]]
-
-## Indication
-- **[[Thyroid Crisis]]** --  **deiodination** and **release** of **[[Thyroid Hormones]]**
+See **[[Glucocorticoid Drugs]]**
