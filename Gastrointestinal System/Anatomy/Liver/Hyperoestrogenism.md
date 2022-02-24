@@ -1,4 +1,4 @@
 # Clinical Manifestation
 - **[[Palmar Erythema]]**
-- **[[Gynecomastia]]** and **[[Hypogonadism]]** in male 
+- **[[Gynaecomastia]]** and **[[Hypogonadism]]** in male 
 - **[[Spider Nevi]]**

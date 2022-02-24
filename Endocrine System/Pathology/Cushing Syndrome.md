@@ -17,7 +17,7 @@
 - [[Obesity]]
 - Skin bleeding -- bruises, striae, petechiae, and ulcers
 - Emotional disturbance
-- **[[Amenorrhoea]]**, [[Hirsutism]], and [[Gynecomastia]]
+- **[[Amenorrhoea]]**, [[Hirsutism]], and [[Gynaecomastia]]
 - [[Immunocompromised]]
 
 # Diagnosis

@@ -16,10 +16,17 @@ Main hormone is **[[Aldosterone]]** (human).
 ↑ [[Blood Pressure]] or [[Blood Volume]]
 
 # Physiology
+Bind to Mineralocorticoid receptor → 落 Mineralocorticoid-response element → alter gene expression
 - **↑ [[Sodium Reabsorption]]** → [[Na-Water Retention]] 
-- **↑ [[Potassium]] excretion** 
-- **↑ Acid Excresion**
+- **↑ [[Potassium]]** and **↑ acid excretion**
 
 # Pathology
 - [[Hyperaldosteronism]]
 - [[Hypoaldosteronism]]
+
+# Drug
+## Agonist
+**[[Fludrocortisone]]** ([[Mineralocorticoid Drugs]]) 
+
+## Antagonist
+**[[Spironolactone]]**

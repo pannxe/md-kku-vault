@@ -55,4 +55,13 @@ On [[Kidney]] →
 - [[Cushing Syndrome]] ← Excess ← **[[Cushing Disease]]**
 
 # Drugs
-See **[[Glucocorticoid Drugs]]**
+## Agonist
+**[[Glucocorticoid Drugs]]**
+
+## Antagonist
+**[[Mifepristone]]**
+
+## Synthesis Inhibitors
+- **[[Ketoconazole]]** -- **high dose**
+- [[Aminoglutethimide]]
+- [[Metyrapone]]

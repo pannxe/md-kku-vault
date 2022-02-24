@@ -21,7 +21,7 @@
 - **Inhibit [[CYP450]]** -> prolongs other drugs T1/2
 > **ESP. [[Cimetidine]]**
 - **Anti-androgenic effects** -> incr. [[PRL]] ->
-	- Male -- [[Gynecomastia]] & [[Sexual Dysfunction]]
+	- Male -- [[Gynaecomastia]] & [[Sexual Dysfunction]]
 	- Female -- [[Galactorrhoea]]
 - Cross [[Blood-Brain Barrier]] -> neurological involvements 
 

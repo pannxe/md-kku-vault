@@ -93,6 +93,6 @@ Prolonged use → compensatory ↓ [[ACTH]] → sudden withdrawal → **[[Hypoad
 To prevent complication, ** live vaccine** in pt. tx c glucocorticoid drugs.
 
 # Contraindications
-**[[Pregnancy]]** → [[IUGR]]
+**[[Pregnancy]]** → **[[IUGR]]**
 
 > [[Prednisolone]] is inactivated q crossing [[Placenta]] → preferred to tx mother. Long-acting ones crossed unchanged → preferred to 落 fetal [[Lung]]

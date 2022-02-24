@@ -1,0 +1,1 @@
+Hirsutism is **where women have thick, dark hair** on their face, neck, chest, tummy, lower back, buttocks or thighs

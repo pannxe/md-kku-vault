@@ -28,3 +28,4 @@ a.k.a. **Primary chronic adrenal insufficiency** → **life-threatening**
 
 # Treatment
 Replacement of [[Mineralocorticoids]] and [[Glucocorticoids]]
+> [[Fludrocortisone]] and [[Hydrocortisone]]
