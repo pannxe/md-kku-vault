@@ -5,5 +5,8 @@
 ## Location
 Rostro-dorsal (above) [[Superior Colliculi]]; behide [[Stria Medullaris]]
 
+## Histology
+
+
 # Physiology
-**[[Melatonin]]** production → **[[Circadian Rhythm]]** and other functions
+**[[Pinealocyte]]** → **[[Melatonin]]** production → **[[Circadian Rhythm]]** and other functions
