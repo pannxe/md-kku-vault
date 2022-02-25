@@ -12,6 +12,29 @@ Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
 - **Neck**
 - **Tail**
 
+## Blood and Lymph
+
+![[Pasted image 20220225172822.png]]
+
+## Artery
+- [[Coeliac Artery]]
+	- [[Splenic Artery]] →
+		- **[[Inferior Pancreatic Artery]]**
+		- **[[Dorsal Pancreatic Artery]]**
+	- [[Gastroduodenal Artery]] →
+		- **[[Anterior Superior Pancreaticoduodinal Artery]]**
+		- **[[Posterior Superior Pancreaticoduodenal Artery]]**
+- [[Superior Mesenteric Artery]] →
+	- **[[Anterior Inferior Pancreaticoduodinal Artery]]**
+	- **[[Posterior Inferior Pancreaticoduodinal Artery]]**
+
+## Veins
+Many, ultimately → **[[Hepatic Portal Vein]]**
+
+# Innervation
+- [[Sympathetic NS]] -- [[Coeliac Plexus]] → **[[Greater Splanchinic Nerve]]**
+- [[Parasympathetic NS]] -- **[[CN X]]**
+
 ---
 
 # Function
@@ -25,7 +48,7 @@ Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
 CC : [[Zollinger-Ellison Syndrome]] and [[Pancreatitis#Acute Pancreatitis]]
 
 ## Endocrine Portion
-**[[Islet of Langerhans]]** -> [[Endocrine]] portion
+**[[Islet of Langerhans]]**; esp. prominant in **tail part**.
 > Histo : Paler stain than [[Pancreatic Acini]]
 
 ---
@@ -44,7 +67,9 @@ CC : [[Zollinger-Ellison Syndrome]] and [[Pancreatitis#Acute Pancreatitis]]
 ---
 
 # Development
-**4th week** : 2 [[Endoderm]] outpouching on the dorsal and ventral side of [[Embryonic Duodenal Tube]] -> migrate posteriorly around the [[Duodenum]] -> 2x **[[Pancreatic Anlage]]**
+**4th week** : 2 **[[Endoderm]]** outpouching on the dorsal and ventral side of [[Embryonic Duodenal Tube]] -> migrate posteriorly around the [[Duodenum]] -> 2x **[[Pancreatic Anlage]]**
+- Ventral Bud → **uncinate process** and **head**
+- Dorsal Bud → **neck**, **body**, and **tail**
 
 **7th week** : ducts pf [[Pancreatic Anlage]] merges ->
 - **Main pancreatic duct ([[Duct of Wirsung]])** -> [[Ampulla of Vater]] 
@@ -52,6 +77,6 @@ CC : [[Zollinger-Ellison Syndrome]] and [[Pancreatitis#Acute Pancreatitis]]
 
 Ducts branches into smaller duct and give rise to 
 - [[Pancreatic Lobule]] -> [[Pancreatic Acini]] (and [[Pancreatic Acinar Cell]]) -- they acquire [[Zymogen Granule]]
-- [[Islet of Langerhans]] -- they aquire [[Secretory Granules]]
+- [[Islet of Langerhans]] -> acquired [[Secretory Granules]]
 
 ---
