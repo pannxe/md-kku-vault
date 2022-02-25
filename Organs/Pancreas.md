@@ -79,4 +79,6 @@ Ducts branches into smaller duct and give rise to
 - [[Pancreatic Lobule]] -> [[Pancreatic Acini]] (and [[Pancreatic Acinar Cell]]) -- they acquire [[Zymogen Granule]]
 - [[Islet of Langerhans]] -> acquired [[Secretory Granules]]
 
+[[Mesoderm]] → surrounding CNT and vessels
+
 ---

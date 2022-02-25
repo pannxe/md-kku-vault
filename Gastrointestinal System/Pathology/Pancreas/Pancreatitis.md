@@ -47,10 +47,13 @@
 ## Pathogenesis
 Prolong stress and inflammation -> **incr. proliferation of [[Stellate Cell]]** -> 
 - **[[Fibrosis]]** and **calcium deposition**
-- Sclerosis of [[Pancreatic Duct]] -> [[Pancreatic Duct Obstruction]] 
+- Sclerosis of [[Pancreatic Duct]] -> [[Pancreatic Duct Obstruction]]
+- Destruction of [[Islet of Langerhans]] -- manifest p exocrine
+
 -> **[[Malabsorption]]** and **[[Diabete Mellitus]]**
 -> [[Pancreatic Pseudocyst]]
 
 ## Clinical Manifestation
 - **Severe chronic [[Abdominal Pain]]** -- most common
 - [[Malabsorption]] -> **[[Malnutrition]]**
+- **[[Diabete Mellitus]]**
