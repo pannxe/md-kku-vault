@@ -28,3 +28,10 @@ Diffuse to cytoplasm and act on [[NO Receptor]] -> act on [[Guanylyl Cyclase]] -
 	- **↓ [[Endothelin]] production**
 - **[[Immune System]]** -- ↓ expression of adhesion molecules → **↓ [[Leukocyte Adhesion]]** → **↓ inflammation**
 
+# Pathology
+## Overproduction
+Inflammation, infarction, injury → overstimulation → **↑↑ NO** →  [[Cyt C Oxidase]] → ↓ [[ATP]] and ↑ [[ROS]] → NO + ROS → ONOO- (radical) → 
+- **[[DNA]] damage** → ↑ [[PARP-1]] and ↓ [[NAD+]]
+- ↓ [[GSH]] and ↑ oxidation of [[Sulfhydryl]]
+- **↑ [[Lipid Peroxidation]]**, Thyrosine nitration, S-nitrosylation, relase of [[Zinc]]
+
