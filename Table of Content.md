@@ -2,27 +2,33 @@
 ## Gastrointestinal System
 | #     | Location                                                              |
 | ----- | --------------------------------------------------------------------- |
-| 10-11 | `Gastrointestinal System/Protozoan Infection in GI`                   |
-| 12    | `Gastrointestinal System/Hepatobiliary Parasites`                     |
-| 15-16 | `Gastrointestinal System/Nervous System and Movement of GI`           |
-| 22   | `Gastrointestinal System/Absorption of Nutrients` and `Gastrointestinal System/Digestion of Nutrients` |
-| 17    | `Gastrointestinal System/Physiology/Stomach/Gastric Secretion`|
-| 23    | `Drug/Anthelmintic Drugs` and `Drug/Antiprotozoal Drugs`              |
-| 24-25 | `Gastrointestinal System/Bacterial Infection in GI`                   |
-| 26    | `Gastrointestinal System/Viral Infection in GI`                       |
-| 27    | `Gastrointestinal System/Hepatitis Viruses`                           |
-| 30-31 | `Gastrointestinal System/Pathology of Oral Cavity and Salivary Glands` |
-| 32    | `Gastrointestinal System/Anatomy/Pancreas` |
-| 33-34 | `Gastrointestinal System/Pathology of Upper GI Tract` |
-| 35-36 | `Gastrointestinal System/Pathology of Lower GI Tract` |
-| 37-38, 41    | `Gastrointestinal System/Drugs Used in Gastrointestinal Disorder`      |
-| 39-40 | `Gastrointestinal System/Pathology of Liver and Biliary System` |
+| 10-11 | [[Protozoan Infection in GI]]                   |
+| 12    | [[Hepatobiliary Parasite]]                   |
+| 15-16 | [[Nervous Systems, Hormone, and Movement of GI]]       |
+| 22   | [[Absorption of Nutrients]] and [[Digestion of Nutrients]] |
+| 17    | [[Gastric Secretion]]|
+| 23    | [[Anti-Helminthic Drug]] and [[Antiprotozoan Drugs]]       |
+| 24-25 | [[Bacterial Infection in GI]]                   |
+| 26    | [[Viral Infection in GI]]                       |
+| 27    | [[Hepatitis Viruses]]                           |
+| 30-31 | [[Pathology of Oral Cavity and Salivary Gland]]|
+| 32    | [[Pancreas]] (exocrine)|
+| 33-34 | [[Pathology of Upper GI]] |
+| 35-36 | [[Pathology of Lower GI]] |
+| 37-38, 41    | [[Drugs Used in Gastrointestinal Disorder]]|
+| 39-40 | [[Pathology of Liver and Biliary System]] |
 
 ## Endocrine System
-| #   | Location                                                        |
-| --- | --------------------------------------------------------------- |
-| 1   | `Endocrine System/Endocrine System`                             |
-| 2   | `Endocrine System/Cellular and Molecular Mechanism of Hormones` |
-| 3-6 | `Organs/Pituitary Gland`                                        |
-| 9   | `Endocrine System/Thyroid Hormones`                              |
-| 10  | `Endocrine System/PTH`, etc.                                                                |
+| #     | Location                                                        |
+| ----- | --------------------------------------------------------------- |
+| 1     | [[Endocrine System]]                        |
+| 2     | [[Cellular and Molecular Mechanism of Hormones]] |
+| 3-6   | [[Pituitary Gland]]                                        |
+| 9     | [[Thyroid Hormones]]                            |
+| 10    | [[PTH]], [[Calcium]], and [[Vitamin D]]                                    |
+| 11-13 | [[Thyroid Gland]] and [[Parathyroid Gland]]         |
+| 14    | [[Drugs Affecting Bone Mineral]]                                  | 
+| 15-19 | [[Adrenal Gland]]                                          |
+| 20-25 | [[Pancreas]] (endocrine)                                   |
+| 26    | [[Miscellaneous Hormones]]                       |
+| 27    | [[Nuclear Medicine of Endocrinology]]            |

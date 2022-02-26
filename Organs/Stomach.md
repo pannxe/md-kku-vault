@@ -37,7 +37,7 @@ Typical of [[Histological Layers of Digestive System]] c
 - Epithelial regeneration
 
 ## Secretion
-Stomach has both [[Endocrine]] and [[Exocrine]] seretory protion
+Stomach has both [[Endocrine System]] and [[Exocrine]] seretory protion
 - **[[Gastric Secretion]]** -> [[Digestion of Nutrients]]
 - [[Gastric Mucous]] -> protect stomach from its secretion
 - **[[Nervous Systems, Hormone, and Movement of GI#Hormone in GI|GI Hormones]]** -- [[G Cell]] -> secrete **[[Gastrin]]**

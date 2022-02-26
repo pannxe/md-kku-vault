@@ -2,7 +2,7 @@ Messenger c high specificity and high efficieny; may be stored in cell first; di
 
 # Classification
 - **By way of transportation**
-	- **[[Endocrine]]** signaling
+	- **[[Endocrine System]]** signaling
 	- **[[Paracrine]]** signaling
 	- **[[Autocrine]]** signaling
 - By MoA

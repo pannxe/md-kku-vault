@@ -12,7 +12,7 @@ End result of [[Chronic Liver Diseases]]. Normal [[Liver]] architecture is repla
 - **Macro**nodular cirrhosis (> 3 mm) -> chronic
 
 # Pathogenesis
-**Death of [[Hepatocyte]]** -> activation of [[Kupffer Cell]] -> [[PDGF]], [[TNF]], **[[TGF-β]]** etc. -> **[[Stellate Cell]] activation** -> **[[Fibrosis]]** 
+**Death of [[Hepatocyte]]** -> activation of [[Kupffer Cell]] -> [[PDGF]], [[TNF-α]], **[[TGF-β]]** etc. -> **[[Stellate Cell]] activation** -> **[[Fibrosis]]** 
 
 # Clinical Manifestation
 - **Enlarged [[Parotid Gland]]** <- accmulation of [[Adipose Cell]]

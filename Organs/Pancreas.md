@@ -1,4 +1,4 @@
-Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine]]**.
+Pancreas is a **mixed [[Exocrine]]** and **[[Endocrine System]]**.
 
 ---
 

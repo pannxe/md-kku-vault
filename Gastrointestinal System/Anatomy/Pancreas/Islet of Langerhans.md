@@ -1,6 +1,6 @@
 ![[Pasted image 20220225174004.png]]
 
-Circumscribed lobes c [[Endocrine]] functions amongst exocrine [[Pancreas]]
+Circumscribed lobes c [[Endocrine System]] functions amongst exocrine [[Pancreas]]
 
 # Cells
 ## Principle
