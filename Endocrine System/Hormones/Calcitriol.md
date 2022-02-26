@@ -2,7 +2,8 @@ Structurally [[Steroid]] → inher. **[[Steroid Hormones]]**
 
 # Regulation
 ## Stimulation
-**[[PTH]]** → ↑ [[1α-Hydroxylase]] → ↑ activation
+- **[[PTH]]** → ↑ [[1α-Hydroxylase]] → ↑ activation
+- Low serum [[Phosphate]]
 
 ## Inhibition
 **[[FGF-23]]** → ↓ activation 

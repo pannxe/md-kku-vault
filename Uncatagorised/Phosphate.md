@@ -19,7 +19,14 @@ Normal plasma level is **2.5-4.5 mg/dL**
 - 20% -- Acid phosphate
 
 # Regulation
+## Increase
+
+![[Pasted image 20220226235350.png]]
+
+**Low serum phosphate** → **落 [[Calcitriol]]** production at [[Kidney]] → ↑ surum phosphate
+
+## Decrease
 
 ![[Pasted image 20220216070447.png]]
 
-**[[PTH]]** and **[[FGF-23]]** ↓ serum phosphate level
+**[[PTH]]**, **[[FGF-23]]**, and **[[Calcitonin]]** → ↓ serum phosphate

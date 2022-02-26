@@ -4,7 +4,7 @@
 
 ![[Pasted image 20220216070251.png]]
 
-**Serum [[Phosphate]] level**
+**Serum [[Phosphate]] level** -- low serum [[Phosphate]] → ↓ FGF-23 production → ↑ [[Phosphate]] and vise versa
 
 # Functions
 **↓ Plasma [[Phosphate]]** level ←

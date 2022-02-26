@@ -31,3 +31,7 @@ Normal plasma Ca -- **9-10 mg/dL**
 **[[Calcitonin]]**
 
 > Others : [[GH]] and [[Glucocorticoids]]
+
+# Clinical Correlation
+- **[[Calcium Carbonate]]** -- supplementary Ca → ↓ [[Bone Remodeling#Resorption]] → ↑ [[Bone]] mass in eldery (Ca along DOES NOT ↓ risk of [[Bone Fracture]])
+- Recommended intake ↑↑ p 50 y/o (analogous to [[Vitamin D]]) ← [[Menopause]]

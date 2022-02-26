@@ -13,11 +13,13 @@ via **[[PTH1R]]** on [[Osteoblast]] and [[Kidney]]
 - [[Bone]] -- **↑ [[Bone Remodeling#Resorption]]**
 - [[Kidney]]
 	- **↑ [[Calcium Reabsorption]]**
-	- **↓ [[Phosphate Reabsorption]]**
 	- **↑ [[Calcitriol]] synthesis**
+	- **↓ [[Phosphate Reabsorption]]** → ↑ excretion
 - [[Intestine]]
 	- via [[Calcitriol]] → **↑ [[Absorption of Calcium]]**
 	- **↑ [[Absorption of Phosphate]]**
+
+→ redirect plama level to normal range
 
 # Regulation
 

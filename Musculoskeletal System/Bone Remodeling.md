@@ -3,9 +3,9 @@
 ![[Pasted image 20220216033619.png]]
 
 ## Stimulation
-- **[[PTH]]** via **[[PTH1R]]** on **[[Osteoblast]]** → 落 [[Osteoblast]] → **↑ [[RANKL]]** → **落 [[RANK]] on [[Osteoclast]]** and its precursor (→ differentiation)
+- **[[PTH]]** via **[[PTH1R]]** on **[[Osteoblast]]** → 落 [[Osteoblast]] → **↑ [[RANK-L]]** → **落 [[RANK]] on [[Osteoclast]]** and its precursor (→ differentiation)
 - **[[Calcitriol]]** → 落 [[VDR]] → 
-	- **↑ [[RANKL]]**
+	- **↑ [[RANK-L]]**
 	- **↓ [[OPG]]**
 
 > Also : [[M-CSF]] → **落 [[Osteoclast]] proliferation** 
@@ -14,7 +14,7 @@
 - **[[Calcitonin]]** → ** [[Osteoclast]]** ←
 	- **↓ motility**, **differentiation**, and Ruffled Border formation
 	- **↓ secretion** ← altered [[Carbonic Anhydrase]] location and  [[H ATPase]]
-- [[Osteoblast]] autoregulate via [[OPG]] →  [[RANKL]]
+- [[Osteoblast]] autoregulate via [[OPG]] →  [[RANK-L]]
 
 # Mechanism of Action
 [[Osteoblast]] q [[RANK]] 落 →
