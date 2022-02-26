@@ -9,7 +9,7 @@
 
 # Type II
 ## Location
-Found in [[Brain]], [[Pituitary Gland]], [[Adipose Cell#Brown]], [[Thyroid Gland]], and [[Placenta]]
+Found in [[Brain]], [[Pituitary Gland]], [[Adipocyte#Brown]], [[Thyroid Gland]], and [[Placenta]]
 
 ## Metabolism
 - **[[T4]]** → **[[T3]]**

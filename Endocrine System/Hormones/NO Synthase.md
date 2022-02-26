@@ -34,7 +34,7 @@ Type 1 and 3 aids is constitutive → used in normal physiological functions (lo
 ![[Pasted image 20220226154850.png]]
 
 - **eNOS** -- endothelial
-- Found at **[[Endothelian Cells]]** (esp. blood vessel) and **[[Cardiac Muscle]]**
+- Found at **[[Endothelial Cells]]** (esp. blood vessel) and **[[Cardiac Muscle]]**
 - **[[Vasodilation]]** ← 
 	-  [[Platelet Aggregation]],  adhesion of [[Leukocytes]], ↓ permeability
 	- [[NO]] → 落 [[Protein Kinase G]] → 落 [[Myosin Light-chain Kinase]] → ↓ [[Calcium]] of [[Myoepithelial Cell]] → ↓ contraction
@@ -42,3 +42,5 @@ Type 1 and 3 aids is constitutive → used in normal physiological functions (lo
 > Shear stress, [[Growth Factors]], etc. → ↑ eNOS synthesis
 
 > [[ACh]], [[Bradykinin]], and [[Histamine]] → ↑ intracellular [[Calcium]] → 落 eNOS → ↑ [[NO]]
+
+> CC : **[[eNOS Uncoupling]]**

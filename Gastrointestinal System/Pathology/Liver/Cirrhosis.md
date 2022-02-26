@@ -15,7 +15,7 @@ End result of [[Chronic Liver Diseases]]. Normal [[Liver]] architecture is repla
 **Death of [[Hepatocyte]]** -> activation of [[Kupffer Cell]] -> [[PDGF]], [[TNF-α]], **[[TGF-β]]** etc. -> **[[Stellate Cell]] activation** -> **[[Fibrosis]]** 
 
 # Clinical Manifestation
-- **Enlarged [[Parotid Gland]]** <- accmulation of [[Adipose Cell]]
+- **Enlarged [[Parotid Gland]]** <- accmulation of [[Adipocyte]]
 - Cannot metabolize [[Androstenedione]] to [[Testosterone]] -> incr. [[Oestrogen]] production -> **[[Hyperoestrogenism]]** 
 - **[[Portal Hypertension]]** <- distorted architecture of [[Sinusoid]]
 - **[[Hyperammonaemia]]** -> **[[Hepatic Encephalopathy]]** -> [[Asterixis]]

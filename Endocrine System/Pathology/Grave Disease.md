@@ -26,5 +26,5 @@
 - **[[Pretibial Myxedema]]**
 
 # Diagnosis
-- **[[Radioactive Iodine Uptake]] ↑↑**
+- **[[Thyroid Scan]] ↑↑** and **[[Radioactive Iodine Uptake Test]] ↑↑**
 - **↑ [[Thyroid Hormones]]** → **↓ [[TSH]]**

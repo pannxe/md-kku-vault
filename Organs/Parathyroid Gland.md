@@ -41,7 +41,7 @@
 - **Parenchyma**
 	- **[[Parathyroid Chief Cell]]**
 	- **[[Oxyphil Cell]]**
-	- [[Adipose Cell]] -- ↑ c age
+	- [[Adipocyte]] -- ↑ c age
 
 # Development
 See. [[Development of Parathyroid Cell]]
@@ -56,3 +56,6 @@ Produce **[[PTH]]**
 ## Tumors
 - [[Parathyroid Adenoma]]
 - [[Parathyroid Chief Cell Hyperplasia]]
+
+## Diagnosis
+**[[Parathyroid Scintigraphy]]**

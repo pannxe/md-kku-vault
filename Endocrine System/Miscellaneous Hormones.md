@@ -1,4 +1,4 @@
 - **[[NO]]**
-- **[[Endothelin]]**
+- **[[Endothelins]]**
 - **[[Leptin]]**
 - **[[Adiponectin]]**

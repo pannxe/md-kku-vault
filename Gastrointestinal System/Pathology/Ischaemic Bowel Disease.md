@@ -4,7 +4,7 @@ Compression of either [[Coeliac Artery]], [[Superior Mesenteric Artery]], or [[I
 
 # Causes
 Anything that can cause [[Arterial Obstruction]]
-- **Severe [[Artheroscherosis]]**
+- **Severe [[Atherosclerosis]]**
 - **[[CVS Diseases]]**
 	- [[Aortic Aneurysm]], [[Polyarteritis Nodosa]], [[Henoch-Schönlein Purpura]], [[Wegener Granulomatosis]], etc.
 	- [[Endocarditis]] -> [[Cardiac Vegetation]] -> [[Embolism]]

@@ -17,3 +17,5 @@ Also has capillary and **Adrenal medullary vein** → drain hormone and stuff
 	- [[Neuroblastoma]]
 	- [[Adrenal Paraganglioma]]
 - **[[Multiple Endocrine Neoplasia]]**
+
+> Dx and Tx : [[MIGB]]

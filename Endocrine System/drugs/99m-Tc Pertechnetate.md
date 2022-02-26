@@ -1,0 +1,1 @@
+Absorbed at [[Thyroid Gland]] and [[Salivary Glands]]

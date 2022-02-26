@@ -2,7 +2,7 @@
 Common causes
 - **[[Grave Disease]]** -- most common
 - [[Toxic Multinodular Goiter]]
-- [[Toxic Adenoma]]
+- [[Thyroid Adenoma]]
 
 > Less common one include [[Pituitary Adenomas]], [[Choriocarcinoma]], Acute [[Thyroiditis]], [[Struma Ovarii]], [[Thyroid Carcinoma]]
 
@@ -47,7 +47,7 @@ From 1st line → less preferred
 2. Others
 	1. **[[β-Adrenergic Antagonists]]**
 	2. [[Glucocorticoids]]
-3. **[[Radioactive Iodine Treatment]]** -- middle-aged ↑; allergic to [[Thioureylenes]]
+3. **[[Radioactive Iodine Therapy]]** -- middle-aged ↑; allergic to [[Thioureylenes]]
 4. [[Thyroidectomy]]
 
 ## Follow Up

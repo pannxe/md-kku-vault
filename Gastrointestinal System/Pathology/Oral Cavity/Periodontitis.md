@@ -16,4 +16,4 @@ Infection around [[Gingiva]] / altered [[Oral Microbiota]] -> progressive inflam
 
 ## Systemic
 - **Infective [[Endocarditis]]** and other diseases related to [[Heart]]
-- [[Artheroscherosis]] -- unknown mechanism
+- [[Atherosclerosis]] -- unknown mechanism
