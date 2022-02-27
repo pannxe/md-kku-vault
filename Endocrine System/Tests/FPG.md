@@ -1,1 +1,1 @@
-[[Blood Sugar]] level p [[Fasting]] **8 hrs ↑**;
+[[Blood Sugar]] level p [[Fasting]] **8 hrs ↑**; Normal value -- 70-110 mg/dL

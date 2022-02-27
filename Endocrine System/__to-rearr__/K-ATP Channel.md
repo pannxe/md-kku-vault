@@ -1,0 +1,1 @@
+[[ATP]]-sensitive [[Potassium]] channel

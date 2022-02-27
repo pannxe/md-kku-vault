@@ -1,0 +1,1 @@
+Found in [[Ileum]] and [[Large Intestine]]. Secrete **[[GLP-1]]** and [[GLP-2]], amongst others.

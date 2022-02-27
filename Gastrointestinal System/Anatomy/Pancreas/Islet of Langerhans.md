@@ -4,12 +4,13 @@ Circumscribed lobes c [[Endocrine System]] functions amongst exocrine [[Pancreas
 
 # Cells
 ## Principle
-- **[[α Cell]]** → **[[Glucagon]]**
-- **[[β Cell]]** → **[[Insulin]]** and [[Amylin]]
-- **[[δ Cell]]** → **[[Somatostatin]]**
+- **[[α Cell]]** → **[[Glucagon]]** -- 30-50%
+- **[[β Cell]]** → **[[Insulin]]** and [[Amylin]] -- **50-60%**
+- **[[δ Cell]]** → **[[Somatostatin]]** -- ~5%
 
 ## Minor
-- [[PP Cell]] → [[Pancreatic Polypeptide]]
+Less than 1% of all cell
+- [[γ Cell]] → [[Pancreatic Polypeptide]]
 - [[ε Cell]] → [[Ghrelin]]
 - [[D1 Cell]] → [[VIP]]
 - [[EC Cell]] → [[Secretin]], [[Motilin]], and [[Substance P]]

@@ -28,7 +28,7 @@
 | 10    | [[PTH]], [[Calcium]], and [[Vitamin D]]                                    |
 | 11-13 | [[Thyroid Gland]] and [[Parathyroid Gland]]         |
 | 14    | [[Drugs Affecting Bone Mineral]]                                  | 
-| 15-19 | [[Adrenal Gland]]                                          |
-| 20-25 | [[Pancreas]] (endocrine)                                   |
+| 15-19 | [[Adrenal Gland]], [[Corticosteroid]], and [[Corticosteroid Drugs]]                                          |
+| 20-25 | [[Pancreas]] (endocrine), [[Pancreatic Hormones]], and [[Glucose Regulation]]                                  |
 | 26    | [[Miscellaneous Hormones]]                       |
 | 27    | [[Nuclear Medicine of Endocrinology]]            |

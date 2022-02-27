@@ -1,0 +1,4 @@
+- **[[Insulin]]** -- **anabolism** → **↑ storage** of [[Glucose]], [[Fatty Acids]], and [[Amino Acids]]
+- **[[Glucagon]]** -- **↑ utilization of [[Glucose]]**
+- **[[Somatostatin]]** -- ** [[Glucagon]]** and ** [[Insulin]]**
+- **[[Pancreatic Polypeptide]]** -- regulate [[Pancreas#Endocrine]]
