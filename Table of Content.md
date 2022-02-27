@@ -19,16 +19,17 @@
 | 39-40 | [[Pathology of Liver and Biliary System]] |
 
 ## Endocrine System
-| #     | Location                                                        |
-| ----- | --------------------------------------------------------------- |
-| 1     | [[Endocrine System]]                        |
-| 2     | [[Cellular and Molecular Mechanism of Hormones]] |
-| 3-6   | [[Pituitary Gland]]                                        |
-| 9     | [[Thyroid Hormones]]                            |
-| 10    | [[PTH]], [[Calcium]], and [[Vitamin D]]                                    |
-| 11-13 | [[Thyroid Gland]] and [[Parathyroid Gland]]         |
-| 14    | [[Drugs Affecting Bone Mineral]]                                  | 
-| 15-19 | [[Adrenal Gland]], [[Corticosteroid]], and [[Corticosteroid Drugs]]                                          |
-| 20-25 | [[Pancreas]] (endocrine), [[Pancreatic Hormones]], and [[Glucose Regulation]]                                  |
-| 26    | [[Miscellaneous Hormones]]                       |
-| 27    | [[Nuclear Medicine of Endocrinology]]            |
+| #     | Location                                                                      |
+| ----- | ----------------------------------------------------------------------------- |
+| 1     | [[Endocrine System]]                                                          |
+| 2     | [[Cellular and Molecular Mechanism of Hormones]]                              |
+| 3-6   | [[Pituitary Gland]]                                                           |
+| 9     | [[Thyroid Hormones]]                                                          |
+| 10    | [[PTH]], [[Calcium]], and [[Vitamin D]]                                       |
+| 11-13 | [[Thyroid Gland]] and [[Parathyroid Gland]]                                   |
+| 14    | [[Drugs Affecting Bone Mineral]]                                              |
+| 15-19 | [[Adrenal Gland]], [[Corticosteroid]], and [[Corticosteroid Drugs]]           |
+| 20-23 | [[Pancreas]] (endocrine), [[Pancreatic Hormones]], and [[Glucose Regulation]] |
+| 24-25 | [[Insulin Analogs]] and [[Non-insulin Antidiabetic Drugs]]                    |
+| 26    | [[Miscellaneous Hormones]]                                                    |
+| 27    | [[Nuclear Medicine of Endocrinology]]                                         |

@@ -4,8 +4,8 @@ Circumscribed lobes c [[Endocrine System]] functions amongst exocrine [[Pancreas
 
 # Cells
 ## Principle
-- **[[α Cell]]** → **[[Glucagon]]** -- 30-50%
-- **[[β Cell]]** → **[[Insulin]]** and [[Amylin]] -- **50-60%**
+- **[[α Cell]]** → **[[Glucagon]]** -- 30-50%; at periphery
+- **[[β Cell]]** → **[[Insulin]]** and [[Amylin]] -- **50-60%**; in the middle
 - **[[δ Cell]]** → **[[Somatostatin]]** -- ~5%
 
 ## Minor

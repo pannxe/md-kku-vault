@@ -17,3 +17,8 @@
 - [[Acidosis]]
 
 > DDx **[[HHS]]**; see the different
+
+# Treatment
+**[[Regular Insulin]]** IV and fluid IV 
+
+> Monitor for [[Hypokalaemia]]

@@ -45,7 +45,14 @@ To R/O type 1 DM; **[[C Peptide]] can be used** as well -- type 1 → ↓ C pept
 [[Autoimmune Diseases]] → **[[Insulitis]]** → ↓ [[β Cell]] → **↓ [[Insulin]] secretion** (insulin-deficiency) 
 
 ## Treatment
-**[[Insulin Analogs]]** -- suppliment of [[Insulin]], both to maintain/mimicks basal and prandial level   
+
+![[Pasted image 20220227172015.png]]
+
+[[Insulin Analogs#Pre-mixed]] → **Basal-Bolus Insulin** -- both to maintain/mimicks basal and prandial level.
+- **Intensive Regimen** -- injection **q meals**
+- **Less-intensive Regimen** -- **bid** at **breakfast** and **dinner**
+
+> Alternatively : [[Insulin Analogs#Infusion Devices]] and [[Insulin Analogs#Inhalation]]
 
 ---
 
