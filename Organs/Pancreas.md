@@ -48,7 +48,7 @@ Many, ultimately → **[[Hepatic Portal Vein]]**
 CC : [[Zollinger-Ellison Syndrome]] and [[Pancreatitis#Acute Pancreatitis]]
 
 ## Endocrine Portion
-**[[Islet of Langerhans]]**; esp. prominant in **tail part**.
+**[[Pancreatic Hormones]]** ← **[[Islet of Langerhans]]**; esp. prominant in **tail part**.
 > Histo : Paler stain than [[Pancreatic Acini]]
 
 ---
