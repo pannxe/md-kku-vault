@@ -54,6 +54,7 @@ CC : [[Zollinger-Ellison Syndrome]] and [[Pancreatitis#Acute Pancreatitis]]
 ---
 
 # Pathology
+## Exocrine
 - Congenital Anomalies
 	- **[[Pancreas Divisum]]** -- **most common**
 	- **[[Congenital Pancreatic Cyst]]**
@@ -63,6 +64,12 @@ CC : [[Zollinger-Ellison Syndrome]] and [[Pancreatitis#Acute Pancreatitis]]
 - [[Pancreatic Cysts]]
 - **[[Pancreatitis]]**
 - [[Pancreatic Neoplasia]]
+
+## Endocrine
+- **[[Diabete Mellitus]]**
+- [[Pancretic Endocrine Neoplasm]]
+	- [[Insulinoma]]
+	- [[Zollinger-Ellison Syndrome]]
 
 ---
 

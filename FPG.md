@@ -1,0 +1,1 @@
+[[Blood Sugar]] level p [[Fasting]] **8 hrs ↑**;

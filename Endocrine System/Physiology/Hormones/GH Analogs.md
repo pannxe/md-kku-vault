@@ -29,5 +29,5 @@ Similar to **[[GH#Physiology]]**
 > [[Oedema]], [[Arthralgia]], [[Myalgia]], [[Carpal Tunnel Syndrome]], etc.
 
 # Follow Up
-- **[[Fasting Blood Sugar]]** -- from diabetogenic effect of [[GH]]
+- **[[FPG]]** -- from diabetogenic effect of [[GH]]
 - **[[T4]]** and **[[Cortisol]]** level

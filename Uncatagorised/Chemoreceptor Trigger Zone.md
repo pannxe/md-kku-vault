@@ -4,7 +4,7 @@ Monitor chemical in [[Blood]] ->
 - stim. [[Vomiting Center]] -> **[[Nausea & Vomiting#Nausea|Vomit]]**
 
 # Stimulantation
-[[Uraemia]], [[Hypoxia]], [[Ketoacidosis]], [[Hyperprolactinaemia]], etc.
+[[Uraemia]], [[Hypoxia]], [[Diabetic Ketoacidosis]], [[Hyperprolactinaemia]], etc.
 
 # Inhibition
 [[Anti-emetic Drugs]]
