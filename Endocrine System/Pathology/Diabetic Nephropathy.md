@@ -9,7 +9,7 @@
 Thickening of **basement membrane of [[Renal Tubular Cells]]** 
 
 # Clinical Manifestation
-- **[[Microalbuminuria]]** -- **early sign**; 30-300 mg/d
+- **[[Albuminuria]]** -- **early sign**; 30-300 mg/d
 - **↓ [[GFR]]**
 - **[[Hypertension]]**
 

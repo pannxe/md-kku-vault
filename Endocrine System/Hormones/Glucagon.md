@@ -1,5 +1,5 @@
 # Production
-**[[α Cell]]** of [[Islet of Langerhans]] and **[[L Cell]]** of [[GI Tract]] ([[GLP-1]] and [[GLP-2]])
+**[[α Cell]]** of [[Islet of Langerhans]] and **[[L Cell]]** of [[GI Tract]]
 
 # Regulation
 

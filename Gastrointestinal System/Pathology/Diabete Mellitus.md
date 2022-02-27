@@ -67,8 +67,25 @@ To R/O type 1 DM; **[[C Peptide]] can be used** as well -- type 1 → ↓ C pept
 > [[Insulin Resistance]] starts at [[Adipocyte]] → ↑ [[Free Fatty Acid]], [[Adipokines]], etc. → worsen the condition
 
 ## Treatment
-- **[[Non-insulin Antidiabetic Drugs]]** -- control sugar level
-- **[[Insulin Analogs]]** -- ico [[Insulin Insufficiency]] already
+**[[Non-insulin Antidiabetic Drugs]]** -- esp. **[[Metformin]]** and
+- [[GLP-1 Receptor Agonists]] / [[SGLT-2 Inhibitors]] -- ico ↑ risk of [[Atherosclerosis]], other CVS diseases, and [[Albuminuria]]
+- [[Insulin Analogs]] -- ico [[Insulin Insufficiency]]
+
+Adjunct drugs are considered based on goals
+- **To minimize [[Hypoglycaemia]]**
+	- [[DPP-4 Inhibitors]], [[GLP-1 Receptor Agonists]], or [[Thiazolidinediones|TZD]]
+- **To ↑ [[Weight Loss]]** 
+	- [[GLP-1 Receptor Agonists]] or [[SGLT-2 Inhibitors]]
+- **To minimize cost**
+	- [[Insulin Analogs]], **[[Sulfonylureas]]**, and **[[Thiazolidinediones]]**
+	> Only SU and TZD are free in Thailand
+
+## Goals
+- Glycaemic control 
+	- [[Hb A1C]] -- **↓ 7%** (or even better, 6.5%) **EXCEPT pt. c Hx of severe [[Hypoglycaemia]]** → **8%**
+	- [[FPG]] -- **80-130 mg/dL**
+- [[Blood Pressure]] -- **140/90 mmHg**
+
 ---
 
 # Gestational

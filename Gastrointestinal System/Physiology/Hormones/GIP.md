@@ -4,5 +4,5 @@
 **[[Small Intestine]]**
 
 # Function
-- **[[Pancreas]]** -> incr. **[[Insulin]]** secretion
+- **[[Pancreas]]** -> **↑ [[Insulin]] secretion**
 - **[[Stomach]]** -> **inh. contraction**

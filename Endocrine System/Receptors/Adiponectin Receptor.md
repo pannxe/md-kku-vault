@@ -8,4 +8,4 @@
 
 # Type 2
 - On [[Liver]]
-- 落 [[PPARα]] → ↑ [[Free Fatty Acid]] uptake → ↑ [[Metabolism of Lipids]]
+- 落 [[PPAR-α]] → ↑ [[Free Fatty Acid]] uptake → ↑ [[Metabolism of Lipids]]

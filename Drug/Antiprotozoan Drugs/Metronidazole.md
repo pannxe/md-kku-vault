@@ -24,5 +24,5 @@ Anaerobic infection, both protozoa and bacteria :
 - [[Nausea & Vomiting]]
 - [[Xerostomia]]
 - Metallic Taste
-- **[[Disulfuram]]-like effect** <- also function as AHD blocker
+- **[[Disulfiram-like Effect]]** <- also function as AHD blocker
 - [[Neurotoxicity]] 

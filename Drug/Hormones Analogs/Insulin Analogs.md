@@ -67,10 +67,10 @@ Not widely used -- **even quicker onset** and **shorter duration** → use c lon
 # Adverse Effects
 - **[[Hypoglycaemia]]** -- esp. in children
 - **Atrophy** and **hypertrophy** of **fat** near injection site ⊢ **rotate** site of injection
-- [[Allergic Reaction]]
+- [[Allergic Reaction]] -- to [[Zinc]], etc. d formula
 
 # Drug Interactions
-- **[[Hypoglycaemia]]**
+- **↑ Risk of [[Hypoglycaemia]]** ←
 	- **[[β-Adrenergic Antagonists]]** → mask clinical manifestation
 	- [[Alcohol]], [[Aspirin]], [[Lithium]], [[ACE Inhibitors]]
-- **[[Hyperglycaemia]]** -- [[Glucocorticoid Drugs]], [[Calcium Blockers]], [[Diuretic Drugs]], etc.
+- **↑ Risk of [[Hyperglycaemia]]** ← [[Glucocorticoid Drugs]], [[Calcium Blockers]], [[Diuretic Drugs]], etc.**

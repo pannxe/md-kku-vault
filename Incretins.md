@@ -1,1 +1,0 @@
-**[[GLP-1]]** and **[[GIP]]** → [[Glucagon]]-like effect
