@@ -33,7 +33,7 @@ GoF of [[GNAS gene]] → **abnormal [[Gs α-subunit]]** → cannot be  → **
 > Sometimes [[Corticotroph Adenoma]]; NEVER be other types -- they do not act via [[GPCR]]
 
 ## MEN 1 Gene
-LoF of [[MEN1 gene]] → multiple endocrine neoplasia →
+LoF of [[MEN1 gene]] → **[[MEN1 Syndrome]]** →
 - [[Somatotroph Adenoma]]
 - [[Lactotroph Adenoma]]
 - [[Corticotroph Adenoma]]

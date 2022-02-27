@@ -2,7 +2,7 @@
 - Female ~40 y/o
 
 # Pathogenesis
-- [[RET]] or [[NTRK1]] mutation → abnormal **[[Receptor Tyrosine Kinase]]**
+- [[RET gene]] or [[NTRK1]] mutation → abnormal **[[Receptor Tyrosine Kinase]]**
 - [[BRAF]] mutation
 
 # Histology

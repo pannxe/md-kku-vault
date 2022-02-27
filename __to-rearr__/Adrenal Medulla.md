@@ -16,6 +16,6 @@ Also has capillary and **Adrenal medullary vein** → drain hormone and stuff
 - From neuronal origin
 	- [[Neuroblastoma]]
 	- [[Adrenal Paraganglioma]]
-- **[[Multiple Endocrine Neoplasia]]**
+- **[[Multiple Endocrine Neoplasia]]** -- esp. [[MEN2A Syndrome]]
 
 > Dx and Tx : [[MIGB]]

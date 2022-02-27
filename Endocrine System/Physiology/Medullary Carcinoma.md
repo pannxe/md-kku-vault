@@ -1,4 +1,4 @@
-Arise from **[[Parafollicular Cell]]**
+Arise from **[[Parafollicular Cell]]** (via [[MEN2A Syndrome]], etc.)
 
 # Histology
 

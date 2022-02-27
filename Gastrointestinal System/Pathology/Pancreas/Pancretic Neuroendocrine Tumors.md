@@ -1,4 +1,9 @@
-abb. PanNETs
+abb. **PanNETs**
+
+# Types
+- **[[Insulinoma]]**
+- **[[Gastrinoma]]**
+- **[[MEN1 Syndrome]]**
 
 # Pathogenesis
 Secrete hormones -> [[Paraneoplastic Syndrome]]

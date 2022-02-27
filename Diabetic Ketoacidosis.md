@@ -4,7 +4,16 @@
 **[[Diabete Mellitus]]** → ↓ Glu utilization in [[Brain]] → **↑ [[Ketogenesis]]** at [[Liver]] (2nd source for brain) → ↓ blood pH (← acidic by-product) → **[[Acidosis]]**
 
 # Clinical Manifestation
-- **[[Nausea & Vomiting]]**
-- **[[Abdominal Pain]]**
+- **[[Nausea & Vomiting]]** and **[[Abdominal Pain]]**
+- **[[Polyuria]]** and **[[Polydipsia]]**
+- [[Fatigue]] and [[Weakness]]
+- [[Alteration of Consciousness]]
 - **Fruity breath** ← some ketoacids excrete via [[Lung]]
-- **Heavy, deep breathing** → **[[Kußmaul Breathing]]**
+- **Heavy, deep breathing** → **[[Kussmaul Breathing]]**
+
+# Diagnosis
+- **[[Ketouria]]** and **[[Hyperketonaemia]]**
+- [[Anion Gap]] -- **10-12 ↑**
+- [[Acidosis]]
+
+> DDx **[[HHS]]**; see the different

@@ -10,4 +10,4 @@
 	- **[[Pancreatoblastoma]]**
 
 # Endocrine Tumors
-- **[[Pancretic Neuroendocrine Tumor]]**
+- **[[Pancretic Neuroendocrine Tumors]]**

@@ -67,7 +67,7 @@ CC : [[Zollinger-Ellison Syndrome]] and [[Pancreatitis#Acute Pancreatitis]]
 
 ## Endocrine
 - **[[Diabete Mellitus]]**
-- [[Pancretic Endocrine Neoplasm]]
+- [[Pancretic Neuroendocrine Tumors]]
 	- [[Insulinoma]]
 	- [[Zollinger-Ellison Syndrome]]
 

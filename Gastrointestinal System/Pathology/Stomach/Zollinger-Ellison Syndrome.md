@@ -1,7 +1,7 @@
 # Pathogenesis
-[[Gastrinoma]] in [[Pancreas]] or [[Duodenum]] -> hypersecretion of [[Gastric Secretion]] -> [[Hyperchlorhydria]] ->
-- [[Peptic Ulcer Disease]]
-- [[Maldigestion]] -> [[Malabsorption]] -> [[Steatorrhoea]]
+**[[Gastrinoma]]** in [[Pancreas]] or [[Duodenum]] -> hypersecretion of [[Gastric Secretion]] -> [[Hyperchlorhydria]] ->
+- **[[Peptic Ulcer Disease]]**
+- [[Maldigestion]] -> [[Malabsorption]] -> **[[Steatorrhoea]]** and **[[Diarrhoea]]**
 
 # Clinical Manifestation
 - **[[Gastrinoma]]** ([[Gastrin]]-producing cell) -- at [[Pancreas]] or [[Duodenum]]
