@@ -35,7 +35,7 @@ To R/O type 1 DM; **[[C Peptide]] can be used** as well -- type 1 → ↓ C pept
 # Type I
 - 5-10% of DM pt. 
 - Onset of **~20 y/o**
-- Replacement [[Insulin]] is neces for survival
+- **[[Insulin Analogs]]** is neces for survival
 
 ## Risk Factors
 - **Genetic** -- esp at HLA locus
@@ -72,11 +72,11 @@ To R/O type 1 DM; **[[C Peptide]] can be used** as well -- type 1 → ↓ C pept
 - [[Insulin Analogs]] -- ico [[Insulin Insufficiency]]
 
 Adjunct drugs are considered based on goals
-- **To minimize [[Hypoglycaemia]]**
+- **To ↓ [[Hypoglycaemia]]**
 	- [[DPP-4 Inhibitors]], [[GLP-1 Receptor Agonists]], or [[Thiazolidinediones|TZD]]
 - **To ↑ [[Weight Loss]]** 
 	- [[GLP-1 Receptor Agonists]] or [[SGLT-2 Inhibitors]]
-- **To minimize cost**
+- **To ↓ cost**
 	- [[Insulin Analogs]], **[[Sulfonylureas]]**, and **[[Thiazolidinediones]]**
 	> Only SU and TZD are free in Thailand
 
