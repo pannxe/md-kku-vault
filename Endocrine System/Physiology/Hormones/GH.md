@@ -15,7 +15,7 @@ Highest secretion during [[Adolescence]], ↓ p 20 y/o
 - **Acute [[Exercise]]**
 
 ## Inhibition
-**[[Somatostatin]]**
+**[[Somatostatin]]** and **[[Dopamine]]**
 
 # Physiology
 q released into bloodstream can **directly** or **enter [[Liver]] → [[IGF-1]]**
@@ -37,7 +37,7 @@ For most tissues
 
 # Disorders
 - **[[GH Excess]]**
-- **[[Endocrine System/Physiology/Hormones/GH Deficiency]]**
+- **[[GH Deficiency]]**
 
 # Images
 MoA

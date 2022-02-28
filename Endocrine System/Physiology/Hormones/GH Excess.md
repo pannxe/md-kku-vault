@@ -11,3 +11,5 @@
 - **[[D2-receptor Agonists]]** -- esp. **[[Bromocriptine]]**
 - GH-receptor Antagonist -- **[[Pegvisomant]]**
 - **[[Somatostatin Analog]]** -- **[[Octreotide]]**
+
+> [[GH#Regulation#Inhibition]]
