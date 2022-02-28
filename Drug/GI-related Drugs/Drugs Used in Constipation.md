@@ -18,7 +18,7 @@
 	- Post partum
 - Preparation of examination
 - Removeal of poision/toxin
-- Adjuncts [[Anti-Helminthic Drug]]
+- Adjuncts [[Anthelmintic Drugs]]
 
 # In Pregnancy
 ## Casue

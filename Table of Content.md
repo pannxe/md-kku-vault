@@ -7,7 +7,7 @@
 | 15-16 | [[Nervous Systems, Hormone, and Movement of GI]]       |
 | 22   | [[Absorption of Nutrients]] and [[Digestion of Nutrients]] |
 | 17    | [[Gastric Secretion]]|
-| 23    | [[Anti-Helminthic Drug]] and [[Antiprotozoan Drugs]]       |
+| 23    | [[Anthelmintic Drugs]] and [[Antiprotozoan Drugs]]       |
 | 24-25 | [[Bacterial Infection in GI]]                   |
 | 26    | [[Viral Infection in GI]]                       |
 | 27    | [[Hepatitis Viruses]]                           |
@@ -27,8 +27,8 @@
 | 7     | [[Thyroid Gland]]                                                             |
 | 8     | [[Parathyroid Gland]]                                                         |
 | 9     | [[Thyroid Hormones]]                                                          |
-| 10    | [[PTH]], [[Calcium]], and [[Vitamin D]]                                       |
-| 11-13 | [[Thyroid Gland]] and [[Parathyroid Gland]]                                   |
+| 10    | [[PTH]], [[Calcium]], [[Vitamin D]], and [[Bone Remodeling]]                                       |
+| 11-13 | [[Thyroid Gland#Pathology]] and [[Parathyroid Gland#Pathology]] and treatment                                   |
 | 14    | [[Drugs Affecting Bone Mineral]]                                              |
 | 15-19 | [[Adrenal Gland]], [[Corticosteroid]], and [[Corticosteroid Drugs]]           |
 | 20-23 | [[Pancreas]] (endocrine), [[Pancreatic Hormones]], and [[Glucose Regulation]] |

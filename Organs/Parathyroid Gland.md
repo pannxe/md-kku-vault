@@ -50,6 +50,10 @@ See. [[Development of Parathyroid Cell]]
 Produce **[[PTH]]**
 
 # Pathology
+## Congenital
+- [[Ectopic Parathyroid Gland]]
+- [[DiGeorge Syndrome]]
+
 ## Hormonal
 - **[[Hyperparathyroidism]]**
 - **[[Hypoparathyroidism]]**
