@@ -2,7 +2,7 @@
 **Analog of [[GHRH]]** → 落 **[[Somatotropes]]** → **↑ [[GH]]**
 
 # Indication
-**Children** c **[[Endocrine System/Physiology/Hormones/GH Deficiency]]** ([[Dwarfism]])
+**Children** c **[[GH Deficiency]]** ([[Dwarfism]])
 
 # Side Effects
 ## Acute

@@ -3,6 +3,8 @@
 - **[[Gonadorelin]]** -- IV, short acting
 - **[[Leuprolide]]** -- long acting
 
+> -relin = 落 releasing hormone
+
 # Mechanism of Action
 **Simulate [[GnRH]]** →
 - **Pulsatile dosing** → simulate physiological cycling → **落 [[Gonadotropins]]** → Tx 

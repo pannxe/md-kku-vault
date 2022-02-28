@@ -4,4 +4,4 @@
 
 # Treatment
 - **Continuous [[GnRH Agonists]]** → down-regulation
-- [[GnRH]]-receptor Antagonist -- **[[Ganirelix]]**
+- [[GnRH]]-receptor Antagonists -- **[[Ganirelix]]**

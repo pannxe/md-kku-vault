@@ -1,3 +1,5 @@
+**-relix** --  releasing hormone
+
 # Mechanism of Action
 **Competitive antagonist** to **[[GnRH]]-receptor** → **↓ [[Gonadotropins]]** esp. **[[LH]]** → ** [[Ovulation]]**
 

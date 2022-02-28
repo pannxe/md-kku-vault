@@ -8,5 +8,5 @@
 
 Depends on what is the problem
 - **[[IGF-1]]**
-- **GHRH Analog** -- **[[Sermorelin]]**
+- **[[GHRH Analogs]]** -- **[[Sermorelin]]**
 - **[[GH Analogs]]** -- [[Somatropin]] and [[Somatrem]]

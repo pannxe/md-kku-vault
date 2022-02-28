@@ -27,7 +27,7 @@ q released into bloodstream can **directly** or **enter [[Liver]] → [[IGF-1]]*
 
 ## Catabolic Effect
 For most tissues
-- **↑ [[Metabolism of Lipids]]**
+- **↑ [[Lipolysis]]**
 - **↓ Utilization of [[Glucose]]** and **↑ [[Glycogenolysis]]** → **↑ [[Blood Sugar]]** → risk of [[Diabete Mellitus]] (diabetogenic effect)
 - **Anti-[[Insulin]] effect**
 > a.k.a. Glucose-sparing effect
