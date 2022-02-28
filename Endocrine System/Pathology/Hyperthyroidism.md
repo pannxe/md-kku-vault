@@ -46,7 +46,7 @@ From 1st line → less preferred
 	3. [[Lithium]]
 2. Others
 	1. **[[β-Adrenergic Antagonists]]**
-	2. [[Glucocorticoids]]
+	2. [[Glucocorticoid Drugs]]
 3. **[[Radioactive Iodine Therapy]]** -- middle-aged ↑; allergic to [[Thioureylenes]]
 4. [[Thyroidectomy]]
 

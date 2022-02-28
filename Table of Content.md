@@ -27,7 +27,7 @@
 | 7     | [[Thyroid Gland]]                                                             |
 | 8     | [[Parathyroid Gland]]                                                         |
 | 9     | [[Thyroid Hormones]]                                                          |
-| 10    | [[PTH]], [[Calcium]], [[Vitamin D]], and [[Bone Remodeling]]                                       |
+| 10    | [[PTH]], [[Calcium]], [[Phosphate]], [[Calcitriol]], [[Calcitonin]], [[FGF-23]], and [[Bone Remodeling]]                                       |
 | 11-13 | [[Thyroid Gland#Pathology]] and [[Parathyroid Gland#Pathology]] and treatment                                   |
 | 14    | [[Drugs Affecting Bone Mineral]]                                              |
 | 15-19 | [[Adrenal Gland]], [[Corticosteroid]], and [[Corticosteroid Drugs]]           |

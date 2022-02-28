@@ -4,9 +4,9 @@
 - [[SSKI]]
 
 # Mechanism of Action
-** iodination** ([[Thyroid Hormones#Synthesis]]) and **release of [[Thyroid Hormones]]**
+** iodination** ([[Thyroid Hormones#Synthesis]]) and **release of [[Thyroid Hormones]]** ([[Wolff-Chaikoff Effect]])
 
-→ ↓ size and viscularity of [[Thyroid Gland]
+→ ↓ size and viscularity of [[Thyroid Gland]]
 
 # Indications
 - **Prep. a [[Thyroidectomy]]**

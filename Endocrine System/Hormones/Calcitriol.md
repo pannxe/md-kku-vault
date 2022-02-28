@@ -3,7 +3,7 @@ Structurally [[Steroid]] → inher. **[[Steroid Hormones]]**
 # Regulation
 ## Stimulation
 - **[[PTH]]** → ↑ [[1α-Hydroxylase]] → ↑ activation
-- Low serum [[Phosphate]]
+- **[[Hypophosphataemia]]**
 
 ## Inhibition
 **[[FGF-23]]** → ↓ activation 
@@ -21,7 +21,7 @@ Synthesized from **[[Vitamin D]]** ←
 
 # Function
 - **↑ [[Absorption of Calcium]]** and **↑ [[Absorption of Phosphate]]**
-- **↑ [[Bone Remodeling#Reabsorption]]**
+- **↑ [[Bone Remodeling#Resorption]]**
 - **↑ [[Calcium Reabsorption]]**
 
 # MoA

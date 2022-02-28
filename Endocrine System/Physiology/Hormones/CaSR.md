@@ -1,5 +1,5 @@
 - i.e., **[[Calcium]]-sensing receptor**
-- A type of **[[GPCR]]; [[Gq α-subunit]]**
+- A type of **[[GPCR]]; [[Gi α-subunit]]** and [[Gq α-subunit]]
 
 # Location
 - **[[Parathyroid Chief Cell]]** in [[Parathyroid Gland]]

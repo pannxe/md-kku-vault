@@ -11,13 +11,14 @@
 
 # Regulation
 ## Stimulation
-**[[PTH]]** → **落 [[PTH1R]]** →
-- **↑ [[Calcium Channel]]** and open it (i.e., TPPV) 
-- **落 [[1α-Hydroxylase]]** → **↑ [[Calcitriol]]** → 
-	- **↑ [[TRPV5]]** and **[[TRPV6]]**
-	- **↑ [[Calbindin#D-28k]]**
-	- **↑ [[PMCA]]** 
-	- **↑ [[Na-Ca Exchanger]]**
+- **[[PTH]]** → **落 [[PTH1R]]** →
+	- **↑ [[Calcium Channel]]** and open it (i.e., TPPV) 
+	- **落 [[1α-Hydroxylase]]** **↑ [[Calcitriol]]** 
+- **[[Calcitriol]]** → 
+		- **↑ [[TRPV5]]** and **[[TRPV6]]**
+		- **↑ [[Calbindin#D-28k]]**
+		- **↑ [[PMCA]]** 
+		- **↑ [[Na-Ca Exchanger]]**
 
 > i.e., ↑ every related proteins
 

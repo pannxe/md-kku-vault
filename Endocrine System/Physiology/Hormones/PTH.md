@@ -15,8 +15,8 @@ via **[[PTH1R]]** on [[Osteoblast]] and [[Kidney]]
 	- **↑ [[Calcium Reabsorption]]**
 	- **↑ [[Calcitriol]] synthesis**
 	- **↓ [[Phosphate Reabsorption]]** → ↑ excretion
-- [[Intestine]]
-	- via [[Calcitriol]] → **↑ [[Absorption of Calcium]]**
+- [[Intestine]] -- via [[Calcitriol]] →
+	- **↑ [[Absorption of Calcium]]**
 	- **↑ [[Absorption of Phosphate]]**
 
 → redirect plama level to normal range
@@ -28,7 +28,7 @@ via **[[PTH1R]]** on [[Osteoblast]] and [[Kidney]]
 Mainly via **Plasma [[Calcium]]** via **[[CaSR]]** on [[Parathyroid Gland]].
 
 ## Stimulation
-**[[Hypocalcaemia]]** → inactive [[CaSR]] →
+[[Hypocalcaemia]] → ** [[CaSR]]** →
 - **↑ production** and **↑ release**
 - **↓ degradation**
 
@@ -36,7 +36,7 @@ Mainly via **Plasma [[Calcium]]** via **[[CaSR]]** on [[Parathyroid Gland]].
 
 ![[Pasted image 20220216042338.png]]
 
-- **[[Hypercalcaemia]]** → 落 [[CaSR]] → **↑ [[Leukotrienes]]** → vise versa of 落
+- **[[Hypercalcaemia]]** → 落 [[CaSR]] → **↑ [[Leukotrienes]]** → ↓ production and ↓ release
 - **[[Calcitriol]]** → 
 	- ** PTH gene** → ↓ **synthesis**
 	- ↑ [[p21]] → ** proliferation of [[Parathyroid Chief Cell]]**
