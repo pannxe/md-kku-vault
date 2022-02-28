@@ -9,7 +9,7 @@
 
 ![[Pasted image 20220212144942.png]]
 
-- **Wll-circumscribed**
+- **Well-circumscribed**
 - **No/poorly encapsulated**
 
 # Histology
