@@ -5,7 +5,7 @@
 # Regulation
 - **[[Hypothalamo-pituitary-thyroid Axis]]**
 - **Auto-regulation**
-	- **↑ I** → **[[Wolff-Chaikoff Effect]]**
+	- **↑ I** → **[[Wolff-Chaikoff Effect]]** → ↓ synthesis
 	- **↓ I** → **↑ [[T3]]** and **↑ [[TSH]]**
 - Other factors
 	- **[[Leptin]]** and **[[MSH]]** → **↑ [[TRH]]**

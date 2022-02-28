@@ -103,9 +103,9 @@ See [[Development of Thyroid Gland]]
 - Congenital
 	- **[[Thyroglossal Duct Cyst]]**
 	- **[[Ectopic Thyroid Gland]]**
+- Hormonal
+	- **[[Hyperthyroidism]]**
+	- **[[Hypothyroidism]]**
 - **[[Goiter]]**
-- **[[Hyperthyroidism]]**
-- **[[Hypothyroidism]]**
-
 - **[[Thyroiditis]]**
 - **[[Thyroid Neoplasms]]**
