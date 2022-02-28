@@ -1,7 +1,7 @@
 - **Older female** (40-60 y/o)
 
 # Pathogenesis
-- [[Ras]] activation or [[PI3K]] of [[Receptor Tyrosine Kinase]]
+- **[[Ras]]** activation or **[[PI3K]]** of [[Receptor Tyrosine Kinase]]
 - assoc. **[[Iodine Deficiency]]**
 
 # Histology
