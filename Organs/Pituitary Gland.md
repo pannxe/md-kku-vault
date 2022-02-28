@@ -80,8 +80,8 @@ See **[[Development of Pituitary Gland]]**
 ![[Pasted image 20220212012415.png]]
 
 Pituitary gland recieved releasing and inhibitory hormones from **[[Hypothalamus]]** via
-- **[[Hypophyseal Portal System]]** → **Anterior** Lobe → ⋇ [[Pituitary Hormones#From Anterior Lobe]]
-- **[[Hypothalamo-hypophyseal Tract]]** → **Posterior** Lobe → ⋇ [[Pituitary Hormones#From Posterior Lobe]]
+- **[[Hypophyseal Portal System]]** → **Anterior** Lobe → 落 [[Pituitary Hormones#From Anterior Lobe]]
+- **[[Hypothalamo-hypophyseal Tract]]** → **Posterior** Lobe → 落 [[Pituitary Hormones#From Posterior Lobe]]
 
 See **[[Pituitary Hormones]]**
 
@@ -95,6 +95,7 @@ See **[[Pituitary Hormones]]**
 
 ## Tumors
 - **[[Craniopharyngioma]]**
+- **[[Pituitary Adenomas]]**
 
 ## Others
 - **[[Empty Sella Syndrome]]**
