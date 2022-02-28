@@ -1,4 +1,4 @@
-**# Anatomy
+# Anatomy
 Normally measured in g. -- **15-25 g.**
 
 ## Gross Structures
@@ -20,7 +20,7 @@ Normally measured in g. -- **15-25 g.**
 
 ## Anatomical Relation
 - **Anterolateral**
-	- Between **[[Sternothyroideus]]** (c [[Cricothyroideus]]) → cannot rise above [[Thyroid Cartilage#Oblique Line]]
+	- Between **[[Sternothyroideus]]** and [[Cricothyroideus]] → cannot rise above [[Thyroid Cartilage#Oblique Line]]
 	- [[Omohyoideus]], [[Sterohyoideus]], and [[Sternocleidomastoideus]]
 - **Medial**
 	- **[[Trachea]]** and **[[Oesophagus]]** → if size ↑ → compress → **[[Dyspnoea]]** and **[[Dysphagia]]**

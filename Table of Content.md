@@ -23,7 +23,9 @@
 | ----- | ----------------------------------------------------------------------------- |
 | 1     | [[Endocrine System]]                                                          |
 | 2     | [[Cellular and Molecular Mechanism of Hormones]]                              |
-| 3-6   | [[Pituitary Gland]] and [[Pituitary Hormones]]                                                           |
+| 3-6   | [[Pituitary Gland]] and [[Pituitary Hormones]]                                |
+| 7     | [[Thyroid Gland]]                                                             |
+| 8     | [[Parathyroid Gland]]                                                         |
 | 9     | [[Thyroid Hormones]]                                                          |
 | 10    | [[PTH]], [[Calcium]], and [[Vitamin D]]                                       |
 | 11-13 | [[Thyroid Gland]] and [[Parathyroid Gland]]                                   |

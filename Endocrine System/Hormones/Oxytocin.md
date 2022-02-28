@@ -26,4 +26,4 @@ Co-stimulated c **[[PRL]]** by **[[Oestrogen]]**
 - Fetus in abnormal postition -- [[Transverse Lie]] or [[Bleech Presentation]]
 
 # Antagonist
-**[[Atosiban]]**
+[[Oxytocin-receptor Anatagonists]] -- **[[Atosiban]]**

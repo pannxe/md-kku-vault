@@ -9,4 +9,4 @@
 Depends on what is the problem
 - **[[IGF-1]]**
 - **[[GHRH Analogs]]** -- **[[Sermorelin]]**
-- **[[GH Analogs]]** -- [[Somatropin]] and [[Somatrem]]
+- **[[GH Analogs]]** -- **[[Somatropin]]** and [[Somatrem]]
