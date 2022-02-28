@@ -1,5 +1,5 @@
 # Causes
-- **Surgery ([[Thyroidectomy]]**
+- **Surgery ([[Thyroidectomy]])**
 - **Agenesis ([[DiGeorge Syndrome]])**
 - [[Autoimmune Diseases]]
 
