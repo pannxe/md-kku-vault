@@ -42,7 +42,7 @@ Deepest layer of cortex.
 
 > MINOR; **DOES NOT** respond to [[Gonadotropins]].
 
-> Deficiency often asymptomatic. Excess is similar to [[Gonadotropins#Disorders]]
+> Deficiency often asymptomatic. Excess is similar to [[Gn Excess]]
 
 # Pathology
 ## Hormonal

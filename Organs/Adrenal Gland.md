@@ -2,7 +2,7 @@
 
 ![[Pasted image 20220221112200.png]]
 
-[[Retroperitoneum]] c partial [[Peritoneum]] covering. Located above [[Kidney]] of both size. Rt. is pyramidal-shaped. Lt. is semi-lunarish → appears Δ in CY scan.
+[[Retroperitoneum]] c partial [[Peritoneum]] covering. Located above [[Kidney]] of both size. Rt. is pyramidal-shaped. Lt. is semi-lunarish → appears Δ in CT scan.
 
 ![[Pasted image 20220221112237.png]]
 
