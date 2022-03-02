@@ -17,7 +17,8 @@ From **other causes**, e.g., [[Pituitary Gland#Pathology]] ([[Sheehan Syndrome]]
 
 # Diagnosis
 - [[Thyroid Function Test]]
-- Manifestation
+- Clinical manifestation
+
 ## Primary
 **↓ [[Thyroid Hormones]]** → **↑ [[TSH]]**
 
@@ -39,10 +40,11 @@ From **other causes**, e.g., [[Pituitary Gland#Pathology]] ([[Sheehan Syndrome]]
 
 # Treatment
 ## Drugs
-- Natural [[Thyroid Hormones]] -- ↑ SE, inconsistant ratio
-- **[[Synthetic Thyroid Hormones]]**
-	- **[[Levothyroxine]]** -- [[T4]]
-	- **[[Liothyronine]]** -- [[T3]]
+**[[Synthetic Thyroid Hormones]]**
+- **[[Levothyroxine]]** -- [[T4]]
+- [[Liothyronine]] -- [[T3]]; in severe case
+
+> Historically : natural [[Thyroid Hormones]] -- ↑ SE, inconsistant ratio
 
 ## Follow Up
 - Size of [[Thyroid Gland]]

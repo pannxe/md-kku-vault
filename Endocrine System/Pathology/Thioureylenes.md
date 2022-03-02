@@ -1,8 +1,8 @@
 **PO**, slow onset → **3-4 wks** until full effect
 
 # Drugs
-- **[[Methimazole]]** -- **↑ efficacy**, **↑ T1/2**, **↓ [[Agranulocytosis]]**
-- [[Propylthiouracil]] -- **DOES NOT cross [[Placenta]]** and **[[Breast Milk]]**
+- **[[Methimazole]]** (MMI) -- **↑ efficacy**, **↑ T1/2**, **↓ [[Agranulocytosis]]**
+- [[Propylthiouracil]] (PTU) -- **DOES NOT cross [[Placenta]]** and **[[Breast Milk]]**
 
 # Mechanism of Action
 

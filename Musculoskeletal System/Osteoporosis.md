@@ -9,7 +9,7 @@ Other causes includes :
 - Drugs -- **[[Corticosteroid Drugs]]** and **[[Synthetic Thyroid Hormones]]** (and [[Alcohol]])
 - Diseases -- [[Multiple Myeloma]]
 - Immobilization
-- **Endocrine** -- [[Hypogonadism]] in female (like menopause), [[Hypercortisolism]], [[Hyperthyroidism]], [[Hyperparathyroidism]] → imbalanced [[Bone Remodeling]]
+- **Endocrine** -- [[Hypogonadism]] in female (like menopause), [[Hyperadrenocorticism]], [[Hyperthyroidism]], [[Hyperparathyroidism]] → imbalanced [[Bone Remodeling]]
 - Disorders of [[GI Tract]] -- [[Malabsorption]], [[Malnutrition]], and [[Gastrectomy]]
 
 → ultimately cause **[[Sex Hormones]] deficiency**
