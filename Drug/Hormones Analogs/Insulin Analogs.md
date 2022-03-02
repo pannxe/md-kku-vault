@@ -71,6 +71,6 @@ Not widely used -- **even quicker onset** and **shorter duration** → use c lon
 
 # Drug Interactions
 - **↑ Risk of [[Hypoglycaemia]]** ←
-	- **[[β-Adrenergic Antagonists]]** → mask clinical manifestation
+	- **[[β-Adrenergic Antagonists]]** -- mask clinical manifestation
 	- [[Alcohol]], [[Aspirin]], [[Lithium]], [[ACE Inhibitors]]
-- **↑ Risk of [[Hyperglycaemia]]** ← [[Glucocorticoid Drugs]], [[Calcium Blockers]], [[Diuretic Drugs]], etc.**
+- **↑ Risk of [[Hyperglycaemia]]** ← [[Glucocorticoid Drugs]], [[Calcium Blockers]], [[Diuretic Drugs]], etc.
