@@ -2,8 +2,8 @@
 
 # Drugs
 **Gli- -ide**
+- **[[Glipizide]]**
 - [[Glibenclamide]]
-- [[Glipizide]]
 - [[Glimepiride]]
 
 # Mechanism of Action
