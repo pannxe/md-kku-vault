@@ -3,8 +3,8 @@
 | **#** | **Location** |
 | ----- | ------------ |
 | 1-2   |              |
-| 3-4   | [[Erythropoiesis]], [[Metabolic Pathway in RBC]], [[Haemoglobin]], and [[Laboratory Tests for Blood]]               |
-| 5     |               |
+| 3-4   | [[Erythropoiesis]], [[Red Blood Cell]], [[Haemoglobin]], and [[Laboratory Tests for Blood]]               |
+| 5     | [[Thalassaemia]]              |
 | 6-8   | [[Anaemia]] and [[Erythrocytosis]]             |
 | 9     | [[Leukocyte Disorders]]   |
 | 10-11 |              |
@@ -12,7 +12,7 @@
 | 15    |              |
 | 16    |              |
 | 17-18 |              |
-| 19    |              |
+| 19    | [[Anti-malarial Drugs]]             |
 | 20    |              |
 | 21    |              |
 | 22    |              |

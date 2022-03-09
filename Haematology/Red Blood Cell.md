@@ -30,4 +30,4 @@ Metabolized into **[[Amino Acids]]** → **reuse in [[Protein Synthesis]]**
 	- [[DNA Synthesis]] and [[GSH]] production
 	- CC : [[G6PD Deficiency]]
 - **[[MetHb Reduction Pathway]]** ⊣ [[Hypoxia]]
-- **[[Rapoport-Luebering Shunt]]** -- control affinity to O2
+- **[[RL Shunt]]** -- control affinity to O2
