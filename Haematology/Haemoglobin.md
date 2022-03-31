@@ -58,9 +58,8 @@ These factors ↑ → ↑ P50 and vice versa
 
 ## Bohr Effect
 **↑ concentration** of H+ and/or CO2 → **↓ the O2 affinity of Hb**
-    $$
-    Hb(O_2)_nH_x + O_2 \leftrightarrow Hb(O_2)_{n+1} + xH^+
-    $$  
+
+$$Hb(O_2)_nH_x + O_2 \leftrightarrow Hb(O_2)_{n+1} + xH^+ $$  
 [[TCA Cycle]] → **CO2** → ([[Carbonic Anhydrase]]) → **H2CO3** → acidic environment → **↓ O2 affinity of Hb** → **O2 move to the tissue** and **H+ bind to Hb**
     
 > **The process is reversed in lungs** where there pO2 is high and pCO2 is low
