@@ -6,6 +6,6 @@
  2. **High dose** -- supressed → **[[Cushing Disease]]**; if not, then
  3. **Measure plasma [[ACTH]]** 
 	 - Normal-high → ectopic [[ACTH]] ← **[[Small-cell Carcinoma of Lung]]**
-	 - Low → 1o [[Hypercortisolism]] ← [[Cushing Syndrome]]
+	 - Low → 1o [[Hyperadrenocorticism]] ← [[Cushing Syndrome]]
 
 > ACTH measurement is b4 administration of [[Dexamethasone]]

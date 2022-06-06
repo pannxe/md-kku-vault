@@ -4,7 +4,7 @@
 ## Primary Acute
 Sudden lost → [[Adrenal Crisis]]
 - **Infection** or **surgery** → 落 [[Addison Disease]]
-- **Rapid withdrawal** of [[Corticosteroid]]
+- **Rapid withdrawal** of **[[Corticosteroid Drugs]]**
 - **[[Waterhouse-Friderichsen Syndome]]**, [[DIC]], and haemorrhage
 
 ## Primary Chronic

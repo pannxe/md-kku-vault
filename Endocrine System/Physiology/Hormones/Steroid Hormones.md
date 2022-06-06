@@ -14,7 +14,7 @@ There are 2 general types
 
 ![[Adrenal_steroid_hormone_synthesis.png]]
 
-> CC : [[Ketoconazole]] can  almost all steroid hormones. [[Aminoglutethimide]]  [[Pregnenolone]] synthesis →  all.
+> CC : **[[Ketoconazole]]** can  almost all steroid hormones. [[Aminoglutethimide]]  [[Pregnenolone]] synthesis →  all.
 
 # Transportation
 use **binding proteins** -> **bound hormone** ->

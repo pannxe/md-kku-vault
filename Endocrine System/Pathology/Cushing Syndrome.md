@@ -24,3 +24,8 @@
 - **↑ Plasma [[Cortisol]]** and [[ACTH]]
 - **[[Dexamethasone Supression Test]]**
 - CT [[Pituitary Gland]] and [[Adrenal Gland]]
+
+# Treatment
+- **[[Ketoconazole]]**
+- **[[Metyrapone]]**
+- [[Aminoglutethimide]]

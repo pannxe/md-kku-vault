@@ -3,7 +3,7 @@
 - **Scondary** -- **absence** or **destruction** of **nerve plexus**
 	- [[Chagas Disease]]
 	- [[Polio]]
-	- [[Diabete Mellitus]] -- neuropathy
+	- [[Diabete Mellitus]] -- [[Diabetic Neuropathy]]
 	- [[Malignancy]], etc.
 
 -> Lacks [[Peristalsis]] and **[[Lower Oesophageal Sphincter]]** -> **incomplete relaxation** and **incr. resting tone** -> [[Oesophageal Obstruction]] -> **[[Dysphagia]]** and [[Nausea & Vomiting]]
