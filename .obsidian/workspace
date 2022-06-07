@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "d1fc05880feff5a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a9e52c2bc71370a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa26907fbb51f8c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0258fd7b3e6e800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd5f95e75a483031",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8bf181fded82c1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:__asset__",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.0055618286133
+  },
+  "right": {
+    "id": "1ba219579345abb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1168c53841ffdc11",
+        "type": "tabs",
+        "dimension": 30.355220667384287,
+        "children": [
+          {
+            "id": "8728323aca0784d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb5e98eef00ae4df",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ac4a66cc8df79994",
+        "type": "tabs",
+        "dimension": 69.64477933261571,
+        "children": [
+          {
+            "id": "e45f2848243fe691",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.92730712890625
+  },
+  "active": "9a9e52c2bc71370a",
+  "lastOpenFiles": [
+    "Erythropoi 95f1d/Untitled 2.png.md",
+    "Erythropoi 95f1d/Untitled.png.md",
+    "Pericardium.md",
+    "Uncatagorised/Diaphragm.md",
+    "Cardiovascular System/Anatomy/Mediastinum.md",
+    "Thoracic Cavity.md",
+    "Cardiovascular System/Anatomy/Thorax.md",
+    "Table of Content.md",
+    "Drug/High Plasma Protein Binding Drugs.md",
+    "Drug/Non-insulin Antidiabetic Drugs.md"
+  ]
+}
