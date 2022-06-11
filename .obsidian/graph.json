@@ -60,7 +60,14 @@
       "query": "path:Organs",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 12544361
+      }
+    },
+    {
+      "query": "path:\"Cardiovascular System\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701159
       }
     }
   ],
@@ -74,6 +81,6 @@
   "repelStrength": 14.3245856353591,
   "linkStrength": 1,
   "linkDistance": 300,
-  "scale": 0.010715931794328625,
-  "close": true
+  "scale": 0.031628708927351167,
+  "close": false
 }
