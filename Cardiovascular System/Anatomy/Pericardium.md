@@ -36,7 +36,12 @@ Lines the outer surface of the **[[Heart]]** → similar blood supply and innerv
 ## Innervation
 **[[Cardiac Plexus]]**
 
+# Sinuses
+## Oblique Pericardial Sinus
+- Inferiorly opens into pericaridal cavity --
+- Bursa for expansion of lt. atrium
 
+## Transverse Pericardial Sinus
 
 
 
