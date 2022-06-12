@@ -52,7 +52,8 @@ Lines the outer surface of the **[[Heart]]** → similar blood supply and innerv
 - **Ligation site** q cardiac surgery
 
 
-# 
+# Clinical Correlation
+
 
 
 
