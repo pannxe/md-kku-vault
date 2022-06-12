@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heart.md",
+            "file": "Cardiovascular System/Heart.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heart.md",
+                "file": "Cardiovascular System/Heart.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "ce69c1414d1b8275",
   "lastOpenFiles": [
-    "Heart.md",
+    "Cardiovascular System/Heart.md",
+    "Cardiovascular System/Anatomy/Musculi Pectinati.md",
     "Cardiovascular System/Anatomy/Mediastinum.md",
     "Cardiovascular System/Anatomy/Pericardium.md",
-    "Cardiac Plexus.md",
+    "__to-rearr__/Cardiac Plexus.md",
     "__to-rearr__/Peritoneum.md",
     "Table of Content.md",
-    "Blood Vessels.md",
+    "Cardiovascular System/Blood Vessels.md",
     "Cardiovascular System/Untitled.md",
-    "Erythropoi 95f1d/Untitled 2.png.md",
-    "Erythropoi 95f1d/Untitled.png.md"
+    "Erythropoi 95f1d/Untitled 2.png.md"
   ]
 }

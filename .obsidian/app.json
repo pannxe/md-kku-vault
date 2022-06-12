@@ -4,6 +4,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "shortest",
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "attachmentFolderPath": "__assets__"
 }
