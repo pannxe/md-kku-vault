@@ -37,14 +37,14 @@
 Recieve **O2-poor blood** from **systemic circulation** via SVC & IVC
 
 ## External Features
-- Rt. auricle
-- **Sulcus** terminalis cordis -- small groove btwn. SVC & IVC opening
+- **Rt. auricle**
+- ***Sulcus*** **terminalis cordis** -- small groove btwn. SVC & IVC opening
 
 ## Internal Features
 
 ![[Pasted image 20220613053412.png]]
 
-- **Crista** terminalis cordis -- div. RA into sinus venarum and atrium proper
+- ***Crista*** **terminalis cordis** -- div. RA into sinus venarum and atrium proper
 - **Sinus venarum** -- dev. from [[Sinus Venosus]]
 	- Valve of IVC -- a.k.a. Eustachian valve
 	- Valve of [[Coronary Sinus]] - a.k.a. Thebesia valve
