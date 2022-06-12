@@ -16,4 +16,5 @@
 
 ![[Pasted image 20220606163205.png]]
 
-**[[Pericardium]]** → **[[Heart]]**
+- **[[Pericardium]]**
+- **[[Heart]]**

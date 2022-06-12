@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiovascular System/Anatomy/Pericardium.md",
+            "file": "Heart.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiovascular System/Anatomy/Pericardium.md",
+                "file": "Heart.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 284.92730712890625,
+    "collapsed": true
   },
   "active": "9a9e52c2bc71370a",
   "lastOpenFiles": [
+    "Heart.md",
+    "Cardiovascular System/Anatomy/Mediastinum.md",
     "Cardiovascular System/Anatomy/Pericardium.md",
     "Cardiac Plexus.md",
     "__to-rearr__/Peritoneum.md",
     "Table of Content.md",
     "Blood Vessels.md",
-    "Heart.md",
     "Cardiovascular System/Untitled.md",
     "Erythropoi 95f1d/Untitled 2.png.md",
-    "Erythropoi 95f1d/Untitled.png.md",
-    "Uncatagorised/Diaphragm.md"
+    "Erythropoi 95f1d/Untitled.png.md"
   ]
 }

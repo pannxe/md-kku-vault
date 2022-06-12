@@ -41,19 +41,16 @@ Lines the outer surface of the **[[Heart]]** → similar blood supply and innerv
 
 ![[Pasted image 20220612155934.png]]
 
-- Inferiorly opens into pericaridal cavity --
-- Bursa for expansion of lt. atrium
+Inferiorly opens into pericaridal cavity → bursa for expansion of lt. atrium
 
 ## Transverse Pericardial Sinus
 
 ![[Pasted image 20220612160010.png]]
 
-- Btwn **Ascending Aorta** and **Pulmonary Trunk**
-- **Ligation site** q cardiac surgery
-
+Btwn **Ascending Aorta** and **Pulmonary Trunk** → CC : **Ligation site** q cardiac surgery
 
 # Clinical Correlation
-
+**[[Pericarditis]]**, **[[Aortic Aneurysm]]**, Tumor, Trauma, etc. → accumulation of fluid → [[Pericardial Effusion]] → compress [[Heart]] → **[[Cardiac Temponade]]**
 
 
 
