@@ -16,7 +16,7 @@ There are 2 phases of insulin secretion
 
 ## Stimulation
 - **Triggering phase**
-	- **↑ [[Blood Sugar]] (main)** → enter cell ([[GLUT-1]]) → [[Glycolysis]] → **↑ [[ATP]]** → ** [[K-ATP Channel]]** → ↑ [[Potassium]] → **落 [[Voltage-gated Ca Channel]]** 
+	- **↑ [[Blood Sugar]] (main)** → enter cell ([[GLUT-1]]) → [[Glycolysis]] → **↑ [[ATP]]** → ** [[K-ATP Channel]]** → ↑ [[Potassium]] → **落 [[Calcium Channel]]** 
 - **Amplification phase**
 	- [[Glucagon]], [[GIP]], [[GLP-1]] → 落 [[Incretin Receptor]] → ↑ cAMP 
 	- ↑ [[ATP]] from [[TCA Cycle]], etc.
