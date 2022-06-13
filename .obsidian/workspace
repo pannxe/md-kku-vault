@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heart Sound.md",
+            "file": "Coronary Arteries.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heart Sound.md",
+                "file": "Coronary Arteries.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "fbfd74605b9f36ea",
   "lastOpenFiles": [
-    "Heart Sound.md",
+    "Coronary Arteries.md",
     "Cardiovascular System/Heart.md",
+    "Aorta.md",
+    "Visceral Afferent Fiber.md",
+    "Nervous System/Vomiting Center.md",
+    "AV Bundle.md",
+    "Heart Sound.md",
     "Cardiac Skeleton.md",
     "Cardiovascular System/Anatomy/Musculi Pectinati.md",
-    "Cardiovascular System/Anatomy/Mediastinum.md",
-    "Cardiovascular System/Anatomy/Pericardium.md",
-    "__to-rearr__/Cardiac Plexus.md",
-    "__to-rearr__/Peritoneum.md",
-    "Table of Content.md",
-    "Cardiovascular System/Blood Vessels.md"
+    "Cardiovascular System/Anatomy/Mediastinum.md"
   ]
 }

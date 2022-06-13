@@ -102,6 +102,50 @@ Valvular Heart Diseases
 
 #TODO 
 
----
-
 # Microanatomy
+
+# Conducting System
+
+![[Pasted image 20220613193110.png]]
+
+1. **[[SA Node]] init** contraction cycle → **[[AV Node]]** and **Atria**
+2. [[AV Node]] → [[AV Bundle]] → cross AV annulus fibrosus → Rt. and Lt. bundle branches → [[Purkinje Fibers]]
+
+# Innervation
+## Motor Control
+- [[Sympathetic NS]] -- **[[Cervical Sympathetic Chain]]** (all 3) and T1-T5 [[Thoracic Ganglia]] → **[[Sympathetic Cardiac Nerve]]** →
+	- ↑ HR, ↑ contractility, ↑ SV → **↑ CO**
+- [[Parasympathetic NS]] -- **[[CN X|Vagus Nerve]]** → **[[SA Node]]**, **[[AV Node]]**, and **[[Myocardium]]** → 
+	- ↓ HR and ↓ SV → **↓ CO**
+	- **Constrict [[Coronary Arteries]]** -- ↓ load → ↓ supply
+
+## Afferent Sensory
+Via [[Visceral Afferent Fiber]] ← :
+- [[Sympathetic NS]] ← [T1-T5] ← pain
+- [[Parasympathetic NS]] ← rate and reflexes
+
+# Blood Supply
+## Artery
+[[Aorta#Ascending]] → **[[Coronary Arteries]]** (1st branch) -- mostly end branche (i.e., ↓↓ anastomoses) → prone to infarction
+
+CC : [[Coronary Artery Disease]] (CAD)
+
+# Lymphatic Drainage
+
+![[Pasted image 20220613194348.png]]
+
+Myocardium, CNT, etc. → Subepicaridal Lymphatic Plexus → Inferior Tracheobronchial Lymph Nodes → Rt. side 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

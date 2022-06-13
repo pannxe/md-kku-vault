@@ -4,4 +4,4 @@
 
 # Function
 - **Support [[Heart]]** -- prevent over-stretching, provide ancher point for [[Myocardium]]
-- **Separate electrical flow through heart** -- [[A-V Bundle]] being the only electrical gateway
+- **Separate electrical flow through heart** -- [[AV Bundle]] being the only electrical gateway
