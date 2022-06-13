@@ -12,7 +12,7 @@
 
 ![[Pasted image 20220613035728.png]]
 
-- **Coronary Sulcus** -- a.k.a. atrioventricular sulcus; like crown of heart
+- **[[Coronary Sulcus]]** -- a.k.a. atrioventricular sulcus; like crown of heart
 - **Anterior Interventricular Sulcus**
 - **Posterior Interventricular Sulcus** 
 
@@ -44,7 +44,7 @@ Recieve **O2-poor blood** from **systemic circulation** via SVC & IVC → send t
 
 ## Internal Features
 
-![[Pasted image 20220613053412.png]]
+![[Pasted image 20220613203901.png]]
 
 - ***Crista*** **Terminalis Cordis** -- div. RA into sinus venarum and atrium proper
 - **Sinus Venarum** -- dev. from [[Sinus Venosus]]
@@ -56,7 +56,7 @@ Recieve **O2-poor blood** from **systemic circulation** via SVC & IVC → send t
 
 # Right Ventricle
 
-![[Pasted image 20220613060326.png]]
+![[Pasted image 20220613204044.png]]
 
 ## Function
 Recieve blood from RA → **pump to [[Lung]]** via [[Pulmonary Trunk]] → **[[Pulmonary Artery]]**
@@ -69,7 +69,7 @@ Recieve blood from RA → **pump to [[Lung]]** via [[Pulmonary Trunk]] → **[[P
 
 # Left Atrium
 
-![[Pasted image 20220613061323.png]]
+![[Pasted image 20220613204150.png]]
 
 ## Function
 Recieve O2-rich blood from lungs via [[Pulmonary Vein]] → send to LV
@@ -82,6 +82,9 @@ Recieve O2-rich blood from lungs via [[Pulmonary Vein]] → send to LV
 Recieve blood from LA → **pump to systemic circulation** via **[[Aorta]]**
 
 ## Features
+
+![[Pasted image 20220613204234.png]]
+
 - **Thickest wall** c numerous [[Trabeculae Carneae]]
 - **[[Aortic Vestibule]]** -- smooth-walled portion, leads to aorta
 - **[[Bicuspid Valve]]** (Mitral Valve)

@@ -1,4 +1,4 @@
-![[Pasted image 20220613172135.png]]
+![[Pasted image 20220613204329.png]]
 
 4x dense CNT **annulus fibrosus** at artrioventicular plane.
 
