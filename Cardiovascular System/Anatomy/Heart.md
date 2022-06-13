@@ -106,6 +106,7 @@ Valvular Heart Diseases
 #TODO 
 
 # Microanatomy
+#TODO 
 
 # Conducting System
 
@@ -114,9 +115,11 @@ Valvular Heart Diseases
 1. **[[SA Node]] init** contraction cycle → **[[AV Node]]** and **Atria**
 2. [[AV Node]] → [[AV Bundle]] → cross AV annulus fibrosus → Rt. and Lt. bundle branches → [[Purkinje Fibers]]
 
+> See [[Electrical Activity of Heart]] for cellular level mechanism
+
 # Innervation
 ## Motor Control
-- [[Sympathetic NS]] -- **[[Cervical Sympathetic Chain]]** (all 3) and T1-T5 [[Thoracic Ganglia]] → **[[Sympathetic Cardiac Nerve]]** →
+- [[Sympathetic NS]] -- **[[Cervical Sympathetic Chain]]** (all 3) and T1-T5 [[Thoracic Sympathetic Chain]] → **[[Sympathetic Cardiac Nerve]]** →
 	- ↑ HR, ↑ contractility, ↑ SV → **↑ CO**
 - [[Parasympathetic NS]] -- **[[CN X|Vagus Nerve]]** → **[[SA Node]]**, **[[AV Node]]**, and **[[Myocardium]]** → 
 	- ↓ HR and ↓ SV → **↓ CO**
@@ -128,10 +131,24 @@ Via [[Visceral Afferent Fiber]] ← :
 - [[Parasympathetic NS]] ← rate and reflexes
 
 # Blood Supply
-## Artery
-[[Aorta#Ascending]] → **[[Coronary Arteries]]** (1st branch) -- mostly end branche (i.e., ↓↓ anastomoses) → prone to infarction
+## Artery 
+[[Aorta#Ascending]] → **[[Coronary Arteries]]** (1st branch) and its branches -- mostly end branche (i.e., ↓↓ anastomoses) → prone to infarction
 
 CC : [[Coronary Artery Disease]] (CAD)
+
+## Vein
+
+![[Pasted image 20220613210245.png]]
+
+Veins ultimately drain directly into RA
+- ← **Anterior Cardiac Vein**
+- ← **[[Coronary Sinus]]** -- run in Posterior Coronary Sulcus
+	- ← **Small** Cardiac Vein -- along rt. marginal a.
+	- ← **Middle** Cardiac Vein -- along PDA
+	- ← **Great** Cardiac Vein -- along LAD
+
+![[Pasted image 20220613210311.png]]
+
 
 # Lymphatic Drainage
 

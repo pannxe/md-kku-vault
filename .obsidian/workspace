@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiac Skeleton.md",
+            "file": "Electrical Activity of Heart.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiac Skeleton.md",
+                "file": "Electrical Activity of Heart.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "fbfd74605b9f36ea",
   "lastOpenFiles": [
-    "Cardiac Skeleton.md",
-    "Cardiovascular System/Heart.md",
-    "Coronary Arteries.md",
-    "Untitled.md",
-    "Aorta.md",
-    "Visceral Afferent Fiber.md",
-    "Nervous System/Vomiting Center.md",
-    "AV Bundle.md",
-    "Heart Sound.md",
-    "Cardiovascular System/Anatomy/Musculi Pectinati.md"
+    "Electrical Activity of Heart.md",
+    "Table of Content.md",
+    "Cardiovascular System/Anatomy/Heart.md",
+    "Cardiovascular System/Anatomy/Cardiac Skeleton.md",
+    "Cardiovascular System/Anatomy/Blood Vessels.md",
+    "Cardiovascular System/Anatomy/Aorta.md",
+    "Cardiovascular System/Anatomy/Mediastinum.md",
+    "Thoracic Sympathetic Chain.md",
+    "Arch of Aorta.md",
+    "Uncatagorised/Pretracheal Fascia.md"
   ]
 }

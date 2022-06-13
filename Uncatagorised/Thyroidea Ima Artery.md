@@ -1,6 +1,6 @@
 **Varietion**, may arise from
 - [[Brachiocephalic Trunk]]
-- [[Arch of Aorta]]
+- [[Aorta#Arch]]
 - [[Common Carotid Artery]]
 - [[Subclavian Artery]]
 - [[Internal Thoracic Artery]]

@@ -1,5 +1,5 @@
 # Portions
 ## Ascending
 ## Arch
-## Decending
+## Thoracic
 ## Abdominal
