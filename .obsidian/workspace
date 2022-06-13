@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ce69c1414d1b8275",
+        "id": "fbfd74605b9f36ea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiovascular System/Heart.md",
+            "file": "Heart Sound.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiovascular System/Heart.md",
+                "file": "Heart Sound.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.92730712890625
+    "width": 284.92730712890625,
+    "collapsed": true
   },
-  "active": "ce69c1414d1b8275",
+  "active": "fbfd74605b9f36ea",
   "lastOpenFiles": [
+    "Heart Sound.md",
     "Cardiovascular System/Heart.md",
+    "Cardiac Skeleton.md",
     "Cardiovascular System/Anatomy/Musculi Pectinati.md",
     "Cardiovascular System/Anatomy/Mediastinum.md",
     "Cardiovascular System/Anatomy/Pericardium.md",
     "__to-rearr__/Cardiac Plexus.md",
     "__to-rearr__/Peritoneum.md",
     "Table of Content.md",
-    "Cardiovascular System/Blood Vessels.md",
-    "Cardiovascular System/Untitled.md",
-    "Erythropoi 95f1d/Untitled 2.png.md"
+    "Cardiovascular System/Blood Vessels.md"
   ]
 }
