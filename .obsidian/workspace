@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "d5373a05b3e871d7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Calcium Channel.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical Activity of Heart.md",
+                "file": "Calcium Channel.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,17 +126,17 @@
     "width": 284.92730712890625,
     "collapsed": true
   },
-  "active": "fbfd74605b9f36ea",
+  "active": "d5373a05b3e871d7",
   "lastOpenFiles": [
+    "Calcium Channel.md",
     "Electrical Activity of Heart.md",
+    "Sodium Channel.md",
     "Table of Content.md",
     "Cardiovascular System/Anatomy/Heart.md",
     "Cardiovascular System/Anatomy/Cardiac Skeleton.md",
     "Cardiovascular System/Anatomy/Blood Vessels.md",
     "Cardiovascular System/Anatomy/Aorta.md",
     "Cardiovascular System/Anatomy/Mediastinum.md",
-    "Thoracic Sympathetic Chain.md",
-    "Arch of Aorta.md",
-    "Uncatagorised/Pretracheal Fascia.md"
+    "Thoracic Sympathetic Chain.md"
   ]
 }

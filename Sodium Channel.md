@@ -1,0 +1,2 @@
+# Fast Type
+# Slow Type
