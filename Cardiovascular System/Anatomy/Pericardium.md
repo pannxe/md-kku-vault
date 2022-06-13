@@ -30,7 +30,7 @@ Lines inner surface of fibrous percardium → **blood supply** and **innervation
 # Visceral Layer
 Lines the outer surface of the **[[Heart]]** → similar blood supply and innervation
 
-## Blood Supply
+## Blood Supply and Drainage
 **[[Coronary Arteries]]** → **[[Colonary Sinus]]**
 
 ## Innervation
@@ -51,8 +51,3 @@ Btwn **Ascending Aorta** and **Pulmonary Trunk** → CC : **Ligation site** q ca
 
 # Clinical Correlation
 **[[Pericarditis]]**, **[[Aortic Aneurysm]]**, Tumor, Trauma, etc. → accumulation of fluid → [[Pericardial Effusion]] → compress [[Heart]] → **[[Cardiac Temponade]]**
-
-
-
-
-
