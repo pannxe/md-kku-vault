@@ -115,7 +115,8 @@ Valvular Heart Diseases
 1. **[[SA Node]] init** contraction cycle → **[[AV Node]]** and **Atria**
 2. [[AV Node]] → [[AV Bundle]] → cross AV annulus fibrosus → Rt. and Lt. bundle branches → [[Purkinje Fibers]]
 
-> See [[Electrical Activity of Heart]] for cellular level mechanism
+> - See [[Electrical Activity of Heart]] for cellular level mechanism
+> - CC : Waves of AP can be detected by [[EKG]]
 
 # Innervation
 ## Motor Control
@@ -124,6 +125,8 @@ Valvular Heart Diseases
 - [[Parasympathetic NS]] -- **[[CN X|Vagus Nerve]]** → **[[SA Node]]**, **[[AV Node]]**, and **[[Myocardium]]** → 
 	- ↓ HR and ↓ SV → **↓ CO**
 	- **Constrict [[Coronary Arteries]]** -- ↓ load → ↓ supply
+
+> See [[Heart Rate#Control]]
 
 ## Afferent Sensory
 Via [[Visceral Afferent Fiber]] ← :

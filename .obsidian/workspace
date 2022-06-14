@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiovascular System/Physiology/Electrical Activity of Heart.md",
+            "file": "Cardiovascular System/Clinical/EKG.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.0055618286133,
-    "collapsed": true
+    "width": 286.0055618286133
   },
   "right": {
     "id": "1ba219579345abb4",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiovascular System/Physiology/Electrical Activity of Heart.md",
+                "file": "Cardiovascular System/Clinical/EKG.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,15 +113,15 @@
   },
   "active": "9a9e52c2bc71370a",
   "lastOpenFiles": [
+    "Cardiovascular System/Clinical/EKG.md",
+    "Cardiovascular System/Anatomy/Heart.md",
     "Cardiovascular System/Physiology/Electrical Activity of Heart.md",
+    "Cardiovascular System/Physiology/Heart Rate.md",
     "Untitled.md",
     "Uncatagorised/Potassium Channel.md",
     "Uncatagorised/Sodium Channel.md",
     "Uncatagorised/Calcium Channel.md",
     "Voltage-gated Ca Channel.md",
-    "Endocrine System/Hormones/Insulin.md",
-    "Cardiovascular System/Anatomy/Pericardium.md",
-    "Cardiac Plexus.md",
-    "__to-rearr__/Peritoneum.md"
+    "Endocrine System/Hormones/Insulin.md"
   ]
 }
