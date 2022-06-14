@@ -33,6 +33,6 @@ Ion in/out equal out → **Prolonged depolarization**
 → ↓↓ Voltage → **Repolarization**
 
 ## Phase 4 -- Resting Membrane Potential
-Aevg. at -80 - -90 mV
+Avg. at -80 - -90 mV
 
 # Action Potential of Pacemaker Cell
