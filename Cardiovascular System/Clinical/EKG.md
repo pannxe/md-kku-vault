@@ -4,14 +4,26 @@
 Waves are caused only q voltage changes and NOT q fully sustain
 ## P-wave
 Casued by **depolarization** a **atiral** contraciton
+> CC : 
+> - Widen P-wave ← [[Atrial Enlargement#Left]]
+> - Tall P-wave ← [[Atrial Enlargement#Right]]
 
 ## QRS-complex
 Caused by **depolarization** a **ventricle** contraction
+> CC:
+> - ↓ amplitude ← [[Cardiomyopathy]], [[Pericardial Effusion]]
+> - ↑ amplitude ← [[Ventricular Hypertrophy]]
+> - Widen QRS ← branch blockage, [[Ventricular Hypertrophy]]
 
 ## T-wave
 Caused by **ventricle recover** from depolarization (**repolarization**)
 
 > Atrial repolarization wave is obscured by QRS-complex in normal EKG 
+
+> CC:
+> - Tall peak ← [[Hyperkalaemia]]
+> - Flat ← [[Hypokalaemia]]
+> - Inverted [[Ischaemia]]
 
 # Intervals
 ## P-Q Interval
@@ -74,6 +86,8 @@ Electrical vector of bipolar limb lead : $I + III = II$ is **always true in norm
 - q dx **condition vs time** (e.g., [[Arrhythmia]]) -- **does not matter that much** what lead to use ← similar shape of wave
 - But q dx **condition assoc. damage to structure** -- **DOES matter a lot** ← abnormality in [[Heart#Conducting System]] or contraction can change pattern in some leads but not the others
 
+## Normal
+
 # Augemented Limb Leads
 Is a **unipolar** recording in **frontal plane** -- using 3 limbs, 2 are connected to resistances → (-) terminal; the other one to (+) :
 - Rt. arm → **aVR** lead
@@ -90,3 +104,9 @@ They are similar to standard bipolar limb leads except **aVR is inverted** (elec
 - V1 and V2 -- **4th ICS**; **Rt.** and **Lt**. **parasternal border** → near base of heart (direction of electronegativity) → **QRS negative**
 - V3 btwn V2 and V4
 - V4, V5, and V6 -- **5th ICS**; Lt. MCL, AAL, and MAL → near apex (direction of electropositivity) → **QRS positive** 
+
+# NSR
+Normal Sinus Rhythm :
+- Normal P-wave morphology c consistant rate (60-100 bpm)
+- Constant QRS complex follow P wave
+- Constant RR interval

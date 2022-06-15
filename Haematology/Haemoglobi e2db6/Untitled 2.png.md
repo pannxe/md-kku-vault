@@ -11,7 +11,7 @@
 
 - **Summary images**
     
-    ![Untitled](Haemoglobi%20e2db6/Untitled%202.png)
+    ![Untitled](Untitled%202.png.md)
     
 - **These are α-like globins**
     - **α** — almost always present

@@ -90,33 +90,11 @@ Recieve blood from LA → **pump to systemic circulation** via **[[Aorta]]**
 - **[[Bicuspid Valve]]** (Mitral Valve)
 - **[[Aortic Valve]]**
 
-# Valves
-Heart valves can be groupped into :
-- **Atrioventricular (AV) Valves** -- [[Tricuspid Valve]] and [[Bicuspid Valve]]
-- **Semilunar Valves** -- [[Pulmonary Valve]] and [[Aortic Valve]]
-
-**[[Heart Sound]]** is assoc. the closure of valves
-
-## Clinical Correlation
-Valvular Heart Diseases
-- **Stenosis** (narrowing) -- **failure to open** → slow blood flow
-	- **[[Bicuspid Valve Stenosis]]** -- assoc. [[Rheumatic Fever]] → [[Rheumatic Heart Disease]]
-- **Regurgitation** (insufficiency) -- **failure to close** → back-flow
-
-#TODO 
+# Heart Valves
+See [[Heart Valves]]
 
 # Microanatomy
 #TODO 
-
-# Conducting System
-
-![[Pasted image 20220613193110.png]]
-
-1. **[[SA Node]] init** contraction cycle → **[[AV Node]]** and **Atria**
-2. [[AV Node]] → [[AV Bundle]] → cross AV annulus fibrosus → Rt. and Lt. bundle branches → [[Purkinje Fibers]]
-
-> - See [[Electrical Activity of Heart]] for cellular level mechanism
-> - CC : Waves of AP can be detected by [[EKG]]
 
 # Innervation
 ## Motor Control
@@ -160,13 +138,28 @@ Veins ultimately drain directly into RA
 Myocardium, CNT, etc. → Subepicaridal Lymphatic Plexus → Inferior Tracheobronchial Lymph Nodes → Rt. side 
 
 
+# Physiology
+## Biological Pump
 
+![[Pasted image 20220615222041.png]]
 
+**Ventricles** are the **main pumps** c atria as aux (booster pump) -- **multi-layers swirling pattern** → ↓ volume q contraction → ↑ pressure → pumping effect
 
+> See [[Myocardium]]
 
+[[Electrical Activity of Heart]] (excitation) → 落 contraction of [[Myocardium]] -- i.e., **[[E-C Coupling]]**
 
+## Conducting System
 
+![[Pasted image 20220613193110.png]]
 
+1. **[[SA Node]] init** contraction cycle → **[[AV Node]]** and **Atria**
+2. [[AV Node]] → [[AV Bundle]] → cross AV annulus fibrosus → Rt. and Lt. bundle branches → [[Purkinje Fibers]]
+
+> - See [[Electrical Activity of Heart]] for cellular level mechanism
+> - CC : Waves of AP can be detected by [[EKG]]
+
+## Cardiac Cycle
 
 
 
