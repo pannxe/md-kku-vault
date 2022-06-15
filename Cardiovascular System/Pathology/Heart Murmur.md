@@ -25,6 +25,9 @@ Occur continuously
 - Innocent causes -- [[Pregnancy]], [[Fever]], etc.
 
 # Describing Characteristic
+
+![[Pasted image 20220616053720.png]]
+
 - Timing -- sys. or dia.? early, mid, or late?
 - Shape -- const., cresendo, or decresendo?
 - Location -- best heard at?

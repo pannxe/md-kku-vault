@@ -158,6 +158,3 @@ Each event between the beginning of heartbeat to the next is called **[[Cardiac 
 
 > - See **[[Electrical Activity of Heart]]** for cellular level mechanism
 > - CC : Waves of AP can be detected by **[[EKG]]**
-
-## Cardiac Cycle
-See [[Cardiac Cycle]] 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "67f170b701a63c67",
+        "id": "5ecb72c1589a1375",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heart Murmur.md",
+            "file": "Cardiovascular System/Clinical/EKG.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.0055618286133,
-    "collapsed": true
+    "width": 286.0055618286133
   },
   "right": {
     "id": "1ba219579345abb4",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heart Murmur.md",
+                "file": "Cardiovascular System/Clinical/EKG.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,17 +111,17 @@
     "direction": "horizontal",
     "width": 340.5
   },
-  "active": "67f170b701a63c67",
+  "active": "5ecb72c1589a1375",
   "lastOpenFiles": [
-    "Heart Murmur.md",
-    "Endocrine System/Pathology/Hyperthyroidism.md",
-    "Uncatagorised/Tachycardia.md",
-    "Cardiovascular System/Physiology/Heart Sound.md",
-    "Cardiac Cycle.md",
-    "Split S2.md",
-    "Untitled.md",
-    "EF.md",
-    "Cardiac Output.md",
-    "Blood.md"
+    "Cardiovascular System/Clinical/EKG.md",
+    "Cardiovascular System/Clinical/Echocardiography.md",
+    "Mitral E-A Ratio.md",
+    "Mitral E/A Ratio.md",
+    "Table of Content.md",
+    "README.md",
+    "Cardiovascular System/Anatomy/Heart.md",
+    "Cardiac Pump.md",
+    "KUB/Calcium Reabsorption.md",
+    "Parasitology/Helminths/Acanthocephala/Acanthocephala.md"
   ]
 }

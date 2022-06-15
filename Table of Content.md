@@ -69,5 +69,5 @@
 | 3-4 | [[Heart#Gross Anatomy]] and [[Blood Vessels#Gross Anatomy]] |
 | 5-6 | [[Heart#Microanatomy]] and [[Blood Vessels#Microanatomy]]   |
 | 9   | [[Electrical Activity of Heart]] and [[EKG]]                |
-| 10  | [[Cardiac Pump]] and [[Heart Sound]]                        |
+| 10  | [[Heart#Physiology#Biological Pump]], [[Heart Sound]], and [[Echocardiography]]                        |
 |     |                                                             |
