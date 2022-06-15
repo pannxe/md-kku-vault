@@ -1,0 +1,1 @@
+Amount of [[Blood]] in [[Heart|Ventricles]] at the **end of [[Cardiac Cycle#Atrial Systole]]**. Normally ~110-120 mL

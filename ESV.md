@@ -1,0 +1,1 @@
+Amount of blood remaining in each [[Heart|Ventricles]] following [[Cardiac Cycle#Ventricular Ejection]] (~40-50 mL)

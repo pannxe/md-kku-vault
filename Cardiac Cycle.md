@@ -1,7 +1,11 @@
-## Cardiac Cycle
+![[Pasted image 20220616014247.png]]
+
 Events q occur from one heartbeat to the next. Each cycle is initiated by [[SA Node]].
 
 # Phases
+
+![[Pasted image 20220616014300.png]]
+
 ## Atrial Systole
 **Atrial contraction** and **blood forced to ventricles** 
 > - [[Heart Valves#Semilunar Valves]] already closed due to ↓ ventricular pressure
@@ -14,7 +18,8 @@ Events q occur from one heartbeat to the next. Each cycle is initiated by [[SA N
 
 → Blood cannot escape ventricles → **no volume change** but **pressure ↑ progressively**
 
-> Produce [[Heart Sound#S1]]
+> - [[Heart Sound#S1]] produced
+> - Blood volume reaches [[EDV]]
 
 ## Ventricular Ejection
 **Ventricular pressure now ↑ q arterial** → **semilunar valves open** → blood flow out of ventricles → pressure progressively ↓
@@ -26,4 +31,11 @@ Events q occur from one heartbeat to the next. Each cycle is initiated by [[SA N
 
 → Blood cannot flow into ventricles → **no volume change** but **pressure ↓↓ progressively** 
 
-> Produce [[Heart Sound#S2]]
+> - [[Heart Sound#S2]] produced
+> - Blood volume reaches [[ESV]]
+
+# Ventricular Filling
+**Ventricular pressure now ↓ q atrial** → **AV valves open** → blood flow into ventricles
+> Then the process repeats
+
+# Ventricular Pressure - Volume Relationship
