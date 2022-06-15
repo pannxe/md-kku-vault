@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9a9e52c2bc71370a",
+        "id": "e7492ee6baf1cbae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiovascular System/Anatomy/Heart.md",
+            "file": "Cardiac Cycle.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -95,13 +95,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiovascular System/Anatomy/Heart.md",
+                "file": "Cardiac Cycle.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -112,17 +112,17 @@
     "direction": "horizontal",
     "width": 340.5
   },
-  "active": "9a9e52c2bc71370a",
+  "active": "e7492ee6baf1cbae",
   "lastOpenFiles": [
+    "Cardiac Cycle.md",
+    "Cardiovascular System/Physiology/Heart Sound.md",
+    "Untitled.md",
     "Cardiovascular System/Anatomy/Heart.md",
     "Cardiovascular System/Anatomy/Heart Valves.md",
     "Table of Content.md",
-    "Cardiovascular System/Physiology/Heart Sound.md",
     "README.md",
     "Cardiovascular System/Anatomy/Coronary Arteries.md",
     "Cardiovascular System/Anatomy/Myocardium.md",
-    "Cardiovascular System/Physiology/E-C Coupling.md",
-    "Gastrointestinal System/Physiology/Absorption of Nutrients/Na-Ca Exchanger.md",
-    "Untitled.md"
+    "Cardiovascular System/Physiology/E-C Coupling.md"
   ]
 }

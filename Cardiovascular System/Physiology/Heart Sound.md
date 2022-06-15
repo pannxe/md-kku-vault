@@ -1,6 +1,8 @@
-# Characteristic
-- **1st sound** -- **lower pitch**, *lub* ← closure of **atrioventricular valves** ([[Bicuspid Valve]] and [[Tricuspid Valve]]); *beginning* of [[Systole]]
-- **2nd sound** -- **higher pitch**, *dub* ← closure of **semi-lunar valves** ([[Aortic Valve]] and [[Pulmonary Valve]]); *end* of [[Systole]]
+# S1
+**lower pitch**, *lub* ← closure of **[[Heart Valves#AV Valves]]**; *beginning* of [[Systole]]
+
+# S2
+**Higher pitch**, *dub* ← closure of **[[Heart Valves#Semilunar Valves]]**; *end* of [[Systole]]
 
 # Auscultation
 
@@ -9,4 +11,4 @@
 - **Aortic** area -- **2nd ICS**, Rt. parasternal border
 - **Pulmonic** area -- **2nd ICS**, Lt. parasternal border
 - **Tricuspid** area -- **5th ICS**, Lt. parasteranal border
-- **Bicuspid** area -- 5th ICS, mid-clavicular line (**PMI**)
+- **Bicuspid** area -- **5th ICS**, mid-clavicular line (**PMI**)

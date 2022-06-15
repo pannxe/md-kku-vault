@@ -147,6 +147,8 @@ Myocardium, CNT, etc. → Subepicaridal Lymphatic Plexus → Inferior Tracheobro
 
 [[Electrical Activity of Heart]] (excitation) → 落 contraction of [[Myocardium]] -- i.e., **[[E-C Coupling]]**
 
+Each event between the beginning of heartbeat to the next is called **[[Cardiac Cycle]]**
+
 ## Conducting System
 
 ![[Pasted image 20220613193110.png]]
@@ -158,9 +160,4 @@ Myocardium, CNT, etc. → Subepicaridal Lymphatic Plexus → Inferior Tracheobro
 > - CC : Waves of AP can be detected by **[[EKG]]**
 
 ## Cardiac Cycle
-Events q occur from one heartbeat to the next
-
-
-
-
-
+See [[Cardiac Cycle]] 
