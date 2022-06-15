@@ -38,4 +38,12 @@ Events q occur from one heartbeat to the next. Each cycle is initiated by [[SA N
 **Ventricular pressure now ↓ q atrial** → **AV valves open** → blood flow into ventricles
 > Then the process repeats
 
+---
+### Ventricular Systole
+	[[#Isovolumetric Ventricular Contraction]] + [[#Ventricular Ejection]]
+
+### Ventricular Diastole
+	[[#Isovolumetric Ventricular Relaxation]] → [[#Atrial Systole]] (to the end)
+
+---
 # Ventricular Pressure - Volume Relationship

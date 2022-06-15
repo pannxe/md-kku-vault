@@ -1,1 +1,1 @@
-**HR > 100 bmp**
+**[[Heart Rate]] > 100 bmp**

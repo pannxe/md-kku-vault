@@ -34,5 +34,5 @@ Using stethoscope to listen
 Using phonocardiograph → plot intensity of heart sound overtime
 
 # Clinical Correlation
-- [[Split S2]]
-- [[Heart Murmur]]
+- **[[Split S2]]** 
+- **[[Heart Murmur]]**
