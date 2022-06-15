@@ -83,3 +83,10 @@ Is a **unipolar** recording in **frontal plane** -- using 3 limbs, 2 are connect
 They are similar to standard bipolar limb leads except **aVR is inverted** (electrical vector travel AWAY from + electrode)
 
 # Precordial Leads
+
+![[Pasted image 20220615211944.png]]
+
+6x (+) are placed on **anterior chest wall** and (-) c resistances on rt. arm, lt. arm, and lt. leg
+- V1 and V2 -- **4th ICS**; **Rt.** and **Lt**. **parasternal border** → near base of heart (direction of electronegativity) → **QRS negative**
+- V3 btwn V2 and V4
+- V4, V5, and V6 -- **5th ICS**; Lt. MCL, AAL, and MAL → near apex (direction of electropositivity) → **QRS positive** 
