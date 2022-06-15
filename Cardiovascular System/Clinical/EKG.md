@@ -33,10 +33,21 @@ Time btwn T-wave to T-wave → reflex **[[Heart Rate]]**
 - X-axis -- **25 mm/sec** → each dark line (**0.5 mm**) = **0.2 sec**
 - Y-axis -- **1 mV/cm**
 
+---
+
+![[Pasted image 20220615185210.png]]
+
+EKG can be measured by different types of leads
+- Frontal Plane →
+	- Standard Bipolar Limb Leads
+	- Augmented (Unipolar) Limb Leads
+- Horizontal Plane → Precordial Leads
+
 # Standard Bipolar Limb Leads
 
 ![[Pasted image 20220615181157.png]]
 
+Is a record **in frontal plane**
 - Cardiac impulse travel from ventricle septum to inside surfaces
 - Depolarization make outside of muscle fiber negative
 
@@ -44,4 +55,31 @@ Time btwn T-wave to T-wave → reflex **[[Heart Rate]]**
 
 EKG is recorded using 2 electrodes on different sides of heart
 
-## 
+## Lead I
+- (+) -- Lt. arm
+- (-) -- Rt. arm
+
+## Lead II
+- (+) -- Lt. leg
+- (-) -- Rt. arm
+
+## Lead III
+- (+) -- Lt. leg
+- (-) -- Lt. arm
+
+## Einthoven's Law
+Electrical vector of bipolar limb lead : $I + III = II$ is **always true in normal EKG**
+
+## Clinical Correlation
+- q dx **condition vs time** (e.g., [[Arrhythmia]]) -- **does not matter that much** what lead to use ← similar shape of wave
+- But q dx **condition assoc. damage to structure** -- **DOES matter a lot** ← abnormality in [[Heart#Conducting System]] or contraction can change pattern in some leads but not the others
+
+# Augemented Limb Leads
+Is a **unipolar** recording in **frontal plane** -- using 3 limbs, 2 are connected to resistances → (-) terminal; the other one to (+) :
+- Rt. arm → **aVR** lead
+- Lt. arm → **aVL** lead
+- Lt. leg → **aVF** lead
+
+They are similar to standard bipolar limb leads except **aVR is inverted** (electrical vector travel AWAY from + electrode)
+
+# Precordial Leads
