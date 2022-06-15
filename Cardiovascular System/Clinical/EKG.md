@@ -1,7 +1,12 @@
 ![[Pasted image 20220615031641.png]]
 
 # Waves
-- **P-wave** -- **depolarization** a **atiral** contraciton
-- **QRS-complex** -- **depolarization** a **ventricle** contraction
-- **T-wave** -- **ventricle recover** from depolarization (**repolarization**)
-- 
+## P-wave
+Casued by **depolarization** a **atiral** contraciton
+
+## QRS-complex
+
+Caused by **depolarization** a **ventricle** contraction
+
+## T-wave
+Caused by **ventricle recover** from depolarization (**repolarization**)
