@@ -130,13 +130,11 @@ Veins ultimately drain directly into RA
 
 ![[Pasted image 20220613210311.png]]
 
-
 # Lymphatic Drainage
 
 ![[Pasted image 20220613194348.png]]
 
 Myocardium, CNT, etc. → Subepicaridal Lymphatic Plexus → Inferior Tracheobronchial Lymph Nodes → Rt. side 
-
 
 # Physiology
 ## Biological Pump
@@ -156,10 +154,11 @@ Myocardium, CNT, etc. → Subepicaridal Lymphatic Plexus → Inferior Tracheobro
 1. **[[SA Node]] init** contraction cycle → **[[AV Node]]** and **Atria**
 2. [[AV Node]] → [[AV Bundle]] → cross AV annulus fibrosus → Rt. and Lt. bundle branches → [[Purkinje Fibers]]
 
-> - See [[Electrical Activity of Heart]] for cellular level mechanism
-> - CC : Waves of AP can be detected by [[EKG]]
+> - See **[[Electrical Activity of Heart]]** for cellular level mechanism
+> - CC : Waves of AP can be detected by **[[EKG]]**
 
 ## Cardiac Cycle
+Events q occur from one heartbeat to the next
 
 
 

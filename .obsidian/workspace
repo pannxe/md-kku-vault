@@ -110,20 +110,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "active": "9a9e52c2bc71370a",
   "lastOpenFiles": [
     "Cardiovascular System/Anatomy/Heart.md",
-    "Cardiovascular System/Physiology/Electrical Activity of Heart.md",
-    "Myocardium.md",
-    "Heart Valves.md",
+    "Cardiovascular System/Anatomy/Heart Valves.md",
     "Table of Content.md",
-    "Cardiovascular System/Clinical/EKG.md",
-    "Cardiovascular System/Pathology/Atrial Enlargement.md",
+    "Cardiovascular System/Physiology/Heart Sound.md",
     "README.md",
-    "Haematology/Haemoglobi e2db6/Untitled 2.png.md",
-    "Cardiovascular System/Physiology/Heart Rate.md"
+    "Cardiovascular System/Anatomy/Coronary Arteries.md",
+    "Cardiovascular System/Anatomy/Myocardium.md",
+    "Cardiovascular System/Physiology/E-C Coupling.md",
+    "Gastrointestinal System/Physiology/Absorption of Nutrients/Na-Ca Exchanger.md",
+    "Untitled.md"
   ]
 }
