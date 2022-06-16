@@ -4,4 +4,7 @@ Load **against contractile force** of [[Heart ]]
 - [[Heart#Right Ventricle]] -- [[Pulmonary Valve]] and pressure of [[Pulmonary Artery]]
 
 # Factors
-- ↑ **[[Blood Pressure|Arterial BP]]** → ↑ afterload → ↓ [[SV]]
+- ↑ **[[Blood Pressure|Arterial BP]]** 
+- ↑ [[SVR]]
+
+→ ↑ afterload → ↓ [[SV]]

@@ -13,12 +13,24 @@ Dual pump system of [[Heart]] → create 2 circulations within body
 $$F = \frac{\Delta P}{R}$$
 (F = flow (usually L/min), P = pressure, R = resistant)
 
-Blood is viscose, non-newtonian fluid (η change q shear rate) → center point flow faster q edge → parabolic shape flow
+Blood is viscose, non-newtonian fluid (η change q shear rate) →
+- Center point flow faster q edge → parabolic shape flow **(laminar flow)**
+- q passes obstruction, rapid change in direction, ↑↑r, etc. → ↑↑↑ F → irregular flow direction → **turbulent flow** →
+	- **[[Murmur]]**
+	- ↑ risk of **[[Thrombosis]]**
+
+> Tendency for turbulent flow is described by Reynold's number
+> $$Re = \frac{2rv\rho}{\eta}$$
+> - < 2000 → laminar
+> - 2000-3000 → depends
+> - > 3000 → turbulent
 
 # Resistance
 Descirbed by Poiseuille's Law
 $$F = \frac{\Delta P \pi r^4}{8\eta l}$$
 (l = length of vessel, r = radius)
+
+> note that series- and parallel resistances added up differently : $R_{all} = \sum R$ vs $R_{all}^{-1} = \sum R^{-1}$
 
 q combine c Ohm's law :
 $$R=\frac{8 \eta l}{\pi r^4}$$
@@ -28,6 +40,8 @@ Since η and l changes are minimal → **main determinant of R is r**
 > Viscosity is defined as follow :
 $$\eta = \frac{F/A}{dv/dx}$$
 (F/A is shear force; dv/dx is shear rate)
+
+
 
 # Velocity of Blood Flow
 $$ F = vA$$
@@ -44,3 +58,30 @@ $$P_1 + \frac{1}{2}\rho v_1^2 + \rho g h_1 = P_2 + \frac{1}{2}\rho v_2^2 + \rho 
 - **↑ h → ↓ P**
 
 (assume ρ change very little)
+
+# P-F-R Relationship
+In systemic circulation :
+- **P1 ~ [[MAP]]**
+- P2 ~ [[CVP]] ~ 0
+- **R ~ [[SVR]]**
+- **F ~ [[Cardiac Output]]**
+
+Referred to Ohm's Law
+$$ MAP = CO \times TPR$$
+# Windkessel Model
+[[Heart]] pump is pulsatile → **require compression chamber** to smooth out
+
+This is archived by **vascular compliance** and **vascular elasticity** of [[Arteries]] and [[Veins]]
+
+## Compliance
+
+![[Pasted image 20220616202448.png]]
+$$C=\frac{dV}{dP}$$
+Ability to **↑ volume q ↑ pressure (distortion)**
+
+
+## Elasticity
+
+![[Pasted image 20220616202428.png]]
+
+Ability to **return to normal shape** q distortion
