@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiovascular System/Anatomy/Heart.md",
+            "file": "Table of Content.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiovascular System/Anatomy/Heart.md",
+                "file": "Table of Content.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,8 @@
   },
   "active": "c89dc5161eee2e81",
   "lastOpenFiles": [
+    "Table of Content.md",
+    "README.md",
     "Cardiovascular System/Anatomy/Heart.md",
     "Cardiovascular System/Pathology/Ventricular Hypertrophy.md",
     "Untitled.md",
@@ -120,8 +122,6 @@
     "Cardiovascular System/Physiology/Cardiac Output.md",
     "Cardiovascular System/Physiology/SV.md",
     "Cardiovascular System/Physiology/Contractility.md",
-    "Drug/Calcium Channel Blockers.md",
-    "Cardiovascular System/Physiology/Bainbridge Reflex.md",
-    "Cardiovascular System/Physiology/Cardiac Afterload.md"
+    "Drug/Calcium Channel Blockers.md"
   ]
 }
