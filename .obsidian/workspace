@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiovascular System/Clinical/EKG.md",
+            "file": "Cardiovascular System/Physiology/Heart Rate.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiovascular System/Clinical/EKG.md",
+                "file": "Cardiovascular System/Physiology/Heart Rate.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "5ecb72c1589a1375",
   "lastOpenFiles": [
+    "Cardiovascular System/Physiology/Heart Rate.md",
+    "Cardiovascular System/Anatomy/Heart.md",
+    "Uncatagorised/Calcium Channel.md",
+    "Cardiovascular System/Physiology/SV.md",
+    "Table of Content.md",
+    "README.md",
     "Cardiovascular System/Clinical/EKG.md",
     "Cardiovascular System/Clinical/Echocardiography.md",
     "Mitral E-A Ratio.md",
-    "Mitral E/A Ratio.md",
-    "Table of Content.md",
-    "README.md",
-    "Cardiovascular System/Anatomy/Heart.md",
-    "Cardiac Pump.md",
-    "KUB/Calcium Reabsorption.md",
-    "Parasitology/Helminths/Acanthocephala/Acanthocephala.md"
+    "Mitral E/A Ratio.md"
   ]
 }

@@ -5,15 +5,34 @@ Consider 3 self-excitory tissues in heart:
 - Intrinsic rate of [[AV Node]] is ~40-60 Hz
 - Intrinsic rate of [[Purkinje Fibers]] is ~15-40 Hz
 
-**↑ rate of [[SA Node]]** → q discharge also **force discharge** [[AV Node]] and [[Purkinje Fibers]] → [[SA Node]] being the main determinance of [[Heart Rate]]
+**↑ rate of [[SA Node]]** → q discharge also **force discharge** [[AV Node]] and [[Purkinje Fibers]] → [[SA Node]] being the main determinance
 
-## External Control 
-[[Sympathetic NS]] → all parts of [[Heart]] (esp. ventricles)
+## Neural Control
+
+![[Pasted image 20220616060954.png]]
+
+[[Sympathetic NS]] → ↑ opening of [[Funny Channel]] and [[Calcium Channel#T-type]] → ↑↑ [[Sodium]] and [[Calcium]] influx
 - **↑ slope** of prepoteintial phase → ↓ time btwn pulse → ↑ HR
 - **↑ excitibility of [[AV Bundle]]**
-- **↑↑↑ force of contraction** (all part of heart)
 
-[[Parasympathetic NS]] → [[SA Node]], [[AV Node]], and atria (few)
+→ ↑ HR
+
+![[Pasted image 20220616061015.png]]
+
+[[Parasympathetic NS]] → ↑ opening of [[Potassium Channel]], ↓ [[Funny Channel]], ↓ [[Calcium Channel#T-type]] →
 - **↓ slope** of prepoteintial phase → take longer to reach AP 
 - **↓ excitibility of [[AV Bundle]]**
+
 → ↓ [[Heart Rate]] (potentially stop SA node → [[Ventricular Escape]])
+
+> Also see **[[Bainbridge Reflex]]**
+
+## Hormonal Control
+- **[[Catecholamines]]**
+	- ← [[Adrenal Medulla]]
+	- **↑ AP freq. at [[SA Node]]** (similar to Sympathetic NS)
+- **[[Thyroid Hormones]]**
+	- ← [[Thyroid Gland]]
+	- **↑ pre-potential slope** and **↑ rate of repolarization**
+
+→ **↑ HR**

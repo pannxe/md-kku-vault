@@ -98,11 +98,13 @@ See [[Heart Valves]]
 
 # Innervation
 ## Motor Control
-- [[Sympathetic NS]] -- **[[Cervical Sympathetic Chain]]** (all 3) and T1-T5 [[Thoracic Sympathetic Chain]] → **[[Sympathetic Cardiac Nerve]]** →
-	- ↑ HR, ↑ contractility, ↑ SV → **↑ CO**
-- [[Parasympathetic NS]] -- **[[CN X|Vagus Nerve]]** → **[[SA Node]]**, **[[AV Node]]**, and **[[Myocardium]]** → 
-	- ↓ HR and ↓ SV → **↓ CO**
-	- **Constrict [[Coronary Arteries]]** -- ↓ load → ↓ supply
+[[Sympathetic NS]]
+- **[[Cervical Sympathetic Chain]]** (all 3) and T1-T5 [[Thoracic Sympathetic Chain]] → **[[Sympathetic Cardiac Nerve]]** → all parts of heart
+- ↑ HR, ↑↑ contractility, ↑ SV → **↑ CO**
+
+[[Parasympathetic NS]] -- **[[CN X|Vagus Nerve]]** → **[[SA Node]]**, **[[AV Node]]**, and atria → 
+- ↓ HR and ↓ SV → **↓ CO**
+- **Constrict [[Coronary Arteries]]** -- ↓ load → ↓ supply
 
 > See [[Heart Rate#Control]]
 
@@ -158,3 +160,6 @@ Each event between the beginning of heartbeat to the next is called **[[Cardiac 
 
 > - See **[[Electrical Activity of Heart]]** for cellular level mechanism
 > - CC : Waves of AP can be detected by **[[EKG]]**
+
+## Cardiodynamic
+**[[Cardiac Output|CO]] = [[Heart Rate|HR]] x [[SV]]** -- assume avg values 72 /min x 70 mL → 5 L/min
