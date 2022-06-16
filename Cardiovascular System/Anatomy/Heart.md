@@ -102,6 +102,8 @@ See [[Heart Valves]]
 - **[[Cervical Sympathetic Chain]]** (all 3) and T1-T5 [[Thoracic Sympathetic Chain]] → **[[Sympathetic Cardiac Nerve]]** → all parts of heart
 - ↑ HR, ↑↑ contractility, ↑ SV → **↑ CO**
 
+> **Normally** **discharge continuously** at ~30% ↑ q s sympathetic at all → if  → ↓ HR and ↓ SV
+
 [[Parasympathetic NS]] -- **[[CN X|Vagus Nerve]]** → **[[SA Node]]**, **[[AV Node]]**, and atria → 
 - ↓ HR and ↓ SV → **↓ CO**
 - **Constrict [[Coronary Arteries]]** -- ↓ load → ↓ supply
@@ -162,5 +164,10 @@ Each event between the beginning of heartbeat to the next is called **[[Cardiac 
 > - CC : Waves of AP can be detected by **[[EKG]]**
 
 ## Cardiodynamic
+
+![[Pasted image 20220616151759.png]]
+
 **[[Cardiac Output|CO]] = [[Heart Rate|HR]] x [[SV]]** -- assume avg values 72 /min x 70 mL → 5 L/min
 > See [[Heart Rate#Control]] and [[SV#Control and Influence]]
+
+> CC : [[Ventricular Hypertrophy]]

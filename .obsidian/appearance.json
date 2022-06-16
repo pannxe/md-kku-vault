@@ -5,6 +5,7 @@
   "translucency": false,
   "enabledCssSnippets": [
     "remove-top-margin",
-    "bigger-link-popup-preview"
+    "bigger-link-popup-preview",
+    "bigger-latex"
   ]
 }

@@ -2,16 +2,10 @@
 
 Stroke Volume -- amount of [[Blood]] pumped by each [[Heart|ventricles]] per contraction
 
-## Control and Influence
-## Frank-Starling Mechanism
+# Control and Influence
 
+![[Pasted image 20220616151503.png]]
 
-**[[Cardiac Preload]]** -- degree to which myocardium is stretch a contracts (assoc. RV pressure)
-- ↑ Filling time
-- ↑ [[Venous Return]] (volume)
-- ↑ distensibility of ventricles
-- ↑ atrial force
-
-→ **↑ [[EDV]]** → **↑↑ preload** (i.e., ↑ heart distension) → ↑ contractility    → ↑ SV
-
-**[[Cardiac Afterload]]** 
+- ↑ **[[Cardiac Preload]]** → ↑ [[EDV]] → **↑ SV** -- via [[Frank-Starling Mechanism]]
+- ↑ **[[Cardiac Afterload]]** → ↑ [[ESV]] → ↓ SV
+- ↑ **[[Contractility]]** → ↓ [[ESV]] → ↑ SV
