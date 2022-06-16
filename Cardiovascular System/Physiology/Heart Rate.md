@@ -12,7 +12,7 @@ Consider 3 self-excitory tissues in heart:
 ![[Pasted image 20220616060954.png]]
 
 [[Sympathetic NS]] → ↑ opening of [[Funny Channel]] and [[Calcium Channel#T-type]] → ↑↑ [[Sodium]] and [[Calcium]] influx
-- **↑ slope** of prepoteintial phase → ↓ time btwn pulse → ↑ HR
+- **↑ slope** of **pre-poteintial phase** → ↓ time btwn pulse → ↑ HR
 - **↑ excitibility of [[AV Bundle]]**
 
 → ↑ HR
@@ -28,11 +28,7 @@ Consider 3 self-excitory tissues in heart:
 > Also see **[[Bainbridge Reflex]]**
 
 ## Hormonal Control
-- **[[Catecholamines]]**
-	- ← [[Adrenal Medulla]]
-	- **↑ AP freq. at [[SA Node]]** (similar to Sympathetic NS)
-- **[[Thyroid Hormones]]**
-	- ← [[Thyroid Gland]]
-	- **↑ pre-potential slope** and **↑ rate of repolarization**
+- **[[Catecholamines]]** -- **↑ AP freq. at [[SA Node]]** (similar to Sympathetic NS)
+- **[[Thyroid Hormones]]** -- **↑ pre-potential slope** and **↑ rate of repolarization** 
 
 → **↑ HR**

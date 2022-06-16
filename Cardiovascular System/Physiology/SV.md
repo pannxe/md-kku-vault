@@ -2,4 +2,5 @@
 
 Stroke Volume -- amount of [[Blood]] pumped by each [[Heart|ventricles]] per contraction
 
-## Control
+## Control and Influence
+- **[[Cardiac Preload]]** -- 

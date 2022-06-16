@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiovascular System/Physiology/Heart Rate.md",
+            "file": "Cardiovascular System/Physiology/SV.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.0055618286133
+    "width": 286.0055618286133,
+    "collapsed": true
   },
   "right": {
     "id": "1ba219579345abb4",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiovascular System/Physiology/Heart Rate.md",
+                "file": "Cardiovascular System/Physiology/SV.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,15 +114,15 @@
   },
   "active": "5ecb72c1589a1375",
   "lastOpenFiles": [
-    "Cardiovascular System/Physiology/Heart Rate.md",
-    "Cardiovascular System/Anatomy/Heart.md",
-    "Uncatagorised/Calcium Channel.md",
     "Cardiovascular System/Physiology/SV.md",
+    "Cardiovascular System/Anatomy/Heart.md",
+    "Cardiovascular System/Physiology/Heart Rate.md",
+    "Endocrine System/Hormones/Thyroid Hormones.md",
+    "Bainbridge Reflex.md",
+    "Untitled.md",
+    "Uncatagorised/Calcium Channel.md",
     "Table of Content.md",
     "README.md",
-    "Cardiovascular System/Clinical/EKG.md",
-    "Cardiovascular System/Clinical/Echocardiography.md",
-    "Mitral E-A Ratio.md",
-    "Mitral E/A Ratio.md"
+    "Cardiovascular System/Clinical/EKG.md"
   ]
 }
