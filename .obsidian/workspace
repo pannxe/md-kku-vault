@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.0055618286133,
-    "collapsed": true
+    "width": 286.0055618286133
   },
   "right": {
     "id": "1ba219579345abb4",
@@ -115,9 +114,9 @@
   "active": "c89dc5161eee2e81",
   "lastOpenFiles": [
     "Cardiovascular System/Anatomy/Heart.md",
-    "Ventricular Hypertrophy.md",
+    "Cardiovascular System/Pathology/Ventricular Hypertrophy.md",
     "Untitled.md",
-    "Cardiac Wall Tension.md",
+    "Cardiovascular System/Physiology/Cardiac Wall Tension.md",
     "Cardiovascular System/Physiology/Cardiac Output.md",
     "Cardiovascular System/Physiology/SV.md",
     "Cardiovascular System/Physiology/Contractility.md",
