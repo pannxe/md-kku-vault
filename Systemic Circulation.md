@@ -1,0 +1,2 @@
+- **[[Heart#Left Ventricle]]** → **entire body** → **[[Heart#Right Atrium]]**
+- **Low pressure** system (25/8 mmHg in [[Pulmonary Artery]])
