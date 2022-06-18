@@ -7,13 +7,8 @@
         "id": "c89dc5161eee2e81",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Table of Content.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table of Content.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,8 +107,8 @@
   },
   "active": "c89dc5161eee2e81",
   "lastOpenFiles": [
-    "Table of Content.md",
     "Cardiovascular System/Physiology/Haemodynamic.md",
+    "Table of Content.md",
     "Cardiovascular System/Physiology/SVR.md",
     "IVF.md",
     "Cardiovascular System/Physiology/Cardiac Afterload.md",
