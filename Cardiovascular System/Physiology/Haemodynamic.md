@@ -4,6 +4,7 @@ Dual pump system of [[Heart]] → create 2 circulations within body
 
 # Structure
 **[[Arteries]]** → **[[Arterioles]]** → **[[Capillaries]]** → **[[Vanules]]** → **[[Veins]]**
+> See [[Vascular System]]
 
 # Blood Flow
 
@@ -68,20 +69,7 @@ In systemic circulation :
 
 Referred to Ohm's Law
 $$ MAP = CO \times TPR$$
-# Windkessel Model
-[[Heart]] pump is pulsatile → **require compression chamber** to smooth out
 
-This is archived by **vascular compliance** and **vascular elasticity** of [[Arteries]] and [[Veins]]
-
-## Compliance
-
-![[Pasted image 20220616202448.png]]
-$$C=\frac{dV}{dP}$$
-Ability to **↑ volume q ↑ pressure (distortion)**
-
-
-## Elasticity
-
-![[Pasted image 20220616202428.png]]
-
-Ability to **return to normal shape** q distortion
+---
+# Misc.
+**[[Windkessel Model]]** -- ↓ pressure oscillation

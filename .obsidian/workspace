@@ -7,8 +7,13 @@
         "id": "c89dc5161eee2e81",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Cardiovascular System/Vascular System.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.0055618286133
+    "width": 286.0055618286133,
+    "collapsed": true
   },
   "right": {
     "id": "1ba219579345abb4",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cardiovascular System/Vascular System.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,15 +114,15 @@
   },
   "active": "c89dc5161eee2e81",
   "lastOpenFiles": [
-    "Cardiovascular System/Physiology/Haemodynamic.md",
+    "Cardiovascular System/Vascular System.md",
     "Table of Content.md",
-    "Cardiovascular System/Physiology/SVR.md",
-    "IVF.md",
-    "Cardiovascular System/Physiology/Cardiac Afterload.md",
-    "Endocrine System/Physiology/Hormones/ADH.md",
-    "Cardiovascular System/Physiology/CVP.md",
-    "Cardiovascular System/Physiology/Systemic Circulation.md",
-    "Cardiovascular System/Physiology/Pulmonary Circulation.md",
-    "Cardiovascular System/Anatomy/Heart.md"
+    "Cardiovascular System/Blood Pressure.md",
+    "Cardiovascular System/Anatomy/Aorta.md",
+    "Cardiovascular System/Physiology/Haemodynamic.md",
+    "Cardiovascular System/Physiology/MAP.md",
+    "Pulse Pressure.md",
+    "Pulse.md",
+    "Gastrointestinal System/Pathology/Abdominal Pain.md",
+    "Systolic Pressure.md"
   ]
 }
