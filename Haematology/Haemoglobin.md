@@ -32,7 +32,7 @@ CC : [[Thalassaemia]]
 
 # Derivatives
 - **Deoxy**haemoglobin -- s oxygen
-- **Oxy**haemoglobin -- c [[Oxygen]]
+- **Oxy**haemoglobin -- c [[O2]]
 - **Carboxy**haemoglobin -- s [[CO]]
 - **Carbaminoxy**haemaglobin -- c [[CO2]]
 - Glycosylated haemoglobin (**[[Hb A1C]]**) 
@@ -46,7 +46,7 @@ CC : [[Thalassaemia]]
 O2 saturation (%) vs pO2 (mmHg) — sigmoid curve
 
 **P50** -- **O2 tension** that cause **50% O2 saturation of Hb**
-> **↑ P50** (right shift) → required more [[Oxygen]] to make Hb saturate → **↓ affinity** and vice versa
+> **↑ P50** (right shift) → required more [[O2]] to make Hb saturate → **↓ affinity** and vice versa
 
 ## Factors Affacting P50
 These factors ↑ → ↑ P50 and vice versa

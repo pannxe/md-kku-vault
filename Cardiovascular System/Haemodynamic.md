@@ -36,12 +36,9 @@ $$F = \frac{\Delta P \pi r^4}{8\eta l}$$
 q combine c Ohm's law :
 $$R=\frac{8 \eta l}{\pi r^4}$$
 
-Since η and l changes are minimal → **main determinant of R is r**
+Since η and l changes are minimal → **main determinant of R is r** → contribute to **[[SVR]]** and principle control in **[[Regional Circulation]]**
 
-> Viscosity is defined as follow :
-$$\eta = \frac{F/A}{dv/dx}$$
-(F/A is shear force; dv/dx is shear rate)
-
+> Viscosity is defined as follow : $$\eta = \frac{F/A}{dv/dx}$$(F/A is shear force; dv/dx is shear rate)
 
 
 # Velocity of Blood Flow
@@ -68,7 +65,7 @@ In systemic circulation :
 - **F ~ [[Cardiac Output]]**
 
 Referred to Ohm's Law
-$$ MAP = CO \times TPR$$
+$$ MAP = CO \times SVR$$
 
 ---
 # Misc.

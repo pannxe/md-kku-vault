@@ -2,7 +2,8 @@
 
 Ventricles of [[Heart]] become hypertrophic **in respond to ↑ [[Cardiac Wall Tension]]**
 
-$$T \propto \frac{P\cdot r}{h}$$
+Laplace's Law:
+$$T = \frac{P\cdot r}{2h}$$
 **↑ wall thickness** to ↓ tension;
 - Pressure ↑↑ → concentric -- ↓ r
 - Volume ↑↑ → eccentric -- ↑r → ↑ volume capability

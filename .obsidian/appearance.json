@@ -4,8 +4,8 @@
   "cssTheme": "Minimal",
   "translucency": false,
   "enabledCssSnippets": [
-    "remove-top-margin",
     "bigger-link-popup-preview",
-    "bigger-latex"
+    "bigger-latex",
+    "remove-top-margin"
   ]
 }

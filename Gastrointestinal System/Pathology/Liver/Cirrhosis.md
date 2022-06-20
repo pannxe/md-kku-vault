@@ -20,7 +20,7 @@ End result of [[Chronic Liver Diseases]]. Normal [[Liver]] architecture is repla
 - **[[Portal Hypertension]]** <- distorted architecture of [[Sinusoid]]
 - **[[Hyperammonaemia]]** -> **[[Hepatic Encephalopathy]]** -> [[Asterixis]]
 > Normally destroy in liver
-- [[Hypoalbuminaemia]] -> **[[Pitting Oedema]]**
+- [[Hypoalbuminaemia]] -> **[[Oedema#Pitting]]**
 - **[[Fetor Hepaticus]]**
 
 # Consequences

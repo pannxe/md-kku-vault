@@ -20,7 +20,7 @@ Destroy [[Intestinal Mucosal Layer]] -> inflammation (leukocyte infiltration) ->
 - **Chronic Waterry [[Diarrhoea]]**
 > [[Abdominal Pain]], [[Nausea & Vomiting]], [[Anorexia]], [[Abdominal Discomfort]], large volume of defaecation
 - Protein [[Malabsorption]] -> **Protein-losing enteropathy**
-	- **[[Hypoalbuminaemia]]** -> [[Pitting Oedema]], [[Ascites]], and [[Cachexia]]
+	- **[[Hypoalbuminaemia]]** -> [[Oedema#Pitting]], [[Ascites]], and [[Cachexia]]
 	- Decrease immunity -> 2nd bacterial infection
 
 # Diagnosis

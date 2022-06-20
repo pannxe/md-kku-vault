@@ -1,0 +1,1 @@
+Fluid between [[Interstitium]]; content similar to [[Plasma]] except ↓↓ [[Proteins]]

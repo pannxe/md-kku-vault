@@ -6,7 +6,7 @@ Human erythropoietin gene is encoded in chromosome 7q11-22 (193 amino acids). Re
 # Stimulation
 **[[Hypoxia]]** ←
 - ↓ [[Red Blood Cell]] / ↓ [[Haemoglobin]]
-- ↓ [[Oxygen]] availability
+- ↓ [[O2]] availability
 
 # Physiology
 **落 [[Bone Marrow]]** → **↑ [[Erythropoiesis]]** → ↑ O2 carrying capacity

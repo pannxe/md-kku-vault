@@ -170,4 +170,4 @@ Each event between the beginning of heartbeat to the next is called **[[Cardiac 
 **[[Cardiac Output|CO]] = [[Heart Rate|HR]] x [[SV]]** -- assume avg values 72 /min x 70 mL → 5 L/min
 > See [[Heart Rate#Control]] and [[SV#Control and Influence]]
 
-> CC : [[Ventricular Hypertrophy]]
+> CC : **[[Ventricular Hypertrophy]]**
