@@ -1,7 +1,7 @@
 # Mechanism of Action
-**↓ [[Blood Pressure]]** →  **[[Baroreceptors]]** (at [[Aorta#Arch]] and [[Carotid Sinus]]) → 落 [[Medulla Oblongata]] → **↓ [[Parasympathetic NS]]** and ↑ [[Sympathetic NS]] → 
-- 落 [[Heart#Motor Control]] → ↑ [[CO]]
-- Vasoconstriction → ↑ [[SVR]]
+**↓ [[Blood Pressure]]** →  **[[Baroreceptors]]** → 落 [[Medulla Oblongata]] → **落 [[Sympathetic NS]]** → **↑↑ [[Norepinephrine]]**
+- [[β1-Adrenergic Receptor]] → 落 [[Heart#Motor Control]] → ↑ [[CO]]
+- [[α1-Adrenergic Receptor]] → [[Vasoconstriction]] at **[[Arterioles]]** → ↑ [[SVR]]
 
 → **↑ [[Blood Pressure]]** → negative feedback
 

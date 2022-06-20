@@ -1,3 +1,5 @@
+Affinity to [[β1-Adrenergic Receptor]] > [[β2-Adrenergic Receptor]]
+
 # Physiology
 ## CVS
 **[[Vasoconstriction]] prominant** →

@@ -14,7 +14,15 @@ Normally ~800-1200 dyne-sec/cm^5
 **Reflex [[Cardiac Afterload]]** → ddx [[Shock]], indication of IV fluid or [[Vasopressor]]
 
 # Control
-Local metabolites, [[Hormones]], [[Autonomic NS]], → **[[Vasoconstriction]]**
+## Increase
+- [[Sympathetic NS]] via **[[α1-Adrenergic Receptor]]** -- [[Epinephrine]] and [[Norepinephrine]]
+- [[Hormones]] -- **[[Angiotensin II]]**, **[[ADH]]**, and [[5-HT]]
+- [[Paracrine]] -- **[[Thromboxanes]]** and **[[Endothelins]]**
 
-## Myogenic Response
-q ↑ pressure → 落 [[Calcium]] release → contraction → ↓ 
+→ **[[Vasoconstriction]]** of [[Arterioles]], [[Metarterioles]], and [[Pre-capillary Sphincter]] → ↑ SVR
+
+## Decrease
+- **[[NO]]**, **Bradykinin**, [[Prostacyclins]], [[EDRF]]
+- **[[Histamine]]**
+
+→ [[Vasodilation]]

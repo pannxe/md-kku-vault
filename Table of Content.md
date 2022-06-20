@@ -67,7 +67,8 @@
 | ----- | ------------------------------------------------------------------------------- |
 | 1-2   | [[Mediastinum]]                                                                 |
 | 3-4   | [[Heart#Gross Anatomy]] and [[Blood Vessels#Gross Anatomy]]                     |
-| 5-6   | [[Heart#Microanatomy]] and [[Blood Vessels#Microanatomy]]                       |
+| 5-6   | [[Development of Heart]]                                                        |
+| 7-8   | [[Heart#Microanatomy]] and [[Blood Vessels#Microanatomy]]                       |
 | 9     | [[Electrical Activity of Heart]] and [[EKG]]                                    |
 | 10    | [[Heart#Physiology#Biological Pump]], [[Heart Sound]], and [[Echocardiography]] |
 | 11    | [[Heart#Physiology#Cardiodynamic]]                                              |
@@ -76,4 +77,4 @@
 | 15    | [[Microcirculation]]                                                            |
 | 16    | [[Regional Circulation]]                                                        |
 | 17    | [[CVS Control]]                                                                 |
-| 18    | [[Adjustment of CVS]] and [[Shock]]                                                                                |
+| 18    | [[Adjustment of CVS]] and [[Shock]]                                             |
