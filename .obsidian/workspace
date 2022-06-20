@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiovascular System/Physiology/Venous Pressure.md",
+            "file": "Cardiovascular System/Microcirculation.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.0055618286133,
-    "collapsed": true
+    "width": 286.0055618286133
   },
   "right": {
     "id": "1ba219579345abb4",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiovascular System/Physiology/Venous Pressure.md",
+                "file": "Cardiovascular System/Microcirculation.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,15 +113,15 @@
   },
   "active": "c89dc5161eee2e81",
   "lastOpenFiles": [
-    "Cardiovascular System/Physiology/Venous Pressure.md",
-    "Cardiovascular System/Physiology/CVP.md",
-    "Cardiovascular System/Physiology/Haemodynamic.md",
-    "Skeletal Muscle Pump.md",
-    "Cardiovascular System/Physiology/Respiratory Pump.md",
+    "Cardiovascular System/Microcirculation.md",
     "Table of Content.md",
     "README.md",
-    "Arterial System.md",
+    "Cardiovascular System/Physiology/Baroreceptor Reflex.md",
+    "__to-rearr__/Area Postrema.md",
+    "Cardiovascular System/Physiology/Venous Pressure.md",
+    "Cardiovascular System/Physiology/Haemodynamic.md",
     "Cardiovascular System/Blood Pressure.md",
-    "Cardiovascular System/Physiology/Pulse Wave.md"
+    "Cardiovascular System/Vascular System.md",
+    "Cardiovascular System/Pathology/Varicose Veins.md"
   ]
 }

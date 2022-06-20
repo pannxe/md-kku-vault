@@ -29,6 +29,8 @@ q ejection of blood pressure wave from distension of [[Aorta]] is generated → 
 - [[Patent Ductus Arteriosus]] -- blood from [[Aorta]] flow to [[Pulmonary Artery]] → [[Lung]] **q diastole** → **↓ DP** → ↑ SP to compensate
 - [[Aortic Regurgitation]] -- blood flow back to LV → ↓↓ DP → ↑↑ SP to compensate
 
+> q BP ↓ → **落 [[Baroreceptor Reflex]]** → ↑ BP
+
 # Determinants
 [[MAP]] = [[SV]] x [[Heart Rate]] x [[SVR]] -- what determine those also determine BP
 
