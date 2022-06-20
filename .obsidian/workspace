@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiovascular System/Vascular System.md",
+            "file": "Pulse Wave.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.0055618286133
+    "width": 286.0055618286133,
+    "collapsed": true
   },
   "right": {
     "id": "1ba219579345abb4",
@@ -63,7 +64,7 @@
       {
         "id": "1168c53841ffdc11",
         "type": "tabs",
-        "dimension": 30.355220667384287,
+        "dimension": 38.004246284501065,
         "children": [
           {
             "id": "8728323aca0784d8",
@@ -86,7 +87,7 @@
       {
         "id": "ac4a66cc8df79994",
         "type": "tabs",
-        "dimension": 69.64477933261571,
+        "dimension": 61.995753715498935,
         "children": [
           {
             "id": "e45f2848243fe691",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiovascular System/Vascular System.md",
+                "file": "Pulse Wave.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,15 +114,15 @@
   },
   "active": "c89dc5161eee2e81",
   "lastOpenFiles": [
+    "Pulse Wave.md",
+    "Cardiovascular System/Anatomy/Aorta.md",
     "Cardiovascular System/Vascular System.md",
     "Table of Content.md",
     "Cardiovascular System/Blood Pressure.md",
-    "Cardiovascular System/Anatomy/Aorta.md",
     "Cardiovascular System/Physiology/Haemodynamic.md",
     "Cardiovascular System/Physiology/MAP.md",
     "Pulse Pressure.md",
     "Pulse.md",
-    "Gastrointestinal System/Pathology/Abdominal Pain.md",
-    "Systolic Pressure.md"
+    "Gastrointestinal System/Pathology/Abdominal Pain.md"
   ]
 }

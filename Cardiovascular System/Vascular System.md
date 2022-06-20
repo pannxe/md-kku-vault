@@ -33,5 +33,3 @@ a.k.a. vascular capacitance -- ability to ↑ volume q ↑ pressure; [[Venous Sy
 ## Clinical Correlation
 - ↑ age → [[Collagen]] deposition replace [[Elastin]] → ↓ compliance → ↓ [[Windkessel Model]] → **compensatory ↑ [[Blood Pressure#Systolic]]** 
 - **Velocity of [[Pulse Wave]]** is used to measure arterial compliance
-
-#HERE
