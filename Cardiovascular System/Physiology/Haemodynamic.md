@@ -63,7 +63,7 @@ $$P_1 + \frac{1}{2}\rho v_1^2 + \rho g h_1 = P_2 + \frac{1}{2}\rho v_2^2 + \rho 
 # P-F-R Relationship
 In systemic circulation :
 - **P1 ~ [[MAP]]**
-- P2 ~ [[CVP]] ~ 0
+- P2 ~ [[Venous Pressure#Central]] ~ 0
 - **R ~ [[SVR]]**
 - **F ~ [[Cardiac Output]]**
 
