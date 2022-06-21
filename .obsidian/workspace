@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiovascular System/Anatomy/Heart.md",
+            "file": "Cardiovascular System/Anatomy/Blood Vessels.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiovascular System/Anatomy/Heart.md",
+                "file": "Cardiovascular System/Anatomy/Blood Vessels.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "c89dc5161eee2e81",
   "lastOpenFiles": [
+    "Cardiovascular System/Anatomy/Blood Vessels.md",
+    "__to-rearr__/Adventitia.md",
     "Cardiovascular System/Anatomy/Heart.md",
+    "Purkinje Fibers.md",
     "Cardiovascular System/Anatomy/Heart Valves.md",
     "Chordae Tendineae.md",
     "Cardiovascular System/Anatomy/Musculi Pectinati.md",
     "Endocardium.md",
     "Simple Squamous Epithelium.md",
-    "Cardiovascular System/Anatomy/Myocardium.md",
-    "Cardiac Muscle.md",
-    "Cardiovascular System/Anatomy/Pericardium.md",
-    "Table of Content.md"
+    "Cardiovascular System/Anatomy/Myocardium.md"
   ]
 }

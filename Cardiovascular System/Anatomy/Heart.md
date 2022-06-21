@@ -157,7 +157,7 @@ Each event between the beginning of heartbeat to the next is called **[[Cardiac 
 ![[Pasted image 20220613193110.png]]
 
 1. **[[SA Node]] init** contraction cycle → **[[AV Node]]** and **Atria**
-2. [[AV Node]] → [[AV Bundle]] → cross AV annulus fibrosus → Rt. and Lt. bundle branches → [[Purkinje Fibers]]
+2. [[AV Node]] → [[AV Bundle]] (Bundle of His) → cross AV annulus fibrosus → Rt. and Lt. bundle branches → **[[Purkinje Fibers]]**
 
 > - See **[[Electrical Activity of Heart]]** for cellular level mechanism
 > - CC : Waves of AP can be detected by **[[EKG]]**
