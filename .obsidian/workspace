@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cerebral Circulation.md",
+            "file": "Regional Circulation.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.0055618286133
+    "width": 286.0055618286133,
+    "collapsed": true
   },
   "right": {
     "id": "1ba219579345abb4",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cerebral Circulation.md",
+                "file": "Regional Circulation.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,15 +129,15 @@
   },
   "active": "c89dc5161eee2e81",
   "lastOpenFiles": [
-    "Cerebral Circulation.md",
-    "Brain.md",
-    "CPP.md",
     "Regional Circulation.md",
-    "Coronary Circulation.md",
-    "Cardiovascular System/CVS Control.md",
-    "Table of Content.md",
-    "Epicardium.md",
+    "Cardiovascular System/Physiology/Pulmonary Circulation.md",
+    "Renal Circulation.md",
+    "Skeletal Muscle Circulation.md",
+    "Splanchnic Circulation.md",
+    "Cutaneous Circutation.md",
+    "GI Motility.md",
+    "Exercise.md",
     "Hyperaemia.md",
-    "Reactive Hyperaemia.md"
+    "Nervous System/Anatomy/Hypothalamus.md"
   ]
 }

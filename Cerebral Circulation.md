@@ -6,10 +6,10 @@
 - [[MAP]] and [[Venous Pressure]]
 
 # Regulation
+## Autoregulation
 
 ![[Pasted image 20220622051314.png]]
 
-## Autoregulation
 Autoregulation in [[Brain]] is mostly depends on **metabolite**, i.e., **PO2**, **PCO2**, **H+ conc.**, and **metabolite from [[Astrocyte]]** → ↑↑ or ↓↓ in [[Blood Pressure]] → ←→ cerebral blood flow
 
 However, it only **effective around [[MAP]] ~50-150 mmHg**
@@ -17,3 +17,6 @@ However, it only **effective around [[MAP]] ~50-150 mmHg**
 ![[Pasted image 20220622051105.png]]
 
 CC : Chronic [[Hypertension]] pt. → remodelling of cerebral blood vessels → **rt. shifting** → **↑↑ risk of [[Ischaemia]]** if [[MAP]] ↓↓
+
+## Neural Control
+Relatively weak but [[Substance P]] and [[CGRP]] can cause [[Vasodilation]]

@@ -1,0 +1,3 @@
+- [[Gastric Motility]]
+- [[Small Intestine Motility]]
+- [[Large Intestine Motility]]
