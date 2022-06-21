@@ -1,9 +1,14 @@
-# Features
+![[Pasted image 20220622003832.png]]
 
-![[Pasted image 20220615222928.png]]
+The **thickest layer** of [[Heart#Cardiac Wall]] -- contains **[[Cardiac Muscle]]** arranged **spirally** around each chamber
 
-- Striation
-- Branching cell
-- Intercalated disc
-	- [[Desmosome]]
-	- **[[Gap Jungtion]]** → ↓ Ω → **2 syncytia**, atrial and ventricular
+![[Pasted image 20220622004148.png]]
+
+bco [[Gap Jungtion]] → ↓ Ω → synchronous muscle contraction
+
+# Clinical Correlation
+## Hypertrophy
+- **↑ nuclear size**
+- ↑ [[Fibrosis]] → disarray
+
+> e.g., [[Ventricular Hypertrophy]]

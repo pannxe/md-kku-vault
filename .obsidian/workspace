@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shock.md",
+            "file": "Cardiovascular System/Anatomy/Heart.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -82,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ac4a66cc8df79994",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shock.md",
+                "file": "Cardiovascular System/Anatomy/Heart.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,15 +114,15 @@
   },
   "active": "c89dc5161eee2e81",
   "lastOpenFiles": [
-    "Shock.md",
-    "Ileus.md",
-    "Hypovolumic Shock.md",
-    "Table of Content.md",
-    "Adjustment of CVS.md",
-    "Hypotension.md",
-    "Cardiovascular System/Blood Pressure.md",
-    "Cardiovascular System/Vascular System.md",
-    "Cardiovascular System/CVS Control.md",
-    "Endocrine System/Pathology/Hyperthyroidism.md"
+    "Cardiovascular System/Anatomy/Heart.md",
+    "Cardiovascular System/Anatomy/Heart Valves.md",
+    "Chordae Tendineae.md",
+    "Cardiovascular System/Anatomy/Musculi Pectinati.md",
+    "Endocardium.md",
+    "Simple Squamous Epithelium.md",
+    "Cardiovascular System/Anatomy/Myocardium.md",
+    "Cardiac Muscle.md",
+    "Cardiovascular System/Anatomy/Pericardium.md",
+    "Table of Content.md"
   ]
 }

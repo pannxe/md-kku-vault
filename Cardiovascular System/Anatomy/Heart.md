@@ -18,14 +18,14 @@
 
 ## Cardiac Wall
 
-![[Pasted image 20220613051228.png]]
+![[Pasted image 20220622003756.png]]
 
 3 Layers
 - **Epicardium** -- i.e., [[Pericardium#Visceral Layer]]
-- **Myocardium** -- layer of **[[Cardiac Muscle]]**
-- **Endocardium** -- inner lining
+- **[[Myocardium]]** -- layer of **[[Cardiac Muscle]]**
+- **[[Endocardium]]** -- inner lining
 
-## Septi
+## Septa
 
 ![[Pasted image 20220613052016.png]]
 
@@ -91,10 +91,9 @@ Recieve blood from LA → **pump to systemic circulation** via **[[Aorta]]**
 - **[[Aortic Valve]]**
 
 # Heart Valves
-See [[Heart Valves]]
+[[Heart Valves]] are connected to **papillary muscles** of ventricles via **[[Chordae Tendineae]]**
 
-# Microanatomy
-#TODO 
+> See **[[Heart Valves]]**
 
 # Innervation
 ## Motor Control

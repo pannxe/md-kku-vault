@@ -65,7 +65,7 @@
 ## Cardiovascular System
 | #     | Location                                                                        |
 | ----- | ------------------------------------------------------------------------------- |
-| 1-2   | [[Mediastinum]]                                                                 |
+| 1-2   | [[Mediastinum]] and [[Pericardium]]                                                               |
 | 3-4   | [[Heart#Gross Anatomy]] and [[Blood Vessels#Gross Anatomy]]                     |
 | 5-6   | [[Development of Heart]]                                                        |
 | 7-8   | [[Heart#Microanatomy]] and [[Blood Vessels#Microanatomy]]                       |
