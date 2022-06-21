@@ -45,5 +45,5 @@ Usually does not referred to [[Gallbladder]]; Dx by clinical setting
 ## Complication
 - Bacterial superinfection
 - [[Gallbladder Perforation]], rupture, etc.
-- [[Gallbladder Fistula]] -> [[Intestinal Obstruction]] -> [[ileus]]
+- [[Gallbladder Fistula]] -> [[Intestinal Obstruction]] -> [[Ileus]]
 - [[Gallbladder Cancer]] 

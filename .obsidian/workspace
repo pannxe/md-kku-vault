@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Table of Content.md",
+            "file": "Shock.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table of Content.md",
+                "file": "Shock.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "c89dc5161eee2e81",
   "lastOpenFiles": [
+    "Shock.md",
+    "Ileus.md",
+    "Hypovolumic Shock.md",
     "Table of Content.md",
+    "Adjustment of CVS.md",
+    "Hypotension.md",
+    "Cardiovascular System/Blood Pressure.md",
+    "Cardiovascular System/Vascular System.md",
     "Cardiovascular System/CVS Control.md",
-    "Endocrine System/Pathology/Hyperthyroidism.md",
-    "Cardiovascular System/Physiology/SVR.md",
-    "Cardiovascular System/Physiology/Baroreceptor Reflex.md",
-    "Cardiovascular System/Anatomy/Baroreceptors.md",
-    "__to-rearr__/Norepinephrine.md",
-    "Parasympathetic NS.md",
-    "Cardiovascular System/Physiology/Venous Pressure.md",
-    "Cardiovascular System/Physiology/Venous Return.md"
+    "Endocrine System/Pathology/Hyperthyroidism.md"
   ]
 }

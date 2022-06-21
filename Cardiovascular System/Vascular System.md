@@ -41,5 +41,4 @@ Certain part of circulation that can store extra [[Blood]]
 - **[[Veins|Large Abdominal Veins]]** -- 300 mL
 - **Venous Plexus under the [[Skin]]** -- several hundred mL
 
-> Also [[Heart]] and [[Lung]] q [[Sympathetic NS]] 落 → ~100 mL each
-
+> Also [[Heart]] and [[Lung]] q [[Sympathetic NS]] 落 → ~100 mL each 

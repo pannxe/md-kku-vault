@@ -60,7 +60,7 @@ Indicate severe pathology -- [[Peritonitis]], [[Intestinal Infarction]], [[Aorti
 		- **Watery** -> **[[Small Intestine]]**
 		- **Bloody c mucus** -> **[[Large Intestine]]**
 	- **[[Fever]]** -> **infection** or **inflammation**
-	- [[Ascites]] vs [[ileus]] / [[Intestinal Obstruction]]
+	- [[Ascites]] vs [[Ileus]] / [[Intestinal Obstruction]]
 	> Dx c : [[Flatulence]]
 - Others history
 

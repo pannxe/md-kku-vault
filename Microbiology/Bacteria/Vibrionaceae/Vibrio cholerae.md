@@ -15,7 +15,7 @@
 > - stm
 
 # Clinical Manifestation
-- **RICE WATERY Severe [[Diarrhoea]]** -- flecky c mucus -> **Severe [[Dehydration]]** -> **[[Hypovolumic Shock]]**
+- **RICE WATERY Severe [[Diarrhoea]]** -- flecky c mucus -> **Severe [[Dehydration]]** -> **[[Shock]]**
 - **NO FEVER**
 > IP 6 hr - 4 days -> persists for 7 days
 
