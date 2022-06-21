@@ -6,10 +6,25 @@
       {
         "id": "c89dc5161eee2e81",
         "type": "leaf",
+        "dimension": 51.90909090909091,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiovascular System/Anatomy/Blood Vessels.md",
+            "file": "Cerebral Circulation.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2a46c1b0b77e4d96",
+        "type": "leaf",
+        "dimension": 48.090909090909086,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cardiovascular System/CVS Control.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiovascular System/Anatomy/Blood Vessels.md",
+                "file": "Cerebral Circulation.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,19 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.3349609375
+    "width": 298.92315673828125
   },
   "active": "c89dc5161eee2e81",
   "lastOpenFiles": [
-    "Cardiovascular System/Anatomy/Blood Vessels.md",
-    "Cardiovascular System/Anatomy/Veins.md",
-    "Cardiovascular System/Anatomy/Venules.md",
-    "Cardiovascular System/Anatomy/Arterioles.md",
-    "Cardiovascular System/Anatomy/Capillaries.md",
-    "Cardiovascular System/Anatomy/Pericyte.md",
-    "Cardiovascular System/Anatomy/Metarterioles.md",
-    "Cardiovascular System/Anatomy/Heart.md",
-    "Cardiovascular System/Anatomy/Arteries.md",
-    "Smooth Muscle.md"
+    "Cerebral Circulation.md",
+    "Brain.md",
+    "CPP.md",
+    "Regional Circulation.md",
+    "Coronary Circulation.md",
+    "Cardiovascular System/CVS Control.md",
+    "Table of Content.md",
+    "Epicardium.md",
+    "Hyperaemia.md",
+    "Reactive Hyperaemia.md"
   ]
 }

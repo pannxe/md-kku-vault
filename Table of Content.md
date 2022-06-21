@@ -68,7 +68,7 @@
 | 1-2   | [[Mediastinum]] and [[Pericardium]]                                                               |
 | 3-4   | [[Heart#Gross Anatomy]] and [[Blood Vessels#Gross Anatomy]]                     |
 | 5-6   | [[Development of Heart]]                                                        |
-| 7-8   | [[Heart#Microanatomy]] and [[Blood Vessels#Microanatomy]]                       |
+| 7-8   | [[Heart#Cardiac Wall]] and [[Blood Vessels#Microanatomy]]                       |
 | 9     | [[Electrical Activity of Heart]] and [[EKG]]                                    |
 | 10    | [[Heart#Physiology#Biological Pump]], [[Heart Sound]], and [[Echocardiography]] |
 | 11    | [[Heart#Physiology#Cardiodynamic]]                                              |

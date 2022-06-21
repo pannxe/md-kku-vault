@@ -18,6 +18,9 @@ Princle physics in **[[Haemodynamic]]**
 - **Metabolite respond** 
 	- [[Potassium]], [[Lactate]], [[Adenosine]] → vasodilation (cc: [[Hyperthyroidism]] → ↓↓ [[SVR]])
 	- [[Hypernatraemia]] → vasoconstriction (unknown mechanism)
+- **Endothelial respond** 
+	- [[NO]], [[EDHF]], [[Prostacyclins]] → vasodilation
+	- [[Endothelins]] → vasoconstriction
 
 # Mechanism
 ## Neural Control
