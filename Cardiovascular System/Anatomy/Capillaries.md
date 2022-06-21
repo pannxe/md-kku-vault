@@ -2,13 +2,19 @@
 
 ![[Pasted image 20220621021650.png]]
 
+All capillaries are covered c 1 layer of endothelial cells c basal lamina q covered c **[[Pericyte]]**
+
 ## Continuous
 Found in [[Skeletal Muscle]], [[Skin]], [[Lung]], and [[Brain]]
 
-## Fenestrated Capillary
-Found in [[Kidney]] and [[GI Tract]]
+## Fenestrated
+Contains **pores** (*fenestrations*) in endothelial cytoplasm
+
+Found in [[Kidney]] and [[GI Tract]] 
 
 ## Sinusoidal
+Contains **larger gaps** q fenestrations c **discontinuous basement membrane**
+
 Found in [[Liver]], [[Spleen]], and [[Bone Marrow]]
 > i.e., site of [[Erythropoiesis]]
 

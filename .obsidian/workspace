@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.0055618286133,
-    "collapsed": true
+    "width": 286.0055618286133
   },
   "right": {
     "id": "1ba219579345abb4",
@@ -115,14 +114,14 @@
   "active": "c89dc5161eee2e81",
   "lastOpenFiles": [
     "Cardiovascular System/Anatomy/Blood Vessels.md",
-    "__to-rearr__/Adventitia.md",
+    "Cardiovascular System/Anatomy/Veins.md",
+    "Cardiovascular System/Anatomy/Venules.md",
+    "Cardiovascular System/Anatomy/Arterioles.md",
+    "Cardiovascular System/Anatomy/Capillaries.md",
+    "Cardiovascular System/Anatomy/Pericyte.md",
+    "Cardiovascular System/Anatomy/Metarterioles.md",
     "Cardiovascular System/Anatomy/Heart.md",
-    "Purkinje Fibers.md",
-    "Cardiovascular System/Anatomy/Heart Valves.md",
-    "Chordae Tendineae.md",
-    "Cardiovascular System/Anatomy/Musculi Pectinati.md",
-    "Endocardium.md",
-    "Simple Squamous Epithelium.md",
-    "Cardiovascular System/Anatomy/Myocardium.md"
+    "Cardiovascular System/Anatomy/Arteries.md",
+    "Smooth Muscle.md"
   ]
 }
