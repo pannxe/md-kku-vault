@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c89dc5161eee2e81",
+        "id": "91e387ca5db41651",
         "type": "leaf",
-        "dimension": 51.90909090909091,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Regional Circulation.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "2a46c1b0b77e4d96",
-        "type": "leaf",
-        "dimension": 48.090909090909086,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cardiovascular System/CVS Control.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.0055618286133,
-    "collapsed": true
+    "width": 286.0055618286133
   },
   "right": {
     "id": "1ba219579345abb4",
@@ -110,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regional Circulation.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,19 +103,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.92315673828125
+    "width": 298.92315673828125,
+    "collapsed": true
   },
-  "active": "c89dc5161eee2e81",
+  "active": "91e387ca5db41651",
   "lastOpenFiles": [
-    "Regional Circulation.md",
+    "Cardiovascular System/Pathology/Regional Circulation.md",
     "Cardiovascular System/Physiology/Pulmonary Circulation.md",
-    "Renal Circulation.md",
-    "Skeletal Muscle Circulation.md",
-    "Splanchnic Circulation.md",
-    "Cutaneous Circutation.md",
-    "GI Motility.md",
-    "Exercise.md",
-    "Hyperaemia.md",
+    "Cardiovascular System/Pathology/Renal Circulation.md",
+    "Cardiovascular System/Pathology/Skeletal Muscle Circulation.md",
+    "Cardiovascular System/Pathology/Splanchnic Circulation.md",
+    "Cardiovascular System/Physiology/Cutaneous Circutation.md",
+    "Gastrointestinal System/GI Motility.md",
+    "__to-rearr__/Exercise.md",
+    "Haematology/Hyperaemia.md",
     "Nervous System/Anatomy/Hypothalamus.md"
   ]
 }
