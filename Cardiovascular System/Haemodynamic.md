@@ -3,7 +3,7 @@ Dual pump system of [[Heart]] → create 2 circulations within body
 - **[[Systemic Circulation]]**
 
 # Structure
-**[[Arteries]]** → **[[Arterioles]]** → **[[Capillaries]]** → **[[Vanules]]** → **[[Veins]]**
+**[[Arteries]]** → **[[Arterioles]]** → **[[Capillaries]]** → **[[Venules]]** → **[[Veins]]**
 > See [[Vascular System]]
 
 # Blood Flow
