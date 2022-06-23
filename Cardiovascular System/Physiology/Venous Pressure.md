@@ -25,7 +25,7 @@ CVP is controlled by
 # Clinical Correlation
 ## ↑ CVP
 - **[[Heart Failure]]** -- back-pressure from RA
-- - p [[Blood Transfusion]]
+- p [[Blood Transfusion]]
 
 Normally at sitting position -- **NECK VEIN SHOULD NEVER DISTENDED**; at ~ +10-15 mmHg → neck vein distortion to visible level 
 

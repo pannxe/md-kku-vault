@@ -25,7 +25,7 @@
 
 # Exchange
 $$NFP = \Delta P_{c \rightarrow i} - \Delta \Pi_{c \rightarrow i}$$
-Exchange of substance is governed by 2 pairs of Starling Forces between [[Capillaries]] (c) and [[Interstitial Fluid]] (i) :
+Exchange of substance is governed by 2 pairs of [[Starling Forces]] between [[Capillaries]] (c) and [[Interstitial Fluid]] (i) :
 - [[Colloid Osmotic Pressure]] (Π)
 - [[Hydrostatic Pressure]] (P)
 
