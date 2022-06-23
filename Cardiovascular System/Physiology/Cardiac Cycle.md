@@ -40,10 +40,12 @@ Events q occur from one heartbeat to the next. Each cycle is initiated by [[SA N
 
 ---
 ### Ventricular Systole
-	[[#Isovolumetric Ventricular Contraction]] + [[#Ventricular Ejection]]
+
+[[#Isovolumetric Ventricular Contraction]] + [[#Ventricular Ejection]]
 
 ### Ventricular Diastole
-	[[#Isovolumetric Ventricular Relaxation]] → [[#Atrial Systole]] (to the end)
+
+[[#Isovolumetric Ventricular Relaxation]] → [[#Atrial Systole]] (to the end)
 
 ---
 # Ventricular Pressure - Volume Relationship

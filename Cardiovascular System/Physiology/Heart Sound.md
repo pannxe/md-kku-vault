@@ -4,7 +4,7 @@
 # S2
 **Higher pitch**, *dub* ← closure of **[[Heart Valves#Semilunar Valves]]**; *end* of [[Systole]]
 
-> CC : [[Split S2]]
+> CC : **[[Split S2]]**
 
 # S3
 **Soft, low-pitched** ← **blood inrush** q [[Cardiac Cycle#Ventricular Filling]]

@@ -10,13 +10,17 @@ Casued by **depolarization** a **atiral** contraciton
 
 ## QRS-complex
 Caused by **depolarization** a **ventricle** contraction
+- Q-wave -- depolarization of ventricular septum via **lt. AV bundle** → current progress rt. ward → negative in lead II
+- R-wave -- depolarization wave progress toward apex and ventricles → repolarization starts from [[Purkinje Fibers]] in the inner layer outward → [[Heart#Left Ventricle]] is thicker → net vector goes ↓ and → → positive reading
+- S-wave -- depolarizatoin wave progress toward the base → negative reading
+
 > CC:
 > - ↓ amplitude ← [[Cardiomyopathy]], [[Pericardial Effusion]]
 > - ↑ amplitude ← [[Ventricular Hypertrophy]]
 > - Widen QRS ← branch blockage, [[Ventricular Hypertrophy]]
 
 ## T-wave
-Caused by **ventricle recover** from depolarization (**repolarization**)
+Caused by **ventricle recover** from depolarization (**repolarization**; i.e., negative current) -- starting from apex upward → positive reading
 
 > Atrial repolarization wave is obscured by QRS-complex in normal EKG 
 
@@ -86,8 +90,6 @@ Electrical vector of bipolar limb lead : $I + III = II$ is **always true in norm
 - q dx **condition vs time** (e.g., [[Arrhythmia]]) -- **does not matter that much** what lead to use ← similar shape of wave
 - But q dx **condition assoc. damage to structure** -- **DOES matter a lot** ← abnormality in [[Heart#Conducting System]] or contraction can change pattern in some leads but not the others
 
-## Normal
-
 # Augemented Limb Leads
 Is a **unipolar** recording in **frontal plane** -- using 3 limbs, 2 are connected to resistances → (-) terminal; the other one to (+) :
 - Rt. arm → **aVR** lead
@@ -95,6 +97,12 @@ Is a **unipolar** recording in **frontal plane** -- using 3 limbs, 2 are connect
 - Lt. leg → **aVF** lead
 
 They are similar to standard bipolar limb leads except **aVR is inverted** (electrical vector travel AWAY from + electrode)
+
+> ![[Pasted image 20220623135103.png]]
+> 
+> 2 (-) terminals → virtual terminal point in the middle → provide reading in the different angle, thus augment the standard limb
+
+---
 
 # Precordial Leads
 

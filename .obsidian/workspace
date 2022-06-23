@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cardiovascular System/Anatomy/Veins.md",
+            "file": "Cardiovascular System/Physiology/Heart Sound.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardiovascular System/Anatomy/Veins.md",
+                "file": "Cardiovascular System/Physiology/Heart Sound.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,20 +110,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.92315673828125,
-    "collapsed": true
+    "width": 298.92315673828125
   },
   "active": "91e387ca5db41651",
   "lastOpenFiles": [
-    "Cardiovascular System/Anatomy/Veins.md",
-    "Cardiovascular System/Anatomy/Blood Vessels.md",
-    "Cardiovascular System/Anatomy/Arterioles.md",
-    "Cardiovascular System/Anatomy/Arteries.md",
+    "Cardiovascular System/Physiology/Heart Sound.md",
     "Table of Content.md",
     "Cardiovascular System/Anatomy/Heart.md",
-    "Cardiovascular System/Anatomy/Endocardium.md",
-    "Cardiovascular System/Anatomy/Pericardium.md",
-    "Cardiovascular System/Anatomy/Myocardium.md",
-    "Cardiovascular System/Anatomy/Coronary Arteries.md"
+    "Cardiovascular System/Physiology/SV.md",
+    "Cardiovascular System/Clinical/EKG.md",
+    "Cardiovascular System/Physiology/Cardiac Cycle.md",
+    "Cardiovascular System/Physiology/E-C Coupling.md",
+    "Cardiovascular System/Physiology/Electrical Activity of Heart.md",
+    "Cardiovascular System/Anatomy/Venules.md",
+    "Cardiovascular System/Anatomy/Blood Vessels.md"
   ]
 }

@@ -8,6 +8,7 @@
 AP spreads to [[T Tubule]] → 落 [[Sodium Channel]] → ↑ potential →
 - **落 [[Calcium Channel#L-type]]** on sarcolemma → ↑ [[Calcium]] influx → 落 [[RyR]] -- a.k.a. **Ca2+-induced Ca2+ release (CICR)**
 - Directly 落 [[RyR]] → **Ca released from SR**
+
 → **↑ cytosolic Ca2+** → **落 Cross-bridge formation** → **contraction**
 
 > Similar to [[Skeletal Muscle]] but c Ca2+ influx from ECF; Less developed SR q skeletal muscle → Ca2+ form SR alone is not enough 
