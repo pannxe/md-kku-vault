@@ -7,8 +7,13 @@
         "id": "91e387ca5db41651",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Table of Content.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.0055618286133
+    "width": 286.0055618286133,
+    "collapsed": true
   },
   "right": {
     "id": "1ba219579345abb4",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Table of Content.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,6 +115,7 @@
   },
   "active": "91e387ca5db41651",
   "lastOpenFiles": [
+    "Table of Content.md",
     "Cardiovascular System/Pathology/Regional Circulation.md",
     "Cardiovascular System/Physiology/Pulmonary Circulation.md",
     "Cardiovascular System/Pathology/Renal Circulation.md",
@@ -116,7 +124,6 @@
     "Cardiovascular System/Physiology/Cutaneous Circutation.md",
     "Gastrointestinal System/GI Motility.md",
     "__to-rearr__/Exercise.md",
-    "Haematology/Hyperaemia.md",
-    "Nervous System/Anatomy/Hypothalamus.md"
+    "Haematology/Hyperaemia.md"
   ]
 }
