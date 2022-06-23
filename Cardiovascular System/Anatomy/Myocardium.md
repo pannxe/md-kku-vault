@@ -1,7 +1,7 @@
 ![[Pasted image 20220622003832.png]]
 
 The **thickest layer** of [[Heart#Cardiac Wall]] -- contains **[[Cardiac Muscle]]** arranged **spirally** around each chamber
-
+Myocardium
 ![[Pasted image 20220622004148.png]]
 
 bco [[Gap Jungtion]] → ↓ Ω → synchronous muscle contraction

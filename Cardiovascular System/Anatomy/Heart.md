@@ -137,7 +137,7 @@ Veins ultimately drain directly into RA
 
 ![[Pasted image 20220613194348.png]]
 
-Myocardium, CNT, etc. → Subepicaridal Lymphatic Plexus → Inferior Tracheobronchial Lymph Nodes → Rt. side 
+Myocardium, CNT, etc. → Subepicaridal Lymphatic Plexus → Inferior **Tracheobronchial Lymph Nodes** → Rt. side 
 
 # Physiology
 ## Biological Pump
