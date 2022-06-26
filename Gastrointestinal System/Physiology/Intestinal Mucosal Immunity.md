@@ -34,10 +34,10 @@ Respond to **specific** clonal expression
 # Normal Stage
 **NO [[Danger Signals]]** -> Ag is safe -> **incr. [[T-reg Cell]] activity** -> [[TGF-β]], [[IL-10]], and [[IL-4]] ->
 	- Decr. activity of [[Th-1]], [[Th-2]] -> **decr. inflammation**
-	- **Incr. activity of [[B Cell]]** -> incr. production of [[IgA]] 
+	- **Incr. activity of [[B-Cell]]** -> incr. production of [[IgA]] 
 > Focus on passive defenses
 - [[ILC]] promote [[Intestinal Barriers]]
-- [[Plasma Cell]] ([[B Cell]]) in [[Lamina Propria]] -> **[[IgA]]**
+- [[Plasma Cell]] ([[B-Cell]]) in [[Lamina Propria]] -> **[[IgA]]**
 - [[Denditic Cell]] and [[Macrophage]] in the [[Lamina Propria]] -> **inh inflammation** and maintains [[Homeostasis]]
 > [[Macrophage]] in [[Lamina Propria]] is mostly [[Macrophage#M2 Macrophage|M2 Mφ]]
 
