@@ -2,7 +2,7 @@
 
 ![[Pasted image 20220227125434.png]]
 
-[[Albumin]] deposition → **glomerulosclerosis** and renal hyaline **arteriolosclerosis**
+[[Albumin]] deposition → **[[Glomerulosclerosis]]** and renal hyaline **[[Arteriolosclerosis]]**
 
 ![[Pasted image 20220227125616.png]]
 

@@ -12,7 +12,7 @@ To Dx HTN, in addition to BP, must consider other risks involved, e.g.,
 - [[Diabete Mellitus]]
 - Other CVD
 
-# Pathogenesis
+# Pathophysiology
 > See **[[Blood Pressure#Regulation]]**
 
 ## Primary
@@ -33,6 +33,17 @@ Occur due to other underlying disease, e.g.,
 
 Ultimately involve in **[[Renin-angiotensin System]]**, **↑ [[Sympathetic NS]]**, or [[Vasoconstriction]] → ↑ BP
 
+---
+# Pathogenesis
+HTN →
+- **↑ [[Cardiac Afterload]]** → 
+	- [[Ventricular Hypertrophy#Left]]
+	- **[[Heart Failure]]**
+	- ↑ O2 demand → **[[Myocardial Infarction]]**
+- ↑ damage to [[Endothelial Cells]] → **[[Endothelial Dysfunction]]**
+	- [[Atherosclerosis]]
+	- ↓ intrigrity → **[[Stroke]]**, [[Aortic Aneurysm]] and [[Aortic Dissection]], [[Nephrosclerosis]], and [[Hypertensive Retinopathy]]
+
 
 # Progression
 Starting from [[Arteries#Small]] and [[Arterioles]] involvement → long term change → other organ involvement
@@ -48,4 +59,12 @@ Starting from [[Arteries#Small]] and [[Arterioles]] involvement → long term ch
 - [[Heart]] -- **[[Ventricular Hypertrophy#Left]]** ← ↑ [[Cardiac Afterload]]
 - [[Brain]] -- **[[Hypertensive Encephalopathy]]**, [[Cerebral Oedema]], [[Ischaemia]], and haemorrhage
 - [[Kidney]] -- **[[Nephrosclerosis]]**
-- [[Retina]] -- [[Hypertensive Retinopathy]]
+- [[Retina]] -- **[[Hypertensive Retinopathy]]**
+
+> See **[[Hypertensive Heart Disease]]** for more detail
+
+# Crises
+2 types of severe HTN
+- **[[Hypertensive Urgencies]]**
+- **[[Hypertensive Emergencies]]**
+	- [[Malignant Hypertension]]
