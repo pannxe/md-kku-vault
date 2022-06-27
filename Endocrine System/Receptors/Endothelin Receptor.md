@@ -1,7 +1,7 @@
 ![[Pasted image 20220226173931.png]]
 
 # Type A
-- At **[[Vascular Smooth Muscle]]** only
+- At **[[Vascular Smooth Muscle Cell]]** only
 - 
 
 ## Physiology
@@ -12,7 +12,7 @@
 > See [[Endothelins#Physiology]]
 
 # Type B
-- At both [[Vascular Smooth Muscle]] and [[Endothelial Cells]]
+- At both [[Vascular Smooth Muscle Cell]] and [[Endothelial Cells]]
 - Equal potency for all types of [[Endothelins]]
 
 ## Physiology

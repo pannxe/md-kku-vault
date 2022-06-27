@@ -81,8 +81,7 @@
 | 19    | [[Biochemistry Markers of CVD]]                                                 |
 | 20    | [[Common Abnormal EKG]]                                                         |
 | 21    | [[Infection in CVS]]                                                            |
-| 22    | [[Pathology of Blood Vessels]]                                                  |
-| 23    | [[Arteriolosclerosis]]                                                          |
+| 22-23    | [[Pathology of Blood Vessels]]                                                  |
 | 24    | [[Hypertension]]                                                                |
 | 25    | [[Ischaemic Heart Diseases]]                                                    |
 | 26    | [[Rheumatic Heart Disease]] and [[Pericardial Diseases]]                        |
