@@ -3,7 +3,7 @@
 
 
 # Sub-topics
-- **[[Aneurysms]]**
+- [[Aneurysms]], **[[Aortic Aneurysm]]**, and [[Aortic Dissection]]
 - Blood vessel hyperreactivity
 	- [[Raynaud Phenomenon]]
 	- [[Myocardial Vessel Vasospasm]]
