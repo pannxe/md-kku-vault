@@ -7,3 +7,8 @@ $$T = \frac{P\cdot r}{2h}$$
 **↑ wall thickness** to ↓ tension;
 - Pressure ↑↑ → concentric -- ↓ r
 - Volume ↑↑ → eccentric -- ↑r → ↑ volume capability
+
+# Left
+Mostly compensation form **↑ [[Cardiac Afterload]]**
+
+# Right
