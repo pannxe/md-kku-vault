@@ -13,7 +13,7 @@
 **Resistant on downstream** -> incr. pressure -> back-pressure -> [[Hyperaemia]] of [[Splanchic Vein]] -> [[Portal Hypertension]]
 
 # Consequences 
-- Creation of collateral pathways -> [[Portosystemic Venous Shunts]]
+- Creation of collateral pathways -> [[Porto-systemic Venous Shunts]]
 - Fluid-leakage -> **[[Ascites]]** 
 - Congestion -> **[[Splenic Vein]]**
 - [[Hepatic Encephalopathy]]

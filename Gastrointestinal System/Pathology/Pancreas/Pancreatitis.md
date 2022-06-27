@@ -6,7 +6,7 @@
 - **[[Biliary Obstruction]]**
 - Infection
 - [[Hypercalcaemia]]
-- [[Obesity]] -> [[Hyperlipidaemia]]
+- [[Obesity]] -> [[Dyslipidaemia]]
 - etc.
 
 ## Pathogenesis

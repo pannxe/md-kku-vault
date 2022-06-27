@@ -2,7 +2,8 @@
 
 # Pathogenesis
 **[[Portal Hypertension]]** <- [[Cirrhosis]]
-> Blood from [[Hepatic Portal Vein]] back flow to **[[Left Gastric Vein]]** -> [[Oesophagus]]
+
+Via **[[Porto-systemic Venous Shunts]]** -- blood from [[Hepatic Portal Vein]] back flow to **[[Left Gastric Vein]]** -> [[Oesophagus]]
 
 # Clinical Manifestation
 **Asymptomatic until rupture** -> **massive haemorrhage**

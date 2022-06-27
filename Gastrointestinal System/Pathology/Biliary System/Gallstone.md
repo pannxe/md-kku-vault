@@ -4,7 +4,7 @@
 
 # Pathogenesis
 ## Cholesteral Stone
-[[Obesity]], [[Oral Contraceptive]], [[Oestrogen]], [[Hyperlipidaemia]], etc.
+[[Obesity]], [[Oral Contraceptive]], [[Oestrogen]], [[Dyslipidaemia]], etc.
 - **Hypomotility** of [[Gallbladder]]
 - **Hypersecretion of [[Mucus]]** in [[Gallbladder]] -> nucleas for crystal formation
 -> **[[Cholesterol]] supersaturation** -> cystalize to cholesterol monohydrate (solid)

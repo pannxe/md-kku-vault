@@ -8,4 +8,4 @@
 	- [[Raynaud Phenomenon]]
 	- [[Myocardial Vessel Vasospasm]]
 - [[Varicose Veins]]
-- **[[Atherosclerosis]]**
+- **[[Atherosclerosis]]** and [[Arteriosclerosis]]

@@ -40,6 +40,11 @@ Ultimately the main factors are
 
 **Gravity** pull blood in vessel **below [[Heart]]** down → **↑ pressure** by 0.77 mmHg per cm. (and vice vesa)
 
+# Regulation
+**↓ BP** → ↓ blood flow to **[[Renal Circulation]]** → **落 [[Renin-angiotensin System]]** → ↑ BP
+
+**↑ BP** → **落 release of [[Natriuretic Peptides]]** (ANP and BNP) from [[Heart]] → **[[Vasodilation]]** and ** [[Sodium Reabsorption]]** → ↓ BP
+
 # Measurement
 - Direct method -- intra-arterial, no longer use
 - **Indirect method**
