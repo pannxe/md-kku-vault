@@ -34,3 +34,27 @@ Involve (nearly) **full thickness** -- assoc. **[[Atheroma]] rupture** → (near
 Involve only small **intramural vessels** -- assoc. micro-embolism, [[Vasculitis]], or vasospasm
 
 # Progression
+1. Irreversible injury -- within ~30 min.
+2. **Coagulation necrosis**, oedema, etc. -- within 12 hrs.
+3. **[[Neutrophil]] infiltration** and ongoing necrosis → **Dark motting spot** -- within 24 hrs.
+4. Visible infarction centre → **yellow-tan discoloration** -- within 3 days
+5. Granulation tissue and neovascularization → hyperaemic border → **Red-gray depression**
+6. Healing → ↑↑ [[Collagen]] deposit → **gray-white scar** -- within 2 mo.
+
+![[Pasted image 20220628174431.png]]
+(Necrotic centre)
+
+![[Pasted image 20220628174616.png]]
+(A necrosis; B PMN infiltration; C necrotic myocyte removed by PMN)
+
+![[Pasted image 20220628174722.png]]
+(D granulation tissue; E healing and scarring)
+
+![[Pasted image 20220628174357.png]]
+(Hyperaemia from reperfusion -- note that there is no nucleus in myocardiocyte)
+
+# Complication
+- **Impaired [[Contractility]]** → 
+	- Blood stasis → [[Embolism]] → **[[Stroke]]**
+	- ↓ perfusion → **[[Shock#Cardiogenic]]**
+- 
