@@ -18,7 +18,7 @@ ico [[Atheroma]] rupture → formation of thrombus → **[[Thrombosis]]** → **
 # Clinical Manifestation
 - **[[Angina Pectoris]]** -- not severe enough to case necrosis
 - **[[Myocardial Infarction]]** -- so severe causes cardiac necrosis
-- [[Heart Failure]]
+- **[[Heart Failure]]** ← esp. chronic IHD
 - [[Sudden Cardiac Death]]
 
 # Diagnosis

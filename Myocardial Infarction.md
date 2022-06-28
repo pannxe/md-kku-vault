@@ -54,7 +54,12 @@ Involve only small **intramural vessels** -- assoc. micro-embolism, [[Vasculitis
 (Hyperaemia from reperfusion -- note that there is no nucleus in myocardiocyte)
 
 # Complication
-- **Impaired [[Contractility]]** → 
+- Impaired [[Contractility]] → 
 	- Blood stasis → [[Embolism]] → **[[Stroke]]**
 	- ↓ perfusion → **[[Shock#Cardiogenic]]**
-- 
+	- **[[Heart Failure]]**
+- Necrosis → 
+	- Impaired intrigrity → wall rupture → **[[Cardiac Temponade]]**
+	- Musculi papiliaris infarction → [[Bicuspid Valve Insufficiency]] → **[[Heart Failure]]**
+- Impaired [[Electrical Activity of Heart]] → **[[Arrhythmia]]**
+- [[Pericardium]] involvement → **[[Pericarditis]]**
