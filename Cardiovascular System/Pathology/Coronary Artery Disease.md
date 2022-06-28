@@ -18,13 +18,21 @@ ico [[Atheroma]] rupture → formation of thrombus → **[[Thrombosis]]** → **
 # Clinical Manifestation
 - **[[Angina Pectoris]]** -- not severe enough to case necrosis
 - **[[Myocardial Infarction]]** -- so severe causes cardiac necrosis
-- **[[Heart Failure]]** ← esp. chronic IHD
+- **[[Heart Failure]]** ← [[Chronic Ischaemic Heart Disease]]
 - [[Sudden Cardiac Death]]
 
 # Diagnosis
-- [[EKG]]
-- [[Coronary Angiograph]]
+**[[Angina Pectoris]]** + **[[EKG]]**
+- Persistant ST-elevation → **[[STEMI]]** ([[Myocardial Infarction#Transmural]])
+- If not → [[Troponin]] level →
+	- **Abnormal troponin** → [[NSTEMI]] ([[Myocardial Infarction#Subendocardial]])
+	- Normal → [[Angina Pectoris#Unstable]]
+
+> [[Coronary Angiograph]]
 
 # Treatment
-- [[Coronary Artery Bypass Graft]]
-- [[Transluminal Angioplasty]]
+- Lifestyle modification -- [[Exercise]],  [[Tabacco]], ↓↓ [[Cholesterol]] and [[Lipids]] intake 
+- Medication
+- Surgery -- ico severe IHD
+	- [[Coronary Artery Bypass Graft]]
+	- [[Transluminal Angioplasty]]

@@ -21,5 +21,5 @@
 # Side Effects
 - **[[Weight Loss]]**
 - [[Na-Water Retention]] → **[[Oedema]]**
-- ↑ Risk of **[[Chronic Heart Disease]]**, **[[Myocardial Infarction]]**, and **[[Stroke]]**
+- ↑ Risk of **[[Coronary Artery Disease]]**, **[[Myocardial Infarction]]**, and **[[Stroke]]**
 - ↓ [[Bone Remodeling#Formation]] → [[Bone Fracture]]

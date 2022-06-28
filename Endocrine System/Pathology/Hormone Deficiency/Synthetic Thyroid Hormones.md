@@ -15,4 +15,4 @@
 # Dosage
 Adjustment in 
 - **[[Pregnancy]]** -- ↑ stress → **↑ dose**
-- **Eldery**, [[Chronic Heart Disease]] → **↓ dose**, prefere [[Levothyroxine]]
+- **Eldery**, [[Chronic Ischaemic Heart Disease]] → **↓ dose**, prefere [[Levothyroxine]]

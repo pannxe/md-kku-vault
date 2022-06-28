@@ -20,7 +20,7 @@
 
 # Side Effects
 - **[[Nausea & Vomiting]]**, **[[Diarrhoea]]**, and **metallic taste**
-- [[Lactic Acidosis]] -- in pt. c **poor tissue perfusion** ([[Sepsis]], [[Chronic Heart Disease]], etc.)
+- [[Lactic Acidosis]] -- in pt. c **poor tissue perfusion** ([[Sepsis]], [[Heart Failure]], etc.)
 - [[Vitamin B12]] deficiency -- esp. in pt. c [[Anaemia]]
 
 # Contraindication
