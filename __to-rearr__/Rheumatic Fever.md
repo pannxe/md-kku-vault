@@ -3,7 +3,14 @@ Complication from [[Streptococcus spp.]] infection ([[Pharyngotonsilitis]]) → 
 - **落 auto-reactive [[B-Cell]]** → ↑↑ [[autoAbs]] → 落 [[Compliment System]] and recruitement of [[Monocytes]] and [[Neutrophil]]
 - **落 [[CD4 T-Cell]]** → ↑↑ [[Cytokines]] → **落 [[Macrophage]]**
 
-→ **damage to varies tissues** (complicate to **[[Rheumatic Heart Disease]]**)
+→ **damage to varies systemic CNT** (complicate to **[[Rheumatic Heart Disease]]**)
+
+# Clinical Manifestation
+- **[[Endocarditis]]**, [[Pericarditis]], [[Myocarditis]]
+- **[[Arthritis]]** (poly-, migratory)
+- [[Chorea]]
+- [[Erythema]] marginatum
+- [[Aschoff Nodule]]
 
 # Risk Factors
 - Overcrowding and low socioeconomic status

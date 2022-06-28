@@ -84,8 +84,8 @@
 | 22-23    | [[Pathology of Blood Vessels]]                                                  |
 | 24    | [[Hypertension]] and [[Hypertensive Heart Disease]]                                                                |
 | 25    | [[Coronary Artery Disease]]                                                    |
-| 26    | [[Rheumatic Heart Disease]] and [[Pericardial Diseases]]                        |
-| 27    | [[Cardiomyopathy]] and [[Endocarditis]]                                         |
+| 26    | [[Rheumatic Heart Disease]] and [[Endocarditis]]                         |
+| 27    | [[Cardiomyopathy]] and [[Pericardial Diseases]]                                         |
 | 28    | [[Heart Failure]]                                                               |
 | 29    | Sympatomatology                                                                 |
 | 30    | Physical Exampination                                                           |
