@@ -1,0 +1,1 @@
+Assoc. [[Atherosclerosis]] → **SEVERE sterosis** and **[[Atheroma]] rupture** → small [[Platelet Aggregation]] → **multiple occusion**

@@ -1,1 +1,0 @@
-[[Angina Pectoris]] q **resting**

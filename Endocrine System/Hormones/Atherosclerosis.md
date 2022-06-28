@@ -76,7 +76,7 @@ Histological features
 
 # Consequences
 
-![[Pasted image 20220627224540.png]]
+![[Pasted image 20220628164601.png]]
 
 Assoc. plaque :
 - **Stable plaque** -- ↓ inflammation, thicc ass fibrous cap → ↓↓ risk of rupture 
