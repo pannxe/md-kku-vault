@@ -6,15 +6,21 @@ Severe → **Tx ASAP**
 
 ## Subacute
 - **[[Streptococcus spp.]]** -- assoc. [[Urinary Tract Infection]], [[Dental Procedure]], etc.
-- HACEK ([[Gram-Negative Bacilli]])
-- Other [[Staphylococcus spp.]], [[Candida spp.]], [[Aspergillus spp.]], etc.
+- HACEK ([[Gram-Negative Bacilli]]) -- from [[Oral Cavity]]
+- [[Staphylococcus epidermidis]] -- assoc. [[Prosthetic Valve]]
+- [[Candida spp.]], [[Aspergillus spp.]], etc.
 
 Less severe → **can wait** for lab identification a tx; except already has heart problems
 
-## Pathogenesis
-**Scarring of [[Heart Valves]]** → scarring → turbulent blood flow → **altered valve surface**
+> **[[Viridans Streptococci]]** (~60%), [[Staphylococcus aureus]] (~20%)
 
-q **[[Bacteraemia]]** → **adherence** → colonization → vegetation
+
+## Pathogenesis
+2 event combind
+- **Scarring of [[Heart Valves]]** → turbulent blood flow → **altered valve surface**
+- **[[Bacteraemia]]** 
+
+→ **adherence** → colonization → [[Cardiac Vegetation]] → defective / destruction of [[Heart Valves]]
 
 ## Risk Factors
 - **[[Valvular Heart Disease]]** -- [[Congenital Heart Diseases]], [[Rheumatic Heart Disease]], [[Mitral Valve Prolapse]], etc.
@@ -52,3 +58,14 @@ Minor criteria
 	- Subacute -- **d blood culture**
 - Supportive -- rest, [[Paracetamol]], etc.
 - Definitive -- ATB 6-8 wks, +- Sx to remove [[Cardiac Vegetation]]
+
+# Rheumatic
+Complication from **[[Rheumatic Heart Disease]]**  → [[Cardiac Vegetation]] (esp. **[[Bicuspid Valve]]**) → thicken fused and shorten chordae tendinae →  [[Valvular Heart Disease]] (esp. **[[Bicuspid Valve Stenosis]]** and [[Aortic Valve Stenosis]])
+
+## Non-bacterial Thrombotic
+a.k.a. Marantic endocaritis 
+
+**[[Cardiac Vegetation]] S INFECTION** -- usually assoc. [[Sepsis]] and cancers → sterile vegetation
+
+# Libman-Sacks
+One of **[[SLE]]** symptom -- usually c [[Thrombosis]], recurrent [[Abortion]], [[Thrombocytopenia]]

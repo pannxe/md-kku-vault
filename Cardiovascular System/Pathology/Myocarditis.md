@@ -2,15 +2,16 @@
 Various causes
 - **[[Viruses]]** and [[Bacteria]] -- esp. **[[Coxsackie B Virus]]**
 - Drugs and toxins
-- Immunological disorders
+- Immunological cause -- e.g., [[Rheumatic Heart Disease]]
 
 → damage to [[Myocardium]] → **acute myocarditis** →
 - Scarring → [[Dysrhythmia]]
 - Exposure of normally hidden Ags → [[autoAbs]] → **autoreactive myocarditis**
 - prolonged → **chronic myocarditis**
 
-→ ↓ [[Contractility]] → **↑ [[EDV]]** → **[[Ventricular Hypertrophy]]** →
-- ↑ [[Sympathetic NS]]
+→ ↓ [[Contractility]] → 
+- **↑ [[ESV]]** → **[[Ventricular Hypertrophy]]**
+- ↓ [[Cardiac Output]] → ↑ [[Sympathetic NS]]
 - ↑ Pressure at [[Heart#Left Atrium]] → ↑ [[Pulmonary Pressure]] 
 
 → **[[Heart Failure]]**
@@ -33,3 +34,8 @@ Acute usually found in [[Infant]]; chronic in adult
 
 # Management
 Mainly supportive -- [[Paracetamol]], [[Drugs Used in Congestive Heart Failure]], [[IVIG]]
+
+---
+
+### Rheumatic
+Caused by [[Rheumatic Heart Disease]]
