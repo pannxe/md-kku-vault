@@ -88,7 +88,7 @@ Assoc. plaque :
 - **[[Myocardial Infarction]]**
 - **[[Stroke]]**
 
-> Also : [[Coronary Artery Disease]], [[Angina Pectoris]], [[Chronic Kidney Disease]], etc.
+> Also : [[Ischaemic Heart Disease]], [[Angina Pectoris]], [[Chronic Kidney Disease]], etc.
 
 **Weakening structure** →
 - [[Aneurysms]], esp. [[Aortic Aneurysm]]

@@ -1,7 +1,7 @@
 a.k.a. ischaemic cardiomyopathy (not the same but clinically used interchangably)
 
 # Pathogenesis
-**[[Coronary Artery Disease]]** → (prolonged) → 
+**[[Ischaemic Heart Disease]]** → (prolonged) → 
 - Scarring
 - [[Ventricular Hypertrophy]] and [[Cardiac Dilation]] → ↑ [[ESV]] → ↓ [[Cardiac Output]]
 

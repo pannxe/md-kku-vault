@@ -4,13 +4,13 @@ Assoc. [[Atherosclerosis]] → **SEVERE sterosis** and **[[Atheroma]] rupture** 
 
 # Risk Factors
 - **[[Congenital Heart Diseases]]** -- most common
-- [[Coronary Artery Disease]], [[Chronic Ischaemic Heart Disease]], and [[Heart Failure]]
+- [[Ischaemic Heart Disease]], [[Chronic Ischaemic Heart Disease]], and [[Heart Failure]]
 - [[Myocarditis]], [[Ventricular Hypertrophy]], etc.
 - [[Valvular Heart Disease]]
 - etc.
 
 # Pathogenesis
-[[Coronary Artery Disease]] et al → abnormal [[Electrical Activity of Heart]] → **lethal [[Arrhythmia]]**  (e.g., [[Asystole]], [[Ventricular Fibrillation]])
+[[Ischaemic Heart Disease]] et al → abnormal [[Electrical Activity of Heart]] → **lethal [[Arrhythmia]]**  (e.g., [[Asystole]], [[Ventricular Fibrillation]])
 
 # Management
 **[[ICD]]** (Implantable Cardioverter Defibrillator) -- q detecting fibrillation → send electrical pulse to stop

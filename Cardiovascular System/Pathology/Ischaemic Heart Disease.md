@@ -1,4 +1,4 @@
-a.k.a. **Ischaemic Heart Disease** (IHD) -- a group of pathology that resulted in [[Ischaemia]] of [[Myocardium]]
+a.k.a. **Cononary artery disease** -- a group of pathology that resulted in [[Ischaemia]] of [[Myocardium]]
 
 > Not only limit [[O2]] but also ↓ nutirent and ↓ waste removal
 

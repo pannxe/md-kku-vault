@@ -1,6 +1,6 @@
 ![[Pasted image 20220628162702.png]]
 
-**[[Pain]] at chest** -- mostly assoc. **[[Coronary Artery Disease]]**, though any structure around [[Thorax]] can cause Anginar pectoris
+**[[Pain]] at chest** -- mostly assoc. **[[Ischaemic Heart Disease]]**, though any structure around [[Thorax]] can cause Anginar pectoris
 
 If it assoc [[Heart]], the pain **radiate to lt. arm** (see [[Heart#Innervation#Afferent Sensory]])
 

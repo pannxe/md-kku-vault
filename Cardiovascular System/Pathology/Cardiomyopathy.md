@@ -33,7 +33,7 @@
 
 → death
 
-> DDx : [[Coronary Artery Disease]], [[Valvular Heart Disease]], [[Hypertensive Heart Disease]] -- similar sign and symptoms
+> DDx : [[Ischaemic Heart Disease]], [[Valvular Heart Disease]], [[Hypertensive Heart Disease]] -- similar sign and symptoms
 
 ---
 

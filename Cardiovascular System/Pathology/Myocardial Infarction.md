@@ -1,7 +1,7 @@
 a.k.a. **heart attack**
 
 # Pathogenesis
-[[Coronary Artery Disease]]
+[[Ischaemic Heart Disease]]
 - [[Atherosclerosis]] and [[Atheroma]] rupture
 - [[Thrombosis]] and [[Embolism]] -- ← [[Atrial Fibrillation]], [[Endocarditis#Infective]], etc.
 - [[Myocardial Vessel Vasospasm]] -- ← [[Platelet Aggregation]]

@@ -83,10 +83,10 @@
 | 21    | [[Infection in CVS]]                                                            |
 | 22-23    | [[Pathology of Blood Vessels]]                                                  |
 | 24    | [[Hypertension]] and [[Hypertensive Heart Disease]]                                                                |
-| 25    | [[Coronary Artery Disease]]                                                    |
+| 25    | [[Ischaemic Heart Disease]]                                                    |
 | 26    | [[Rheumatic Heart Disease]] and [[Endocarditis]]                         |
 | 27    | [[Cardiomyopathy]] and [[Pericardial Diseases]]                                         |
-| 28    | [[Heart Failure]]                                                               |
+| 28    | [[Cardiac Hypertrophy]] and [[Heart Failure]]                                                               |
 | 29    | Sympatomatology                                                                 |
 | 30    | Physical Exampination                                                           |
 | 31    | [[Congenital Heart Diseases]]                                                   |

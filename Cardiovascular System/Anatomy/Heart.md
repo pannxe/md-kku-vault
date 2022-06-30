@@ -118,7 +118,7 @@ Via [[Visceral Afferent Fiber]] ← :
 ## Artery 
 [[Aorta#Ascending]] → **[[Coronary Arteries]]** (1st branch) and its branches -- mostly end branche (i.e., ↓↓ anastomoses) → prone to infarction
 
-CC : [[Coronary Artery Disease]] (CAD)
+CC : [[Ischaemic Heart Disease]] (CAD)
 
 ## Vein
 

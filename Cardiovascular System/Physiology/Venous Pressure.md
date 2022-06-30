@@ -29,7 +29,7 @@ CVP is controlled by
 
 Normally at sitting position -- **NECK VEIN SHOULD NEVER DISTENDED**; at ~ +10-15 mmHg → neck vein distortion to visible level 
 
-## **↓ CVP**
+## ↓ CVP
 - ↑ works of heart pump
 - ↓↓↓ [[Blood]] flow to peripheral vessels ← possibly **haemorrhage**
 
