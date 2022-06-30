@@ -23,7 +23,7 @@ Less severe → **can wait** for lab identification a tx; except already has hea
 → **adherence** → colonization → [[Cardiac Vegetation]] → defective / destruction of [[Heart Valves]]
 
 ## Risk Factors
-- **[[Valvular Heart Disease]]** -- [[Congenital Heart Diseases]], [[Rheumatic Heart Disease]], [[Mitral Valve Prolapse]], etc.
+- **[[Valvular Heart Disease]]** -- [[Congenital Heart Disease]], [[Rheumatic Heart Disease]], [[Mitral Valve Prolapse]], etc.
 - **Prosthetic Heart Valve**
 - **[[IVDU]]** -- ↑ risk of [[Staphylococcus aureus]]
 - [[Dental Caries]] -- [[Viridans Streptococci]]

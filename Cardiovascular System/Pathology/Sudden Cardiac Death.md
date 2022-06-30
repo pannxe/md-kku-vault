@@ -3,7 +3,7 @@ a.k.a. massive heart attack -- **unexpected death** from cardiac causes **quickl
 Assoc. [[Atherosclerosis]] → **SEVERE sterosis** and **[[Atheroma]] rupture** → small [[Platelet Aggregation]] → **multiple occusion**
 
 # Risk Factors
-- **[[Congenital Heart Diseases]]** -- most common
+- **[[Congenital Heart Disease]]** -- most common
 - [[Ischaemic Heart Disease]], [[Chronic Ischaemic Heart Disease]], and [[Heart Failure]]
 - [[Myocarditis]], [[Ventricular Hypertrophy]], etc.
 - [[Valvular Heart Disease]]

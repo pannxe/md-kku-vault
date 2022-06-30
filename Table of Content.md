@@ -85,11 +85,11 @@
 | 24    | [[Hypertension]] and [[Hypertensive Heart Disease]]                                                                |
 | 25    | [[Ischaemic Heart Disease]]                                                    |
 | 26    | [[Rheumatic Heart Disease]] and [[Endocarditis]]                         |
-| 27    | [[Cardiomyopathy]] and [[Pericardial Diseases]]                                         |
+| 27    | [[Cardiomyopathy]] and [[Pericarditis]]                                      |
 | 28    | [[Cardiac Hypertrophy]] and [[Heart Failure]]                                                               |
 | 29    | Sympatomatology                                                                 |
-| 30    | Physical Exampination                                                           |
-| 31    | [[Congenital Heart Diseases]]                                                   |
+| 30    | Physical Examination                                                           |
+| 31    | [[Congenital Heart Disease]]                                                   |
 | 32-33 | [[Antihypertensive Drugs]]                                                      |
 | 34    | [[Anti-anginal Drugs]]                                                          |
 | 35    | [[Drugs Used in Dyslipidaemia]]                                                 |
