@@ -2,7 +2,7 @@
 Complication form **[[Rheumatic Fever]]** → Ab to [[M Protein]] **cross reaction** → inflammation of every parts of **[[Heart]]**
 - **[[Endocarditis#Rheumatic]]** → **[[Heart Valves]]** damage -- most important clinically
 - [[Myocarditis#Rheumatic]]
-- [[Pericarditis#Rheumatic]]
+- [[Pericarditis#Serious]] or [[Pericarditis#Sero-Fibrinous]] 
 
 
 # Progression
