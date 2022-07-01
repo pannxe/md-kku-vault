@@ -44,7 +44,6 @@ HTN →
 	- [[Atherosclerosis]]
 	- ↓ intrigrity → **[[Stroke]]**, [[Aortic Aneurysm]] and [[Aortic Dissection]], [[Nephrosclerosis]], and [[Hypertensive Retinopathy]]
 
-
 # Progression
 Starting from [[Arteries#Small]] and [[Arterioles]] involvement → long term change → other organ involvement
 
@@ -68,3 +67,8 @@ Starting from [[Arteries#Small]] and [[Arterioles]] involvement → long term ch
 - **[[Hypertensive Urgencies]]**
 - **[[Hypertensive Emergencies]]**
 	- [[Malignant Hypertension]]
+
+---
+
+# Treatment
+See **[[Antihypertensive Drugs]]**
