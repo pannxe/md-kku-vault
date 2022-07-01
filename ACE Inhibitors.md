@@ -1,25 +1,25 @@
 **-pril** -- esp. **[[Enalapril]]**.
 
 # Mechanism of Action
-** angiotensin-converting enzyme** → **↓↓ angiotensin II production** → ↓ water retension and ↓ PVR → **↓↓ BP**
-
-> Also  inactivation of bradykinin → vasodilation and cough (SE)
-
-# Side Effects
-- Hypotension
-- Dry cough and angioedema ← bradykinin
-- Acute renal failure, esp. in bilateral renal stenosis
+** [[Angiotensin-converting Enzyme]]** → 
+- **↓↓ [[Angiotensin II]] production** → ↓ [[Na-Water Retention]] and ↓ [[SVR]] → **↓↓ [[Blood Pressure]]**
+-  inactivation of [[Bradykinin]] → [[Vasodilation]]
 
 # Indications
-- **Hypertension**
-- **Cardiac failure** and **post MI**
-- **Diabetic nephropathy** and **early CKD** -- ↓ resistance in glomerulus
+- **[[Hypertension]]** and **[[Heart Failure]]**
+- Post **[[Myocardial Infarction]]** prevention
+- [[Diabetic Retinopathy]] and early [[Chronic Kidney Disease]] -- ↓ resistance in glomerulus
+
+# Side Effects
+- [[Hypotension]]
+- Dry [[Cough]] and [[Angioedema]] ← [[Bradykinin]]
+- [[Acute Liver Failure]], esp. in bilateral [[Renal Stenosis]]
 
 # Contraindication
-- **Hyperkalaemia**
-- **Pregnancy**
-- **Renal artery stenosis** and **↓ GRF > 30% in 4 mo.**
+- **[[Hyperkalaemia]]**
+- **[[Pregnancy]]**
+- **[[Renal Stenosis]]** and **↓ GRF > 30% in 4 mo.**
 
 # Drug Interaction
-- K-sparing diuretics → hyperkalaemia
-- NSAIDs →  bradykinin → ↓↓ efficacy
+- [[K-sparing Diuretics]] → [[Hyperkalaemia]]
+- [[NSAIDs]] →  [[Bradykinin]] → ↓↓ efficacy
