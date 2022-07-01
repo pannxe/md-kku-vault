@@ -26,16 +26,23 @@ q prolonged → [[Vasoconstriction]] of [[Pulmonary Artery]] → **[[Pulmonary H
 ---
 
 # Right-to-Left Shunts 
+## Causes
 - **[[Tetralogy of Fallot]]** -- most common R → L shunt (5 % of total)
 - **[[Transposition of the Great Vessels]]** -- 4 %
 
-→ [[Cyanosis#Central]]
+## Pathophysiology
+Deoxygenated blood enter [[Systemic Circulation]] → **[[Cyanosis#Central]]** early in life
 
  > R → L shunt also caused by [[Persistaent Truncus Arteriosus]], [[Tricuspid Valve Atresia]], and [[Total Anomalous Pulmonary Venous Connection]]
 
+---
+
 # Obstruction 
+## Causes
 **[[Aortic Coarctation]]**
 
-→ [[Cyanosis#Peripheral]]
-
 > Also caused by [[Aortic Valve Stenosis]], [[Aortic Valve Atresia]], [[Pulmonary Valve Stenosis]] (8 %), and [[Pulmonary Valve Atresia]] 
+
+## Pathophysiology
+↓ [[Cardiac Output]] → [[Cyanosis#Peripheral]]
+
