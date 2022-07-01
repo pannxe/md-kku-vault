@@ -1,0 +1,14 @@
+To tx [[Hypertension]], these drugs are use
+- [[Diuretics]]
+	- **[[Thiazide Diuretics]]**
+- **[[Sympatholytic Drugs]]**
+	- **[[β-Adrenergic Antagonists]]**
+	- **[[α-Adrenergic Antagonists]]**
+	- **[[Central Adrenergic Inhibitors]]**
+- [[Direct Vasodilators]]
+	- **[[Hydralazine]]**
+	- **[[Nitropusside]]**
+- **[[ACE Inhibitors]]** and [[Angiotensis-receptor Blockers]]
+- [[Calcium Channel Blockers]]
+	- **[[Dihydropyridine]]**
+	- [[Non-DHP Calcium Channel Blocker]]

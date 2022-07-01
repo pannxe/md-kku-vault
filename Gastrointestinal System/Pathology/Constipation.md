@@ -5,7 +5,7 @@
 - [[Dehydration]]
 - Decr. [[Anal Sphincter Reflex]] -- psychological
 - Decr. [[Peristalsis]]
-	- [[Opioid Agonists]], [[Anti-depressants]], [[Anti-convulsants]], [[Calcium Channel Blockers]], [[Diuretic Drugs]], etc.
+	- [[Opioid Agonists]], [[Anti-depressants]], [[Anti-convulsants]], [[Calcium Channel Blockers]], [[Diuretics]], etc.
 	- Ischaemia
 	- Neuronal or hormonal defects
 	- [[Intestinal Obstruction]]

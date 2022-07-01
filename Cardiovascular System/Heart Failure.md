@@ -68,7 +68,7 @@ i.e., the common end-stage of many chronic heart disease (e.g., [[Chronic Ischae
 ---
 
 # Treatment
-- ↓ fluid overload -- **[[Diuretic Drugs]]**
+- ↓ fluid overload -- **[[Diuretics]]**
 -  [[Renin-angiotensin System]]
 	- **[[ACE Inhibitors]]**
 	- [[Angiotensis-receptor Blockers]]

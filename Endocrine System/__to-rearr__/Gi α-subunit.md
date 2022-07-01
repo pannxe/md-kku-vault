@@ -1,2 +1,2 @@
 # Receptors
-- [[α2-Adrenergic Agonists]]
+- [[α2-Adrenergic Receptor]]

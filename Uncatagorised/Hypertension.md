@@ -71,4 +71,10 @@ Starting from [[Arteries#Small]] and [[Arterioles]] involvement → long term ch
 ---
 
 # Treatment
-See **[[Antihypertensive Drugs]]**
+- **[[Thiazide Diuretics]]** → ↓ blood volume
+- [[β-Adrenergic Antagonists]] → ↓ [[Cardiac Output]]
+- [[Direct Vasodilators]], [[Calcium Channel Blockers]], [[α-Adrenergic Antagonists]] and [[Central Adrenergic Inhibitors]] → ↓ [[SVR]]
+- [[ACE Inhibitors]] and [[Angiotensis-receptor Blockers]] →  [[Renin-angiotensin System]]
+- [[Non-DHP Calcium Channel Blocker]] → ↓ HR
+
+> See **[[Antihypertensive Drugs]]**

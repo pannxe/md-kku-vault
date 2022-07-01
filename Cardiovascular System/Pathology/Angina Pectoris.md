@@ -10,7 +10,7 @@ AP is **Self-limiting** q **↓ cardiac activity**
 ## Stable
 **Stenosis** s plaque disruption → insufficient [[Coronary Circulation]] perfusion q ↑↑ demand of heart →
 - Recurrent **transient attack** -- **< 15 min**
-- **Relieved** by **rest** or **[[Vasodilators]]**
+- **Relieved** by **rest** or **[[Direct Vasodilators]]**
 
 **NOT** severe enough to cause [[Myocardial Infarction]]
 

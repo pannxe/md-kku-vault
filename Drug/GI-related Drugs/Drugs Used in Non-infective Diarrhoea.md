@@ -1,7 +1,7 @@
 # Maintain Fluid and Electrolyte
 - **[[ORS]]**
 
-# Anti-motility #TODO
+# Anti-motility
 - **[[Opioid Agonists]]**
 	- [[Loperamide]]
 	- [[Diphenoxylate]] and [[Difenoxin]]
@@ -9,11 +9,12 @@
 	- [[Parasympatholytic Drugs]], e.g. [[Atropine]]
 	- [[Papverine]]
 - **[[Bismuth Subsalicylate]]**
+
+# Others
 - [[Absorbents]] -- charcoal, kaolin, pectin, chalk, etc.
 - Astringent -- tea leaf
 - [[Bile Salt-binding Resins]]
 - [[Somatostatin]] and [[Octreotide]] (analog)
-- [[α2-Adrenergic Agonists]]
 
 # Probiotic & Prebiotics
 - **[[Prebiotics]]**
