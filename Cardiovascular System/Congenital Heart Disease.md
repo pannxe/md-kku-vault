@@ -10,15 +10,24 @@ Otherwise, extrauterine survival d nature and severity of disease
 > Also assoc. [[Turner Syndrome]], [[Patau Syndrome]], [[Edwards Syndrome]], [[Down Syndrome]], etc.
 
 # Left-to-Right Shunts
-
-
+## Causes
 - **[[Atrial Septal Defect]]** -- 2nd most common (10 %)
+- [[Patent Foramen Ovale]]
 - **[[Ventricular Septal Defect]]** -- **most common CHD** (42 %)
 - **[[Patent Ductus Arteriosus]]** -- 7 % 
 
+## Pathophysiology
+Blood shift to Rt. side → ultimately to [[Heart#Right Ventricle]] → **↑ Q to [[Pulmonary Circulation]]** 
+
+> i.e., no cyanosis initially → hard to dx
+
+q prolonged → [[Vasoconstriction]] of [[Pulmonary Artery]] → **[[Pulmonary Hypertension]]** → dev. R → L shunt (**[[Eisenmenger Syndrome]]**) → [[Cyanosis]]
+
+---
+
 # Right-to-Left Shunts 
-- **[[Tetralogy of Fallot]]** -- most common R → L shunt (5 %)
-- **[[Transposition of the Great Vessels]]** -- 4%
+- **[[Tetralogy of Fallot]]** -- most common R → L shunt (5 % of total)
+- **[[Transposition of the Great Vessels]]** -- 4 %
 
 → [[Cyanosis#Central]]
 

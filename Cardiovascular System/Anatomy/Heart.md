@@ -29,10 +29,12 @@
 
 ![[Pasted image 20220613052016.png]]
 
-- **Interatrial Septum** -- thin and fibrous
-- **Interventricular Septum**
-	- Membranous part -- thin and fibrous, @ posterosuperior
-	- Muscular part -- majority, thick
+### Interatrial
+Thin and fibrous
+
+### Interventricular
+- Membranous part -- thin and fibrous, @ posterosuperior
+- Muscular part -- majority, thick
 
 # Right Atrium
 ## Function
