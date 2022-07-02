@@ -13,7 +13,7 @@
 # Others
 - [[Absorbents]] -- charcoal, kaolin, pectin, chalk, etc.
 - Astringent -- tea leaf
-- [[Bile Salt-binding Resins]]
+- [[Bile Acid-binding Resins]]
 - [[Somatostatin]] and [[Octreotide]] (analog)
 
 # Probiotic & Prebiotics

@@ -4,7 +4,7 @@
 - **[[Malnutrition]]**
 	- [[Folate]] / [[Vitamin B12]] deficiency
 	- [[Vitamin C]] deficiency -> [[Scurvy]]
-	- [[Vitamin B3]] deficiency -> [[Pellagra]]
+	- [[Niacin]] deficiency -> [[Pellagra]]
 	- [[Iron]] deficiency
 - **Infection**
 	- Bacteria -- **[[Scarlet Fever]]** and [[Syphilis]]

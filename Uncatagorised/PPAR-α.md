@@ -1,0 +1,1 @@
+Peroxisome proliferation-activated receptor alpha; assoc. [[Lipoproteins]]

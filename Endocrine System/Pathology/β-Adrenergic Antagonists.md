@@ -15,6 +15,7 @@
 2nd generation -- selective to **[[β1-Adrenergic Receptor]]**
 - **[[Atenolol]]** -- excrete via [[Kidney]]
 - **[[Metoprolol]]** -- excrete via [[Liver]]
+- [[Bisoprolol]]
 
 ---
 
@@ -56,3 +57,4 @@
 # Cautions
 - **[[Asthma]]** and **[[Diabete Mellitus]]** -- from SEs
 - p prolonged use → upregalation of [[β1-Adrenergic Receptor]] → **rebound [[Hypertension]]**
+
