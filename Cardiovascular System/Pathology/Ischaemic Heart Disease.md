@@ -22,6 +22,9 @@ ico [[Atheroma]] rupture → formation of thrombus → **[[Thrombosis]]** → **
 - [[Sudden Cardiac Death]]
 
 # Diagnosis
+
+![[Pasted image 20220702082619.png]]
+
 **[[Angina Pectoris]]** + **[[EKG]]**
 - Persistant ST-elevation → **[[STEMI]]** ([[Myocardial Infarction#Transmural]])
 - If not → [[Troponin]] level →
@@ -32,7 +35,7 @@ ico [[Atheroma]] rupture → formation of thrombus → **[[Thrombosis]]** → **
 
 # Treatment
 - Lifestyle modification -- [[Exercise]],  [[Tabacco]], ↓↓ [[Cholesterol]] and [[Lipids]] intake 
-- Medication
+- Medication -- **[[Anti-anginal Drugs]]**
 - Surgery -- ico severe IHD
 	- [[Coronary Artery Bypass Graft]]
 	- [[Transluminal Angioplasty]]
