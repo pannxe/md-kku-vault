@@ -42,3 +42,8 @@ Also **落 [[CN X]]** → **↑ [[Parasympathetic NS]]** → **↓ AV-conduction
 - ↑↑↑ vagal tone → **[[AV Block]]**
 
 → death
+
+# Electrolyte Interaction
+- **[[Hypokalaemia]]** -- ↑ potency → **toxicity**
+- [[Hyperkalaemia]] -- ↓ potency
+- [[Hypercalcaemia]] -- intracellular Ca overload → [[Arrhythmia]]
