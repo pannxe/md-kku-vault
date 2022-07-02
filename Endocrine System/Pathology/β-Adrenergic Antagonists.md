@@ -37,6 +37,9 @@
 		- ↓ [[Cardiac Output]]
 		- ↓ [[Cardiac Hypertrophy]]
 	- [[Kidney]] -- ↓ [[Renin-angiotensin System]]
+- **[[Angina Pectoris]]**
+	- ↓ O2 demand of heart
+	- ↓ [[Heart Rate]] → ↑ diastolic perfusion of [[Coronary Circulation]] 
 
 ---
 

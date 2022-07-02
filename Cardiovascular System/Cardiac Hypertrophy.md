@@ -13,7 +13,7 @@
 ![[Pasted image 20220616153614.png]]
 
 - ↑ volume and ↑ pressure → **↑ [[Cardiac Wall Tension]]**
-- 落 [[β-Adrenergic Receptor]] → proliferation of [[Myocardium]]
+- [[β-Adrenergic Receptor]] and [[Renin-angiotensin System]] → proliferation of [[Myocardium]]
 
 → [[Heart]] chamber become hypertrophic → 
 - **Disproportion** to capillary numbers
