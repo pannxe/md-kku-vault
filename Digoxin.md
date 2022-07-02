@@ -17,6 +17,11 @@ Also **落 [[CN X]]** → **↑ [[Parasympathetic NS]]** → **↓ AV-conduction
 
 → **↑ [[SV]]** and **↑ [[CO]]** → ↓ [[Renin-angiotensin System]]
 
+# Indication
+**[[Heart Failure]]** -- **ONLY** q [[ACE Inhibitors]], [[Diuretics]], and [[β-Adrenergic Antagonists]] have **FAILED**
+
+0.125-0.25 mg/d → 1 wk to reach steady level
+
 # Side Effect
 **↑ [[Parasympathetic NS]]**
 - [[GI Tract]] 
@@ -43,7 +48,21 @@ Also **落 [[CN X]]** → **↑ [[Parasympathetic NS]]** → **↓ AV-conduction
 
 → death
 
+ico toxicity → stop digoxin asap
+- [[Bradycardia]] ⊢ [[Atropine]]
+- [[Tachycardia]] c [[Arrhythmia]] ⊢ K+ infusion
+- [[Digibind]] -- antidose
+
 # Electrolyte Interaction
 - **[[Hypokalaemia]]** -- ↑ potency → **toxicity**
 - [[Hyperkalaemia]] -- ↓ potency
 - [[Hypercalcaemia]] -- intracellular Ca overload → [[Arrhythmia]]
+- [[Hypomagnesaemia]] -- [[Arrhythmia]] (cofacter of [[Arrhythmia]])
+
+# Drug Interaction
+- [[Diuretics]] → [[Hypokalaemia]]
+- [[NSAIDs]] → ↓ excretion → toxicity
+- [[Antibiotic Drugs]] → fuck up [[Gut Microbiota]]
+- [[Bile Acid-binding Resins]] → ↓ absorption 
+- [[Atorvastatin]] → ↓ excretion
+- [[Carvedilol]] → [[Bradycardia]]

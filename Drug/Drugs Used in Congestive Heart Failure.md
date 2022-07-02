@@ -22,9 +22,10 @@ Drugs used to Tx **[[Heart Failure]]**
 ## ↑ Contractility
 - [[Cardiac Glycosides]]
 	- **[[Digoxin]]**
-- [[β-Adrenergic Agonists]]
-	- [[Dobutamine]]
-- [[Phosphodiesterase Stimulants]]
-	- [[Milrinone]]
+- [[β-Adrenergic Agonists]] -- only for AHF
+	- **[[Dobutamine]]**
+	- [[Dopamine]]
+- [[Phosphodiesterase Inhibitors]] -- only for AHF
+	- **[[Milrinone]]**
 
  → ↑ [[Contractility]]
