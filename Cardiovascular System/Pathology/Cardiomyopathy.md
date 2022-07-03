@@ -11,7 +11,7 @@
 **Most common** (90%); 20-50 y/o 
 
 # Pathogenesis
-- Genetic -- e.g., **[[Arrhythmogenic RV Cardiomyopathy]]** [[Haemochromatosis]]
+- Genetic -- e.g., **[[Arrhythmogenic RV Cardiomyopathy]]**, [[Haemochromatosis]]
 - Acquired
 	- [[Myocarditis]] -- esp. **[[Coxsackie B Virus]]**
 	- Stress and toxins -- e.g., [[Alcohol]]

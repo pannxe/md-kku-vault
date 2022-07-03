@@ -62,10 +62,10 @@ Minor criteria
 # Rheumatic
 Complication from **[[Rheumatic Heart Disease]]**  → [[Cardiac Vegetation]] (esp. **[[Bicuspid Valve]]**) → thicken fused and shorten chordae tendinae →  [[Valvular Heart Disease]] (esp. **[[Bicuspid Valve Stenosis]]** and [[Aortic Valve Stenosis]])
 
-## Non-bacterial Thrombotic
+# Non-bacterial Thrombotic
 a.k.a. Marantic endocaritis 
 
-**[[Cardiac Vegetation]] S INFECTION** -- usually assoc. [[Sepsis]] and cancers → sterile vegetation
+**[[Cardiac Vegetation]] S INFECTION** -- usually assoc. **[[Sepsis]]** and **cancers** → sterile vegetation
 
 # Libman-Sacks
 One of **[[SLE]]** symptom -- usually c [[Thrombosis]], recurrent [[Abortion]], [[Thrombocytopenia]]
