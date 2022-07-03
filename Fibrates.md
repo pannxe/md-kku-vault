@@ -7,7 +7,7 @@
 **落 [[PPAR-α]]** →
 - **↓ [[Triglycerides]]** -- **30-35%**
 	- **↑↑ [[Metabolism of Lipids]]**
-	- 落 [[Lipoprotein Lipase]] → **↑ [[VLDL]] catabolism**
+	- **落 [[Lipoprotein Lipase]]** → **↑ [[VLDL]] catabolism**
 	- ↓ [[apoC-III]] → **↑ [[Lipolysis]]**
 - ↓ [[LDL]] -- ~10-20%
 	- ↑ affinity to [[LDL Receptor]]
