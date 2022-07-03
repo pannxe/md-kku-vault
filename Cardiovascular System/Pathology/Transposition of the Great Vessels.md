@@ -1,5 +1,3 @@
-![[Pasted image 20220701141216.png]]
-
 # Pathogenesis
 Abnormal formation of [[Truncal Septum]] and [[Aortopulmonary Septum]] →
 - [[Heart#Right Ventricle]] → [[Aorta]] -- ↑ pressure in RV → [[Ventricular Hypertrophy#Right]]  
