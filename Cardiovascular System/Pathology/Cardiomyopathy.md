@@ -95,4 +95,4 @@ As disease progress
 
 > a.k.a. primary ↓ of compliance vs hypertrophic type q due to hypertrophy
 
-> DDx : [[Pericardial Constriction]]
+> DDx : [[Pericarditis#Constrictive]]
