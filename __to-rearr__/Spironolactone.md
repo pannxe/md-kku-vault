@@ -4,11 +4,11 @@
 > Also weak antagonist of [[Androgen]]
 
 # Indications
-As **[[Potassium]]-sparing diuretic agent** ←
-- **[[Hypertension]]** and **[[Congestive Heart Failure]]**
+- **[[K-sparing Diuretics]]**
+- **[[Hypertension]]** and **[[Congestive Heart Failure]]** -- lower dose q diuretic
 - **[[Conn Syndrome]]**
 - [[Hirsutism]]
 
 # Side Effects
-- **[[Hyperkalaemia]]**
+- **[[Hyperkalaemia]]** -- life-threatening
 - **[[Gynaecomastia]]** and [[Sexual Dysfunction]] in male

@@ -1,4 +1,4 @@
-**-statin**
+**-vastatin**
 - **[[Simvastatin]]**
 - **[[Atorvastatin]]**
 

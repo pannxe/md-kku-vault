@@ -1,4 +1,4 @@
-e.g., **Hydrochlorothiazide** (HCTZ)
+e.g., **[[Hydrochlorothiazide]]** (HCTZ)
 
 # Mechanism of Action
 ** [[Na-Cl Symporter]]** at distal convoluted tubule ([[Kidney]]) → ** [[Sodium Reabsorption]]** → ↓ plasma [[Sodium]] → **↓ blood volume** → ↓ [[Cardiac Output]]

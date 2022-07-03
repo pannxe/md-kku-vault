@@ -3,7 +3,7 @@
 
 # Mechanism of Action
 - **Direct 落** [[Vascular Smooth Muscle Cell]]
-- **↑ [[NO]]**
+- Breakdown to **[[NO]]**
 
 → **[[Vasodilation]]**
 - [[Arterioles]] → **↓ [[SVR]]** 

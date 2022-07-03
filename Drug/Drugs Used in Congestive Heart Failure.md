@@ -4,28 +4,48 @@ Drugs used to Tx **[[Heart Failure]]**
 
 # Goals
 ## ↓ Preload, ↓ After, and ↓ Remodeling
-- **[[β-Adrenergic Antagonists]]** -- **1st line**
-	- [[Bisoprolol]]
-	- [[Carvedilol]] -- both α1 and β1
-- [[Vasodilators]]
+- **[[β-Adrenergic Antagonists]]**
+- **[[Diuretics]]** -- mainstay
+	- **[[Furosemide]]**
+- **[[ACE Inhibitors]]** and [[Angiotensin-receptor Blockers]]
+- [[ARN Inhibitors]]
+- [[Direct Vasodilators]]
 	- [[Isosorbide Dinitrate]]
 	- [[Hydralazine]]
-- [[ACE Inhibitors]] and [[Angiotensis-receptor Blockers]]
 - [[Aldosterone Antagonists]]
 	- [[Spironolactone]]
 	- **[[Eplerenone]]**
-- [[Diuretics]]
-	- [[Furosemide]]
 
 → **↓ [[Cardiac Preload]]** and **↓ [[Cardiac Afterload]]**
 
 ## ↑ Contractility
+More important in acute management, ico chronic, the above drugs are more useful (except digoxin, which is for chronic)
+
 - [[Cardiac Glycosides]]
 	- **[[Digoxin]]**
-- [[β-Adrenergic Agonists]] -- only for AHF
+- [[β-Adrenergic Agonists]]
 	- **[[Dobutamine]]**
 	- [[Dopamine]]
-- [[Phosphodiesterase Inhibitors]] -- only for AHF
+- [[PDE-3 Inhibitors]]
 	- **[[Milrinone]]**
 
  → ↑ [[Contractility]]
+
+---
+
+# Management
+## 1st Line
+Beneficial for most pt.
+- **[[ACE Inhibitors]]** / [[Angiotensin-receptor Blockers]]
+- **[[β-Adrenergic Antagonists]]**
+- **[[Aldosterone Antagonists]]**
+
+## 2nd Line
+Beneficial for some pt.
+- [[ARN Inhibitors]]
+- [[ICD]] and CRT
+
+## 3rd Line
+↓ hospitalization but may not save life
+- **[[Digoxin]]**
+- **[[Direct Vasodilators]]** -- [[Isosorbide Dinitrate]] / [[Hydralazine]]

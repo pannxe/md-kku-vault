@@ -6,13 +6,13 @@ Using these drugs :
 - **[[Organic Nitrates]]**
 - [[β-Adrenergic Antagonists]]
 - [[Calcium Channel Blockers]]
-- [[ACE Inhibitors]] and [[Angiotensis-receptor Blockers]] 
+- [[ACE Inhibitors]] and [[Angiotensin-receptor Blockers]] 
 
 → [[Vasodilation]] and ↓ [[Heart Rate]] → **↓↓↓ [[Cardiac Afterload]]** → ↓ O2 consumption
 
-[[β-Adrenergic Antagonists]], [[ACE Inhibitors]], and [[Angiotensis-receptor Blockers]] also ⊣ **[[Cardiac Hypertrophy]]**
+[[β-Adrenergic Antagonists]], [[ACE Inhibitors]], and [[Angiotensin-receptor Blockers]] also ⊣ **[[Cardiac Hypertrophy]]**
 
-Also, ico [[Thrombosis]] from [[Atherosclerosis]] → **[[Thrombolytics Agents]]**
+Also, ico [[Thrombosis]] from [[Atherosclerosis]] → **[[Thrombolytics]]**
 
 ## Preventative Drugs
 -  [[Thrombosis]]

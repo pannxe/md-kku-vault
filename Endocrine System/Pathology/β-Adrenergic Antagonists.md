@@ -41,6 +41,9 @@
 - **[[Angina Pectoris]]**
 	- ↓ O2 demand of heart
 	- ↓ [[Heart Rate]] → ↑ diastolic perfusion of [[Coronary Circulation]] 
+- **Chronic stable [[Heart Failure]]**
+	- ↑ perfusion
+	- ↓ remodeling
 
 ---
 
@@ -57,4 +60,5 @@
 # Cautions
 - **[[Asthma]]** and **[[Diabete Mellitus]]** -- from SEs
 - p prolonged use → upregalation of [[β1-Adrenergic Receptor]] → **rebound [[Hypertension]]**
+- Worsen [[Heart Failure]] q initail treatment
 
