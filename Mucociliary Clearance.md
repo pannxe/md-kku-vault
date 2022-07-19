@@ -4,4 +4,6 @@ Secretion from epitheliuma, [[Goblet Cell]], and other glands → **viscous flui
 - **[[Mucin]]**, water, ions -- viscous and can trap small particles
 - **[[IgA]]** and **[[Lysozyme]]** -- protection against pathogen
 
+q particle trapped → cillia escalate them up 
+
 Also, there's **[[MALT]]** to aid defense mechanism, [[Denditic Cell]] sampling antigen in the lumen of [[Respiratoy Tract]], etc.
