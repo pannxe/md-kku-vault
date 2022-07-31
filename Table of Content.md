@@ -100,10 +100,24 @@
 | 42    | [[Anti-arrhythimic Drugs]]                                                      |
 
 ## Respiratory System
-| #   | Location                                                            |
-| --- | ------------------------------------------------------------------- |
-| 1-2 | Anki : [[Nose]], [[Nasal Cavity]], and [[Larynx]]                   |
-| 3-5 | Anki : [[Thoracic Cavity]], [[Trachea]], [[Bronchus]], and [[Lung]] |
-| 6   | [[Development of Respiratory System]]                               |
-| 7-8 | [[Respiratoy Tract]] (microanatomy)                                 |
-| 9   | [[Mechanism of Breathing]]                                                                    |
+| #     | Location                                             |
+| ----- | ---------------------------------------------------- |
+| 1-5   | Anki                                                 |
+| 6-13  | N/A                                                  |
+| 14-15 | Anki                                                 |
+| 16    | TODO                                                 |
+| 17    | [[Atypical Bacteria]]                                |
+| 18    | [[Viral Infection in RS]]                            |
+| 19    | [[Upper RS Infection]]                               |
+| 20    | [[Lower RS Infection]]                               |
+| 21    | [[Mycobacterium]]                                    |
+| 22    | [[Actinomycetes]] and [[Fungal Infection in RS]]     |
+| 23-24 | [[Parasitic Infection in RS]]                        |
+| 25    | [[Antimycobacterial Agents]]                         |
+| 26    | [[Antibiotic Used in RS]]                            |
+| 27    | [[Pathology of Upper RS]] ← Start Here                           |
+| 28    | [[Pathology of Lower RS]] ← Start Here                             |
+| 29    | [[Congenital Abnormalies of RS]] and [[Atelectasis]] |
+| 30    | [[Obstructive Pulmonary Diseases]]                   |
+| 31    | [[Restrictive Pulmonary Diseases]]                   |
+|       |                                                      |
