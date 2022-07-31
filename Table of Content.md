@@ -115,8 +115,8 @@
 | 23-24 | [[Parasitic Infection in RS]]                        |
 | 25    | [[Antimycobacterial Agents]]                         |
 | 26    | [[Antibiotic Used in RS]]                            |
-| 27    | [[Pathology of Upper RS]] ← Start Here                           |
-| 28    | [[Pathology of Lower RS]] ← Start Here                             |
+| 27    | **[[Pathology of Upper RS]]**                          |
+| 28    | **[[Pathology of Lower RS]]**                              |
 | 29    | [[Congenital Abnormalies of RS]] and [[Atelectasis]] |
 | 30    | [[Obstructive Pulmonary Diseases]]                   |
 | 31    | [[Restrictive Pulmonary Diseases]]                   |
