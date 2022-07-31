@@ -1,0 +1,1 @@
+a **bipolar [[Neurons]]** c **non-motile cilia** → sense gaseous odoriferous substances dissolve in serous secretion → send signal to **[[CN I]]**

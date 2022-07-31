@@ -105,4 +105,5 @@
 | 1-2 | Anki : [[Nose]], [[Nasal Cavity]], and [[Larynx]]                   |
 | 3-5 | Anki : [[Thoracic Cavity]], [[Trachea]], [[Bronchus]], and [[Lung]] |
 | 6   | [[Development of Respiratory System]]                               |
-| 7-8   | [[Respiratoy Tract]] (microanatomy)                                                                     |
+| 7-8 | [[Respiratoy Tract]] (microanatomy)                                 |
+| 9   | [[Mechanism of Breathing]]                                                                    |
